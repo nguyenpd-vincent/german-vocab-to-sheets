@@ -1,0 +1,1255 @@
+Äbte	4Abt
+Äbten	5Abt
+Äbtissin
+Äbtissinnen	3
+Ächselchen
+Ächselchens	1
+Ächten
+Ächtens	1
+Ächter
+Ächtern	1
+Ächters	1
+Ächtung
+Ächtungen	2
+Ächzen
+Ächzens	1
+Ächzer
+Ächzern	1
+Ächzers	1
+Äcker	5Acker
+Äckerchen
+Äckerchens	1
+Äckern	6Acker
+Äderchen
+Äderchens	1
+Äderung
+Äderungen	2
+Ädikula
+Ädikulä	1a
+Ädil
+Ädilen	2
+Ädilität
+Ädils	1
+Äffchen
+Äffchens	1
+Äffen
+Äffens	1
+Äffin
+Äffinnen	3
+Ägide
+Äginetenlächeln
+Äginetenlächelns	1
+Ägypten
+Ägyptenreise
+Ägyptenreisen	1
+Ägyptens	1
+Ägypter
+Ägypterin
+Ägypterinnen	3
+Ägyptern	1
+Ägypters	1
+Ägyptologe
+Ägyptologen	1
+Ägyptologie
+Ägyptologin
+Ägyptologinnen	3
+Ägäis
+Ägäisküste
+Ägäisküsten	1
+Ähneln
+Ähnelns	1
+Ähnlichkeit
+Ähnlichkeiten	2
+Ährchen
+Ährchens	1
+Ähre
+Ähren	1
+Ährenbündel
+Ährenbündeln	1
+Ährenbündels	1
+Ährenfeld
+Ährenfelde	1
+Ährenfelder	2
+Ährenfeldern	3
+Ährenfeldes	2
+Ährenfelds	1
+Ährenheber
+Ährenhebern	1
+Ährenhebers	1
+Ährenkranz
+Ährenkranzes	2
+Ährenkränze	4anz
+Ährenkränzen	5anz
+Ährenlese
+Ährenlesen	1
+Ährenleser
+Ährenleserin
+Ährenleserinnen	3
+Ährenlesern	1
+Ährenlesers	1
+Ährenlilie
+Ährenlilien	1
+Ährenmaus
+Ährenmonat
+Ährenmonate	1
+Ährenmonaten	2
+Ährenmonates	2
+Ährenmonats	1
+Ährenmäuse	4aus
+Älchen
+Älchens	1
+Älpler
+Älplern	1
+Älplers	1
+Älpung
+Älte
+Ältere
+Älterem	1
+Älteren	1
+Älterer	1
+Ältermutter
+Ältermütter	5utter
+Ältermüttern	6utter
+Ältervater
+Ältervaters	1
+Älterväter	4ater
+Ältervätern	5ater
+Älterwerden
+Älterwerdens	1
+Älteste
+Ältestem	1
+Ältesten	1
+Ältestenkreis
+Ältestenkreise	1
+Ältestenkreisen	2
+Ältestenkreises	2
+Ältestenprediger
+Ältestenpredigern	1
+Ältestenpredigers	1
+Ältestenrat
+Ältestenrate	1
+Ältestenrates	2
+Ältestenrats	1
+Ältestenräte	3at
+Ältestenräten	4at
+Ältester	1
+Ämter	5Amt
+Ämterhäufung
+Ämterhäufungen	2
+Ämterjagd
+Ämterjagden	2
+Ämterlaufbahn
+Ämterlaufbahnen	2
+Ämtern	6Amt
+Ämterpatronage
+Ämterpatronagen	1
+Änderbarkeit
+Änderbarkeiten	2
+Ändern
+Änderns	1
+Änderung
+Änderungen	2
+Änderungsanforderung
+Änderungsanforderungen	2
+Änderungsantrag
+Änderungsantrages	2
+Änderungsantrags	1
+Änderungsanträge	3ag
+Änderungsanträgen	4ag
+Änderungsgesetz
+Änderungsgesetze	1
+Änderungsgesetzen	2
+Änderungsgesetzes	2
+Änderungskündigung
+Änderungskündigungen	2
+Änderungsrate
+Änderungsraten	1
+Änderungsschneiderei
+Änderungsschneidereien	2
+Änderungsvorschlag
+Änderungsvorschlages	2
+Änderungsvorschlags	1
+Änderungsvorschläge	3ag
+Änderungsvorschlägen	4ag
+Änderungswunsch
+Änderungswunsche	1
+Änderungswunsches	2
+Änderungswunschs	1
+Änderungswünsche	6unsch
+Änderungswünschen	7unsch
+Ängste	6Angst
+Ängsten	7Angst
+Ängstigen
+Ängstigens	1
+Ängstigung
+Ängstigungen	2
+Ängstlichkeit
+Ängstlichkeiten	2
+Änigma
+Änigmas	1
+Änigmata	2
+Änigmen	2a
+Äolsharfe
+Äolsharfen	1
+Äon
+Äonen	2
+Äons	1
+Äpfel	5Apfel
+Äpfelchen
+Äpfelchens	1
+Äpfelein
+Äpfeleins	1
+Äpfeln	6Apfel
+Äpfelsäure
+Äppel	5Appel
+Äppelkahn
+Äppelkahnes	2
+Äppelkahns	1
+Äppelkähne	4ahn
+Äppelkähnen	5ahn
+Äppeln	6Appel
+Äquativ
+Äquative	1
+Äquativen	2
+Äquativs	1
+Äquator
+Äquatordurchmesser
+Äquatordurchmessern	1
+Äquatordurchmessers	1
+Äquatoren	2
+Äquatorialguinea	16äquatorialguinea
+Äquatorialguineas	1
+Äquatorialguineer
+Äquatorialguineerin
+Äquatorialguineerinnen	3
+Äquatorialguineern	1
+Äquatorialguineers	1
+Äquatorialklima
+Äquatorialklimas	1
+Äquatorialstrom
+Äquatorialstromes	2
+Äquatorialstroms	1
+Äquatorialströme	3om
+Äquatorialströmen	4om
+Äquatornähe
+Äquators	1
+Äquatortaufe
+Äquatortaufen	1
+Äquer
+Äquern	1
+Äquers	1
+Äquidistanz
+Äquidistanzen	2
+Äquilibrist
+Äquilibristen	2
+Äquilibristin
+Äquilibristinnen	3
+Äquilibrium
+Äquilibriums	1
+Äquinoktialsturm
+Äquinoktialsturmes	2
+Äquinoktialsturms	1
+Äquinoktialstürme	4urm
+Äquinoktialstürmen	5urm
+Äquinoktialzeit
+Äquinoktien	2um
+Äquinoktium
+Äquinoktiums	1
+Äquipotentialfläche
+Äquipotentialflächen	1
+Äquivalent
+Äquivalentdosen	2is
+Äquivalentdosis
+Äquivalente	1
+Äquivalenten	2
+Äquivalentes	2
+Äquivalents	1
+Äquivalenz
+Äquivalenzen	2
+Äquivalenzklasse
+Äquivalenzklassen	1
+Äquivalenzprinzip
+Äquivalenzprinzipien	3
+Äquivalenzprinzips	1
+Äquivalenzpunkt
+Äquivalenzpunkte	1
+Äquivalenzpunkten	2
+Äquivalenzpunktes	2
+Äquivalenzpunkts	1
+Äquivalenzrelation
+Äquivalenzrelationen	2
+Äquivalenzökonomie
+Äquivokation
+Äquivokationen	2
+Äquivozität
+Ära
+Ärar
+Ärare	1
+Äraren	2
+Ärars	1
+Ären	2a
+Ärger
+Ärgern
+Ärgernis
+Ärgernisse	2
+Ärgernissen	3
+Ärgernisses	3
+Ärgerns	1
+Ärgers	1
+Ärmchen
+Ärmchens	1
+Ärmel
+Ärmelabzeichen
+Ärmelabzeichens	1
+Ärmelaufschlag
+Ärmelaufschlages	2
+Ärmelaufschlags	1
+Ärmelaufschläge	3ag
+Ärmelaufschlägen	4ag
+Ärmelbesatz
+Ärmelbesatzes	2
+Ärmelbesätze	4atz
+Ärmelbesätzen	5atz
+Ärmelbrett
+Ärmelbretter	2
+Ärmelbrettern	3
+Ärmelbrettes	2
+Ärmelbretts	1
+Ärmelbündchen
+Ärmelbündchens	1
+Ärmelfutter
+Ärmelfuttern	1
+Ärmelfutters	1
+Ärmelhalter
+Ärmelhaltern	1
+Ärmelhalters	1
+Ärmelkanal
+Ärmelkanals	1
+Ärmelloch
+Ärmelloches	2
+Ärmellochs	1
+Ärmellänge
+Ärmellängen	1
+Ärmellöcher	5och
+Ärmellöchern	6och
+Ärmeln	1
+Ärmelnaht
+Ärmelnähte	4aht
+Ärmelnähten	5aht
+Ärmels	1
+Ärmelschoner
+Ärmelschonern	1
+Ärmelschoners	1
+Ärmelschützer
+Ärmelschützern	1
+Ärmelschützers	1
+Ärmelstreifen
+Ärmelstreifens	1
+Ärmelzwickel
+Ärmelzwickeln	1
+Ärmelzwickels	1
+Ärmlichkeit
+Ärmlichkeiten	2
+Ärmling
+Ärmlinge	1
+Ärmlingen	2
+Ärmlings	1
+Ärsche	6Arsch
+Ärschen	7Arsch
+Ärzte	5Arzt
+Ärzteberatungskommission
+Ärzteberatungskommissionen	2
+Ärzteblatt
+Ärzteblattes	2
+Ärzteblätter	5att
+Ärzteblättern	6att
+Ärztefunkdienst
+Ärztefunkdienstes	2
+Ärztefunkdiensts	1
+Ärztegesellschaft
+Ärztegesellschaften	2
+Ärztehaus
+Ärztehause	1
+Ärztehauses	2
+Ärztehäuser	5aus
+Ärztehäusern	6aus
+Ärztekammer
+Ärztekammern	1
+Ärztekommission
+Ärztekommissionen	2
+Ärztekongress
+Ärztekongresse	1
+Ärztekongressen	2
+Ärztekongresses	2
+Ärztemangel
+Ärztemangels	1
+Ärztemuster
+Ärztemustern	1
+Ärztemusters	1
+Ärzten	6Arzt
+Ärztenotdienst
+Ärztenotdienste	1
+Ärztenotdiensten	2
+Ärztenotdienstes	2
+Ärztenotdiensts	1
+Ärztepräsident
+Ärztepräsidenten	2
+Ärzteschaft
+Ärzteschaften	2
+Ärzteschwemme
+Ärzteschwemmen	1
+Ärztetagung
+Ärztetagungen	2
+Ärzteteam
+Ärzteteams	1
+Ärztevertreter
+Ärztevertretern	1
+Ärztevertreters	1
+Ärztezeitung
+Ärztezeitungen	2
+Ärztin
+Ärztinnen	3
+Äsche
+Äschen	1
+Äscher	6äschern
+Äscherich
+Äscherichs	1
+Äschern	1
+Äscherns	1
+Äschers	1
+Äser
+Äsern	1
+Äsers	1
+Äskulapnatter
+Äskulapnattern	1
+Äskulapschlange
+Äskulapschlangen	1
+Äskulapstab
+Äskulapstabe	1
+Äskulapstabes	2
+Äskulapstabs	1
+Äskulapstäbe	3ab
+Äskulapstäben	4ab
+Äsop
+Äsops	1
+Ässer	5Ass
+Ässern	6Ass
+Ästchen
+Ästchens	1
+Äste	4Ast
+Ästen	5Ast
+Ästens	1
+Äster	5Aast
+Ästern	6Aast
+Ästhesie
+Ästhesien	1
+Ästhesiologie
+Ästhet
+Ästheten	2
+Ästhetik
+Ästhetiken	2
+Ästhetiker
+Ästhetikern	1
+Ästhetikers	1
+Ästhetin
+Ästhetinnen	3
+Ästhetisierung
+Ästhetisierungen	2
+Ästhetizismus
+Ästimation
+Ästimationen	2
+Ästlein
+Ästleins	1
+Ästuar
+Ästuare	1
+Ästuaren	2
+Ästuars	1
+Äsung
+Äsungen	2
+Äthan
+Äthanal
+Äthanals	1
+Äthanol
+Äthanole	1
+Äthanolen	2
+Äthanols	1
+Äthans	1
+Äthansäure
+Äthen
+Äthens	1
+Äther
+Ätherdampf
+Ätherdampfes	2
+Ätherdampfs	1
+Ätherdämpfe	5ampf
+Ätherdämpfen	6ampf
+Ätherkrieg
+Ätherkriege	1
+Ätherkriegen	2
+Ätherkrieges	2
+Ätherkriegs	1
+Ätherleib
+Ätherleiber	2
+Ätherleibern	3
+Ätherleibes	2
+Ätherleibs	1
+Äthern	1
+Äthernarkose
+Äthernarkosen	1
+Ätherrausch
+Ätherrausches	2
+Ätherrauschs	1
+Ätherräusche	6ausch
+Ätherräuschen	7ausch
+Äthers	1
+Ätherwelle
+Ätherwellen	1
+Äthin
+Äthins	1
+Äthiopien	9äthiopien
+Äthiopiens	1
+Äthiopier
+Äthiopierin
+Äthiopierinnen	3
+Äthiopiern	1
+Äthiopiers	1
+Äthiopistik
+Äthlylalkohole	11ylalkohol
+Äthlylalkoholen	12ylalkohol
+Äthoxose
+Äthoxosen	1
+Äthyl
+Äthylalkohol
+Äthylalkohols	1
+Äthylen
+Äthylene	1
+Äthylenen	2
+Äthylens	1
+Äthyls	1
+Ätiologie
+Ätiologien	1
+Ätna
+Ätnas	1
+Ätti
+Ättis	1
+Ätzalkali
+Ätzalkalien	2
+Ätzalkalis	1
+Ätze
+Ätzen
+Ätzens	1
+Ätzer
+Ätzern	1
+Ätzers	1
+Ätzkalk
+Ätzkalks	1
+Ätzkunst
+Ätznadel
+Ätznadeln	1
+Ätznatron
+Ätznatrons	1
+Ätzplatte
+Ätzplatten	1
+Ätzstein
+Ätzsteine	1
+Ätzsteinen	2
+Ätzsteines	2
+Ätzsteins	1
+Ätzung
+Ätzungen	2
+Äufnung
+Äufnungen	2
+Äugelchen
+Äugelchens	1
+Äugelei
+Äugeleien	2
+Äuglein
+Äugleins	1
+Äußere
+Äußerem	1
+Äußeren	1
+Äußeres	1
+Äußerlichkeit
+Äußerlichkeiten	2
+Äußern
+Äußerns	1
+Äußerung
+Äußerungen	2
+Äußerungsakt
+Äußerungsakte	1
+Äußerungsakten	2
+Äußerungsaktes	2
+Äußerungsakts	1
+Äußerungsform
+Äußerungsformen	2
+Äxte	4Axt
+Äxten	5Axt
+Äygptens	8äygpten
+ächt	0en
+ächte	0n
+ächten
+ächtend
+ächtende	1
+ächtendem	2
+ächtenden	2
+ächtender	2
+ächtendere	3
+ächtenderem	4
+ächtenderen	4
+ächtenderer	4
+ächtenderes	4
+ächtendes	2
+ächtendste	3
+ächtendstem	4
+ächtendsten	4
+ächtendster	4
+ächtendstes	4
+ächtest	2n
+ächtet	1n
+ächtete	2n
+ächteten	3n
+ächtetest	4n
+ächtetet	3n
+ächz	0en
+ächze	0n
+ächzen
+ächzend
+ächzende	1
+ächzendem	2
+ächzenden	2
+ächzender	2
+ächzendere	3
+ächzenderem	4
+ächzenderen	4
+ächzenderer	4
+ächzenderes	4
+ächzendes	2
+ächzendste	3
+ächzendstem	4
+ächzendsten	4
+ächzendster	4
+ächzendstes	4
+ächzest	2n
+ächzet	1n
+ächzst	2en
+ächzt	1en
+ächzte	2en
+ächzten	3en
+ächztest	4en
+ächztet	3en
+ädere	1n
+ädern
+ädernd	1
+äderst	2n
+ädert	1n
+äderte	2n
+äderten	3n
+ädertest	4n
+ädertet	3n
+ädre	2ern
+äff	0en
+äffe	0n
+äffen
+äffend
+äffende	1
+äffendem	2
+äffenden	2
+äffender	2
+äffendere	3
+äffenderem	4
+äffenderen	4
+äffenderer	4
+äffenderes	4
+äffendes	2
+äffendste	3
+äffendstem	4
+äffendsten	4
+äffendster	4
+äffendstes	4
+äffest	2n
+äffet	1n
+äffisch
+äffst	2en
+äfft	1en
+äffte	2en
+äfften	3en
+äfftest	4en
+äfftet	3en
+ägpytisch
+ägpytische	1
+ägrier	0en
+ägriere	0n
+ägrieren
+ägrierend	1
+ägrierest	2n
+ägrieret	1n
+ägrierst	2en
+ägriert	1en
+ägrierte	2en
+ägrierten	3en
+ägriertest	4en
+ägriertet	3en
+ägypten
+ägyptisch
+ägyptische	1
+ägyptischem	2
+ägyptischen	2
+ägyptischer	2
+ägyptisches	2
+ägyptisier	0en
+ägyptisiere	0n
+ägyptisieren
+ägyptisierend	1
+ägyptisierest	2n
+ägyptisieret	1n
+ägyptisierst	2en
+ägyptisiert	1en
+ägyptisierte	2en
+ägyptisierten	3en
+ägyptisiertest	4en
+ägyptisiertet	3en
+ägyptologisch
+ägyptologische	1
+ägyptologischem	2
+ägyptologischen	2
+ägyptologischer	2
+ägyptologisches	2
+ägäis
+äh
+ähnele	1n
+ähnelest	3n
+ähnelet	2n
+ähneln
+ähnelnd
+ähnelnde	1
+ähnelndem	2
+ähnelnden	2
+ähnelnder	2
+ähnelndere	3
+ähnelnderem	4
+ähnelnderen	4
+ähnelnderer	4
+ähnelnderes	4
+ähnelndes	2
+ähnelndste	3
+ähnelndstem	4
+ähnelndsten	4
+ähnelndster	4
+ähnelndstes	4
+ähnelst	2n
+ähnelt	1n
+ähnelte	2n
+ähnelten	3n
+ähneltest	4n
+ähneltet	3n
+ähnle	2eln
+ähnlest	4eln
+ähnlet	3eln
+ähnlich
+ähnliche	1
+ähnlichem	2
+ähnlichen	2
+ähnlicher	2
+ähnlichere	3
+ähnlicherem	4
+ähnlicheren	4
+ähnlicherer	4
+ähnlicheres	4
+ähnliches	2
+ähnlichgeschaut	8schauen
+ähnlichgesehen	7sehen
+ähnlichschauen
+ähnlichschauend	1
+ähnlichsehen
+ähnlichsehend	1
+ähnlichste	3
+ähnlichstem	4
+ähnlichsten	4
+ähnlichster	4
+ähnlichstes	4
+ähnlichzuschauen	9schauen
+ähnlichzusehen	7sehen
+ährenbekränzt
+ährenförmig
+äks
+ältele	1n
+älteln
+ältelnd	1
+ältelst	2n
+ältelt	1n
+ältelte	2n
+ältelten	3n
+älteltest	4n
+älteltet	3n
+älter	5alt
+ältere	6alt
+älterem	7alt
+älteren	7alt
+älterer	7alt
+älteres	7alt
+älters	6alt
+älterwerdend
+älterwerdenden	2
+älteste	7alt
+ältestem	8alt
+ältesten	8alt
+ältester	8alt
+ältestes	8alt
+ältle	2eln
+ältlest	4eln
+ältlet	3eln
+ältlich
+änderbar
+ändere	1n
+änderest	3n
+änderet	2n
+ändern
+ändernd
+ändernde	1
+änderndem	2
+ändernden	2
+ändernder	2
+änderndere	3
+ändernderem	4
+ändernderen	4
+ändernderer	4
+ändernderes	4
+änderndes	2
+änderndste	3
+änderndstem	4
+änderndsten	4
+änderndster	4
+änderndstes	4
+änderst	2n
+ändert	1n
+änderte	2n
+änderten	3n
+ändertest	4n
+ändertet	3n
+ändre	2ern
+ängste	0n
+ängsten
+ängstend	1
+ängstest	2n
+ängstet	1n
+ängstete	2n
+ängsteten	3n
+ängstetest	4n
+ängstetet	3n
+ängstig	0en
+ängstige	0n
+ängstigen
+ängstigend
+ängstigende	1
+ängstigendem	2
+ängstigenden	2
+ängstigender	2
+ängstigendere	3
+ängstigenderem	4
+ängstigenderen	4
+ängstigenderer	4
+ängstigenderes	4
+ängstigendes	2
+ängstigendste	3
+ängstigendstem	4
+ängstigendsten	4
+ängstigendster	4
+ängstigendstes	4
+ängstigest	2n
+ängstiget	1n
+ängstigst	2en
+ängstigt	1en
+ängstigte	2en
+ängstigten	3en
+ängstigtest	4en
+ängstigtet	3en
+ängstlich
+ängstliche	1
+ängstlichem	2
+ängstlichen	2
+ängstlicher	2
+ängstlichere	3
+ängstlicherem	4
+ängstlicheren	4
+ängstlicherer	4
+ängstlicheres	4
+ängstliches	2
+ängstlichste	3
+ängstlichstem	4
+ängstlichsten	4
+ängstlichster	4
+ängstlichstes	4
+änigmatisier	0en
+änigmatisiere	0n
+änigmatisieren
+änigmatisierend	1
+änigmatisierest	2n
+änigmatisieret	1n
+änigmatisierst	2en
+änigmatisiert	1en
+änigmatisierte	2en
+änigmatisierten	3en
+änigmatisiertest	4en
+änigmatisiertet	3en
+äolisch
+äonenlang
+äonenweit
+äpfele	1n
+äpfeln
+äpfelnd	1
+äpfelst	2n
+äpfelt	1n
+äpfelte	2n
+äpfelten	3n
+äpfeltest	4n
+äpfeltet	3n
+äpfle	2eln
+äpflest	4eln
+äpflet	3eln
+äqual
+äquatorial
+äquatoriale	1
+äquatorialem	2
+äquatorialen	2
+äquatorialer	2
+äquatoriales	2
+äquatorialguinea
+äquidistant
+äquilibrier	0en
+äquilibriere	0n
+äquilibrieren
+äquilibrierend	1
+äquilibrierest	2n
+äquilibrieret	1n
+äquilibrierst	2en
+äquilibriert	1en
+äquilibrierte	2en
+äquilibrierten	3en
+äquilibriertest	4en
+äquilibriertet	3en
+äquimolar
+äquimolekular
+äquivalent
+äquivok
+ärarisch
+ärger	5Ärger
+ärgere	1n
+ärgerest	3n
+ärgeret	2n
+ärgerlich
+ärgerliche	1
+ärgerlichem	2
+ärgerlichen	2
+ärgerlicher	2
+ärgerlichere	3
+ärgerlicherem	4
+ärgerlicheren	4
+ärgerlicherer	4
+ärgerlicheres	4
+ärgerlicherweise
+ärgerliches	2
+ärgerlichste	3
+ärgerlichstem	4
+ärgerlichsten	4
+ärgerlichster	4
+ärgerlichstes	4
+ärgern
+ärgernd
+ärgernde	1
+ärgerndem	2
+ärgernden	2
+ärgernder	2
+ärgerndes	2
+ärgerst	2n
+ärgert	1n
+ärgerte	2n
+ärgerten	3n
+ärgertest	4n
+ärgertet	3n
+ärgre	2ern
+ärgsten	7arg
+ärmellos
+ärmellose	1
+ärmellosem	2
+ärmellosen	2
+ärmelloser	2
+ärmelloses	2
+ärmer	5arm
+ärmere	6arm
+ärmerem	7arm
+ärmeren	7arm
+ärmerer	7arm
+ärmeres	7arm
+ärmlich
+ärmliche	1
+ärmlichem	2
+ärmlichen	2
+ärmlicher	2
+ärmlichere	3
+ärmlicherem	4
+ärmlicheren	4
+ärmlicherer	4
+ärmlicheres	4
+ärmliches	2
+ärmlichste	3
+ärmlichstem	4
+ärmlichsten	4
+ärmlichster	4
+ärmlichstes	4
+ärmste	6arm
+ärmstem	7arm
+ärmsten	7arm
+ärmster	7arm
+ärmstes	7arm
+ärschlings
+ärztlich
+ärztliche	1
+ärztlichem	2
+ärztlichen	2
+ärztlicher	2
+ärztlicherseits
+ärztliches	2
+äs	0en
+äscher	0n
+äschere	1n
+äschern
+äschernd
+äschernde	1
+äscherndem	2
+äschernden	2
+äschernder	2
+äscherndes	2
+äscherst	2n
+äschert	1n
+äscherte	2n
+äscherten	3n
+äschertest	4n
+äschertet	3n
+äse	0n
+äsen
+äsend	1
+äsest	2n
+äset	1n
+äsopisch
+ässe	4essen
+ässen	5essen
+ässest	6essen
+ässet	5essen
+äst	1en
+äste	0n
+ästen
+ästend
+ästende	1
+ästendem	2
+ästenden	2
+ästender	2
+ästendes	2
+ästest	2n
+ästet	1n
+ästete	2n
+ästeten	3n
+ästetest	4n
+ästetet	3n
+ästhetisch
+ästhetische	1
+ästhetischem	2
+ästhetischen	2
+ästhetischer	2
+ästhetischere	3
+ästhetischerem	4
+ästhetischeren	4
+ästhetischerer	4
+ästhetischeres	4
+ästhetisches	2
+ästhetischste	3
+ästhetischstem	4
+ästhetischsten	4
+ästhetischster	4
+ästhetischstes	4
+ästhetisier	0en
+ästhetisiere	0n
+ästhetisieren
+ästhetisierest	2n
+ästhetisieret	1n
+ästhetisierst	2en
+ästhetisiert	1en
+ästhetisierte	2en
+ästhetisierten	3en
+ästhetisiertest	4en
+ästhetisiertet	3en
+ästhetizistisch
+ästimier	0en
+ästimiere	0n
+ästimieren
+ästimierest	2n
+ästimieret	1n
+ästimierst	2en
+ästimiert	1en
+ästimierte	2en
+ästimierten	3en
+ästimiertest	4en
+ästimiertet	3en
+ätherisch
+ätherische	1
+ätherischem	2
+ätherischen	2
+ätherischer	2
+ätherisches	2
+ätherisier	0en
+ätherisiere	0n
+ätherisieren
+ätherisierest	2n
+ätherisieret	1n
+ätherisierst	2en
+ätherisiert	1en
+ätherisierte	2en
+ätherisierten	3en
+ätherisiertest	4en
+ätherisiertet	3en
+äthiopien
+äthiopisch
+äthiopischen	2
+ätiologisch
+ätna
+ätsch
+ätz	0en
+ätze	0n
+ätzen
+ätzend
+ätzende	1
+ätzendem	2
+ätzenden	2
+ätzender	2
+ätzendere	3
+ätzenderem	4
+ätzenderen	4
+ätzenderer	4
+ätzenderes	4
+ätzendes	2
+ätzendste	3
+ätzendstem	4
+ätzendsten	4
+ätzendster	4
+ätzendstes	4
+ätzest	2n
+ätzet	1n
+ätzt	1en
+ätzte	2en
+ätzten	3en
+ätztest	4en
+ätztet	3en
+äufne	0n
+äufnen
+äufnend	1
+äufnest	2n
+äufnet	1n
+äufnete	2n
+äufneten	3n
+äufnetest	4n
+äufnetet	3n
+äug	0en
+äuge	0n
+äugele	1n
+äugeln
+äugelnd	1
+äugelst	2n
+äugelt	1n
+äugelte	2n
+äugelten	3n
+äugeltest	4n
+äugeltet	3n
+äugen
+äugend	1
+äugest	2n
+äuget	1n
+äugle	2eln
+äuglest	4eln
+äuglet	3eln
+äugst	2en
+äugt	1en
+äugte	2en
+äugten	3en
+äugtest	4en
+äugtet	3en
+äusser	0n
+äussere	1
+äusserem	2
+äusseren	1r
+äusserer
+äusserere	3
+äussererem	4
+äussereren	4
+äussererer	4
+äussereres	4
+äusseres	2
+äusserest	3n
+äusseret	2n
+äusserlich
+äusserliche	1
+äusserlichem	2
+äusserlichen	2
+äusserlicher	2
+äusserliches	2
+äussern
+äussernd
+äussernde	1
+äusserndem	2
+äussernden	2
+äussernder	2
+äusserndes	2
+äusserst
+äusserste	3
+äusserstem	4er
+äussersten	2
+äusserster	4er
+äusserstes	4
+äussert	1n
+äusserte	2n
+äusserten	3n
+äussertest	4n
+äussertet	3n
+äussre	2ern
+äußer	0n
+äußere	1
+äußerem	2
+äußeren	2
+äußerer	2
+äußerere	3
+äußererem	4
+äußereren	4
+äußererer	4
+äußereres	4
+äußeres	2
+äußerest	3n
+äußeret	2n
+äußerlich
+äußerliche	1
+äußerlichem	2
+äußerlichen	2
+äußerlicher	2
+äußerliches	2
+äußern
+äußernd	1
+äußernde	1
+äußerndem	2
+äußernden	2
+äußernder	2
+äußerndes	2
+äußerst
+äußerste	3
+äußerstem	4
+äußersten	4
+äußerstenfalls
+äußerster	4
+äußerstes	4
+äußert	1n
+äußerte	2n
+äußerten	3n
+äußertest	4n
+äußertet	3n
+äußre	2ern
+äygpten
+äße	3essen
+äßen	4essen
+äßest	5essen
+äßet	4essen

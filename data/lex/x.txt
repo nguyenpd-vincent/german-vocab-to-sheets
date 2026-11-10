@@ -1,0 +1,387 @@
+X
+X-Bein
+X-Beine
+X-Beinen	1
+X-Beines	2
+X-Beins	1
+X-Box
+X-Chromosom
+X-Chromosomen	2
+X-Chromosoms	1
+X-Einheit
+X-Einheiten	2
+X-Faktor
+X-Faktoren	2
+X-Faktors	1
+X-Haken
+X-Hakens	1
+X-Kontakt
+X-Kontakte	1
+X-Kontakten	2
+X-Kontaktes	2
+X-Kontakts	1
+X-Strahl
+X-Strahlen	2
+X-Strahles	2
+X-Strahls	1
+X-beinig
+X-förmig
+XHTML
+XL-Kamera
+XL-Kameras	1
+XNOR-Gatter
+XNOR-Gattern	1
+XNOR-Gatters	1
+XOR-Gatter
+XOR-Gattern	1
+XOR-Gatters	1
+XXO
+XXOs	1
+Xanten
+Xantener
+Xantenerin
+Xantenerinnen	3
+Xantenern	1
+Xanteners	1
+Xantens	1
+Xanthalin
+Xanthalins	1
+Xanthan
+Xanthans	1
+Xanthat
+Xanthate	1
+Xanthaten	2
+Xanthates	2
+Xanthats	1
+Xanthelasma
+Xanthelasmas	1
+Xanthelasmata	2
+Xanthelasmen	2a
+Xanthen
+Xanthene	1
+Xanthenen	2
+Xanthenfarbstoff
+Xanthenfarbstoffe	1
+Xanthenfarbstoffen	2
+Xanthenfarbstoffes	2
+Xanthenfarbstoffs	1
+Xanthens	1
+Xanthin
+Xanthinbase
+Xanthinbasen	1
+Xanthinoxidase
+Xanthinoxidasehemmer
+Xanthinoxidasehemmern	1
+Xanthinoxidasehemmers	1
+Xanthinoxidasen	1
+Xanthinoxydase
+Xanthinoxydasen	1
+Xanthins	1
+Xanthinstein
+Xanthinsteine	1
+Xanthinsteinen	2
+Xanthinsteines	2
+Xanthinsteins	1
+Xanthinurie
+Xanthinurien	1
+Xanthippe
+Xanthippen	1
+Xanthochromie
+Xanthochromien	1
+Xanthodermie
+Xanthodermien	1
+Xanthodontie
+Xanthodontien	1
+Xanthogenat
+Xanthogenate	1
+Xanthogenaten	2
+Xanthogenates	2
+Xanthogenats	1
+Xanthogensäure
+Xanthom
+Xanthomatose
+Xanthomatosen	1
+Xanthome	1
+Xanthomen	2
+Xanthoms	1
+Xanthon
+Xanthone	1
+Xanthonen	2
+Xanthons	1
+Xanthophyll
+Xanthophylle	1
+Xanthophyllen	2
+Xanthophyllit
+Xanthophyllite	1
+Xanthophylliten	2
+Xanthophyllits	1
+Xanthophylls	1
+Xanthopsie
+Xanthopsien	1
+Xanthorrhoea
+Xanthosiderit
+Xanthosiderite	1
+Xanthosideriten	2
+Xanthosiderits	1
+Xaver
+Xavier
+Xbox
+Xenie
+Xenien	1
+Xenion
+Xenions	1
+Xenismen	2us
+Xenismus
+Xenizität
+Xenizitäten	2
+Xenoblast
+Xenoblasten	2
+Xenodochien	2um
+Xenodochium
+Xenodochiums	1
+Xenogamie
+Xenogamien	1
+Xenoglossie
+Xenoglossien	1
+Xenoglossophilie
+Xenoglossophilien	1
+Xenographie
+Xenographien	1
+Xenokratie
+Xenokratien	1
+Xenolith
+Xenolithe	1
+Xenolithen	2
+Xenoliths	1
+Xenomarkt
+Xenomarktes	2
+Xenomarkts	1
+Xenomorphie
+Xenomärkte	5arkt
+Xenomärkten	6arkt
+Xenon
+Xenon-Lampe
+Xenon-Lampen	1
+Xenonatom
+Xenonatome	1
+Xenonatomen	2
+Xenonatoms	1
+Xenonfluorid
+Xenonfluoride	1
+Xenonfluoriden	2
+Xenonfluorids	1
+Xenongas
+Xenongases	2
+Xenonlampe
+Xenonlampen	1
+Xenons	1
+Xenonscheinwerfer
+Xenonscheinwerfern	1
+Xenonscheinwerfers	1
+Xenophilie
+Xenophobie
+Xenophobien	1
+Xenoplastik
+Xenoplastiken	2
+Xenotim
+Xenotime	1
+Xenotimen	2
+Xenotims	1
+Xenotransplantat
+Xenotransplantate	1
+Xenotransplantaten	2
+Xenotransplantates	2
+Xenotransplantation
+Xenotransplantationen	2
+Xenotransplantats	1
+Xeres
+Xeroderma
+Xerodermata	2
+Xerodermen	2a
+Xerodermie
+Xerodermien	1
+Xeroform
+Xeroforms	1
+Xerogel
+Xerogele	1
+Xerogelen	2
+Xerogeles	2
+Xerogels	1
+Xerografie
+Xerografien	1
+Xerographie
+Xerographien	1
+Xerokopie
+Xerokopien	1
+Xeromorphose
+Xeromorphosen	1
+Xerophilie
+Xerophthalmen	2us
+Xerophthalmie
+Xerophthalmien	1
+Xerophthalmus
+Xerophyt
+Xerophyten	2
+Xerose
+Xerosen	1
+Xerostomie
+Xerostomien	1
+Xerothermrelikt
+Xerothermrelikte	1
+Xerothermrelikten	2
+Xerothermreliktes	2
+Xerothermrelikts	1
+Xerox
+Xerox-Parc-Institut
+Xhosa
+Xi
+Xiamen
+Xian
+Xiao
+Xiaoping
+Xiaopings	1
+Xieng
+Ximénez
+Xinhua
+Xiphopagie
+Xiphopagien	1
+Xircom
+Xis	1
+Xishuangbanna
+Xiyuang
+Xoana	1on
+Xoanon
+Xoanons	1
+Xou
+Xxcal
+Xylan
+Xylans	1
+Xylem
+Xyleme	1
+Xylemen	2
+Xylems	1
+Xylenol
+Xylenole	1
+Xylenolen	2
+Xylenols	1
+Xylidin
+Xylidine	1
+Xylidinen	2
+Xylidins	1
+Xylit
+Xylite	1
+Xyliten	2
+Xylitol
+Xylitols	1
+Xylits	1
+Xylofon
+Xylofone	1
+Xylofonen	2
+Xylofons	1
+Xylograf
+Xylografen	2
+Xylografie
+Xylografien	1
+Xylografin
+Xylografinnen	3
+Xylograph
+Xylographen	2
+Xylographie
+Xylographien	1
+Xylographin
+Xylographinnen	3
+Xylol
+Xylole	1
+Xylolen	2
+Xylolith
+Xylolithe	1
+Xylolithen	2
+Xyloliths	1
+Xylols	1
+Xylometazolinhydrochlorid
+Xylometazolinhydrochlorids	1
+Xylometer
+Xylometern	1
+Xylometers	1
+Xylophage
+Xylophagen	1
+Xylophon
+Xylophone	1
+Xylophonen	2
+Xylophons	1
+Xylose
+Xylospongien	2um
+Xylospongium
+Xylospongiums	1
+Xylothek
+Xylotheken	2
+Xysten	2os
+Xysti	1us
+Xystos
+Xystus
+x
+x-Achse
+x-Achsen	1
+x-Fache	0s
+x-Fachem	1s
+x-Fachen	1s
+x-Facher	1s
+x-Faches
+x-beinig
+x-beliebig
+x-fach
+x-förmig
+x-mal
+x86-kompatiblen
+xanthochrom
+xanthoderm
+xenoblastisch
+xenomorph
+xenophil
+xenophob
+xenophober	2
+xenophobsten	4
+xenozön
+xerografier	0en
+xerografiere	0n
+xerografieren
+xerografierest	2n
+xerografieret	1n
+xerografierst	2en
+xerografiert	1en
+xerografierte	2en
+xerografierten	3en
+xerografiertest	4en
+xerografiertet	3en
+xerographier	0en
+xerographiere	0n
+xerographieren
+xerographierest	2n
+xerographieret	1n
+xerographierst	2en
+xerographiert	1en
+xerographierte	2en
+xerographierten	3en
+xerographiertest	4en
+xerographiertet	3en
+xerokopier	0en
+xerokopiere	0n
+xerokopieren
+xerokopierest	2n
+xerokopieret	1n
+xerokopierst	2en
+xerokopiert	1en
+xerokopierte	2en
+xerokopierten	3en
+xerokopiertest	4en
+xerokopiertet	3en
+xeromorph
+xerophil
+xerotherm
+xerotisch
+xiem	1r
+xien	1r
+xier
+xies	1r
+xircom	6Xircom
+xylographisch

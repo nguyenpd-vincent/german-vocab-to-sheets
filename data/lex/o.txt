@@ -1,0 +1,10776 @@
+O-Bein
+O-Beine
+O-Beinen	1
+O-Beines	2
+O-Beins	1
+O-Bus
+O-Busse	2
+O-Bussen	3
+O-Busses	3
+O-Saft
+O-Saftes	2
+O-Safts	1
+O-Säfte	4aft
+O-Säften	5aft
+O-Ton
+O-Tones	2
+O-Tons	1
+O-Töne	3on
+O-Tönen	4on
+O-beinig
+O-förmig
+OAS
+OB
+OB-Wahlkampf
+OB-Wahlkampfes	2
+OB-Wahlkampfs	1
+OB-Wahlkämpfe	5ampf
+OB-Wahlkämpfen	6ampf
+OBD-Überwachungseinrichtung
+OBD-Überwachungseinrichtungen	2
+OBs	1
+ODER-Gatter
+ODER-Gattern	1
+ODER-Gatters	1
+OECD
+OECD-Prognose
+OECD-Prognosen	1
+OECD-Staat
+OECD-Staaten	2
+OECD-Staates	2
+OECD-Staats	1
+OFC
+OG
+OGs	1
+OH-Gruppe
+OH-Gruppen	1
+OHG
+OHGs	1
+OHIP
+OK-Mitglied
+OK-Mitglieder	2
+OK-Mitgliedern	3
+OK-Mitgliedes	2
+OK-Mitglieds	1
+OLG
+OLGs	1
+OP-Maske
+OP-Masken	1
+OP-Raum
+OP-Raumes	2
+OP-Raums	1
+OP-Räume	4aum
+OP-Räumen	5aum
+OP-Saal
+OP-Saale	1
+OP-Saales	2
+OP-Saals	1
+OP-Schwester
+OP-Schwestern	1
+OP-Säle	3aal
+OP-Sälen	4aal
+OP-Tisch
+OP-Tische	1
+OP-Tischen	2
+OP-Tisches	2
+OP-Tischs	1
+OS/2
+OSI-Modell
+OSI-Modells	1
+OTC-Präparat
+OTC-Präparate	1
+OTC-Präparaten	2
+OTC-Präparates	2
+OTC-Präparats	1
+OVG
+OVGs	1
+Oachkatzlschwoaf
+Oae
+Oas
+Oase
+Oasen	1
+Oasenbewohner
+Oasenbewohnern	1
+Oasenbewohners	1
+Oasendorf
+Oasendorfe	1
+Oasendorfes	2
+Oasendorfs	1
+Oasendörfer	5orf
+Oasendörfern	6orf
+Oasenstadt
+Oasenstädte	4adt
+Oasenstädten	5adt
+Oau
+Ob	2ob
+Obacht
+Obamacare
+Obatzte	0r
+Obatzten	1r
+Obatzter
+Obazda
+Obazden	2a
+Obdach
+Obdache	1
+Obdaches	2
+Obdachlose	0r
+Obdachlosem	1r
+Obdachlosen	1
+Obdachlosenasyl
+Obdachlosenasyle	1
+Obdachlosenasylen	2
+Obdachlosenasyls	1
+Obdachlosenbaracke
+Obdachlosenbaracken	1
+Obdachlosendasein
+Obdachlosendaseins	1
+Obdachlosenfürsorge
+Obdachlosenheim
+Obdachlosenheime	1
+Obdachlosenheimen	2
+Obdachlosenheimes	2
+Obdachlosenheims	1
+Obdachlosenhilfe
+Obdachlosenmagazin
+Obdachlosenmagazine	1
+Obdachlosenmagazinen	2
+Obdachlosenmagazins	1
+Obdachlosensiedlung
+Obdachlosensiedlungen	2
+Obdachlosenunterkunft
+Obdachlosenunterkünfte	5unft
+Obdachlosenunterkünften	6unft
+Obdachlosenzeitschrift
+Obdachlosenzeitschriften	2
+Obdachlosenzeitung
+Obdachlosenzeitungen	2
+Obdachloser
+Obdachlosigkeit
+Obdachlosigkeiten	2
+Obdachs	1
+Obduktion
+Obduktionen	2
+Obduktionsbefund
+Obduktionsbefunde	1
+Obduktionsbefunden	2
+Obduktionsbefundes	2
+Obduktionsbefunds	1
+Obduktionsbericht
+Obduktionsberichte	1
+Obduktionsberichten	2
+Obduktionsberichtes	2
+Obduktionsberichts	1
+Obduration
+Obdurationen	2
+Obduzent
+Obduzenten	2
+Obduzentin
+Obduzentinnen	3
+Obduzieren
+Obduzierende
+Obduzierenden	1
+Obduzierens	1
+Obduzierte	10obduziert
+Obduzierten	1
+Obe
+Obelisk
+Obelisken	2
+Obelix
+Oben-ohne-Bedienung
+Oben-ohne-Bedienungen	2
+Oben-ohne-Foto
+Oben-ohne-Fotos	1
+Oben-ohne-Lokal
+Oben-ohne-Lokale	1
+Oben-ohne-Lokalen	2
+Oben-ohne-Lokales	2
+Oben-ohne-Lokals	1
+Ober
+Oberamtfrau
+Oberamtfrauen	2
+Oberamtleute
+Oberamtleuten	1
+Oberamtmann
+Oberamtmannes	2
+Oberamtmanns	1
+Oberamtmänner	5ann
+Oberamtmännern	6ann
+Oberamtsanwalt
+Oberamtsanwaltes	2
+Oberamtsanwalts	1
+Oberamtsanwälte	4alt
+Oberamtsanwälten	5alt
+Oberamtsmeister
+Oberamtsmeistern	1
+Oberamtsmeisters	1
+Oberamtsrat
+Oberamtsrates	2
+Oberamtsrats	1
+Oberamtsräte	3at
+Oberamtsräten	4at
+Oberamtsrätin
+Oberamtsrätinnen	3
+Oberarm
+Oberarmbeuger
+Oberarmbeugern	1
+Oberarmbeugers	1
+Oberarmbruch
+Oberarmbruche	1
+Oberarmbruches	2
+Oberarmbruchs	1
+Oberarmbrüche	4uch
+Oberarmbrüchen	5uch
+Oberarme	1
+Oberarmen	2
+Oberarmes	2
+Oberarmfraktur
+Oberarmfrakturen	2
+Oberarmknochen
+Oberarmknochens	1
+Oberarms	1
+Oberarmstand
+Oberarmstandes	2
+Oberarmstands	1
+Oberarmstrecker
+Oberarmstreckern	1
+Oberarmstreckers	1
+Oberarmstände	4and
+Oberarmständen	5and
+Oberarzt
+Oberarztes	2
+Oberassistent
+Oberassistenten	2
+Oberaufseher
+Oberaufseherin
+Oberaufseherinnen	3
+Oberaufsehern	1
+Oberaufsehers	1
+Oberaufsicht
+Oberaufsichten	2
+Oberbau
+Oberbauch
+Oberbauchbruch
+Oberbauchbruches	2
+Oberbauchbruchs	1
+Oberbauchbrüche	4uch
+Oberbauchbrüchen	5uch
+Oberbauches	2
+Oberbauchs	1
+Oberbauchschmerz
+Oberbauchschmerzen	2
+Oberbauchschmerzes	2
+Oberbaudirektor
+Oberbaudirektoren	2
+Oberbaudirektors	1
+Oberbaues	2
+Oberbaus	1
+Oberbausystem
+Oberbausysteme	1
+Oberbausystemen	2
+Oberbausystems	1
+Oberbauten	3
+Oberbayer
+Oberbayerin
+Oberbayerinnen	3
+Oberbayern
+Oberbayerns	1
+Oberbecken
+Oberbeckens	1
+Oberbefehl
+Oberbefehle	1
+Oberbefehlen	2
+Oberbefehles	2
+Oberbefehls	1
+Oberbefehlshaber
+Oberbefehlshaberin
+Oberbefehlshaberinnen	3
+Oberbefehlshabern	1
+Oberbefehlshabers	1
+Oberbegriff
+Oberbegriffe	1
+Oberbegriffen	2
+Oberbegriffes	2
+Oberbegriffs	1
+Oberbehörde
+Oberbehörden	1
+Oberbeinkleid
+Oberbeinkleider	2
+Oberbeinkleidern	3
+Oberbeinkleides	2
+Oberbeinkleids	1
+Oberbekleidung
+Oberbekleidungen	2
+Oberbekleidungsstück
+Oberbekleidungsstücke	1
+Oberbekleidungsstücken	2
+Oberbekleidungsstückes	2
+Oberbekleidungsstücks	1
+Oberbergamt
+Oberbergamtes	2
+Oberbergamts	1
+Oberbergämter	5amt
+Oberbergämtern	6amt
+Oberbett
+Oberbette	1
+Oberbetten	2
+Oberbettes	2
+Oberbetts	1
+Oberbewusstsein
+Oberbewusstseins	1
+Oberboden
+Oberbodens	1
+Oberbonze
+Oberbonzen	1
+Oberbootsfrau
+Oberbootsfrauen	2
+Oberbootsleute	5mann
+Oberbootsleuten	6mann
+Oberbootsmann
+Oberbootsmannes	2
+Oberbootsmanns	1
+Oberbootsmänner	5ann
+Oberbootsmännern	6ann
+Oberbrandmeister
+Oberbrandmeistern	1
+Oberbrandmeisters	1
+Oberbrauer
+Oberbrauern	1
+Oberbrauers	1
+Oberbundesanwalt
+Oberbundesanwalte	1
+Oberbundesanwalten	2
+Oberbundesanwaltes	2
+Oberbundesanwalts	1
+Oberbundesanwälte	4alt
+Oberbundesanwälten	5alt
+Oberbäuche	5auch
+Oberbäuchen	6auch
+Oberböden	4oden
+Oberbürgermeister
+Oberbürgermeisterin
+Oberbürgermeisterinnen	3
+Oberbürgermeistern	1
+Oberbürgermeisters	1
+Oberbürgermeistersessel
+Oberbürgermeistersesseln	1
+Oberbürgermeistersessels	1
+Oberbürgermeisterwahl
+Oberbürgermeisterwahlen	2
+Oberdeck
+Oberdecke
+Oberdecken	1
+Oberdecks	1
+Oberdepp
+Oberdeppen	2
+Oberdepps	1
+Oberdeutschland
+Oberdeutschlands	1
+Oberdominante
+Oberdominanten	1
+Oberdorf
+Oberdorfelden
+Oberdorfeldens	1
+Oberdorfes	2
+Oberdorfs	1
+Oberdörfer	5orf
+Oberdörfern	6orf
+Obere	0r
+Obereichsfeld
+Obereichsfeldes	2
+Obereichsfelds	1
+Oberem	1r
+Oberen	1
+Oberer
+Oberere
+Obereren	1
+Oberetage
+Oberetagen	1
+Oberfaden
+Oberfadens	1
+Oberfeldwebel
+Oberfeldwebeln	1
+Oberfeldwebels	1
+Oberfenster
+Oberfenstern	1
+Oberfensters	1
+Oberfinanzdirektion
+Oberfinanzdirektionen	2
+Oberfinanzpräsident
+Oberfinanzpräsidenten	2
+Oberfläche
+Oberflächen	1
+Oberflächenbehandlung
+Oberflächenbehandlungen	2
+Oberflächenbeschichtung
+Oberflächenbeschichtungen	2
+Oberflächeneigenschaft
+Oberflächeneigenschaften	2
+Oberflächenform
+Oberflächenformen	2
+Oberflächengestaltung
+Oberflächengestaltungen	2
+Oberflächengewässer
+Oberflächengewässern	1
+Oberflächengewässers	1
+Oberflächenhärtung
+Oberflächenhärtungen	2
+Oberflächenionisation
+Oberflächenionisationen	2
+Oberflächenmessung
+Oberflächenmessungen	2
+Oberflächenpause
+Oberflächenpausen	1
+Oberflächenschicht
+Oberflächenschichten	2
+Oberflächenschutz
+Oberflächenschutze	1
+Oberflächenschutzen	2
+Oberflächenschutzes	2
+Oberflächenspannung
+Oberflächenspannungen	2
+Oberflächenstruktur
+Oberflächenstrukturen	2
+Oberflächentechnik
+Oberflächentechniken	2
+Oberflächentemperatur
+Oberflächentemperaturen	2
+Oberflächenverkehr
+Oberflächenverkehre	1
+Oberflächenverkehren	2
+Oberflächenverkehres	2
+Oberflächenverkehrs	1
+Oberflächenwasser
+Oberflächenwassern	1
+Oberflächenwassers	1
+Oberflächenwässer	5asser
+Oberflächenwässern	6asser
+Oberflächige	12oberflächig
+Oberflächigen	1
+Oberflächigere
+Oberflächigeren	1
+Oberflächigste
+Oberflächigsten	1
+Oberflächliche
+Oberflächlichen	1
+Oberflächlichere
+Oberflächlicheren	1
+Oberflächlichkeit
+Oberflächlichkeiten	2
+Oberflächlichste
+Oberflächlichsten	1
+Oberfranken
+Oberfrankens	1
+Oberfräse
+Oberfräsen	1
+Oberfäden	4aden
+Oberfähnrich
+Oberfähnriche	1
+Oberfähnrichen	2
+Oberfähnrichs	1
+Oberförster
+Oberförsterei
+Oberförstereien	2
+Oberförstern	1
+Oberförsters	1
+Obergaden
+Obergefreite	0r
+Obergefreitem	1r
+Obergefreiten	1
+Obergefreiter
+Obergericht
+Obergerichte	1
+Obergerichten	2
+Obergerichts	1
+Obergerichtsvollzieher
+Obergerichtsvollziehern	1
+Obergerichtsvollziehers	1
+Obergeschoss
+Obergeschosse	1
+Obergeschossen	2
+Obergeschosses	2
+Obergeschoß
+Obergeschoße	1
+Obergeschoßen	2
+Obergeschoßes	2
+Obergespan
+Obergespane	1
+Obergespanen	2
+Obergespanes	2
+Obergespann
+Obergespanne	1
+Obergespannen	2
+Obergespannes	2
+Obergewalt
+Obergewalten	2
+Obergewand
+Obergewandes	2
+Obergewänder	5and
+Obergewändern	6and
+Obergras
+Obergrases	2
+Obergrenze
+Obergrenzen	1
+Obergruppenführer
+Obergruppenführern	1
+Obergruppenführers	1
+Obergräser	4as
+Obergräsern	5as
+Obergurt
+Obergurte	1
+Obergurten	2
+Obergurtes	2
+Obergurts	1
+Oberhaar
+Oberhaare	1
+Oberhaaren	2
+Oberhaares	2
+Oberhaars	1
+Oberhand
+Oberhansel
+Oberhanseln	1
+Oberhansels	1
+Oberhaupt
+Oberhaupte	1
+Oberhauptes	2
+Oberhaupts	1
+Oberhaus
+Oberhause	1
+Oberhausen
+Oberhausens	1
+Oberhauses	2
+Oberhaut
+Oberhemd
+Oberhemde	1
+Oberhemden	2
+Oberhemdes	2
+Oberhemds	1
+Oberherr
+Oberherren	2
+Oberherrn	1
+Oberherrschaft
+Oberherrschaften	2
+Oberhirt
+Oberhirte
+Oberhirten	1
+Oberhitze
+Oberhofmarschall
+Oberhofmarschalls	1
+Oberhofmarschälle	4all
+Oberhofmarschällen	5all
+Oberhofmeister
+Oberhofmeistern	1
+Oberhofmeisters	1
+Oberhoheit
+Oberhoheiten	2
+Oberholz
+Oberholze	1
+Oberholzes	2
+Oberhäupter	6aupt
+Oberhäuptern	7aupt
+Oberhäuptling
+Oberhäuptlinge	1
+Oberhäuptlingen	2
+Oberhäuptlings	1
+Oberhäuser	5aus
+Oberhäusern	6aus
+Oberhäute	4aut
+Oberhäuten	5aut
+Oberhölzer	5olz
+Oberhölzern	6olz
+Oberin
+Oberindianer
+Oberindianern	1
+Oberindianers	1
+Oberingenieur
+Oberingenieure	1
+Oberingenieuren	2
+Oberingenieurs	1
+Oberinnen	3
+Oberinspektor
+Oberinspektoren	2
+Oberinspektors	1
+Oberjuror
+Oberjuroren	2
+Oberjurors	1
+Oberjäger
+Oberjägern	1
+Oberjägers	1
+Oberkante
+Oberkanten	1
+Oberkapelle
+Oberkapellen	1
+Oberkategorie
+Oberkategorien	1
+Oberkellner
+Oberkellnerin
+Oberkellnerinnen	3
+Oberkellnern	1
+Oberkellners	1
+Oberkiefer
+Oberkiefern	1
+Oberkiefers	1
+Oberkirchenrat
+Oberkirchenrates	2
+Oberkirchenrats	1
+Oberkirchenräte	3at
+Oberkirchenräten	4at
+Oberklasse
+Oberklassefahrzeug
+Oberklassefahrzeuge	1
+Oberklassefahrzeugen	2
+Oberklassefahrzeuges	2
+Oberklassefahrzeugs	1
+Oberklasselimousine
+Oberklasselimousinen	1
+Oberklassemodell
+Oberklassemodelle	1
+Oberklassemodellen	2
+Oberklassemodells	1
+Oberklassen	1
+Oberklassenfahrzeug
+Oberklassenfahrzeuge	1
+Oberklassenfahrzeugen	2
+Oberklassenfahrzeuges	2
+Oberklassenfahrzeugs	1
+Oberkleidung
+Oberkleidungen	2
+Oberklässler
+Oberklässlern	1
+Oberklässlers	1
+Oberkoch
+Oberkoches	2
+Oberkochs	1
+Oberkommandierende	0r
+Oberkommandierendem	1r
+Oberkommandierenden	1r
+Oberkommandierender
+Oberkommando
+Oberkommandos	1
+Oberkommissar
+Oberkommissare	1
+Oberkommissaren	2
+Oberkommissars	1
+Oberkreisdirektor
+Oberkreisdirektoren	2
+Oberkreisdirektors	1
+Oberköche	4och
+Oberköchen	5och
+Oberkörper
+Oberkörperergometer
+Oberkörperergometern	1
+Oberkörperergometers	1
+Oberkörpern	1
+Oberkörpers	1
+Oberlahnstein
+Oberland
+Oberlandes	2
+Oberlandesgericht
+Oberlandesgerichte	1
+Oberlandesgerichten	2
+Oberlandesgerichtes	2
+Oberlandesgerichts	1
+Oberlandesgerichtspräsident
+Oberlandesgerichtspräsidenten	2
+Oberlands	1
+Oberlauf
+Oberlaufe	1
+Oberlaufes	2
+Oberlaufs	1
+Oberlausitz
+Oberleder
+Oberledern	1
+Oberleders	1
+Oberlehrer
+Oberlehrerhafte	15oberlehrerhaft
+Oberlehrerhaften	1
+Oberlehrerhaftere
+Oberlehrerhafteren	1
+Oberlehrern	1
+Oberlehrers	1
+Oberleib
+Oberleibe	1
+Oberleiber	2
+Oberleibern	3
+Oberleibes	2
+Oberleibs	1
+Oberleitung
+Oberleitungen	2
+Oberleitungsbus
+Oberleitungsbusse	2
+Oberleitungsbussen	3
+Oberleitungsbusses	3
+Oberleitungsmast
+Oberleitungsmaste	1
+Oberleitungsmasten	2
+Oberleitungsmastes	2
+Oberleitungsmasts	1
+Oberleitungsomnibus
+Oberleitungsomnibusse	2
+Oberleitungsomnibussen	3
+Oberleitungsomnibusses	3
+Oberleitungsschaden
+Oberleitungsschadens	1
+Oberleitungsschäden	4aden
+Oberleutnant
+Oberleutnants	1
+Oberlicht
+Oberlichte	1
+Oberlichten	1
+Oberlichter	2
+Oberlichtern	3
+Oberlichtes	2
+Oberlichtfenster
+Oberlichtfenstern	1
+Oberlichtfensters	1
+Oberlichts	1
+Oberlid
+Oberlide	1
+Oberlider	2
+Oberlidern	3
+Oberlides	2
+Oberlids	1
+Oberliga
+Oberligabegegnung
+Oberligabegegnungen	2
+Oberligaderby
+Oberligaderbys	1
+Oberligaduell
+Oberligaduelle	1
+Oberligaduellen	2
+Oberligaduells	1
+Oberliganiveau
+Oberliganiveaus	1
+Oberligapartie
+Oberligapartien	1
+Oberligaspiel
+Oberligaspiele	1
+Oberligaspielen	2
+Oberligaspieles	2
+Oberligaspiels	1
+Oberligen	2a
+Oberligist
+Oberligisten	2
+Oberlippe
+Oberlippen	1
+Oberlippenbart
+Oberlippenbarte	1
+Oberlippenbartes	2
+Oberlippenbarts	1
+Oberlippenbärte	4art
+Oberlippenbärten	5art
+Oberlänge
+Oberlängen	1
+Oberläufe	4auf
+Oberläufen	5auf
+Obermaat
+Obermaate	1
+Obermaaten	2
+Obermaates	2
+Obermaats	1
+Obermacher
+Obermachern	1
+Obermachers	1
+Obermacho
+Obermachos	1
+Obermacht
+Obermacker
+Obermackern	1
+Obermackers	1
+Obermarkt
+Obermarktes	2
+Obermarkts	1
+Obermaschinist
+Obermaschinisten	2
+Obermast
+Obermaste	1
+Obermasten	2
+Obermastes	2
+Obermasts	1
+Obermaterial
+Obermaterialien	3
+Obermaterials	1
+Obermatrose
+Obermatrosen	1
+Obermedizinalrat
+Obermedizinalrates	2
+Obermedizinalrats	1
+Obermedizinalräte	3at
+Obermedizinalräten	4at
+Obermeister
+Obermeistern	1
+Obermeisters	1
+Obermenge
+Obermengen	1
+Obermufti
+Obermuftis	1
+Obermärkte	5arkt
+Obermärkten	6arkt
+Obern	1
+Obernhain
+Obernhains	1
+Oberoffizial
+Oberoffiziale	1
+Oberoffizialen	2
+Oberoffizials	1
+Oberon
+Oberpfalz
+Oberpfarrer
+Oberpfarrern	1
+Oberpfarrers	1
+Oberpfälzer
+Oberpfälzern	1
+Oberpfälzers	1
+Oberpostamt
+Oberpostamte	1
+Oberpostamtes	2
+Oberpostamts	1
+Oberpostdirektion
+Oberpostdirektionen	2
+Oberpostmeister
+Oberpostmeistern	1
+Oberpostmeisters	1
+Oberpostämter	5amt
+Oberpostämtern	6amt
+Oberpriester
+Oberpriestern	1
+Oberpriesters	1
+Oberprima
+Oberprimaner
+Oberprimanerin
+Oberprimanerinnen	3
+Oberprimanern	1
+Oberprimaners	1
+Oberprimen	2a
+Oberrabbiner
+Oberrabbinern	1
+Oberrabbiners	1
+Oberrad
+Oberrads	1
+Oberrat
+Oberrate	1
+Oberrates	2
+Oberrats	1
+Oberrealschule
+Oberrealschulen	1
+Oberregierungsrat
+Oberregierungsrates	2
+Oberregierungsrats	1
+Oberregierungsräte	3at
+Oberregierungsräten	4at
+Oberregisseur
+Oberregisseure	1
+Oberregisseuren	2
+Oberregisseurs	1
+Oberrhein
+Oberrheinebene
+Oberrheines	2
+Oberrheins	1
+Oberrheintal
+Oberrheintals	1
+Oberrichter
+Oberrichterin
+Oberrichterinnen	3
+Oberrichtern	1
+Oberrichters	1
+Oberricklingen
+Oberricklingens	1
+Oberried
+Oberrock
+Oberrockes	2
+Oberrocks	1
+Oberrohr
+Oberrohre	1
+Oberrohren	2
+Oberrohres	2
+Oberrohrs	1
+Oberräte	3at
+Oberräten	4at
+Oberrätin
+Oberrätinnen	3
+Oberröcke	4ock
+Oberröcken	5ock
+Obers
+Obersatz
+Obersatzes	2
+Oberscharführer
+Oberscharführern	1
+Oberscharführers	1
+Oberschenkel
+Oberschenkelfraktur
+Oberschenkelfrakturen	2
+Oberschenkelhals
+Oberschenkelhalsbruch
+Oberschenkelhalsbruchs	1
+Oberschenkelhalsbrüche	4uch
+Oberschenkelhalsbrüchen	5uch
+Oberschenkelhalses	2
+Oberschenkelhälse	4als
+Oberschenkelhälsen	5als
+Oberschenkelknochen
+Oberschenkelknochens	1
+Oberschenkelkopf
+Oberschenkelkopfes	2
+Oberschenkelkopfs	1
+Oberschenkelköpfe	4opf
+Oberschenkelköpfen	5opf
+Oberschenkeln	1
+Oberschenkels	1
+Oberschenkelzerrung
+Oberschenkelzerrungen	2
+Oberschicht
+Oberschichten	2
+Oberschichtkind
+Oberschichtkinde	1
+Oberschichtkinder	2
+Oberschichtkindern	3
+Oberschichtkindes	2
+Oberschichtkinds	1
+Oberschieber
+Oberschiebern	1
+Oberschiebers	1
+Oberschiedsrichter
+Oberschiedsrichterin
+Oberschiedsrichterinnen	3
+Oberschiedsrichtern	1
+Oberschiedsrichters	1
+Oberschlesien
+Oberschlesiens	1
+Oberschnabel
+Oberschnabels	1
+Oberschnäbel	4abel
+Oberschnäbeln	5abel
+Oberschrank
+Oberschranke	1
+Oberschrankes	2
+Oberschranks	1
+Oberschränke	4ank
+Oberschränken	5ank
+Oberschulbesuch
+Oberschulbesuche	1
+Oberschulbesuchen	2
+Oberschulbesuches	2
+Oberschulbesuchs	1
+Oberschulbildung
+Oberschule
+Oberschulen	1
+Oberschullehrer
+Oberschullehrerin
+Oberschullehrerinnen	3
+Oberschullehrern	1
+Oberschullehrers	1
+Oberschulrat
+Oberschulrates	2
+Oberschulrats	1
+Oberschulräte	3at
+Oberschulräten	4at
+Oberschurke
+Oberschurken	1
+Oberschwaben
+Oberschwester
+Oberschwestern	1
+Oberschwingung
+Oberschwingungen	2
+Oberschüler
+Oberschülerin
+Oberschülerinnen	3
+Oberschülern	1
+Oberschülers	1
+Oberseite
+Oberseiten	1
+Obersekretär
+Obersekretäre	1
+Obersekretären	2
+Obersekretärs	1
+Obersekunda
+Obersekundaner
+Obersekundanern	1
+Obersekundaners	1
+Obersekunden	2a
+Oberseminar
+Oberseminare	1
+Oberseminaren	2
+Oberseminars	1
+Obersoldat
+Obersoldaten	2
+Oberspielleiter
+Oberspielleitern	1
+Oberspielleiters	1
+Oberst
+Oberstaatsanwalt
+Oberstaatsanwalte	1
+Oberstaatsanwaltes	2
+Oberstaatsanwalts	1
+Oberstaatsanwaltschaft
+Oberstaatsanwaltschaften	2
+Oberstaatsanwälte	4alt
+Oberstaatsanwälten	5alt
+Oberstaatsanwältin
+Oberstaatsanwältinnen	3
+Oberstabsarzt
+Oberstabsarztes	2
+Oberstabsarzts	1
+Oberstabsbootsleute	5mann
+Oberstabsbootsleuten	6mann
+Oberstabsbootsmann
+Oberstabsbootsmannes	2
+Oberstabsbootsmanns	1
+Oberstabsbootsmänner	5ann
+Oberstabsbootsmännern	6ann
+Oberstabsfeldwebel
+Oberstabsfeldwebeln	1
+Oberstabsfeldwebels	1
+Oberstabsgefreite	0r
+Oberstabsgefreitem	1r
+Oberstabsgefreiten	1r
+Oberstabsgefreiter
+Oberstabsärzte	5arzt
+Oberstabsärzten	6arzt
+Oberstadt
+Oberstadtdirektor
+Oberstadtdirektoren	2
+Oberstadtdirektors	1
+Oberste	1
+Oberstedten
+Oberstedtens	1
+Obersteiger
+Obersteigern	1
+Obersteigers	1
+Obersten	1
+Oberstimme
+Oberstimmen	1
+Oberstleutnant
+Oberstleutnants	1
+Oberstock
+Oberstockes	2
+Oberstoff
+Oberstoffe	1
+Oberstoffen	2
+Oberstoffes	2
+Oberstoffs	1
+Obersts	1
+Oberstube
+Oberstuben	1
+Oberstudiendirektor
+Oberstudiendirektore	1
+Oberstudiendirektoren	2
+Oberstudiendirektors	1
+Oberstudienrat
+Oberstudienrate	1
+Oberstudienrats	1
+Oberstudienräte	3at
+Oberstudienräten	4at
+Oberstufe
+Oberstufen	1
+Oberstufenlehrer
+Oberstufenlehrern	1
+Oberstufenlehrers	1
+Oberstufenreform
+Oberstufenreformen	2
+Oberstufenschüler
+Oberstufenschülern	1
+Oberstufenschülers	1
+Oberstufenunterricht
+Oberstufenunterrichtes	2
+Oberstufenunterrichts	1
+Oberstufenzentren	2um
+Oberstufenzentrum
+Oberstufenzentrums	1
+Obersturmbannführer
+Obersturmbannführern	1
+Obersturmbannführers	1
+Obersturmführer
+Obersturmführern	1
+Obersturmführers	1
+Oberstädte	4adt
+Oberstädten	5adt
+Oberstöcke	4ock
+Oberstöcken	5ock
+Oberstübchen
+Oberstübchens	1
+Obersächsisch
+Obersächsischen	2
+Obersätze	4atz
+Obersätzen	5atz
+Obertagearbeiter
+Obertagearbeitern	1
+Obertagearbeiters	1
+Obertasse
+Obertassen	1
+Obertaste
+Obertasten	1
+Oberteil
+Oberteile	1
+Oberteilen	2
+Oberteiles	2
+Oberteils	1
+Obertertia
+Obertertianer
+Obertertianern	1
+Obertertianers	1
+Obertertien	2a
+Obertitel
+Obertiteln	1
+Obertitels	1
+Oberton
+Obertone	1
+Obertones	2
+Obertons	1
+Obertrikotage
+Obertrikotagen	1
+Obertshausen
+Obertshausens	1
+Oberturnwart
+Oberturnwarte	1
+Oberturnwarten	2
+Oberturnwartes	2
+Oberturnwarts	1
+Obertöne	3on
+Obertönen	4on
+Oberursel
+Oberurseler
+Oberurselern	1
+Oberurselers	1
+Oberursels	1
+Oberverwaltungsgericht
+Oberverwaltungsgerichte	1
+Oberverwaltungsgerichten	2
+Oberverwaltungsgerichts	1
+Oberverwaltungsrat
+Oberverwaltungsrates	2
+Oberverwaltungsrats	1
+Oberverwaltungsräte	3at
+Oberverwaltungsräten	4at
+Obervolta
+Obervoltas	1
+Oberwachtmeister
+Oberwachtmeistern	1
+Oberwachtmeisters	1
+Oberwart
+Oberwasser
+Oberwassern	1
+Oberwassers	1
+Oberweite
+Oberweiten	1
+Oberwelle
+Oberwellen	1
+Oberwelt
+Oberwelten	2
+Oberzahn
+Oberzahnes	2
+Oberzahns	1
+Oberzentren	2um
+Oberzentrum
+Oberzentrums	1
+Oberzollsekretär
+Oberzollsekretäre	1
+Oberzollsekretären	2
+Oberzollsekretärs	1
+Oberzähne	4ahn
+Oberzähnen	5ahn
+Oberägypten
+Oberärzte	5arzt
+Oberärzten	6arzt
+Oberärztin
+Oberärztinnen	3
+Oberösterreich
+Oberösterreicher
+Oberösterreicherin
+Oberösterreicherinnen	3
+Oberösterreichern	1
+Oberösterreichers	1
+Oberösterreichs	1
+Obfrau
+Obfrauen	2
+Obgleich	8obgleich
+Obhut
+Obi
+Obige	5obig
+Obigen	1
+Obis	1
+Objekt
+Objektbereich
+Objektbereiche	1
+Objektbereichen	2
+Objektbereiches	2
+Objektbereichs	1
+Objektbeschreibung
+Objektbeschreibungen	2
+Objektbeziehung
+Objektbeziehungen	2
+Objektbezug
+Objektbezuges	2
+Objektbezugs	1
+Objektbezüge	3ug
+Objektbezügen	4ug
+Objekte	1
+Objektebene
+Objektebenen	1
+Objekten	2
+Objektes	2
+Objektglas
+Objektglases	2
+Objektgläser	4as
+Objektgläsern	5as
+Objektiv
+Objektivation
+Objektivationen	2
+Objektive	1
+Objektiven	1
+Objektivere
+Objektiveren	1
+Objektivieren
+Objektivierende
+Objektivierenden	1
+Objektivierendere
+Objektivierenderen	1
+Objektivierens	1
+Objektivierte	13objektiviert
+Objektivierten	1
+Objektiviertere
+Objektivierteren	1
+Objektivierteste
+Objektiviertesten	1
+Objektivierung
+Objektivierungen	2
+Objektivismus
+Objektivist
+Objektivisten	2
+Objektivistin
+Objektivistinnen	3
+Objektivistische
+Objektivistischen	1
+Objektivistischere
+Objektivistischeren	1
+Objektivität
+Objektivitäten	2
+Objektivlinse
+Objektivlinsen	1
+Objektivs	1
+Objektivste	11objektiv
+Objektivsten	1
+Objektkasus
+Objektklasse
+Objektklassen	1
+Objektkunst
+Objektkünste	5unst
+Objektkünsten	6unst
+Objektkünstler
+Objektkünstlerin
+Objektkünstlerinnen	3
+Objektkünstlern	1
+Objektkünstlers	1
+Objektleiter
+Objektleitern	1
+Objektleiters	1
+Objektlibido
+Objektmodell
+Objektmodelle	1
+Objektmodellen	2
+Objektmodells	1
+Objektophilie
+Objektophilien	1
+Objektorientierung
+Objektpsychotechnik
+Objekts	1
+Objektsatz
+Objektsatzes	2
+Objektschutz
+Objektschutzes	2
+Objektsgenitiv
+Objektsgenitive	1
+Objektsgenitiven	2
+Objektsgenitivs	1
+Objektsprache
+Objektsprachen	1
+Objektsteuer
+Objektsteuern	1
+Objektsätze	4atz
+Objektsätzen	5atz
+Objekttisch
+Objekttische	1
+Objekttischen	2
+Objekttisches	2
+Objekttischs	1
+Objektträger
+Objektträgern	1
+Objektträgers	1
+Objekttyp
+Objekttypen	2
+Objekttyps	1
+Objektwelt
+Objektwelten	2
+Oblast
+Oblaste	1
+Oblasten	2
+Oblastes	2
+Oblasts	1
+Oblate
+Oblaten	1
+Oblatin
+Oblatinnen	3
+Oblation
+Oblationen	2
+Obleute	5mann
+Obleuten	1
+Oblicht
+Oblichter	2
+Oblichtern	3
+Oblichtes	2
+Oblichts	1
+Obliegenheit
+Obliegenheiten	2
+Obliegenheitsverletzung
+Obliegenheitsverletzungen	2
+Obligation
+Obligationen	2
+Obligationenmarkt
+Obligationenmarktes	2
+Obligationenmarkts	1
+Obligationenmärkte	5arkt
+Obligationenmärkten	6arkt
+Obligationenrecht
+Obligationenrechte	1
+Obligationenrechten	2
+Obligationenrechtes	2
+Obligationenrechts	1
+Obligationsfunktion
+Obligationsfunktionen	2
+Obligationstext
+Obligationstexte	1
+Obligationstexten	2
+Obligationstextes	2
+Obligationstexts	1
+Obligationär
+Obligationäre	1
+Obligationären	2
+Obligationärs	1
+Obligatorien	2um
+Obligatorische	14obligatorisch
+Obligatorischen	1
+Obligatorischere
+Obligatorischeren	1
+Obligatorischste
+Obligatorischsten	1
+Obligatorium
+Obligatoriums	1
+Obligo
+Obligobuch
+Obligobuches	2
+Obligobuchs	1
+Obligobücher	5uch
+Obligobüchern	6uch
+Obligos	1
+Obliquität
+Obliquitäten	2
+Obliteration
+Obliterationen	2
+Oblomowerei
+Oblomowereien	2
+Oblongtablette
+Oblongtabletten	1
+Obmann
+Obmanne	1
+Obmannes	2
+Obmanns	1
+Obmänner	5ann
+Obmännern	6ann
+Obmännin
+Obmänninnen	3
+Oboe
+Oboen	1
+Oboenkonzert
+Oboenkonzerte	1
+Oboenkonzerten	2
+Oboenkonzertes	2
+Oboenkonzerts	1
+Oboer
+Oboerin
+Oboerinnen	3
+Oboern	1
+Oboers	1
+Oboist
+Oboisten	2
+Oboistin
+Oboistinnen	3
+Obolus
+Obolusse	2
+Obolussen	3
+Obop
+Obperson
+Obpersonen	2
+Obrigkeit
+Obrigkeiten	2
+Obrigkeitsdenken
+Obrigkeitsdenkens	1
+Obrigkeitsglaube
+Obrigkeitsglauben	1
+Obrigkeitsglaubens	2
+Obrigkeitsstaat
+Obrigkeitsstaate	1
+Obrigkeitsstaaten	2
+Obrigkeitsstaates	2
+Obrigkeitsstaats	1
+Obrist
+Obristen	2
+Obs	1
+Obschon	7obschon
+Obsekration
+Obsekrationen	2
+Observant
+Observanten	2
+Observanz
+Observanzen	2
+Observation
+Observationen	2
+Observator
+Observatoren	2
+Observatorien	2um
+Observatorium
+Observatoriums	1
+Observators	1
+Observatory
+Observer
+Observierer
+Observierern	1
+Observierers	1
+Observierung
+Observierungen	2
+Obsession
+Obsessionen	2
+Obsessive	9obsessiv
+Obsessiven	1
+Obsessivität
+Obsidian
+Obsidiane	1
+Obsidianen	2
+Obsidians	1
+Obsidianschwert
+Obsidianschwerter	2
+Obsidianschwertern	3
+Obsidianschwertes	2
+Obsidianschwerts	1
+Obskurant
+Obskuranten	2
+Obskurantismen	2us
+Obskurantismus
+Obskurität
+Obskuritäten	2
+Obsoleszenz
+Obsoleszenzen	2
+Obsorge
+Obst
+Obstablieferung
+Obstablieferungen	2
+Obstanbau
+Obstanbaus	1
+Obstanfall
+Obstanfalles	2
+Obstanfalls	1
+Obstanfälle	4all
+Obstanfällen	5all
+Obstangebot
+Obstangebote	1
+Obstangeboten	2
+Obstangebotes	2
+Obstangebots	1
+Obstart
+Obstarten	2
+Obstaufsatz
+Obstaufsatzes	2
+Obstaufsätze	4atz
+Obstaufsätzen	5atz
+Obstbanane
+Obstbananen	1
+Obstbau
+Obstbauberater
+Obstbauberatern	1
+Obstbauberaters	1
+Obstbauer
+Obstbauern	1
+Obstbauers	1
+Obstbaues	2
+Obstbaum
+Obstbaumallee
+Obstbaumalleen	1
+Obstbaumbestand
+Obstbaumbestande	1
+Obstbaumbestandes	2
+Obstbaumbestands	1
+Obstbaumbestände	4and
+Obstbaumbeständen	5and
+Obstbaume	1
+Obstbaumes	2
+Obstbaumgarten
+Obstbaumgartens	1
+Obstbaumgärten	5arten
+Obstbaums	1
+Obstbaumwart
+Obstbaumwarte	1
+Obstbaumwarten	2
+Obstbaumwartes	2
+Obstbaumwarts	1
+Obstbaumwiese
+Obstbaumwiesen	1
+Obstbaus	1
+Obstbesteck
+Obstbestecke	1
+Obstbestecken	2
+Obstbesteckes	2
+Obstbestecks	1
+Obstblüte
+Obstblüten	1
+Obstbrand
+Obstbrande	1
+Obstbrandes	2
+Obstbrands	1
+Obstbrennerei
+Obstbrennereien	2
+Obstbrände	4and
+Obstbränden	5and
+Obstbäumchen
+Obstbäumchens	1
+Obstbäume	4aum
+Obstbäumen	5aum
+Obstcreme
+Obstcremes	1
+Obstcrème
+Obstcrèmes	1
+Obstdarre
+Obstdarren	1
+Obstdiät
+Obstdiäten	2
+Obste	1
+Obsteinkauf
+Obsteinkaufes	2
+Obsteinkaufs	1
+Obsteinkäufe	4auf
+Obsteinkäufen	5auf
+Obsternte
+Obsternten	1
+Obstes	2
+Obstessig
+Obstessige	1
+Obstessigen	2
+Obstessigs	1
+Obstetrices	3x
+Obstetrik
+Obstetrix
+Obstetrizes	3x
+Obstfleck
+Obstflecke	1
+Obstflecken	2
+Obstfleckes	2
+Obstflecks	1
+Obstfrau
+Obstfrauen	2
+Obstgarten
+Obstgartens	1
+Obstgehölz
+Obstgehölze	1
+Obstgehölzen	2
+Obstgehölzes	2
+Obstgeist
+Obstgeiste	1
+Obstgeisten	2
+Obstgeistes	2
+Obstgeists	1
+Obstgeschäft
+Obstgeschäfte	1
+Obstgeschäften	2
+Obstgeschäftes	2
+Obstgeschäfts	1
+Obstgärten	5arten
+Obstgärtner
+Obstgärtnerei
+Obstgärtnereien	2
+Obstgärtnern	1
+Obstgärtners	1
+Obsthandel
+Obsthandels	1
+Obsthof
+Obsthofes	2
+Obsthofs	1
+Obsthorde
+Obsthorden	1
+Obsthändler
+Obsthändlerin
+Obsthändlerinnen	3
+Obsthändlern	1
+Obsthändlers	1
+Obsthöfe	3of
+Obsthöfen	4of
+Obsthürde
+Obsthürden	1
+Obstimport
+Obstimporte	1
+Obstimporten	2
+Obstimportes	2
+Obstimports	1
+Obstination
+Obstipation
+Obstipationen	2
+Obstjahr
+Obstjahre	1
+Obstjahren	2
+Obstjahres	2
+Obstjahrs	1
+Obstkelter
+Obstkeltern	1
+Obstkern
+Obstkerne	1
+Obstkernen	2
+Obstkernes	2
+Obstkerns	1
+Obstkiste
+Obstkisten	1
+Obstkonserve
+Obstkonserven	1
+Obstkonservierung
+Obstkonservierungen	2
+Obstkorb
+Obstkorbes	2
+Obstkorbs	1
+Obstkuchen
+Obstkuchens	1
+Obstkultur
+Obstkulturen	2
+Obstkur
+Obstkuren	2
+Obstkörbe	4orb
+Obstkörben	5orb
+Obstladen
+Obstladens	1
+Obstler
+Obstlern	1
+Obstlers	1
+Obstläden	4aden
+Obstmaische
+Obstmaischen	1
+Obstmarkt
+Obstmarktes	2
+Obstmarkts	1
+Obstmesser
+Obstmessern	1
+Obstmessers	1
+Obstmost
+Obstmoste	1
+Obstmosten	2
+Obstmostes	2
+Obstmosts	1
+Obstmärkte	5arkt
+Obstmärkten	6arkt
+Obstpflanzung
+Obstpflanzungen	2
+Obstpflücker
+Obstpflückern	1
+Obstpflückers	1
+Obstplantage
+Obstplantagen	1
+Obstpresse
+Obstpressen	1
+Obstproduktion
+Obstproduktionen	2
+Obstpulpe
+Obstpulpen	1
+Obstquetsche
+Obstquetschen	1
+Obstrevier
+Obstreviere	1
+Obstrevieren	2
+Obstreviers	1
+Obstruction-Box
+Obstruction-Boxen	2
+Obstructionbox
+Obstructionboxen	2
+Obstruent
+Obstruenten	2
+Obstruktion
+Obstruktionen	2
+Obstruktionsmanöver
+Obstruktionsmanövern	1
+Obstruktionsmanövers	1
+Obstruktionspolitik
+Obstruktionstaktik
+Obstruktionstaktiken	2
+Obsts	1
+Obstsaft
+Obstsafte	1
+Obstsaftes	2
+Obstsafts	1
+Obstsalat
+Obstsalate	1
+Obstsalaten	2
+Obstsalates	2
+Obstsalats	1
+Obstschale
+Obstschalen	1
+Obstschaumwein
+Obstschaumweine	1
+Obstschaumweinen	2
+Obstschaumweines	2
+Obstschaumweins	1
+Obstscheune
+Obstscheunen	1
+Obstschnaps
+Obstschnapse	1
+Obstschnapses	2
+Obstschnäpse	4aps
+Obstschnäpsen	5aps
+Obstschwemme
+Obstschwemmen	1
+Obstschädling
+Obstschädlinge	1
+Obstschädlingen	2
+Obstschädlings	1
+Obstsorte
+Obstsorten	1
+Obstspalier
+Obstspaliere	1
+Obstspalieren	2
+Obstspaliers	1
+Obstspeise
+Obstspeisen	1
+Obststeige
+Obststeigen	1
+Obststiege
+Obststiegen	1
+Obstsuppe
+Obstsuppen	1
+Obstsäfte	4aft
+Obstsäften	5aft
+Obsttag
+Obsttage	1
+Obsttagen	2
+Obsttages	2
+Obsttags	1
+Obstteller
+Obsttellern	1
+Obsttellers	1
+Obsttorte
+Obsttorten	1
+Obstverkäufer
+Obstverkäufern	1
+Obstverkäufers	1
+Obstverwertung
+Obstverwertungen	2
+Obstwein
+Obstweine	1
+Obstweinen	2
+Obstweines	2
+Obstweins	1
+Obstwiese
+Obstwiesen	1
+Obstzeit
+Obstzeiten	2
+Obstzüchter
+Obstzüchtern	1
+Obstzüchters	1
+Obszönität
+Obszönitäten	2
+Obturation
+Obturationen	2
+Obturator
+Obturatore	1
+Obturatoren	2
+Obturators	1
+Obus
+Obuslinie
+Obuslinien	1
+Obusse	2
+Obussen	3
+Obusses	3
+Obwalden
+Obwaldens	1
+Obwohl	6obwohl
+Obzwar	6obzwar
+Obödienz
+Obödienzen	2
+Ocampa
+Occhiarbeit
+Occhiarbeiten	2
+Occhispitze
+Occhispitzen	1
+Occidental
+Occidentals	1
+Ocean
+Ocean-Dumping
+Ocean-Dumpings	1
+Oceandumping
+Oceandumpings	1
+Ochlokratie
+Ochlokratien	1
+Ocho
+Ochos	1
+Ochrea
+Ochreae	1
+Ochs
+Ochse
+Ochsen	1
+Ochsenauge
+Ochsenaugen	1
+Ochsenauges	1
+Ochsenblut
+Ochsenblute	1
+Ochsenblutes	2
+Ochsenbluts	1
+Ochsenbraten
+Ochsenbratens	1
+Ochsenbrust
+Ochsenbrüste	4ust
+Ochsenbrüsten	5ust
+Ochsenfiesel
+Ochsenfieseln	1
+Ochsenfiesels	1
+Ochsenfleisch
+Ochsenfleische	1
+Ochsenfleisches	2
+Ochsenfleischs	1
+Ochsenfrosch
+Ochsenfrosches	2
+Ochsenfroschs	1
+Ochsenfrösche	5osch
+Ochsenfröschen	6osch
+Ochsenfuhrwerk
+Ochsenfuhrwerke	1
+Ochsenfuhrwerken	2
+Ochsenfuhrwerkes	2
+Ochsenfuhrwerks	1
+Ochsengalle
+Ochsengallen	1
+Ochsengeschirr
+Ochsengeschirre	1
+Ochsengeschirren	2
+Ochsengeschirres	2
+Ochsengeschirrs	1
+Ochsengespann
+Ochsengespanne	1
+Ochsengespannen	2
+Ochsengespannes	2
+Ochsengespanns	1
+Ochsenhorn
+Ochsenhornes	2
+Ochsenhorns	1
+Ochsenhörner	5orn
+Ochsenhörnern	6orn
+Ochsenkarre
+Ochsenkarren	1
+Ochsenkarrens	1
+Ochsenknecht
+Ochsenknechte	1
+Ochsenknechten	2
+Ochsenknechtes	2
+Ochsenknechts	1
+Ochsenkopf
+Ochsenkopfe	1
+Ochsenkopfes	2
+Ochsenkopfs	1
+Ochsenkotelett
+Ochsenkotelette	1
+Ochsenkoteletten	2
+Ochsenkotelettes	2
+Ochsenkoteletts	1
+Ochsenkutscher
+Ochsenkutschern	1
+Ochsenkutschers	1
+Ochsenköpfe	4opf
+Ochsenköpfen	5opf
+Ochsenleder
+Ochsenledern	1
+Ochsenleders	1
+Ochsenmaul
+Ochsenmaule	1
+Ochsenmaules	2
+Ochsenmauls	1
+Ochsenmaulsalat
+Ochsenmaulsalate	1
+Ochsenmaulsalaten	2
+Ochsenmaulsalates	2
+Ochsenmaulsalats	1
+Ochsenmäuler	5aul
+Ochsenmäulern	6aul
+Ochsenpaar
+Ochsenpaare	1
+Ochsenpaaren	2
+Ochsenpaares	2
+Ochsenpaars	1
+Ochsenrennen
+Ochsenrennens	1
+Ochsenschleppsuppe
+Ochsenschleppsuppen	1
+Ochsenschwanz
+Ochsenschwanze	1
+Ochsenschwanzes	2
+Ochsenschwanzsuppe
+Ochsenschwanzsuppen	1
+Ochsenschwänze	4anz
+Ochsenschwänzen	5anz
+Ochsentour
+Ochsentouren	2
+Ochsenwurzel
+Ochsenwurzeln	1
+Ochsenziemer
+Ochsenziemern	1
+Ochsenziemers	1
+Ochsenzunge
+Ochsenzungen	1
+Ochserei
+Ocken
+Ocker
+Ockerfarbe
+Ockerfarben	1
+Ockern	1
+Ockers	1
+Ockerton
+Ockertone	1
+Ockertones	2
+Ockertons	1
+Ockertöne	3on
+Ockertönen	4on
+Ockhamismus
+Ockstadt
+Ockstadts	1
+Octadecansäure
+Octan
+Octanal
+Octanals	1
+Octane	1
+Octanen	2
+Octans	1
+Octansäure
+Octylaldehyd
+Octylaldehyds	1
+Odaliske
+Odalisken	1
+Oddzial
+Ode
+Odeen	2um
+Odel
+Odels	1
+Odem
+Odems	1
+Oden	1
+Odenwald
+Odenwaldes	2
+Oder
+Oder-Neiße-Grenze
+Oder-Neiße-Linie
+Oderhaff
+Oderhaffe	1
+Oderhaffes	2
+Oderhaffs	1
+Odermennig
+Odermennige	1
+Odermennigen	2
+Odermenniges	2
+Odermennigs	1
+Oders	1
+Odertal
+Oderufer
+Oderufern	1
+Oderufers	1
+Odessa
+Odeum
+Odeums	1
+Odeur
+Odeure	1
+Odeuren	2
+Odeurs	1
+Odiosität
+Odiositäten	2
+Odium
+Odiums	1
+Odontalgie
+Odontalgien	1
+Odontoblast
+Odontoblasten	2
+Odontogramm
+Odontogramme	1
+Odontogrammen	2
+Odontogramms	1
+Odontologe
+Odontologen	1
+Odontologie
+Odontologische	14odontologisch
+Odontologischen	1
+Odontom
+Odontome	1
+Odontomen	2
+Odontometrie
+Odontoms	1
+Odor
+Odores	2
+Odoriermittel
+Odoriermitteln	1
+Odoriermittels	1
+Odors	1
+Odyssee
+Odysseen	1
+Odysseus
+Odysseus-Syndrom
+Odysseus-Syndrome	1
+Odysseus-Syndromen	2
+Odysseus-Syndroms	1
+Odzak
+Oecd
+Oechslegrad
+Oechslegrade	1
+Oechslegraden	2
+Oechslegrades	2
+Oechslegrads	1
+Oecotrophologie
+Oedenburg
+Oehlen
+Oehring
+Oelkers
+Oenomantie
+Oerter
+Oesophagi	1us
+Oesophagus
+Oesterhelt
+Oetker
+Oettinger
+Of	2of
+Ofen
+Ofenaufsatz
+Ofenaufsatzes	2
+Ofenaufsätze	4atz
+Ofenaufsätzen	5atz
+Ofenauskleidung
+Ofenauskleidungen	2
+Ofenbank
+Ofenbau
+Ofenbauer
+Ofenbauern	1
+Ofenbauers	1
+Ofenbaues	2
+Ofenbaus	1
+Ofenbauten	3
+Ofenbesen
+Ofenbesens	1
+Ofenblech
+Ofenbleche	1
+Ofenblechen	2
+Ofenbleches	2
+Ofenblechs	1
+Ofenbänke	4ank
+Ofenbänken	5ank
+Ofenbühne
+Ofenbühnen	1
+Ofenecke
+Ofenecken	1
+Ofenfarbe
+Ofenfarben	1
+Ofenfeuer
+Ofenfeuern	1
+Ofenfeuers	1
+Ofenfrische
+Ofenfrischen	1
+Ofenfutter
+Ofenfuttern	1
+Ofenfutters	1
+Ofenfuß
+Ofenfußes	2
+Ofenfüllung
+Ofenfüllungen	2
+Ofenfüße	3uß
+Ofenfüßen	4uß
+Ofengabel
+Ofengabeln	1
+Ofenglut
+Ofenhaken
+Ofenhakens	1
+Ofenheizung
+Ofenheizungen	2
+Ofenheizöl
+Ofenheizöle	1
+Ofenheizölen	2
+Ofenheizöles	2
+Ofenheizöls	1
+Ofenhocker
+Ofenhockern	1
+Ofenhockers	1
+Ofenholz
+Ofenholzes	2
+Ofenhölzer	5olz
+Ofenhölzern	6olz
+Ofenkachel
+Ofenkacheln	1
+Ofenkartoffel
+Ofenkartoffeln	1
+Ofenkitt
+Ofenkitte	1
+Ofenkitten	2
+Ofenkittes	2
+Ofenkitts	1
+Ofenklappe
+Ofenklappen	1
+Ofenknie
+Ofenknien	1
+Ofenknies	1
+Ofenkrücke
+Ofenkrücken	1
+Ofenlack
+Ofenlacke	1
+Ofenlacken	2
+Ofenlackes	2
+Ofenlacks	1
+Ofenloch
+Ofenloches	2
+Ofenlochs	1
+Ofenlöcher	5och
+Ofenlöchern	6och
+Ofenplatte
+Ofenplatten	1
+Ofenring
+Ofenringe	1
+Ofenringen	2
+Ofenringes	2
+Ofenrings	1
+Ofenrohr
+Ofenrohre	1
+Ofenrohren	2
+Ofenrohres	2
+Ofenrohrs	1
+Ofenrost
+Ofenroste	1
+Ofenrosten	2
+Ofenrostes	2
+Ofenrosts	1
+Ofenruß
+Ofenruße	1
+Ofenrußen	2
+Ofenrußes	2
+Ofenröhre
+Ofenröhren	1
+Ofens	1
+Ofenschieber
+Ofenschiebern	1
+Ofenschiebers	1
+Ofenschippe
+Ofenschippen	1
+Ofenschirm
+Ofenschirme	1
+Ofenschirmen	2
+Ofenschirmes	2
+Ofenschirms	1
+Ofenschlupfer
+Ofenschlupfern	1
+Ofenschlupfers	1
+Ofensetzer
+Ofensetzerin
+Ofensetzerinnen	3
+Ofensetzern	1
+Ofensetzers	1
+Ofensockel
+Ofensockeln	1
+Ofensockels	1
+Ofentür
+Ofentüren	2
+Ofenwinkel
+Ofenwinkeln	1
+Ofenwinkels	1
+Ofenwärme
+Off
+Off-Cycle-Emission
+Off-Cycle-Emissionen	2
+Off-Roader
+Off-Roadern	1
+Off-Roaders	1
+Off-off-Bühne
+Off-off-Bühnen	1
+Offbeat
+Offbeats	1
+Offenbach
+Offenbacher
+Offenbacherin
+Offenbacherinnen	3
+Offenbachern	1
+Offenbachers	1
+Offenbachs	1
+Offenbaren
+Offenbarende
+Offenbarenden	1
+Offenbarendere
+Offenbarenderen	1
+Offenbarendste
+Offenbarendsten	1
+Offenbarens	1
+Offenbarkeit
+Offenbarkeiten	2
+Offenbarte	10offenbart
+Offenbarten	1
+Offenbarung
+Offenbarungen	2
+Offenbarungseid
+Offenbarungseide	1
+Offenbarungseiden	2
+Offenbarungseides	2
+Offenbarungseids	1
+Offenbarungserlebnis
+Offenbarungserlebnisse	2
+Offenbarungserlebnissen	3
+Offenbarungserlebnisses	3
+Offenbarungsreligion
+Offenbarungsreligionen	2
+Offenbleiben
+Offenbleibende
+Offenbleibenden	1
+Offenbleibens	1
+Offene
+Offenen	1
+Offenere
+Offeneren	1
+Offengebliebene
+Offengebliebenen	1
+Offengehaltene
+Offengehaltenen	1
+Offengehaltenere
+Offengehalteneren	1
+Offengehaltenste
+Offengehaltensten	1
+Offengelassene
+Offengelassenen	1
+Offengelegte
+Offengelegten	1
+Offenhalten
+Offenhaltende
+Offenhaltenden	1
+Offenhaltendere
+Offenhaltenderen	1
+Offenhaltendste
+Offenhaltendsten	1
+Offenhaltens	1
+Offenhaltung
+Offenhaltungen	2
+Offenheit
+Offenheiten	2
+Offenherzige	12offenherzig
+Offenherzigen	1
+Offenherzigere
+Offenherzigeren	1
+Offenherzigkeit
+Offenherzigkeiten	2
+Offenherzigste
+Offenherzigsten	1
+Offenkundige
+Offenkundigen	1
+Offenkundigere
+Offenkundigeren	1
+Offenkundigkeit
+Offenkundigkeiten	2
+Offenkundigste
+Offenkundigsten	1
+Offenlage
+Offenlagen	1
+Offenlandschaft
+Offenlandschaften	2
+Offenlassen
+Offenlassende
+Offenlassenden	1
+Offenlassens	1
+Offenlegen
+Offenlegende
+Offenlegenden	1
+Offenlegens	1
+Offenlegung
+Offenlegungen	2
+Offenlegungsanforderung
+Offenlegungsanforderungen	2
+Offenlegungspflicht
+Offenlegungspflichten	2
+Offenlegungsstichtag
+Offenlegungsstichtage	1
+Offenlegungsstichtagen	2
+Offenlegungsstichtages	2
+Offenmarktausschuss
+Offenmarktausschusses	2
+Offenmarktpolitik
+Offense
+Offenses	1
+Offensichtliche
+Offensichtlichen	1
+Offensichtlichere
+Offensichtlicheren	1
+Offensichtlichkeit
+Offensichtlichkeiten	2
+Offensivboxer
+Offensivboxern	1
+Offensivboxers	1
+Offensivbündnis
+Offensivbündnisse	2
+Offensivbündnissen	3
+Offensivbündnisses	3
+Offensive
+Offensiven	1
+Offensivere
+Offensiveren	1
+Offensivfeuerwerk
+Offensivfeuerwerke	1
+Offensivfeuerwerken	2
+Offensivfeuerwerkes	2
+Offensivfeuerwerks	1
+Offensivfoul
+Offensivfouls	1
+Offensivfußball
+Offensivfußballes	2
+Offensivfußballs	1
+Offensivität
+Offensivkraft
+Offensivkrieg
+Offensivkriege	1
+Offensivkriegen	2
+Offensivkrieges	2
+Offensivkriegs	1
+Offensivkräfte	4aft
+Offensivkräften	5aft
+Offensivpressing
+Offensivpressings	1
+Offensivspektakel
+Offensivspektakeln	1
+Offensivspektakels	1
+Offensivspiel
+Offensivspiele	1
+Offensivspielen	2
+Offensivspieler
+Offensivspielern	1
+Offensivspielers	1
+Offensivspieles	2
+Offensivspiels	1
+Offensivste
+Offensivstellung
+Offensivstellungen	2
+Offensivsten	1
+Offensivtaktik
+Offensivtaktiken	2
+Offensivverteidiger
+Offensivverteidigern	1
+Offensivverteidigers	1
+Offensivwaffe
+Offensivwaffen	1
+Offenstall
+Offenstalles	2
+Offenstalls	1
+Offenste
+Offensten	1
+Offenställe	4all
+Offenställen	5all
+Offenthal
+Offenthals	1
+Offerent
+Offerenten	2
+Offerieren
+Offerierende
+Offerierenden	1
+Offerierens	1
+Offerierte	10offeriert
+Offerierten	1
+Offert
+Offerte
+Offerten	1
+Offertes	2
+Offertingenieur
+Offertingenieure	1
+Offertingenieuren	2
+Offertingenieurs	1
+Offerts	1
+Office-Paket
+Office-Pakete	1
+Office-Paketen	2
+Office-Pakets	1
+Officepaket
+Officepakete	1
+Officepaketen	2
+Officepaketes	2
+Officepakets	1
+Offizial
+Offizialat
+Offizialate	1
+Offizialaten	2
+Offizialates	2
+Offizialats	1
+Offizialdelikt
+Offizialdelikte	1
+Offizialdelikten	2
+Offizialdeliktes	2
+Offizialdelikts	1
+Offiziale	1
+Offizialen	2
+Offizialmaxime
+Offizialprinzip
+Offizialprinzips	1
+Offizials	1
+Offizialvergehen
+Offizialvergehens	1
+Offizialverteidiger
+Offizialverteidigern	1
+Offizialverteidigers	1
+Offiziant
+Offizianten	2
+Offizielle	10offiziell
+Offiziellem	1
+Offiziellen	1
+Offizieller	1
+Offiziellere
+Offizielleren	1
+Offiziellste
+Offiziellsten	1
+Offizien	2um
+Offizier
+Offizieranwärter
+Offizieranwärtern	1
+Offizieranwärters	1
+Offiziercasino
+Offiziercasinos	1
+Offiziere	1
+Offizieren	2
+Offizieres	2
+Offizierin
+Offizierinnen	3
+Offizierkasino
+Offizierkasinos	1
+Offiziermesse
+Offiziermessen	1
+Offiziers	1
+Offiziersanwärter
+Offiziersanwärtern	1
+Offiziersanwärters	1
+Offiziersbursche
+Offiziersburschen	1
+Offizierscasino
+Offizierscasinos	1
+Offizierscharge
+Offizierschargen	1
+Offiziersdegen
+Offiziersdegens	1
+Offiziersdienstgrad
+Offiziersdienstgrade	1
+Offiziersdienstgraden	2
+Offiziersdienstgrades	2
+Offiziersdienstgrads	1
+Offiziersehre
+Offiziersehren	1
+Offiziersfamilie
+Offiziersfamilien	1
+Offiziersideal
+Offiziersideale	1
+Offiziersidealen	2
+Offiziersideals	1
+Offiziersjunta
+Offiziersjuntas	1
+Offiziersjunten	2a
+Offizierskajüte
+Offizierskajüten	1
+Offizierskamarilla
+Offizierskamarillas	1
+Offizierskamarillen	2a
+Offizierskasino
+Offizierskasinos	1
+Offizierskaste
+Offizierskasten	1
+Offizierslehrgang
+Offizierslehrganges	2
+Offizierslehrgangs	1
+Offizierslehrgänge	4ang
+Offizierslehrgängen	5ang
+Offiziersmesse
+Offiziersmessen	1
+Offiziersmilieu
+Offiziersmilieus	1
+Offizierspatent
+Offizierspatente	1
+Offizierspatenten	2
+Offizierspatentes	2
+Offizierspatents	1
+Offizierspuff
+Offizierspuffes	2
+Offizierspuffs	1
+Offiziersputsch
+Offiziersputsche	1
+Offiziersputschen	2
+Offiziersputsches	2
+Offiziersputschs	1
+Offiziersrevolte
+Offiziersrevolten	1
+Offiziersschärpe
+Offiziersschärpen	1
+Offiziersskat
+Offiziersskate	1
+Offiziersskates	2
+Offiziersskats	1
+Offiziersstellvertreter
+Offiziersstellvertretern	1
+Offiziersstellvertreters	1
+Offizierssäbel
+Offizierssäbeln	1
+Offizierssäbels	1
+Offizin
+Offizinen	2
+Offiziosität
+Offizium
+Offiziums	1
+Offroader
+Offroadern	1
+Offroaders	1
+Offroadfahren
+Offroadfahrens	1
+Offroadfahrzeug
+Offroadfahrzeuge	1
+Offroadfahrzeugen	2
+Offroadfahrzeuges	2
+Offs	1
+Offseason
+Offseasons	1
+Offset
+Offsetantenne
+Offsetantennen	1
+Offsetdruck
+Offsetdrucke	1
+Offsetdrucken	2
+Offsetdrucker
+Offsetdruckern	1
+Offsetdruckers	1
+Offsetdruckes	2
+Offsetdruckmaschine
+Offsetdruckmaschinen	1
+Offsetdrucks	1
+Offsetdruckverfahren
+Offsetdruckverfahrens	1
+Offsetpapier
+Offsetpapiere	1
+Offsetpapieren	2
+Offsetpapiers	1
+Offsets	1
+Offshore-Bohrung
+Offshore-Bohrungen	2
+Offshore-Technik
+Offshore-Techniken	2
+Offshorebohrung
+Offshorebohrungen	2
+Offshoretechnik
+Offshorewindpark
+Offshorewindparke	1
+Offshorewindparken	2
+Offshorewindparkes	2
+Offshorewindparks	1
+Offshorewindpärke	4ark
+Offshorewindpärken	5ark
+Offshoring
+Offshorings	1
+Offside
+Offsides	1
+Offspace
+Offspaces	1
+Offsprecher
+Offsprecherin
+Offsprecherinnen	3
+Offsprechern	1
+Offsprechers	1
+Offstimme
+Offstimmen	1
+Offtheater
+Offtheatern	1
+Offtheaters	1
+Ofra
+Oft	3oft
+Ofteringer
+Oganesson
+Oganessons	1
+Ogata
+Oger
+Ogern	1
+Ogers	1
+Oggersheim
+Ogham-Schrift
+Oghamschrift
+Ogi
+Ogis	1
+Ogivalstil
+Ogivalstiles	2
+Ogivalstils	1
+Oglalla
+Oglio
+Oglios	1
+Ogmios
+Ogoni
+Ogoni-Gebiet
+Ogoni-Volk
+Ogoni-Volkes	2
+Ogoniland
+Oh
+Ohad
+Ohb-System
+Oheim
+Oheime	1
+Oheimen	2
+Oheims	1
+Ohio
+Ohios	1
+Ohm
+Ohme	1
+Ohmen	2
+Ohmes	2
+Ohmmeter
+Ohmmetern	1
+Ohmmeters	1
+Ohms	1
+Ohne	4ohne
+Ohne-mich-Standpunkt
+Ohne-mich-Standpunkte	1
+Ohne-mich-Standpunkten	2
+Ohne-mich-Standpunktes	2
+Ohne-mich-Standpunkts	1
+Ohnehaltflug
+Ohnehaltfluges	2
+Ohnehaltflugs	1
+Ohnehaltflüge	3ug
+Ohnehaltflügen	4ug
+Ohnehose
+Ohnehosen	1
+Ohnemichel
+Ohnemicheln	1
+Ohnemichels	1
+Ohnmacht
+Ohnmachten	2
+Ohnmachtsanfall
+Ohnmachtsanfalle	1
+Ohnmachtsanfalles	2
+Ohnmachtsanfalls	1
+Ohnmachtsanfälle	4all
+Ohnmachtsanfällen	5all
+Ohnmachtsanwandlung
+Ohnmachtsanwandlungen	2
+Ohnmachtsgefühl
+Ohnmachtsgefühle	1
+Ohnmachtsgefühlen	2
+Ohnmachtsgefühles	2
+Ohnmachtsgefühls	1
+Ohnmachtshappen
+Ohnmachtshappens	1
+Ohnmächtige	11ohnmächtig
+Ohnmächtigen	1
+Ohnmächtigere
+Ohnmächtigeren	1
+Ohnmächtigste
+Ohnmächtigsten	1
+Ohr
+Ohrclip
+Ohrclips	1
+Ohre	1
+Ohren	2
+Ohrenarzt
+Ohrenarztes	2
+Ohrenbeichte
+Ohrenbeichten	1
+Ohrenbetäubende	15ohrenbetäubend
+Ohrenbetäubenden	1
+Ohrenbetäubendere
+Ohrenbetäubenderen	1
+Ohrenbläser
+Ohrenbläserei
+Ohrenbläsereien	2
+Ohrenbläsern	1
+Ohrenbläsers	1
+Ohrenentzündung
+Ohrenentzündungen	2
+Ohrenheilkunde
+Ohrenkerze
+Ohrenkerzen	1
+Ohrenkitzel
+Ohrenkitzeln	1
+Ohrenkitzels	1
+Ohrenklappe
+Ohrenklappen	1
+Ohrenklingeln
+Ohrenklingelns	1
+Ohrenklingen
+Ohrenklingens	1
+Ohrenkneifer
+Ohrenkneifern	1
+Ohrenkneifers	1
+Ohrenkrankheit
+Ohrenkrankheiten	2
+Ohrenkriecher
+Ohrenkriechern	1
+Ohrenkriechers	1
+Ohrenlaufen
+Ohrenlaufens	1
+Ohrenmensch
+Ohrenmenschen	2
+Ohrenqualle
+Ohrenquallen	1
+Ohrenrobbe
+Ohrenrobben	1
+Ohrensausen
+Ohrensausens	1
+Ohrenschmalz
+Ohrenschmalze	1
+Ohrenschmalzen	2
+Ohrenschmalzes	2
+Ohrenschmaus
+Ohrenschmauses	2
+Ohrenschmerz
+Ohrenschmerzen	2
+Ohrenschmerzes	2
+Ohrenschmäuse	4aus
+Ohrenschmäusen	5aus
+Ohrenschützer
+Ohrenschützern	1
+Ohrenschützers	1
+Ohrensessel
+Ohrensesseln	1
+Ohrensessels	1
+Ohrenspiegel
+Ohrenspiegeln	1
+Ohrenspiegels	1
+Ohrenstuhl
+Ohrenstuhles	2
+Ohrenstuhls	1
+Ohrenstöpsel
+Ohrenstöpseln	1
+Ohrenstöpsels	1
+Ohrenstühle	4uhl
+Ohrenstühlen	5uhl
+Ohrentaucher
+Ohrentauchern	1
+Ohrentauchers	1
+Ohrenweide
+Ohrenweiden	1
+Ohrenzeuge
+Ohrenzeugen	1
+Ohrenzeugin
+Ohrenzeuginnen	3
+Ohrenärzte	5arzt
+Ohrenärzten	6arzt
+Ohres	2
+Ohreule
+Ohreulen	1
+Ohrfeige
+Ohrfeigen	1
+Ohrfeigende
+Ohrfeigenden	1
+Ohrfeigengesicht
+Ohrfeigengesichte	1
+Ohrfeigengesichter	2
+Ohrfeigengesichtern	3
+Ohrfeigengesichtes	2
+Ohrfeigengesichts	1
+Ohrfeigens	1
+Ohrgehänge
+Ohrgehängen	1
+Ohrgehänges	1
+Ohrgewölbe
+Ohrgewölben	1
+Ohrgewölbes	1
+Ohrhänger
+Ohrhängern	1
+Ohrhängers	1
+Ohrhörer
+Ohrhörern	1
+Ohrhörers	1
+Ohrinfarkt
+Ohrinfarkte	1
+Ohrinfarkten	2
+Ohrinfarktes	2
+Ohrinfarkts	1
+Ohrklipp
+Ohrklipps	1
+Ohrknopf
+Ohrknopfes	2
+Ohrknopfs	1
+Ohrknöpfe	4opf
+Ohrknöpfen	5opf
+Ohrloch
+Ohrloche	1
+Ohrloches	2
+Ohrlochs	1
+Ohrläppchen
+Ohrläppchens	1
+Ohrlöcher	5och
+Ohrlöchern	6och
+Ohrlöffel
+Ohrlöffeln	1
+Ohrlöffels	1
+Ohrmarke
+Ohrmarken	1
+Ohrmuschel
+Ohrmuscheln	1
+Ohrperle
+Ohrperlen	1
+Ohrpinsel
+Ohrpinseln	1
+Ohrpinsels	1
+Ohrring
+Ohrringe	1
+Ohrringen	2
+Ohrringes	2
+Ohrrings	1
+Ohrs	1
+Ohrschmuck
+Ohrschmucke	1
+Ohrschmucken	2
+Ohrschmuckes	2
+Ohrspeicheldrüse
+Ohrspeicheldrüsen	1
+Ohrspeicheldrüsenentzündung
+Ohrspeicheldrüsenentzündungen	2
+Ohrstecker
+Ohrsteckern	1
+Ohrsteckers	1
+Ohrstäbchen
+Ohrstäbchens	1
+Ohrstöpsel
+Ohrstöpseln	1
+Ohrstöpsels	1
+Ohrtrompete
+Ohrtrompeten	1
+Ohrwaschel
+Ohrwascheln	1
+Ohrwaschels	1
+Ohrwurm
+Ohrwurme	1
+Ohrwurmes	2
+Ohrwurms	1
+Ohrwürmer	5urm
+Ohrwürmern	6urm
+Ohs	1
+Oidien	2um
+Oidium
+Oidiums	1
+Oie
+Oien	1
+Oikoi	1s
+Oikos
+Oinochoe
+Oinochoen	1
+Oinomantie
+Ojibwa
+Oka
+Okapi
+Okapis	1
+Okarina
+Okarinas	1
+Okarinen	2a
+Okavango
+Okavangos	1
+Okay
+Okays	1
+Oker
+Okinawa
+Okinawas	1
+Okkasion
+Okkasionalismen	2us
+Okkasionalismus
+Okkasionelle	12okkasionell
+Okkasionellen	1
+Okkasionen	2
+Okkludieren
+Okkludierende
+Okkludierenden	1
+Okkludierens	1
+Okkludierte	11okkludiert
+Okkludierten	1
+Okklusion
+Okklusionen	2
+Okklusiv
+Okklusive	9okklusiv
+Okklusiven	1
+Okklusivpessar
+Okklusivpessare	1
+Okklusivpessaren	2
+Okklusivpessars	1
+Okklusivs	1
+Okklusivverband
+Okklusivverbandes	2
+Okklusivverbands	1
+Okklusivverbände	4and
+Okklusivverbänden	5and
+Okkultation
+Okkultationen	2
+Okkulte
+Okkulten	1
+Okkultismen	2us
+Okkultismus
+Okkultist
+Okkultisten	2
+Okkultistin
+Okkultistinnen	3
+Okkultistische	14okkultistisch
+Okkultistischen	1
+Okkulttäter
+Okkulttätern	1
+Okkulttäters	1
+Okkupant
+Okkupanten	2
+Okkupation
+Okkupationen	2
+Okkupationsgebiet
+Okkupationsgebiete	1
+Okkupationsgebieten	2
+Okkupationsgebietes	2
+Okkupationsgebiets	1
+Okkupationsheer
+Okkupationsheere	1
+Okkupationsheeren	2
+Okkupationsheeres	2
+Okkupationsheers	1
+Okkupationsmacht
+Okkupationsmächte	5acht
+Okkupationsmächten	6acht
+Okkupationspolitik
+Okkupationstruppe
+Okkupationstruppen	1
+Okkupationszeit
+Okkupationszeiten	2
+Okkupator
+Okkupatoren	2
+Okkupators	1
+Okkupieren
+Okkupierende
+Okkupierenden	1
+Okkupierendere
+Okkupierenderen	1
+Okkupierendste
+Okkupierendsten	1
+Okkupierens	1
+Okkupierte	10okkupiert
+Okkupierten	1
+Okkupiertere
+Okkupierteren	1
+Okkupierteste
+Okkupiertesten	1
+Okkurrenz
+Okkurrenzen	2
+Oklahoma
+Oklahoma-City
+Okolyt
+Okolyten	2
+Okonomiyaki
+Okonomiyakis	1
+Okra
+Okras	1
+Oktachord
+Oktachorde	1
+Oktachorden	2
+Oktachordes	2
+Oktachords	1
+Oktacyanomolybdat
+Oktacyanomolybdate	1
+Oktacyanomolybdaten	2
+Oktacyanomolybdats	1
+Oktaeder
+Oktaedern	1
+Oktaeders	1
+Oktaederstumpf
+Oktaederstumpfes	2
+Oktaederstumpfs	1
+Oktaederstümpfe	5umpf
+Oktaederstümpfen	6umpf
+Oktagon
+Oktagone	1
+Oktagonen	2
+Oktagons	1
+Oktalfolge
+Oktalfolgen	1
+Oktalsystem
+Oktalsysteme	1
+Oktalsystemen	2
+Oktalsystems	1
+Oktalzahl
+Oktalzahlen	2
+Oktan
+Oktane	1
+Oktanen	2
+Oktans	1
+Oktant
+Oktanten	2
+Oktanzahl
+Oktanzahlen	2
+Oktateuch
+Oktateuchs	1
+Oktav
+Oktava
+Oktavband
+Oktavbandes	2
+Oktavbands	1
+Oktavblatt
+Oktavblattes	2
+Oktavblatts	1
+Oktavblätter	5att
+Oktavblättern	6att
+Oktavbände	4and
+Oktavbänden	5and
+Oktave
+Oktaven	1
+Oktavenzeichen
+Oktavenzeichens	1
+Oktavformat
+Oktavformates	2
+Oktavformats	1
+Oktavgröße
+Oktavheft
+Oktavhefte	1
+Oktavheften	2
+Oktavheftes	2
+Oktavhefts	1
+Oktavian
+Oktavs	1
+Oktavseite
+Oktavseiten	1
+Oktavzahl
+Oktavzahlen	2
+Oktett
+Oktette	1
+Oktetten	2
+Oktettes	2
+Oktetts	1
+Oktilliarde
+Oktilliarden	1
+Oktillion
+Oktillionen	2
+Oktober
+Oktoberabend
+Oktoberabende	1
+Oktoberabenden	2
+Oktoberabends	1
+Oktoberausgabe
+Oktoberausgaben	1
+Oktoberfest
+Oktoberfestattentat
+Oktoberfestattentates	2
+Oktoberfestattentats	1
+Oktoberfeste	1
+Oktoberfesten	2
+Oktoberfestes	2
+Oktoberfests	1
+Oktoberheft
+Oktoberhefte	1
+Oktoberheften	2
+Oktoberheftes	2
+Oktoberhefts	1
+Oktoberhimmel
+Oktoberhimmeln	1
+Oktoberhimmels	1
+Oktoberhälfte
+Oktoberhälften	1
+Oktobermorgen
+Oktobermorgens	1
+Oktobern	1
+Oktobernacht
+Oktobernächte	5acht
+Oktobernächten	6acht
+Oktoberrevolution
+Oktobers	1
+Oktobertag
+Oktobertage	1
+Oktobertagen	2
+Oktobertages	2
+Oktobertags	1
+Oktoberwoche
+Oktoberwochen	1
+Oktoberwochenende
+Oktoberwochenenden	1
+Oktoberwochenendes	1
+Oktobrist
+Oktobristen	2
+Oktogon
+Oktogone	1
+Oktogonen	2
+Oktogons	1
+Oktole
+Oktolen	1
+Oktologie
+Oktologien	1
+Oktopode
+Oktopoden	4us
+Oktopus
+Oktopusse	2
+Oktopussen	3
+Oktroi
+Oktrois	1
+Okular
+Okulare	1
+Okularen	1
+Okularglas
+Okularglases	2
+Okulargläser	4as
+Okulargläsern	5as
+Okularlinse
+Okularlinsen	1
+Okulars	1
+Okularschärfe
+Okularschärfen	1
+Okuli
+Okuliermesser
+Okuliermessern	1
+Okuliermessers	1
+Okzident
+Okzidents	1
+Okzipitallappen
+Okzipitallappens	1
+Okzitanier
+Okzitaniern	1
+Okzitaniers	1
+Okzitanisch
+Okzitanischs	1
+Okzitanistik
+Olaf
+Olafs	1
+Olam
+Olau
+Olaus	1
+Old
+Olda
+Oldbie
+Oldbies	1
+Oldenburg
+Oldenburger
+Oldenburgerin
+Oldenburgerinnen	3
+Oldenburgern	1
+Oldenburgers	1
+Oldenburgs	1
+Oldie
+Oldies	1
+Oldowan
+Oldowans	1
+Oldschool
+Oldtimer
+Oldtimer-Kennzeichen
+Oldtimer-Kennzeichens	1
+Oldtimerbesitzer
+Oldtimerbesitzern	1
+Oldtimerbesitzers	1
+Oldtimerkennzeichen
+Oldtimerkennzeichens	1
+Oldtimermuseen	2um
+Oldtimermuseum
+Oldtimermuseums	1
+Oldtimern	1
+Oldtimers	1
+Olea	1um
+Oleales
+Oleander
+Oleandern	1
+Oleanders	1
+Oleanderschwärmer
+Oleanderschwärmern	1
+Oleanderschwärmers	1
+Oleaster
+Oleastern	1
+Oleasters	1
+Oleat
+Oleate	1
+Oleaten	2
+Oleates	2
+Oleats	1
+Olefin
+Olefine	1
+Olefinen	2
+Olefins	1
+Oleg
+Olein
+Oleine	1
+Oleinen	2
+Oleins	1
+Oleinsäure
+Oleksy
+Oleosklerom
+Oleosklerome	1
+Oleoskleromen	2
+Oleoskleroms	1
+Oleum
+Oleums	1
+Olf
+Olfaktometer
+Olfaktometern	1
+Olfaktometers	1
+Olfaktometrie
+Olfaktophilie
+Olfaktophilien	1
+Olfaktoria	1um
+Olfaktorien	2um
+Olfaktorium
+Olfaktoriums	1
+Olfaktorius
+Olfaktus
+Olfen
+Olfens	1
+Olga
+Olgas	1
+Olifant
+Olifante	1
+Olifanten	2
+Olifantes	2
+Olifants	1
+Oligarch
+Oligarchen	2
+Oligarchie
+Oligarchien	1
+Oligarchin
+Oligarchinnen	3
+Oligomer
+Oligomere	1
+Oligomeren	2
+Oligomers	1
+Oligophagie
+Oligophrenie
+Oligophrenien	1
+Oligopol
+Oligopole	1
+Oligopolen	2
+Oligopolisierung
+Oligopolisierungen	2
+Oligopolist
+Oligopolisten	2
+Oligopolistin
+Oligopolistinnen	3
+Oligopols	1
+Oligosaccharid
+Oligosaccharide	1
+Oligosacchariden	2
+Oligosaccharids	1
+Oligozythämie
+Oligozythämien	1
+Oligozän
+Oligozäns	1
+Oligurie
+Oligurien	1
+Olimar
+Oliv
+Olive
+Oliven	1
+Olivenanbau
+Olivenanbaues	2
+Olivenanbaus	1
+Olivenbauer
+Olivenbauern	1
+Olivenbauers	1
+Olivenbaum
+Olivenbaume	1
+Olivenbaumes	2
+Olivenbaums	1
+Olivenbrot
+Olivenbrote	1
+Olivenbroten	2
+Olivenbrotes	2
+Olivenbrots	1
+Olivenbäumchen
+Olivenbäumchens	1
+Olivenbäume	4aum
+Olivenbäumen	5aum
+Olivenernte
+Olivenernten	1
+Olivengarten
+Olivengartens	1
+Olivengeruch
+Olivengeruches	2
+Olivengeruchs	1
+Olivengerüche	4uch
+Olivengerüchen	5uch
+Olivengärten	5arten
+Olivenhain
+Olivenhaine	1
+Olivenhainen	2
+Olivenhaines	2
+Olivenhains	1
+Olivenholz
+Olivenholze	1
+Olivenholzes	2
+Olivenhölzer	5olz
+Olivenhölzern	6olz
+Olivenkern
+Olivenkerne	1
+Olivenkernen	2
+Olivenkernes	2
+Olivenpaste
+Olivenpasten	1
+Olivenplantage
+Olivenplantagen	1
+Olivenstein
+Olivensteine	1
+Olivensteinen	2
+Olivensteines	2
+Olivenzweig
+Olivenzweige	1
+Olivenzweigen	2
+Olivenzweiges	2
+Olivenzweigs	1
+Olivenöl
+Olivenöle	1
+Olivenölen	2
+Olivenöles	2
+Olivenöls	1
+Oliver
+Olivers	1
+Olivetti
+Olivetti-Konzern
+Olivier
+Olivin
+Olivine	1
+Olivinen	2
+Olivins	1
+Olivs	1
+Olle	4oll
+Ollem	1
+Ollen	1
+Oller	1
+Ollere
+Olleren	1
+Ollste
+Ollsten	1
+Olm
+Olme	1
+Olmeke
+Olmeken	1
+Olmen	2
+Olmes	2
+Olms	1
+Olmsteadit
+Olmsteadite	1
+Olmsteaditen	2
+Olmsteadits	1
+Olmütz
+Olmütz'	1
+Olof
+Oloiboro
+Olpe
+Olpes	1
+Olsen
+Olszewski
+Olymp
+Olympia
+Olympia-Befürworter
+Olympia-Befürwortern	1
+Olympia-Befürworters	1
+Olympia-Teilnahme
+Olympia-Teilnahmen	1
+Olympiaabzeichen
+Olympiaabzeichens	1
+Olympiaaufgebot
+Olympiaaufgebote	1
+Olympiaaufgeboten	2
+Olympiaaufgebotes	2
+Olympiaaufgebots	1
+Olympiaauswahl
+Olympiaauswahlen	2
+Olympiabefürworter
+Olympiabefürwortern	1
+Olympiabefürworters	1
+Olympiabewerbung
+Olympiabewerbungen	2
+Olympiablase
+Olympiablasen	1
+Olympiaboykott
+Olympiaboykotte	1
+Olympiaboykotten	2
+Olympiaboykottes	2
+Olympiaboykotts	1
+Olympiade
+Olympiadelegation
+Olympiadelegationen	2
+Olympiaden	1
+Olympiadorf
+Olympiadorfe	1
+Olympiadorfes	2
+Olympiadorfs	1
+Olympiadritte
+Olympiadrittem	1
+Olympiadritten	1
+Olympiadritter	1
+Olympiadörfer	5orf
+Olympiadörfern	6orf
+Olympiaflagge
+Olympiaflaggen	1
+Olympiagegner
+Olympiagegnern	1
+Olympiagegners	1
+Olympiagelände
+Olympiageländen	1
+Olympiageländes	1
+Olympiagold
+Olympiagoldes	2
+Olympiagolds	1
+Olympiajahr
+Olympiajahre	1
+Olympiajahren	2
+Olympiajahres	2
+Olympiajahrs	1
+Olympiakader
+Olympiakadern	1
+Olympiakaders	1
+Olympiakandidat
+Olympiakandidaten	2
+Olympiakomitee
+Olympiakomitees	1
+Olympiakämpfer
+Olympiakämpfern	1
+Olympiakämpfers	1
+Olympiamannschaft
+Olympiamannschaften	2
+Olympiamedaille
+Olympiamedaillen	1
+Olympianorm
+Olympianormen	2
+Olympiapferd
+Olympiapferde	1
+Olympiapferden	2
+Olympiapferdes	2
+Olympiapferds	1
+Olympiaqualifikation
+Olympiaqualifikationen	2
+Olympias	1
+Olympiasieg
+Olympiasiege	1
+Olympiasiegen	2
+Olympiasieger
+Olympiasiegerin
+Olympiasiegerinnen	3
+Olympiasiegern	1
+Olympiasiegers	1
+Olympiasieges	2
+Olympiasiegs	1
+Olympiaslalom
+Olympiaslaloms	1
+Olympiastadien	2on
+Olympiastadion
+Olympiastadions	1
+Olympiastadt
+Olympiastädte	4adt
+Olympiastädten	5adt
+Olympiastützpunkt
+Olympiastützpunkte	1
+Olympiastützpunkten	2
+Olympiastützpunktes	2
+Olympiastützpunkts	1
+Olympiateilnahme
+Olympiateilnahmen	1
+Olympiateilnehmer
+Olympiateilnehmerin
+Olympiateilnehmerinnen	3
+Olympiateilnehmern	1
+Olympiateilnehmers	1
+Olympiaticket
+Olympiatickets	1
+Olympiatraum
+Olympiatraumes	2
+Olympiatraums	1
+Olympiatriumph
+Olympiatriumphe	1
+Olympiatriumphen	2
+Olympiatriumphes	2
+Olympiatriumphs	1
+Olympiaträume	4aum
+Olympiaträumen	5aum
+Olympiavierte
+Olympiaviertem	1
+Olympiavierten	1
+Olympiavierter	1
+Olympiazweite	0r
+Olympiazweitem	1r
+Olympiazweiten	1r
+Olympiazweiter
+Olympic
+Olympien	2a
+Olympier
+Olympierin
+Olympierinnen	3
+Olympiern	1
+Olympiers	1
+Olympionike
+Olympioniken	1
+Olympionikin
+Olympionikinnen	3
+Olympische	10olympisch
+Olympischen	11olympisch
+Olymps	1
+Oma
+Omalgie
+Omalgien	1
+Omama
+Omamas	1
+Oman
+Omaner
+Omanerin
+Omanerinnen	3
+Omanern	1
+Omaners	1
+Omani
+Omanis	1
+Omans	1
+Omar
+Omas	1
+Ombrograf
+Ombrografen	2
+Ombrograph
+Ombrographen	2
+Ombrometer
+Ombrometern	1
+Ombrometers	1
+Ombudsbüro
+Ombudsbüros	1
+Ombudsfrau
+Ombudsfrauen	2
+Ombudsleute	5mann
+Ombudsleuten	6mann
+Ombudsmann
+Ombudsmannes	2
+Ombudsmanns	1
+Ombudsmänner	5ann
+Ombudsmännern	6ann
+Ombudsperson
+Ombudspersonen	2
+Omega
+Omega-3-Fettsäure
+Omega-3-Fettsäuren	1
+Omegas	1
+Omelett
+Omelette	1
+Omeletten	1
+Omelettes	2
+Omeletts	1
+Omen
+Omens	1
+Omertà
+Omi
+Omicevic
+Omikron
+Omikron-Variante
+Omikrons	1
+Omikronvariante
+Omikronvarianten	1
+Omina	3en
+Ominöse	7ominös
+Ominösen	1
+Ominösere
+Ominöseren	1
+Ominöseste
+Ominösesten	1
+Omiramba	6uramba
+Omiramben	7uramba
+Omis	1
+Omission
+Omissionen	2
+Omissivdelikt
+Omissivdelikte	1
+Omissivdelikten	2
+Omissivdeliktes	2
+Omissivdelikts	1
+Omittieren
+Omittierende
+Omittierenden	1
+Omittierens	1
+Omittierte	10omittiert
+Omittierten	1
+Omme
+Ommen	1
+Omnibus
+Omnibusbahnhof
+Omnibusbahnhofes	2
+Omnibusbahnhofs	1
+Omnibusbahnhofsvorsteherassistentenhilfsanwärterlehrling
+Omnibusbahnhofsvorsteherassistentenhilfsanwärterlehrlinge	1
+Omnibusbahnhofsvorsteherassistentenhilfsanwärterlehrlingen	2
+Omnibusbahnhofsvorsteherassistentenhilfsanwärterlehrlings	1
+Omnibusbahnhöfe	3of
+Omnibusbahnhöfen	4of
+Omnibusbetriebshof
+Omnibusbetriebshofes	2
+Omnibusbetriebshofs	1
+Omnibusbetriebshöfe	3of
+Omnibusbetriebshöfen	4of
+Omnibusdepot
+Omnibusdepots	1
+Omnibusfahrer
+Omnibusfahrern	1
+Omnibusfahrers	1
+Omnibusfahrt
+Omnibusfahrten	2
+Omnibusgesellschaft
+Omnibusgesellschaften	2
+Omnibushaltestelle
+Omnibushaltestellen	1
+Omnibushof
+Omnibushofes	2
+Omnibushofs	1
+Omnibushöfe	3of
+Omnibushöfen	4of
+Omnibuslinie
+Omnibuslinien	1
+Omnibusnetz
+Omnibusnetze	1
+Omnibusnetzen	2
+Omnibusnetzes	2
+Omnibusreise
+Omnibusreisen	1
+Omnibusschaffner
+Omnibusschaffnern	1
+Omnibusschaffners	1
+Omnibusse	2
+Omnibussen	3
+Omnibusses	3
+Omnibusverfahren
+Omnibusverfahrens	1
+Omnien	2um
+Omnipotente	11omnipotent
+Omnipotenten	1
+Omnipotentere
+Omnipotenteren	1
+Omnipotenteste
+Omnipotentesten	1
+Omnipotenz
+Omnipotenzgefühl
+Omnipotenzgefühle	1
+Omnipotenzgefühlen	2
+Omnipotenzgefühls	1
+Omnipräsente
+Omnipräsenten	1
+Omnipräsenz
+Omniszienz
+Omnium
+Omniums	1
+Omniumversicherung
+Omniumversicherungen	2
+Omnivore
+Omnivoren	1
+Omophagie
+Omul
+Omule	1
+Omulen	2
+Omules	2
+Omuls	1
+Omuramba
+Omurambas	1
+Omuramben	2a
+On
+On-off-Beziehung
+On-off-Beziehungen	2
+Onager
+Onagern	1
+Onagers	1
+Onanie
+Onanieren
+Onanierende
+Onanierenden	1
+Onanierens	1
+Onanierte	9onaniert
+Onanierten	1
+Onanist
+Onanisten	2
+Onanistin
+Onanistinnen	3
+Onassis
+Onboarding
+Onboardings	1
+Ondatra
+Ondit
+Ondits	1
+Ondulation
+Ondulationen	2
+Ondulierstab
+Ondulierstabes	2
+Ondulierstabs	1
+Ondulierstäbe	3ab
+Ondulierstäben	4ab
+Ondulierung
+Ondulierungen	2
+One
+One-Hit-Wonder
+One-Hit-Wondern	1
+One-Hit-Wonders	1
+One-Man-Show
+One-Man-Shows	1
+One-Night-Stand
+One-Night-Stands	1
+One-Touch-Fußball
+One-Touch-Fußballes	2
+One-Touch-Fußballs	1
+One-Way-Flug
+One-Way-Fluges	2
+One-Way-Flugs	1
+One-Way-Flüge	3ug
+One-Way-Flügen	4ug
+Onegasee
+Onegasees	1
+Onegin
+Oneirologie
+Oneiromantie
+Oneiromantien	1
+Oneironaut
+Oneironauten	2
+Onera	3us
+Onesie
+Onesies	1
+Oniomanie
+Onkel
+Onkelehe
+Onkelehen	1
+Onkelhafte
+Onkelhaften	1
+Onkelhaftere
+Onkelhafteren	1
+Onkelhafteste
+Onkelhaftesten	1
+Onkeln	1
+Onkels	1
+Onkogen
+Onkogene	1
+Onkogenen	2
+Onkogenese
+Onkogenesen	1
+Onkogens	1
+Onkoid
+Onkoide	1
+Onkoiden	2
+Onkoids	1
+Onkologe
+Onkologen	1
+Onkologie
+Onkologien	1
+Onkologin
+Onkologinnen	3
+Onkologische	12onkologisch
+Onkologischen	1
+Onkolyse
+Onkolysen	1
+Online
+Online-Aktivität
+Online-Aktivitäten	2
+Online-Anbieter
+Online-Anbietern	1
+Online-Anbieters	1
+Online-Angebot
+Online-Angebote	1
+Online-Angeboten	2
+Online-Angebotes	2
+Online-Angebots	1
+Online-Apotheke
+Online-Apotheken	1
+Online-Archiv
+Online-Archive	1
+Online-Archiven	2
+Online-Archives	2
+Online-Archivs	1
+Online-Auftritt
+Online-Auktion
+Online-Auktionen	2
+Online-Ausgabe
+Online-Ausgaben	1
+Online-Banking
+Online-Bereich
+Online-Bereiche	1
+Online-Bereichen	2
+Online-Bereiches	2
+Online-Bereichs	1
+Online-Bestellung
+Online-Bestellungen	2
+Online-Betrieb
+Online-Betriebe	1
+Online-Betrieben	2
+Online-Betriebes	2
+Online-Betriebs	1
+Online-Broker
+Online-Casino
+Online-Casinos	1
+Online-Datenbankdienst
+Online-Datenbankdienste	1
+Online-Datenbankdiensten	2
+Online-Datenbankdienstes	2
+Online-Datenbankdiensts	1
+Online-Dienst
+Online-Dienste	1
+Online-Diensten	2
+Online-Dienstes	2
+Online-Diensts	1
+Online-Durchsuchung
+Online-Durchsuchungen	2
+Online-Formular
+Online-Formulare	1
+Online-Formularen	2
+Online-Formulares	2
+Online-Formulars	1
+Online-Gaming
+Online-Gamings	1
+Online-Geschäft
+Online-Geschäfte	1
+Online-Geschäften	2
+Online-Geschäftes	2
+Online-Geschäfts	1
+Online-Handel
+Online-Handels	1
+Online-Händler
+Online-Händlerin
+Online-Händlerinnen	3
+Online-Händlern	1
+Online-Händlers	1
+Online-Journalismus
+Online-Kasino
+Online-Kasinos	1
+Online-Kommunikation
+Online-Kommunikationen	2
+Online-Kriminalität
+Online-Kriminalitäten	2
+Online-Marketing
+Online-Medien	2um
+Online-Medium
+Online-Petition
+Online-Petitionen	2
+Online-Plattform
+Online-Plattformen	2
+Online-Portal
+Online-Portale	1
+Online-Portalen	2
+Online-Portals	1
+Online-Recherche
+Online-Recherchen	1
+Online-Recht
+Online-Rechte	1
+Online-Rechten	2
+Online-Rechtes	2
+Online-Rechts	1
+Online-Redaktion
+Online-Redaktionen	2
+Online-Service
+Online-Shop
+Online-Shopping
+Online-Shops	1
+Online-Spiel
+Online-Spiele	1
+Online-Spielen	2
+Online-Spieles	2
+Online-Spiels	1
+Online-Suche
+Online-Suchen	1
+Online-Text
+Online-Texte	1
+Online-Texten	2
+Online-Textes	2
+Online-Texts	1
+Online-Ticket
+Online-Tickets	1
+Online-Umfrage
+Online-Umfragen	1
+Online-Unterricht
+Online-Unterrichtes	2
+Online-Unterrichts	1
+Online-Verhalten
+Online-Verhaltens	1
+Online-Welt
+Online-Werbung
+Online-Werbungen	2
+Online-Wörterbuch
+Online-Wörterbuches	2
+Online-Wörterbuchs	1
+Online-Wörterbücher	5uch
+Online-Wörterbüchern	6uch
+Online-Zeit
+Online-Zeitung
+Online-Zeitungen	2
+Online-Zugang
+Online-Überweisung
+Online-Überweisungen	2
+Onlineaktivität
+Onlineaktivitäten	2
+Onlineaktualisierung
+Onlineaktualisierungen	2
+Onlineanbieter
+Onlineanbietern	1
+Onlineanbieters	1
+Onlineangebot
+Onlineangebote	1
+Onlineangeboten	2
+Onlineangebotes	2
+Onlineangebots	1
+Onlineapotheke
+Onlineapotheken	1
+Onlinearchiv
+Onlinearchive	1
+Onlinearchiven	2
+Onlinearchives	2
+Onlinearchivs	1
+Onlineauftritt
+Onlineauftritte	1
+Onlineauftritten	2
+Onlineauftrittes	2
+Onlineauftritts	1
+Onlineauktion
+Onlineauktionen	2
+Onlineausgabe
+Onlineausgaben	1
+Onlinebanking
+Onlinebankings	1
+Onlinebereich
+Onlinebereiche	1
+Onlinebereichen	2
+Onlinebereiches	2
+Onlinebereichs	1
+Onlinebestellung
+Onlinebestellungen	2
+Onlinebetrieb
+Onlinebetriebes	2
+Onlinebetriebs	1
+Onlinebibliothek
+Onlinebibliotheken	2
+Onlinebroker
+Onlinebrokerin
+Onlinebrokerinnen	3
+Onlinebrokern	1
+Onlinebrokers	1
+Onlinebörse
+Onlinebörsen	1
+Onlinecasino
+Onlinecasinos	1
+Onlinedatenbankdienst
+Onlinedatenbankdienste	1
+Onlinedatenbankdiensten	2
+Onlinedatenbankdienstes	2
+Onlinedatenbankdiensts	1
+Onlinedating
+Onlinedatings	1
+Onlinedienst
+Onlinedienste	1
+Onlinediensten	2
+Onlinedienstes	2
+Onlinediensts	1
+Onlinedurchsuchung
+Onlinedurchsuchungen	2
+Onlineflirt
+Onlineflirts	1
+Onlineforen	2um
+Onlineformular
+Onlineformulare	1
+Onlineformularen	2
+Onlineformulares	2
+Onlineformulars	1
+Onlineforum
+Onlineforums	1
+Onlinegeschäft
+Onlinegeschäfte	1
+Onlinegeschäften	2
+Onlinegeschäftes	2
+Onlinegeschäfts	1
+Onlinehandel
+Onlinehandels	1
+Onlinehilfe
+Onlinehilfen	1
+Onlinehändler
+Onlinehändlerin
+Onlinehändlerinnen	3
+Onlinehändlern	1
+Onlinehändlers	1
+Onlinejournalismus
+Onlinekasino
+Onlinekasinos	1
+Onlinekatalog
+Onlinekataloge	1
+Onlinekatalogen	2
+Onlinekataloges	2
+Onlinekatalogs	1
+Onlinekommunikation
+Onlinekriminalität
+Onlinekriminalitäten	2
+Onlinemarketing
+Onlinemarketings	1
+Onlinemedien	2um
+Onlinemedium
+Onlinemediums	1
+Onlinepetition
+Onlinepetitionen	2
+Onlineplattform
+Onlineplattformen	2
+Onlineportal
+Onlineportale	1
+Onlineportalen	2
+Onlineportals	1
+Onlinepublishing
+Onlinepublishings	1
+Onlinerecherche
+Onlinerecherchen	1
+Onlinerecht
+Onlinerechte	1
+Onlinerechten	2
+Onlinerechtes	2
+Onlinerechts	1
+Onlineredaktion
+Onlineredaktionen	2
+Onlineservice
+Onlineservices	1
+Onlineshop
+Onlineshopping
+Onlineshoppings	1
+Onlineshops	1
+Onlinespiel
+Onlinespiele	1
+Onlinespielen	2
+Onlinespieles	2
+Onlinespiels	1
+Onlinesuche
+Onlinesuchen	1
+Onlinesucht
+Onlinetext
+Onlinetexte	1
+Onlinetexten	2
+Onlinetextes	2
+Onlinetexts	1
+Onlineticket
+Onlinetickets	1
+Onlineumfrage
+Onlineumfragen	1
+Onlineunterricht
+Onlineunterrichtes	2
+Onlineunterrichts	1
+Onlineverhalten
+Onlineverhaltens	1
+Onlineversion
+Onlineversionen	2
+Onlinevideo
+Onlinevideos	1
+Onlinewache
+Onlinewachen	1
+Onlinewelt
+Onlinewelten	2
+Onlinewerbung
+Onlinewerbungen	2
+Onlinewörterbuch
+Onlinewörterbuches	2
+Onlinewörterbuchs	1
+Onlinewörterbücher	5uch
+Onlinewörterbüchern	6uch
+Onlinezeit
+Onlinezeitung
+Onlinezeitungen	2
+Onlinezugang
+Onlinezugange	1
+Onlinezuganges	2
+Onlinezugangs	1
+Onlinezugänge	4ang
+Onlinezugängen	5ang
+Onlineüberweisung
+Onlineüberweisungen	2
+Onnasch
+Onnen
+Onno
+Ono
+Onoldsbach
+Onoldsbaches	2
+Onoldsbachs	1
+Onolzbach
+Onolzbaches	2
+Onolzbachs	1
+Onomantie
+Onomasiologie
+Onomastik
+Onomatologie
+Onomatopoesie
+Onomatopoesien	1
+Onomatopoetica	1on
+Onomatopoeticon
+Onomatopoeticons	1
+Onomatopoetika	1on
+Onomatopoetikon
+Onomatopoetikons	1
+Onomatopoetikum
+Onomatopoetikums	1
+Onomatopöie
+Onomatopöien	1
+Ons	1
+Onshoretechnik
+Onsprecher
+Onsprechern	1
+Onsprechers	1
+Onstimme
+Onstimmen	1
+Ont
+Ontario
+Ontarioapfel
+Ontarioapfels	1
+Ontariosee
+Ontariosees	1
+Ontarioäpfel	5apfel
+Ontarioäpfeln	6apfel
+Ontogenese
+Ontogenie
+Ontogenien	1
+Ontologe
+Ontologen	1
+Ontologie
+Ontologiebeschreibungssprache
+Ontologiebeschreibungssprachen	1
+Ontologien	1
+Ontologische
+Ontologischen	1
+Ontologisierung
+Ontologisierungen	2
+Onus
+Onychogrypose
+Onychogryposen	1
+Onychomykose
+Onychomykosen	1
+Onychophagie
+Onychophagien	1
+Onyx
+Onyxe	1
+Onyxen	2
+Onyxes	2
+Oogamie
+Oolemma
+Oolemmas	1
+Oolemmata	2
+Oolemmen	2a
+Oolith
+Oolithen	2
+Oologe
+Oologen	1
+Oologie
+Oomyzeten
+Oona
+Oophora	1on
+Oophorektomie
+Oophorektomien	1
+Oophoritiden	3s
+Oophoritis
+Oophorohysterektomie
+Oophorohysterektomien	1
+Oophoron
+Oophorons	1
+Oophoropathie
+Oophoropathien	1
+Oophorosalpingektomie
+Oophorosalpingektomien	1
+Oophorosalpingitiden	3s
+Oophorosalpingitis
+Ooplasma
+Ooplasmas	1
+Ooplasmen	2a
+Oozyt
+Oozyte
+Oozyten	2
+Op
+Op-Art
+Op-Artist
+Op-Artisten	2
+Opa
+Opakglas
+Opakglases	2
+Opakgläser	4as
+Opakgläsern	5as
+Opal
+Opale	1
+Opalen	2
+Opaleszenz
+Opalglas
+Opalglases	2
+Opalgläser	4as
+Opalgläsern	5as
+Opals	1
+Opanke
+Opanken	1
+Opapa
+Opapas	1
+Opas	1
+Opaschowski
+Opazität
+Opazitäten	2
+Opec
+Opel
+Opels	1
+Open
+Open-Air-Bühne
+Open-Air-Bühnen	1
+Open-Air-Festival
+Open-Air-Festivals	1
+Open-Air-Kino
+Open-Air-Kinos	1
+Open-Air-Konzert
+Open-Air-Konzerte	1
+Open-Air-Konzerten	2
+Open-Air-Konzertes	2
+Open-Air-Konzerts	1
+Open-World-Spiel
+Open-World-Spiele	1
+Open-World-Spielen	2
+Open-World-Spieles	2
+Open-World-Spiels	1
+Opener
+Openern	1
+Openers	1
+Oper
+Opera
+Operabilität
+Operable	8operabel
+Operablen	1
+Operand
+Operanden	2
+Operat
+Operate	1
+Operaten	2
+Operates	2
+Operateur
+Operateure	1
+Operateuren	2
+Operateurs	1
+Operation
+Operationalisierung
+Operationalisierungen	2
+Operationalität
+Operationen	2
+Operationsbasen	2is
+Operationsbasis
+Operationsbericht
+Operationsberichte	1
+Operationsberichten	2
+Operationsberichtes	2
+Operationsberichts	1
+Operationsbesteck
+Operationsbestecke	1
+Operationsbestecken	2
+Operationsbesteckes	2
+Operationsbestecks	1
+Operationsdauer
+Operationsdauern	1
+Operationsfeld
+Operationsfelder	2
+Operationsfeldern	3
+Operationsfeldes	2
+Operationsfelds	1
+Operationsforschung
+Operationsforschungen	2
+Operationsfähigkeit
+Operationsfähigkeiten	2
+Operationsgebiet
+Operationsgebiete	1
+Operationsgebieten	2
+Operationsgebiets	1
+Operationsindikation
+Operationsindikationen	2
+Operationsklammer
+Operationsklammern	1
+Operationslampe
+Operationslampen	1
+Operationsleuchte
+Operationsleuchten	1
+Operationsmaske
+Operationsmasken	1
+Operationsmethode
+Operationsmethoden	1
+Operationsnarbe
+Operationsnarben	1
+Operationsplan
+Operationsplanes	2
+Operationsplans	1
+Operationspläne	3an
+Operationsplänen	4an
+Operationsraum
+Operationsraume	1
+Operationsraumes	2
+Operationsraums	1
+Operationsroboter
+Operationsrobotern	1
+Operationsroboters	1
+Operationsräume	4aum
+Operationsräumen	5aum
+Operationssaal
+Operationssaale	1
+Operationssaales	2
+Operationssaals	1
+Operationsschwester
+Operationsschwestern	1
+Operationssäle	3aal
+Operationssälen	4aal
+Operationsteam
+Operationsteams	1
+Operationstechnik
+Operationstechniken	2
+Operationstisch
+Operationstische	1
+Operationstischen	2
+Operationstisches	2
+Operationstischs	1
+Operationstrakt
+Operationstrakte	1
+Operationstrakten	2
+Operationstraktes	2
+Operationstrakts	1
+Operationsverfahren
+Operationsverfahrens	1
+Operationsweise
+Operationsweisen	1
+Operationszeichen
+Operationszeichens	1
+Operationsziel
+Operationsziele	1
+Operationszielen	2
+Operationszieles	2
+Operationsziels	1
+Operative	9operativ
+Operativen	1
+Operativität
+Operativplan
+Operativplanes	2
+Operativplans	1
+Operativpläne	3an
+Operativplänen	4an
+Operativstab
+Operativstabes	2
+Operativstabs	1
+Operativstäbe	3ab
+Operativstäben	4ab
+Operator
+Operatore	1
+Operatoren	2
+Operatorin
+Operatorinnen	3
+Operators	1
+Operats	1
+Operette
+Operetten	1
+Operettenbuffi	1o
+Operettenbuffo
+Operettenbuffos	1
+Operettenfilm
+Operettenfilme	1
+Operettenfilmen	2
+Operettenfilmes	2
+Operettenfilms	1
+Operettenkomponist
+Operettenkomponisten	2
+Operettenkomponistin
+Operettenkomponistinnen	3
+Operettenkonzert
+Operettenkonzerte	1
+Operettenkonzerten	2
+Operettenkonzertes	2
+Operettenkonzerts	1
+Operettenlibretti	1o
+Operettenlibrettist
+Operettenlibrettisten	2
+Operettenlibretto
+Operettenlibrettos	1
+Operettenmelodie
+Operettenmelodien	1
+Operettenmusik
+Operettenmusiken	2
+Operettenschlager
+Operettenschlagern	1
+Operettenschlagers	1
+Operettenstaat
+Operettenstaaten	2
+Operettenstaates	2
+Operettenstaats	1
+Operettenstar
+Operettenstars	1
+Operettensänger
+Operettensängerin
+Operettensängerinnen	3
+Operettensängern	1
+Operettensängers	1
+Operettentenor
+Operettentenors	1
+Operettentenöre	3or
+Operettentenören	4or
+Operettentext
+Operettentexte	1
+Operettentexten	2
+Operettentextes	2
+Operettentexts	1
+Operettentheater
+Operettentheatern	1
+Operettentheaters	1
+Operieren
+Operierende
+Operierenden	1
+Operierens	1
+Operierte	9operiert
+Operierten	1
+Operment
+Opermente	1
+Opermenten	2
+Opermentes	2
+Operments	1
+Opern	1
+Opernarie
+Opernarien	1
+Opernaufführung
+Opernaufführungen	2
+Opernball
+Opernballe	1
+Opernballes	2
+Opernballett
+Opernballette	1
+Opernballetten	2
+Opernballettes	2
+Opernballetts	1
+Opernballs	1
+Opernbesuch
+Opernbesuche	1
+Opernbesuchen	2
+Opernbesuches	2
+Opernbesuchs	1
+Opernbuffi	1o
+Opernbuffo
+Opernbuffos	1
+Opernbälle	4all
+Opernbällen	5all
+Opernbühne
+Opernbühnen	1
+Operndebüt
+Operndebüts	1
+Operndirektor
+Operndirektoren	2
+Operndirektors	1
+Opernduett
+Opernduette	1
+Opernduetten	2
+Opernduettes	2
+Opernduetts	1
+Opernensemble
+Opernensembles	1
+Opernfan
+Opernfans	1
+Opernfassung
+Opernfassungen	2
+Opernfestspiel
+Opernfestspiele	1
+Opernfestspielen	2
+Opernfestspieles	2
+Opernfestspiels	1
+Opernfreund
+Opernfreunde	1
+Opernfreunden	2
+Opernfreundes	2
+Opernfreunds	1
+Opernführer
+Opernführern	1
+Opernführers	1
+Opernglas
+Opernglase	1
+Opernglases	2
+Operngläser	4as
+Operngläsern	5as
+Operngucker
+Opernguckern	1
+Opernguckers	1
+Opernhaus
+Opernhause	1
+Opernhauses	2
+Opernheld
+Opernhelden	2
+Opernhäuser	5aus
+Opernhäusern	6aus
+Opernintendant
+Opernintendanten	2
+Opernkarte
+Opernkarten	1
+Opernkomponist
+Opernkomponisten	2
+Opernkomponistin
+Opernkomponistinnen	3
+Opernkonzert
+Opernkonzerte	1
+Opernkonzerten	2
+Opernkonzertes	2
+Opernkonzerts	1
+Opernkritiker
+Opernkritikern	1
+Opernkritikers	1
+Opernlandschaft
+Opernlandschaften	2
+Opernlibretti	1o
+Opernlibrettist
+Opernlibrettisten	2
+Opernlibretto
+Opernlibrettos	1
+Opernloge
+Opernlogen	1
+Opernmelodie
+Opernmelodien	1
+Opernmusik
+Opernmusiken	2
+Opernname
+Opernnamen	1
+Opernnamens	2
+Opernpartitur
+Opernpartituren	2
+Opernplatte
+Opernplatten	1
+Opernregie
+Opernregien	1
+Opernregisseur
+Opernregisseure	1
+Opernregisseuren	2
+Opernregisseurs	1
+Opernspektakel
+Opernspektakeln	1
+Opernspektakels	1
+Opernstar
+Opernstars	1
+Opernsänger
+Opernsängerin
+Opernsängerinnen	3
+Opernsängern	1
+Opernsängers	1
+Operntenor
+Operntenors	1
+Operntenöre	3or
+Operntenören	4or
+Operntext
+Operntexte	1
+Operntexten	2
+Operntextes	2
+Operntexts	1
+Opfer
+Opfer-Abo
+Opfer-Abos	1
+Opferaltar
+Opferaltares	2
+Opferaltars	1
+Opferaltäre	3ar
+Opferaltären	4ar
+Opferanode
+Opferanoden	1
+Opferanwalt
+Opferanwalte	1
+Opferanwalten	2
+Opferanwaltes	2
+Opferanwalts	1
+Opferanwälte	4alt
+Opferanwälten	5alt
+Opferbecken
+Opferbeckens	1
+Opferberatung
+Opferberatungen	2
+Opferbereite	12opferbereit
+Opferbereiten	1
+Opferbereitere
+Opferbereiteren	1
+Opferbereiteste
+Opferbereitesten	1
+Opferbereitschaft
+Opferbrauch
+Opferbrauches	2
+Opferbrauchs	1
+Opferbräuche	5auch
+Opferbräuchen	6auch
+Opferbüchse
+Opferbüchsen	1
+Opferdasein
+Opferdaseins	1
+Opferfamilie
+Opferfamilien	1
+Opferfarre
+Opferfarren	1
+Opferfest
+Opferfeste	1
+Opferfesten	2
+Opferfestes	2
+Opferfests	1
+Opferfeuer
+Opferfeuern	1
+Opferfeuers	1
+Opferfreudigkeit
+Opfergabe
+Opfergaben	1
+Opfergang
+Opferganges	2
+Opfergangs	1
+Opfergeist
+Opfergeistes	2
+Opfergeists	1
+Opfergeld
+Opfergelder	2
+Opfergeldern	3
+Opfergeldes	2
+Opfergelds	1
+Opfergrenze
+Opfergrenzen	1
+Opfergruppe
+Opfergruppen	1
+Opfergänge	4ang
+Opfergängen	5ang
+Opferhain
+Opferhaine	1
+Opferhainen	2
+Opferhaines	2
+Opferhains	1
+Opferhilfe
+Opferhilfen	1
+Opferinitiative
+Opferinitiativen	1
+Opferkasten
+Opferkastens	1
+Opferkerze
+Opferkerzen	1
+Opferkult
+Opferkulte	1
+Opferkulten	2
+Opferkultes	2
+Opferkults	1
+Opferkästchen
+Opferkästchens	1
+Opferkästen	5asten
+Opferlade
+Opferladen	1
+Opferlamm
+Opferlammes	2
+Opferlamms	1
+Opferlämmer	5amm
+Opferlämmern	6amm
+Opfermahl
+Opfermahle	1
+Opfermahlen	2
+Opfermahles	2
+Opfermahls	1
+Opfermentalität
+Opfermentalitäten	2
+Opfermesser
+Opfermessern	1
+Opfermessers	1
+Opfermut
+Opfermutes	2
+Opfermuts	1
+Opfermähler	5ahl
+Opfermählern	6ahl
+Opfern	1
+Opfernde
+Opfernden	1
+Opfernotruf
+Opfernotrufes	2
+Opfernotrufs	1
+Opferns	1
+Opferperspektive
+Opferperspektiven	1
+Opferpfennig
+Opferpfennige	1
+Opferpfennigen	2
+Opferpfennigs	1
+Opferrente
+Opferrenten	1
+Opferrolle
+Opferrollen	1
+Opfers	1
+Opferschaf
+Opferschafe	1
+Opferschafen	2
+Opferschafes	2
+Opferschafs	1
+Opferschale
+Opferschalen	1
+Opferschutz
+Opferschutzes	2
+Opferstock
+Opferstocke	1
+Opferstockes	2
+Opferstocks	1
+Opferstätte
+Opferstätten	1
+Opferstöcke	4ock
+Opferstöcken	5ock
+Opfertier
+Opfertiere	1
+Opfertieren	2
+Opfertieres	2
+Opfertiers	1
+Opfertisch
+Opfertische	1
+Opfertischen	2
+Opfertisches	2
+Opfertischs	1
+Opfertod
+Opfertode	1
+Opfertoden	2
+Opfertodes	2
+Opfertods	1
+Opferung
+Opferungen	2
+Opferverband
+Opferverbandes	2
+Opferverbands	1
+Opferverbände	4and
+Opferverbänden	5and
+Opferwillige	12opferwillig
+Opferwilligen	1
+Opferwilligere
+Opferwilligeren	1
+Opferwilligkeit
+Opferwilligste
+Opferwilligsten	1
+Opferzahl
+Opferzahlen	2
+Ophikleide
+Ophikleiden	1
+Ophiolatrie
+Ophiolatrien	1
+Ophiologie
+Ophiotoxin
+Ophiotoxine	1
+Ophiotoxinen	2
+Ophiotoxins	1
+Ophthalmiatrie
+Ophthalmiatrik
+Ophthalmie
+Ophthalmien	1
+Ophthalmika	1um
+Ophthalmikum
+Ophthalmikums	1
+Ophthalmoblennorrhö
+Ophthalmoblennorrhöen	2
+Ophthalmologe
+Ophthalmologen	1
+Ophthalmologie
+Ophthalmologin
+Ophthalmologinnen	3
+Ophthalmoplegie
+Ophthalmoplegien	1
+Ophthalmoskop
+Ophthalmoskope	1
+Ophthalmoskopen	2
+Ophthalmoskopie
+Ophthalmoskopien	1
+Ophthalmoskops	1
+Ophtiole
+Ophtiolen	1
+Opi
+Opiat
+Opiate	1
+Opiaten	2
+Opiates	2
+Opiats	1
+Opioid
+Opioide	1
+Opioiden	2
+Opioids	1
+Opis	1
+Opisthognathie
+Opisthognathien	1
+Opisthograf
+Opisthografe	1
+Opisthografen	2
+Opisthografs	1
+Opisthograph
+Opisthographe	1
+Opisthographen	2
+Opisthographs	1
+Opium
+Opiumgenuss
+Opiumgenusses	2
+Opiumgenüsse	4uss
+Opiumgenüssen	5uss
+Opiumhandel
+Opiumhandels	1
+Opiumhöhle
+Opiumhöhlen	1
+Opiumhölle
+Opiumhöllen	1
+Opiumkrieg
+Opiumkriege	1
+Opiumkriegen	2
+Opiumkrieges	2
+Opiumkriegs	1
+Opiumpfeife
+Opiumpfeifen	1
+Opiumproduktion
+Opiumproduktionen	2
+Opiumpräparat
+Opiumpräparate	1
+Opiumpräparaten	2
+Opiumpräparates	2
+Opiumpräparats	1
+Opiumraucher
+Opiumraucherin
+Opiumraucherinnen	3
+Opiumrauchern	1
+Opiumrauchers	1
+Opiumrausch
+Opiumrausches	2
+Opiumrauschs	1
+Opiumräusche	6ausch
+Opiumräuschen	7ausch
+Opiums	1
+Opiumschmuggel
+Opiumschmuggels	1
+Opiumsucht
+Opiumvergiftung
+Opiumvergiftungen	2
+Opodeldok
+Opodeldoks	1
+Opolifi
+Opossum
+Opossums	1
+Oppeln
+Oppelns	1
+Oppenheim
+Oppenheimer
+Oppenheimern	1
+Oppenheimers	1
+Oppida	1um
+Oppidum
+Oppidums	1
+Opponent
+Opponenten	2
+Opponentin
+Opponentinnen	3
+Opponieren
+Opponierende
+Opponierenden	1
+Opponierendere
+Opponierenderen	1
+Opponierendste
+Opponierendsten	1
+Opponierens	1
+Opponierte	10opponiert
+Opponierten	1
+Opponiertere
+Opponierteren	1
+Opponierteste
+Opponiertesten	1
+Opportune
+Opportunen	1
+Opportunismus
+Opportunist
+Opportunisten	2
+Opportunistische
+Opportunistischen	1
+Opportunistischere
+Opportunistischeren	1
+Opportunität
+Opportunitäten	2
+Opportunitätskosten
+Opportunitätsprinzip
+Opportunitätsprinzipien	3
+Opportunitätsprinzips	1
+Opposition
+Oppositionelle	0r
+Oppositionellem	1r
+Oppositionellen	1
+Oppositioneller
+Oppositionen	2
+Oppositionsabgeordnete
+Oppositionsabgeordnetem	1
+Oppositionsabgeordneten	1
+Oppositionsabgeordneter	1
+Oppositionsantrag
+Oppositionsantrage	1
+Oppositionsantrages	2
+Oppositionsantrags	1
+Oppositionsanträge	3ag
+Oppositionsanträgen	4ag
+Oppositionsarbeit
+Oppositionsbank
+Oppositionsbewegung
+Oppositionsbewegungen	2
+Oppositionsbänke	4ank
+Oppositionsbänken	5ank
+Oppositionsbündnis
+Oppositionsbündnisse	2
+Oppositionsbündnissen	3
+Oppositionsbündnisses	3
+Oppositionschef
+Oppositionschefs	1
+Oppositionsfraktion
+Oppositionsfraktionen	2
+Oppositionsführer
+Oppositionsführerin
+Oppositionsführerinnen	3
+Oppositionsführern	1
+Oppositionsführers	1
+Oppositionsgeist
+Oppositionsgeister	2
+Oppositionsgeistern	3
+Oppositionsgeistes	2
+Oppositionsgeists	1
+Oppositionsgruppe
+Oppositionsgruppen	1
+Oppositionskandidat
+Oppositionskandidaten	2
+Oppositionskraft
+Oppositionskritik
+Oppositionskritiken	2
+Oppositionskräfte	4aft
+Oppositionskräften	5aft
+Oppositionskämpfer
+Oppositionskämpfern	1
+Oppositionskämpfers	1
+Oppositionslager
+Oppositionslagern	1
+Oppositionslagers	1
+Oppositionsparade
+Oppositionsparaden	1
+Oppositionspartei
+Oppositionsparteien	2
+Oppositionspolitik
+Oppositionspolitiken	2
+Oppositionspolitiker
+Oppositionspolitikerin
+Oppositionspolitikerinnen	3
+Oppositionspolitikern	1
+Oppositionspolitikers	1
+Oppositionsrecht
+Oppositionsrechte	1
+Oppositionsrechten	2
+Oppositionsrechtes	2
+Oppositionsrechts	1
+Oppositionsrolle
+Oppositionsrollen	1
+Oppositionsvorschlag
+Oppositionsvorschlages	2
+Oppositionsvorschlags	1
+Oppositionsvorschläge	3ag
+Oppositionsvorschlägen	4ag
+Oppositionswort
+Oppositionsworte	1
+Oppositionsworten	2
+Oppositionswortes	2
+Oppositionsworts	1
+Oppositionswörter	5ort
+Oppositionswörtern	6ort
+Oppositionszeit
+Oppositionszeiten	2
+Oppositionszeitung
+Oppositionszeitungen	2
+Oppression
+Oppressionen	2
+Opsin
+Opsine	1
+Opsinen	2
+Opsins	1
+Opsonin
+Opsonine	1
+Opsoninen	2
+Opsonins	1
+Opt-in
+Opt-out
+Opt-outs	1
+Optant
+Optanten	2
+Optativ
+Optative	1
+Optativen	2
+Optativs	1
+Optic
+Optik
+Optiken	2
+Optiker
+Optikerin
+Optikerinnen	3
+Optikerkette
+Optikerketten	1
+Optikern	1
+Optikers	1
+Optikrechner
+Optikrechnern	1
+Optikrechners	1
+Optima	1um
+Optimale	8optimal
+Optimalen	1
+Optimalfall
+Optimalfalle	1
+Optimalfalles	2
+Optimalfalls	1
+Optimalfarbe
+Optimalfarben	1
+Optimalfälle	4all
+Optimalfällen	5all
+Optimalität
+Optimalitäten	2
+Optimat
+Optimaten	2
+Optimatin
+Optimatinnen	3
+Optimieren
+Optimierende
+Optimierenden	1
+Optimierendere
+Optimierenderen	1
+Optimierendste
+Optimierendsten	1
+Optimierens	1
+Optimierte	10optimiert
+Optimierten	1
+Optimiertere
+Optimierteren	1
+Optimierteste
+Optimiertesten	1
+Optimierung
+Optimierungen	2
+Optimierungsmodell
+Optimierungsmodelle	1
+Optimierungsmodellen	2
+Optimierungsmodelles	2
+Optimierungsmodells	1
+Optimierungsproblem
+Optimierungsprobleme	1
+Optimierungsproblemen	2
+Optimierungsproblems	1
+Optimismus
+Optimist
+Optimisten	2
+Optimistin
+Optimistinnen	3
+Optimistische	13optimistisch
+Optimistischen	1
+Optimistischere
+Optimistischeren	1
+Optimistischste
+Optimistischsten	1
+Optimum
+Optimums	1
+Option
+Optionen	2
+Optionsanleihe
+Optionsanleihen	1
+Optionsfeld
+Optionsfelde	1
+Optionsfelder	2
+Optionsfeldern	3
+Optionsfeldes	2
+Optionsfelds	1
+Optionsgeschäft
+Optionsgeschäfte	1
+Optionsgeschäften	2
+Optionsgeschäftes	2
+Optionsgeschäfts	1
+Optionsmodell
+Optionsmodelle	1
+Optionsmodellen	2
+Optionsmodells	1
+Optionspreis
+Optionspreise	1
+Optionspreisen	2
+Optionspreises	2
+Optionsprämie
+Optionsprämien	1
+Optionsrecht
+Optionsrechte	1
+Optionsrechten	2
+Optionsrechtes	2
+Optionsrechts	1
+Optionsschaltfläche
+Optionsschaltflächen	1
+Optionsschein
+Optionsscheine	1
+Optionsscheinen	2
+Optionsscheines	2
+Optionsscheins	1
+Optionsschreiber
+Optionsschreibern	1
+Optionsschreibers	1
+Optionswert
+Optionswerte	1
+Optionswerten	2
+Optionswertes	2
+Optionswerts	1
+Optische	8optisch
+Optischen	1
+Optoelektronik
+Optometer
+Optometern	1
+Optometers	1
+Optometrie
+Optometrist
+Optometristen	2
+Opuczinski
+Opulente	8opulent
+Opulenten	1
+Opulentere
+Opulenteren	1
+Opulenteste
+Opulentesten	1
+Opulenz
+Opuntie
+Opuntien	1
+Opus
+Ora
+Oracle
+Oracle-Chef
+Orakel
+Orakeln	1
+Orakels	1
+Orakelspruch
+Orakelspruches	2
+Orakelspruchs	1
+Orakelsprüche	4uch
+Orakelsprüchen	5uch
+Oralerotik
+Oralhistory
+Oralität
+Oralsex
+Oralsexes	2
+Oralverkehr
+Oralverkehre	1
+Oralverkehres	2
+Oralverkehrs	1
+Orang-Utan
+Orang-Utan-Eröffnung
+Orang-Utan-Eröffnungen	2
+Orang-Utans	1
+Orange
+Orangeade
+Orangeaden	1
+Orangeat
+Orangeate	1
+Orangeaten	2
+Orangeates	2
+Orangeats	1
+Orangebecherling
+Orangebecherlinge	1
+Orangebecherlingen	2
+Orangebecherlings	1
+Orangebuch
+Orangebuches	2
+Orangebuchs	1
+Orangebücher	5uch
+Orangebüchern	6uch
+Orangefleckwaldsänger
+Orangefleckwaldsängern	1
+Orangefleckwaldsängers	1
+Orangeköpfchen
+Orangeköpfchens	1
+Orangen	1
+Orangenbaum
+Orangenbaume	1
+Orangenbaumes	2
+Orangenbaums	1
+Orangenblüte
+Orangenblüten	1
+Orangenbäumchen
+Orangenbäumchens	1
+Orangenbäume	4aum
+Orangenbäumen	5aum
+Orangenessenz
+Orangenessenzen	2
+Orangenfilet
+Orangenfilets	1
+Orangenhaut
+Orangenhäute	4aut
+Orangenhäuten	5aut
+Orangenjuice
+Orangenjuices	1
+Orangenkern
+Orangenkerne	1
+Orangenkernen	2
+Orangenkernes	2
+Orangenkerns	1
+Orangenlimonade
+Orangenlimonaden	1
+Orangenmarmelade
+Orangenmarmeladen	1
+Orangenpresse
+Orangenpressen	1
+Orangensaft
+Orangensafte	1
+Orangensaftes	2
+Orangensafts	1
+Orangenschale
+Orangenschalen	1
+Orangenscheibe
+Orangenscheiben	1
+Orangensäfte	4aft
+Orangensäften	5aft
+Orangenöl
+Orangenöle	1
+Orangenölen	2
+Orangenöles	2
+Orangenöls	1
+Orangerie
+Orangerien	1
+Oranges	1
+Oranienburg
+Oranier
+Oraniern	1
+Oraniers	1
+Orant
+Orante
+Orantenhaltung
+Orantenhaltungen	2
+Oration
+Orationen	2
+Oratorianer
+Oratorianern	1
+Oratorianers	1
+Oratorien	2um
+Oratorische	11oratorisch
+Oratorischen	1
+Oratorium
+Oratoriums	1
+Orbis
+Orbit
+Orbita
+Orbitae	1
+Orbital
+Orbitale	1
+Orbitalen	1
+Orbitalgeschwindigkeit
+Orbitalgeschwindigkeiten	2
+Orbitalknochen
+Orbitalknochens	1
+Orbitalrakete
+Orbitalraketen	1
+Orbitals	1
+Orbitalstation
+Orbitalstationen	2
+Orbitar
+Orbitars	1
+Orbiter
+Orbitern	1
+Orbiters	1
+Orbiting
+Orbitings	1
+Orbits	1
+Orca
+Orcas	1
+Orchester
+Orchesterapparat
+Orchesterapparate	1
+Orchesterapparaten	2
+Orchesterapparates	2
+Orchesterapparats	1
+Orchesterbegleitung
+Orchesterbegleitungen	2
+Orchesterbesetzung
+Orchesterbesetzungen	2
+Orchesterchef
+Orchesterchefs	1
+Orchesterfassung
+Orchesterfassungen	2
+Orchestergraben
+Orchestergrabens	1
+Orchestergräben	4aben
+Orchesterinstrument
+Orchesterinstrumente	1
+Orchesterinstrumenten	2
+Orchesterinstrumentes	2
+Orchesterinstruments	1
+Orchesterklang
+Orchesterklanges	2
+Orchesterklangs	1
+Orchesterklänge	4ang
+Orchesterklängen	5ang
+Orchesterkomposition
+Orchesterkompositionen	2
+Orchesterkonzert
+Orchesterkonzerte	1
+Orchesterkonzerten	2
+Orchesterkonzertes	2
+Orchesterkonzerts	1
+Orchesterlandschaft
+Orchesterlandschaften	2
+Orchesterleiter
+Orchesterleiterin
+Orchesterleiterinnen	3
+Orchesterleitern	1
+Orchesterleiters	1
+Orchesterloge
+Orchesterlogen	1
+Orchestermaterial
+Orchestermaterialien	3
+Orchestermaterials	1
+Orchestermitglied
+Orchestermitglieder	2
+Orchestermitgliedern	3
+Orchestermitgliedes	2
+Orchestermitglieds	1
+Orchestermusik
+Orchestermusiken	2
+Orchestermusiker
+Orchestermusikerin
+Orchestermusikerinnen	3
+Orchestermusikern	1
+Orchestermusikers	1
+Orchestern	1
+Orchesternoten
+Orchesterpartitur
+Orchesterpartituren	2
+Orchesterprobe
+Orchesterproben	1
+Orchesterrampe
+Orchesterrampen	1
+Orchesters	1
+Orchestersatz
+Orchestersatzes	2
+Orchestersitz
+Orchestersitze	1
+Orchestersitzen	2
+Orchestersitzes	2
+Orchesterstück
+Orchesterstücke	1
+Orchesterstücken	2
+Orchesterstückes	2
+Orchesterstücks	1
+Orchestersätze	4atz
+Orchestersätzen	5atz
+Orchestertutti
+Orchestervorspiel
+Orchestervorspiele	1
+Orchestervorspielen	2
+Orchestervorspieles	2
+Orchestervorspiels	1
+Orchesterwart
+Orchesterwarte	1
+Orchesterwarten	2
+Orchesterwartes	2
+Orchesterwarts	1
+Orchesterwerk
+Orchesterwerke	1
+Orchesterwerken	2
+Orchesterwerkes	2
+Orchesterwerks	1
+Orchestra
+Orchestration
+Orchestrationen	2
+Orchestren	2a
+Orchestrien	2on
+Orchestrierung
+Orchestrierungen	2
+Orchestrion
+Orchestrions	1
+Orchidee
+Orchideen	1
+Orchideenart
+Orchideenarten	2
+Orchideenfach
+Orchideenfache	1
+Orchideenfaches	2
+Orchideenfachs	1
+Orchideenfächer	5ach
+Orchideenfächern	6ach
+Orchideenvase
+Orchideenvasen	1
+Orchitomie
+Orchitomien	1
+Ordal
+Ordalien	3
+Ordals	1
+Orden
+Ordens	1
+Ordensband
+Ordensbandes	2
+Ordensbands	1
+Ordensbruder
+Ordensbruders	1
+Ordensbruderschaft
+Ordensbruderschaften	2
+Ordensbrüder	4uder
+Ordensbrüdern	5uder
+Ordensburg
+Ordensburgen	2
+Ordensbändchen
+Ordensbändchens	1
+Ordensbänder	5and
+Ordensbändern	6and
+Ordensfrau
+Ordensfrauen	2
+Ordensgeistliche
+Ordensgeistlichem	1
+Ordensgeistlichen	1
+Ordensgeistlicher	1
+Ordensgelübde
+Ordensgelübden	1
+Ordensgelübdes	1
+Ordensgemeinschaft
+Ordensgemeinschaften	2
+Ordensgeneral
+Ordensgenerale	1
+Ordensgeneralen	2
+Ordensgenerals	1
+Ordensgeneräle	3al
+Ordensgenerälen	4al
+Ordensglied
+Ordensglieder	2
+Ordensgliedern	3
+Ordensgliedes	2
+Ordensglieds	1
+Ordensherr
+Ordensherren	2
+Ordensherrn	1
+Ordensinsignien
+Ordenskette
+Ordensketten	1
+Ordenskirche
+Ordenskirchen	1
+Ordenskleid
+Ordenskleider	2
+Ordenskleidern	3
+Ordenskleides	2
+Ordensklerus
+Ordenskreuz
+Ordenskreuze	1
+Ordenskreuzen	2
+Ordenskreuzes	2
+Ordenskürzel
+Ordenskürzeln	1
+Ordenskürzels	1
+Ordensleben
+Ordenslebens	1
+Ordensleute	5mann
+Ordensleuten	6mann
+Ordensmann
+Ordensmanne	1
+Ordensmannes	2
+Ordensmanns	1
+Ordensmeister
+Ordensmeistern	1
+Ordensmeisters	1
+Ordensmänner	5ann
+Ordensmännern	6ann
+Ordensname
+Ordensnamen	1
+Ordensnamens	2
+Ordensniederlassung
+Ordensniederlassungen	2
+Ordenspriester
+Ordenspriestern	1
+Ordenspriesters	1
+Ordensprovinz
+Ordensprovinzen	2
+Ordensregel
+Ordensregeln	1
+Ordensritter
+Ordensrittern	1
+Ordensritters	1
+Ordenssatzung
+Ordenssatzungen	2
+Ordensschnalle
+Ordensschnallen	1
+Ordensschule
+Ordensschulen	1
+Ordensschwester
+Ordensschwestern	1
+Ordensspange
+Ordensspangen	1
+Ordensstaat
+Ordensstaate	1
+Ordensstaates	2
+Ordensstaats	1
+Ordensstern
+Ordenssterne	1
+Ordenssternen	2
+Ordenssterns	1
+Ordenstracht
+Ordenstrachten	2
+Ordensträger
+Ordensträgern	1
+Ordensträgers	1
+Ordensverleihung
+Ordensverleihungen	2
+Ordentliche	11ordentlich
+Ordentlichen	1
+Ordentlichere
+Ordentlicheren	1
+Ordentlichkeit
+Ordentlichkeiten	2
+Ordentlichste
+Ordentlichsten	1
+Order
+Orderbuch
+Orderbuches	2
+Orderbuchs	1
+Orderbücher	5uch
+Orderbüchern	6uch
+Ordereingang
+Ordereinganges	2
+Ordereingänge	4ang
+Ordereingängen	5ang
+Orderklausel
+Orderklauseln	1
+Ordern	1
+Ordernde
+Ordernden	1
+Orderndere
+Ordernderen	1
+Orderndste
+Orderndsten	1
+Orderns	1
+Orderpapier
+Orderpapiere	1
+Orderpapieren	2
+Orderpapiers	1
+Orders	1
+Orderscheck
+Orderschecks	1
+Ordinale
+Ordinalen	1
+Ordinalskala
+Ordinalskalas	1
+Ordinalskalen	2a
+Ordinalzahl
+Ordinalzahlen	2
+Ordinariat
+Ordinariate	1
+Ordinariaten	2
+Ordinariates	2
+Ordinariats	1
+Ordinarien	2us
+Ordinarienuniversität
+Ordinarienuniversitäten	2
+Ordinarium
+Ordinariums	1
+Ordinarius
+Ordinate
+Ordinaten	1
+Ordinatenachse
+Ordinatenachsen	1
+Ordination
+Ordinationen	2
+Ordinationshilfe
+Ordinationshilfen	1
+Ordinationszimmer
+Ordinationszimmern	1
+Ordinationszimmers	1
+Ordines	4o
+Ordinieren
+Ordinierende
+Ordinierenden	1
+Ordinierens	1
+Ordinierte	10ordiniert
+Ordinierten	1
+Ordinierung
+Ordinierungen	2
+Ordinäre	8ordinär
+Ordinären	1
+Ordinärere
+Ordinäreren	1
+Ordinärpreis
+Ordinärpreise	1
+Ordinärpreisen	2
+Ordinärpreises	2
+Ordinärste
+Ordinärsten	1
+Ordnen
+Ordnende
+Ordnenden	1
+Ordnens	1
+Ordner
+Ordnerbinde
+Ordnerbinden	1
+Ordnern	1
+Ordners	1
+Ordnung
+Ordnungen	2
+Ordnungsamt
+Ordnungsamte	1
+Ordnungsamtes	2
+Ordnungsamts	1
+Ordnungsamtsmitarbeiter
+Ordnungsamtsmitarbeiterin
+Ordnungsamtsmitarbeiterinnen	3
+Ordnungsamtsmitarbeitern	1
+Ordnungsamtsmitarbeiters	1
+Ordnungsbegriff
+Ordnungsbegriffe	1
+Ordnungsbegriffen	2
+Ordnungsbegriffes	2
+Ordnungsbegriffs	1
+Ordnungsbehörde
+Ordnungsbehörden	1
+Ordnungsbuße
+Ordnungsbußen	1
+Ordnungsbürgermeister
+Ordnungsbürgermeistern	1
+Ordnungsbürgermeisters	1
+Ordnungsdenken
+Ordnungsdenkens	1
+Ordnungsdezernent
+Ordnungsdezernenten	2
+Ordnungsdienst
+Ordnungsdienste	1
+Ordnungsdiensten	2
+Ordnungsdienstes	2
+Ordnungsdiensts	1
+Ordnungsfaktor
+Ordnungsfaktoren	2
+Ordnungsfaktors	1
+Ordnungsfimmel
+Ordnungsfimmeln	1
+Ordnungsfimmels	1
+Ordnungsform
+Ordnungsformen	2
+Ordnungsfunktion
+Ordnungsfunktionen	2
+Ordnungsgefüge
+Ordnungsgefügen	1
+Ordnungsgefüges	1
+Ordnungsgeld
+Ordnungsgelder	2
+Ordnungsgeldern	3
+Ordnungsgeldes	2
+Ordnungsgelds	1
+Ordnungsgemäße	14ordnungsgemäß
+Ordnungsgemäßen	1
+Ordnungshaft
+Ordnungshüter
+Ordnungshüterin
+Ordnungshüterinnen	3
+Ordnungshütern	1
+Ordnungshüters	1
+Ordnungskraft
+Ordnungskriterien	2um
+Ordnungskriterium
+Ordnungskriteriums	1
+Ordnungskräfte	4aft
+Ordnungskräften	5aft
+Ordnungsliebe
+Ordnungsliebende
+Ordnungsliebenden	1
+Ordnungsliebendere
+Ordnungsliebenderen	1
+Ordnungsmacht
+Ordnungsmaßnahme
+Ordnungsmaßnahmen	1
+Ordnungsmodell
+Ordnungsmodelle	1
+Ordnungsmodellen	2
+Ordnungsmodells	1
+Ordnungsmuster
+Ordnungsmustern	1
+Ordnungsmusters	1
+Ordnungsmächte	5acht
+Ordnungsmächten	6acht
+Ordnungsmäßige
+Ordnungsmäßigen	1
+Ordnungsmäßigkeit
+Ordnungsmäßigkeiten	2
+Ordnungsnummer
+Ordnungsnummern	1
+Ordnungspartnerschaft
+Ordnungspartnerschaften	2
+Ordnungspersonal
+Ordnungspersonals	1
+Ordnungspolitik
+Ordnungspolitiken	2
+Ordnungspolizei
+Ordnungspolizeien	2
+Ordnungsprinzip
+Ordnungsprinzipien	3
+Ordnungsprinzips	1
+Ordnungsproblem
+Ordnungsprobleme	1
+Ordnungsproblemen	2
+Ordnungsproblems	1
+Ordnungsrahmen
+Ordnungsrahmens	1
+Ordnungsrecht
+Ordnungsrechte	1
+Ordnungsrechten	2
+Ordnungsrechtes	2
+Ordnungsrechts	1
+Ordnungsruf
+Ordnungsrufe	1
+Ordnungsrufen	2
+Ordnungsrufes	2
+Ordnungsrufs	1
+Ordnungsschema
+Ordnungsschemas	1
+Ordnungsschemata	2
+Ordnungsschemen	2a
+Ordnungssinn
+Ordnungssinne	1
+Ordnungssinnes	2
+Ordnungssinns	1
+Ordnungsstrafe
+Ordnungsstrafen	1
+Ordnungsstrafverfahren
+Ordnungsstrafverfahrens	1
+Ordnungsstruktur
+Ordnungsstrukturen	2
+Ordnungssystem
+Ordnungssysteme	1
+Ordnungssystemen	2
+Ordnungssystems	1
+Ordnungstheorie
+Ordnungstheorien	1
+Ordnungsverfügung
+Ordnungsverfügungen	2
+Ordnungsvorstellung
+Ordnungsvorstellungen	2
+Ordnungswidrige
+Ordnungswidrigen	1
+Ordnungswidrigere
+Ordnungswidrigeren	1
+Ordnungswidrigkeit
+Ordnungswidrigkeiten	2
+Ordnungswille
+Ordnungswillen	1
+Ordnungswillens	2
+Ordnungszahl
+Ordnungszahlen	2
+Ordnungszahlwort
+Ordnungszahlworte	1
+Ordnungszahlwortes	2
+Ordnungszahlworts	1
+Ordnungszahlwörter	5ort
+Ordnungszahlwörtern	6ort
+Ordnungsämter	5amt
+Ordnungsämtern	6amt
+Ordo
+Ordoliberalismus
+Ordonanz
+Ordonanzen	2
+Ordonanzoffizier
+Ordonanzoffiziere	1
+Ordonanzoffizieren	2
+Ordonanzoffiziers	1
+Ordonnanz
+Ordonnanzen	2
+Ordonnanzoffizier
+Ordonnanzoffiziere	1
+Ordonnanzoffizieren	2
+Ordonnanzoffiziers	1
+Ordonnanzwaffe
+Ordonnanzwaffen	1
+Ordovizium
+Ordoviziums	1
+Ordre
+Ordres	1
+Oreade
+Oreaden	1
+Oregano
+Oregon
+Orenda
+Orendas	1
+Orestie
+Orexin
+Orexine	1
+Orexinen	2
+Orexins	1
+Orfe
+Orfen	1
+Orga
+Organ
+Organa	1on
+Organbank
+Organbanken	2
+Organbehandlung
+Organbehandlungen	2
+Organdy
+Organdys	1
+Organe	1
+Organeinpflanzung
+Organeinpflanzungen	2
+Organell
+Organelle
+Organellen	1
+Organells	1
+Organempfänger
+Organempfängerin
+Organempfängerinnen	3
+Organempfängern	1
+Organempfängers	1
+Organen	2
+Organentnahme
+Organentnahmen	1
+Organes	2
+Organfett
+Organfette	1
+Organfetten	2
+Organfettes	2
+Organfetts	1
+Organfunktion
+Organfunktionen	2
+Organgesellschaft
+Organgesellschaften	2
+Organgymnastik
+Organhandel
+Organhandels	1
+Organigramm
+Organigramme	1
+Organigrammen	2
+Organigrammes	2
+Organigramms	1
+Organik
+Organiker
+Organikern	1
+Organikers	1
+Organisation
+Organisationen	2
+Organisations	1
+Organisationsabteilung
+Organisationsabteilungen	2
+Organisationsanalyse
+Organisationsanalysen	1
+Organisationsarbeit
+Organisationsarbeiten	2
+Organisationsberater
+Organisationsberatern	1
+Organisationsberaters	1
+Organisationsberatung
+Organisationsberatungen	2
+Organisationsbereich
+Organisationsbereiche	1
+Organisationsbereichen	2
+Organisationsbereiches	2
+Organisationsbereichs	1
+Organisationsbüro
+Organisationsbüros	1
+Organisationschaos
+Organisationsebene
+Organisationsebenen	1
+Organisationsebenenfahrstuhl
+Organisationsebenenfahrstuhls	1
+Organisationsebenenfahrstühle	4uhl
+Organisationsebenenfahrstühlen	5uhl
+Organisationseinheit
+Organisationseinheiten	2
+Organisationsentwicklung
+Organisationsentwicklungen	2
+Organisationsfehler
+Organisationsfehlern	1
+Organisationsfehlers	1
+Organisationsform
+Organisationsformen	2
+Organisationsforschung
+Organisationsforschungen	2
+Organisationsfrage
+Organisationsfragen	1
+Organisationsfähigkeit
+Organisationsfähigkeiten	2
+Organisationsgabe
+Organisationsgaben	1
+Organisationsgeschichte
+Organisationsgeschichten	1
+Organisationsgestaltung
+Organisationsgestaltungen	2
+Organisationsgrad
+Organisationsgrade	1
+Organisationsgraden	2
+Organisationsgrades	2
+Organisationsgrads	1
+Organisationskomitee
+Organisationskomitees	1
+Organisationskonzept
+Organisationskonzepte	1
+Organisationskonzepten	2
+Organisationskonzeptes	2
+Organisationskonzepts	1
+Organisationskultur
+Organisationskulturen	2
+Organisationslehre
+Organisationslehren	1
+Organisationsmitglied
+Organisationsmitglieder	2
+Organisationsmitgliedern	3
+Organisationsmitgliedes	2
+Organisationsmitglieds	1
+Organisationsmodell
+Organisationsmodelle	1
+Organisationsmodellen	2
+Organisationsmodells	1
+Organisationsmuster
+Organisationsmustern	1
+Organisationsmusters	1
+Organisationsplan
+Organisationsplanes	2
+Organisationsplans	1
+Organisationspläne	3an
+Organisationsplänen	4an
+Organisationsprinzip
+Organisationsprinzipien	3
+Organisationsprinzips	1
+Organisationsproblem
+Organisationsprobleme	1
+Organisationsproblemen	2
+Organisationsproblems	1
+Organisationsprogrammierer
+Organisationsprogrammierern	1
+Organisationsprogrammierers	1
+Organisationsprozess
+Organisationsprozesse	1
+Organisationsprozessen	2
+Organisationsprozesses	2
+Organisationspsychologie
+Organisationsreform
+Organisationsreformen	2
+Organisationssoziologie
+Organisationsstatut
+Organisationsstatuten	2
+Organisationsstatutes	2
+Organisationsstatuts	1
+Organisationsstruktur
+Organisationsstrukturen	2
+Organisationssystem
+Organisationssysteme	1
+Organisationssystemen	2
+Organisationssystems	1
+Organisationstalent
+Organisationstalente	1
+Organisationstalenten	2
+Organisationstalentes	2
+Organisationstalents	1
+Organisationsteam
+Organisationsteams	1
+Organisationstheorie
+Organisationstheorien	1
+Organisationstätigkeit
+Organisationstätigkeiten	2
+Organisationsverfügung
+Organisationsverfügungen	2
+Organisationsverschulden
+Organisationsverschuldens	1
+Organisationsweise
+Organisationsweisen	1
+Organisationswissenschaft
+Organisationswut
+Organisationsziel
+Organisationsziele	1
+Organisationszielen	2
+Organisationszieles	2
+Organisationsziels	1
+Organisator
+Organisatoren	2
+Organisatorin
+Organisatorinnen	3
+Organisatorische	16organisatorisch
+Organisatorischen	1
+Organisators	1
+Organische
+Organischen	1
+Organisieren
+Organisierende
+Organisierenden	1
+Organisierens	1
+Organisierte	12organisiert
+Organisierten	1
+Organisiertheit
+Organisierung
+Organisierungen	2
+Organismen	2us
+Organismus
+Organismus'	1
+Organist
+Organisten	2
+Organistin
+Organistinnen	3
+Organizer
+Organizern	1
+Organizers	1
+Organklage
+Organklagen	1
+Organkonserve
+Organkonserven	1
+Organlehre
+Organmandat
+Organmandate	1
+Organmandaten	2
+Organmandates	2
+Organmandats	1
+Organmandatsweg
+Organmandatsweges	2
+Organmandatswegs	1
+Organmitglied
+Organmitglieder	2
+Organmitgliedern	3
+Organmitgliedes	2
+Organmitglieds	1
+Organogenese
+Organogenesen	1
+Organogerman
+Organogermane	1
+Organogermanen	2
+Organogermans	1
+Organografie
+Organographie
+Organoid
+Organoide	1
+Organoiden	2
+Organoides	2
+Organoids	1
+Organologe
+Organologen	1
+Organologie
+Organon
+Organon-Modell
+Organon-Modells	1
+Organons	1
+Organophosphin
+Organophosphine	1
+Organophosphinen	2
+Organophosphins	1
+Organpräparat
+Organpräparate	1
+Organpräparaten	2
+Organpräparates	2
+Organpräparats	1
+Organpsychose
+Organpsychosen	1
+Organs	1
+Organschaft
+Organschaften	2
+Organschwund
+Organschwundes	2
+Organschwunds	1
+Organsin
+Organsine	1
+Organsinen	2
+Organsins	1
+Organspende
+Organspendeausweis
+Organspendeausweise	1
+Organspendeausweisen	2
+Organspendeausweises	2
+Organspenden	1
+Organspender
+Organspenderausweis
+Organspenderausweise	1
+Organspenderausweisen	2
+Organspenderausweises	2
+Organspenderin
+Organspenderinnen	3
+Organspendern	1
+Organspenders	1
+Organstrafmandat
+Organstrafmandate	1
+Organstrafmandaten	2
+Organstrafmandates	2
+Organstrafmandats	1
+Organstrafverfügung
+Organstrafverfügungen	2
+Organsystem
+Organsysteme	1
+Organsystemen	2
+Organsystems	1
+Organtherapie
+Organtherapien	1
+Organtin
+Organtins	1
+Organtransplantation
+Organtransplantationen	2
+Organum
+Organums	1
+Organverpflanzung
+Organverpflanzungen	2
+Organversagen
+Organversagens	1
+Organza
+Organzas	1
+Organübertragung
+Organübertragungen	2
+Orgasmen	2us
+Orgasmus
+Orgateam
+Orgateams	1
+Orgel
+Orgelbalg
+Orgelbalges	2
+Orgelbalgs	1
+Orgelbank
+Orgelbau
+Orgelbauer
+Orgelbauerfamilie
+Orgelbauerfamilien	1
+Orgelbauerin
+Orgelbauerinnen	3
+Orgelbauern	1
+Orgelbauers	1
+Orgelbaues	2
+Orgelbaus	1
+Orgelbegleitung
+Orgelbegleitungen	2
+Orgelbälge	4alg
+Orgelbälgen	5alg
+Orgelbänke	4ank
+Orgelbänken	5ank
+Orgelchor
+Orgelchoral
+Orgelchorals	1
+Orgelchores	2
+Orgelchors	1
+Orgelchoräle	3al
+Orgelchorälen	4al
+Orgelchöre	3or
+Orgelchören	4or
+Orgelempore
+Orgelemporen	1
+Orgelfeuerwerk
+Orgelfeuerwerke	1
+Orgelfeuerwerken	2
+Orgelfeuerwerkes	2
+Orgelfeuerwerks	1
+Orgelfuge
+Orgelfugen	1
+Orgelkasten
+Orgelkastens	1
+Orgelklang
+Orgelklanges	2
+Orgelklangs	1
+Orgelklänge	4ang
+Orgelklängen	5ang
+Orgelkonzert
+Orgelkonzerte	1
+Orgelkonzerten	2
+Orgelkonzertes	2
+Orgelkonzerts	1
+Orgelkoralle
+Orgelkorallen	1
+Orgelkästen	5asten
+Orgellandschaft
+Orgellandschaften	2
+Orgelmetall
+Orgelmetalle	1
+Orgelmetallen	2
+Orgelmetalls	1
+Orgelmusik
+Orgelmusiken	2
+Orgeln	1
+Orgelnde
+Orgelnden	1
+Orgelns	1
+Orgelpartie
+Orgelpartien	1
+Orgelpedal
+Orgelpedale	1
+Orgelpedalen	2
+Orgelpedals	1
+Orgelpfeife
+Orgelpfeifen	1
+Orgelpositiv
+Orgelpositive	1
+Orgelpositiven	2
+Orgelpositivs	1
+Orgelprospekt
+Orgelprospekte	1
+Orgelprospekten	2
+Orgelprospektes	2
+Orgelprospekts	1
+Orgelpunkt
+Orgelpunkte	1
+Orgelpunkten	2
+Orgelpunktes	2
+Orgelpunkts	1
+Orgelregister
+Orgelregistern	1
+Orgelregisters	1
+Orgelspiel
+Orgelspiele	1
+Orgelspielen	2
+Orgelspieler
+Orgelspielerin
+Orgelspielerinnen	3
+Orgelspielern	1
+Orgelspielers	1
+Orgelspieles	2
+Orgelspiels	1
+Orgelstimme
+Orgelstimmen	1
+Orgelstimmer
+Orgelstimmern	1
+Orgelstimmers	1
+Orgeltaste
+Orgeltasten	1
+Orgelton
+Orgeltone	1
+Orgeltones	2
+Orgeltons	1
+Orgeltöne	3on
+Orgeltönen	4on
+Orgelunterricht
+Orgelunterrichtes	2
+Orgelunterrichts	1
+Orgelvesper
+Orgelvespern	1
+Orgelwerk
+Orgelwerke	1
+Orgelwerken	2
+Orgelwerkes	2
+Orgelwerks	1
+Orgiast
+Orgiasten	2
+Orgie
+Orgien	1
+Orgonakkumulator
+Orgonakkumulatoren	2
+Orgonakkumulators	1
+Orgonenergie
+Orgonenergien	1
+Oric
+Orient
+Orientale
+Orientalen	1
+Orientalia
+Orientalin
+Orientalinnen	3
+Orientalische	13orientalisch
+Orientalischen	1
+Orientalischere
+Orientalischeren	1
+Orientalischste
+Orientalischsten	1
+Orientalismen	2us
+Orientalismus
+Orientalist
+Orientalisten	2
+Orientalistik
+Orientbeule
+Orientbeulen	1
+Oriente	1
+Orientes	2
+Orientieren
+Orientierende
+Orientierenden	1
+Orientierens	1
+Orientierte	11orientiert
+Orientierten	1
+Orientierung
+Orientierungen	2
+Orientierungsangebot
+Orientierungsangebote	1
+Orientierungsangeboten	2
+Orientierungsangebotes	2
+Orientierungsangebots	1
+Orientierungsdaten
+Orientierungsdebatte
+Orientierungsdebatten	1
+Orientierungsfunktion
+Orientierungsfunktionen	2
+Orientierungsgröße
+Orientierungsgrößen	1
+Orientierungshilfe
+Orientierungshilfen	1
+Orientierungskarte
+Orientierungskarten	1
+Orientierungskrise
+Orientierungskrisen	1
+Orientierungslauf
+Orientierungslaufe	1
+Orientierungslaufes	2
+Orientierungslaufs	1
+Orientierungslosigkeit
+Orientierungslosigkeiten	2
+Orientierungsläufe	4auf
+Orientierungsläufen	5auf
+Orientierungsläufer
+Orientierungsläufern	1
+Orientierungsläufers	1
+Orientierungsmarke
+Orientierungsmarken	1
+Orientierungsmittel
+Orientierungsmitteln	1
+Orientierungsmittels	1
+Orientierungsmuster
+Orientierungsmustern	1
+Orientierungsmusters	1
+Orientierungsmöglichkeit
+Orientierungsmöglichkeiten	2
+Orientierungsplan
+Orientierungsplanes	2
+Orientierungsplans	1
+Orientierungspläne	3an
+Orientierungsplänen	4an
+Orientierungsproblem
+Orientierungsprobleme	1
+Orientierungsproblemen	2
+Orientierungsproblems	1
+Orientierungspunkt
+Orientierungspunkte	1
+Orientierungspunkten	2
+Orientierungspunktes	2
+Orientierungsrahmen
+Orientierungsrahmens	1
+Orientierungssinn
+Orientierungssinne	1
+Orientierungssinnen	2
+Orientierungssinnes	2
+Orientierungssinns	1
+Orientierungsstufe
+Orientierungsstufen	1
+Orientierungssystem
+Orientierungssysteme	1
+Orientierungssystemen	2
+Orientierungssystems	1
+Orientierungstafel
+Orientierungstafeln	1
+Orientierungstaste
+Orientierungstasten	1
+Orientierungsvermögen
+Orientierungsvermögens	1
+Orientierungswert
+Orientierungswerte	1
+Orientierungswerten	2
+Orientierungswertes	2
+Orientierungswerts	1
+Orientierungswissen
+Orientierungswissens	1
+Orientierungszeichen
+Orientierungszeichens	1
+Orients	1
+Orientteppich
+Orientteppiche	1
+Orientteppichen	2
+Orientteppichs	1
+Orientwissenschaft
+Orientwissenschaften	2
+Oriflamme
+Oriflammen	1
+Origami
+Origamis	1
+Original
+Originalabfüllung
+Originalabfüllungen	2
+Originalaufnahme
+Originalaufnahmen	1
+Originalausgabe
+Originalausgaben	1
+Originalaussprache
+Originalaussprachen	1
+Originalausstattung
+Originalausstattungen	2
+Originalbeitrag
+Originalbeitrages	2
+Originalbeitrags	1
+Originalbeiträge	3ag
+Originalbeiträgen	4ag
+Originalbrief
+Originalbriefe	1
+Originalbriefen	2
+Originalbriefes	2
+Originalbriefs	1
+Originaldokument
+Originaldokumente	1
+Originaldokumenten	2
+Originaldokumentes	2
+Originaldokuments	1
+Originaldruck
+Originaldrucke	1
+Originaldrucken	2
+Originaldruckes	2
+Originaldrucks	1
+Originale	1
+Originaleinband
+Originaleinbandes	2
+Originaleinbands	1
+Originaleinbände	4and
+Originaleinbänden	5and
+Originalen	1
+Originalfassung
+Originalfassungen	2
+Originalflasche
+Originalflaschen	1
+Originalgemälde
+Originalgemälden	1
+Originalgemäldes	1
+Originalgenie
+Originalgenies	1
+Originalgröße
+Originalgrößen	1
+Originalhandschrift
+Originalhandschriften	2
+Originalien
+Originalität
+Originalitäten	2
+Originalkarton
+Originalkartone	1
+Originalkartonen	2
+Originalkartons	1
+Originalmanuskript
+Originalmanuskripte	1
+Originalmanuskripten	2
+Originalmanuskriptes	2
+Originalmanuskripts	1
+Originalpackung
+Originalpackungen	2
+Originalprogramm
+Originalprogramme	1
+Originalprogrammen	2
+Originalprogrammes	2
+Originalprogramms	1
+Originalpräparat
+Originalpräparate	1
+Originalpräparaten	2
+Originalpräparates	2
+Originalpräparats	1
+Originalquelle
+Originalquellen	1
+Originalradierung
+Originalradierungen	2
+Originalrezept
+Originalrezepte	1
+Originalrezepten	2
+Originalrezeptes	2
+Originalrezepts	1
+Originals	1
+Originalschauplatz
+Originalschauplatzes	2
+Originalschauplätze	4atz
+Originalschauplätzen	5atz
+Originalsprache
+Originalsprachen	1
+Originalstich
+Originalstiche	1
+Originalstichen	2
+Originalstiches	2
+Originalstichs	1
+Originaltext
+Originaltexte	1
+Originaltexten	2
+Originaltexts	1
+Originaltitel
+Originaltiteln	1
+Originaltitels	1
+Originalton
+Originaltone	1
+Originaltones	2
+Originaltons	1
+Originaltreue
+Originaltöne	3on
+Originaltönen	4on
+Originalurkunde
+Originalurkunden	1
+Originalverpackung
+Originalverpackungen	2
+Originalversion
+Originalversionen	2
+Originalwortlaut
+Originalwortlaute	1
+Originalwortlauten	2
+Originalwortlautes	2
+Originalwortlauts	1
+Originalzeichnung
+Originalzeichnungen	2
+Originalzitat
+Originalzitate	1
+Originalzitaten	2
+Originalzitates	2
+Originalzitats	1
+Originalzustand
+Originalzustandes	2
+Originalzustands	1
+Originalzustände	4and
+Originalzuständen	5and
+Originalübertragung
+Originalübertragungen	2
+Originelle
+Originellen	1
+Originellere
+Originelleren	1
+Originellste
+Originellsten	1
+Originäre	9originär
+Originären	1
+Orinoko
+Orinokos	1
+Orion
+Orioner
+Orionerin
+Orionerinnen	3
+Orionern	1
+Orioners	1
+Orioniden
+Orionnebel
+Orionnebels	1
+Orions	1
+Ork
+Orkan
+Orkanbö
+Orkanböe
+Orkane	1
+Orkanen	2
+Orkanes	2
+Orkans	1
+Orkanstärke
+Orkanstärken	1
+Orkantief
+Orkantiefs	1
+Orkanwarnung
+Orkanwarnungen	2
+Orkla
+Orks	1
+Orkus
+Orlando
+Orlean
+Orleanist
+Orleanisten	2
+Orleans
+Orleanstrauch
+Orleanstrauches	2
+Orleanstrauchs	1
+Orleansträucher	6auch
+Orleansträuchern	7auch
+Orlog
+Orloge	1
+Orlogen	2
+Orlogs	1
+Orlogschiff
+Orlogschiffe	1
+Orlogschiffen	2
+Orlogschiffes	2
+Orlogschiffs	1
+Orlowtraber
+Orlowtrabern	1
+Orlowtrabers	1
+Ornament
+Ornamentale	11ornamental
+Ornamentalen	1
+Ornamente	1
+Ornamenten	2
+Ornamentes	2
+Ornamentfries
+Ornamentfriese	1
+Ornamentfriesen	2
+Ornamentfrieses	2
+Ornamentik
+Ornaments	1
+Ornamentstich
+Ornamentstiche	1
+Ornamentstichen	2
+Ornamentstiches	2
+Ornamentstichs	1
+Ornat
+Ornate	1
+Ornaten	2
+Ornates	2
+Ornativ
+Ornativa	1um
+Ornative	1
+Ornativen	2
+Ornativs	1
+Ornativum
+Ornativums	1
+Ornats	1
+Orne
+Ornette
+Ornis
+Ornithochorie
+Ornithogamie
+Ornithologe
+Ornithologen	1
+Ornithologie
+Ornithologin
+Ornithologinnen	3
+Ornithologische	15ornithologisch
+Ornithologischen	1
+Ornithopter
+Ornithoptern	1
+Ornithopters	1
+Ornithose
+Ornithosen	1
+Orognosie
+Orografie
+Orographie
+Orometrie
+Oromo
+Oromos	1
+Orontes
+Oroplastik
+Orozco
+Orpheen	2um
+Orpheum
+Orpheums	1
+Orplid
+Orplids	1
+Orsatapparat
+Orsatapparate	1
+Orsatapparaten	2
+Orsatapparates	2
+Orsatapparats	1
+Orsay
+Ort
+Ortband
+Ortbande	1
+Ortbandes	2
+Ortbands	1
+Ortbeton
+Ortbetons	1
+Ortbänder	5and
+Ortbändern	6and
+Orte	1
+Ortelsburg
+Orten	2
+Ortende
+Ortenden	1
+Ortens	1
+Orter
+Ortern	1
+Orters	1
+Ortes	2
+Ortgang
+Ortgange	1
+Ortganges	2
+Ortgangs	1
+Ortgänge	4ang
+Ortgängen	5ang
+Orthese
+Orthesen	1
+Orthez
+Orthodoxe
+Orthodoxem	1
+Orthodoxen	1
+Orthodoxer	1
+Orthodoxie
+Orthodoxien	1
+Orthoepie
+Orthoepien	1
+Orthoepik
+Orthofonie
+Orthofonien	1
+Orthofoto
+Orthofotos	1
+Orthogestein
+Orthogesteine	1
+Orthogesteinen	2
+Orthogesteines	2
+Orthogesteins	1
+Orthognathie
+Orthognathien	1
+Orthogneis
+Orthogneise	1
+Orthogneisen	2
+Orthogneises	2
+Orthogon
+Orthogonale
+Orthogonalen	1
+Orthogonalität
+Orthogone	1
+Orthogonen	2
+Orthogons	1
+Orthogradie
+Orthografie
+Orthografien	1
+Orthografiereform
+Orthografiereformen	2
+Orthographie
+Orthographien	1
+Orthographiereform
+Orthographiereformen	2
+Orthographische	15orthographisch
+Orthographischen	1
+Orthokeratologie
+Orthophonie
+Orthophonien	1
+Orthophosphat
+Orthophosphate	1
+Orthophosphaten	2
+Orthophosphats	1
+Orthoptere
+Orthopteren	1
+Orthoptik
+Orthoptist
+Orthoptisten	2
+Orthopäde
+Orthopäden	1
+Orthopädie
+Orthopädiemechaniker
+Orthopädiemechanikern	1
+Orthopädiemechanikers	1
+Orthopädieschuhmacher
+Orthopädieschuhmachern	1
+Orthopädieschuhmachers	1
+Orthopädin
+Orthopädinnen	3
+Orthopädische	13orthopädisch
+Orthopädischen	1
+Orthopädischere
+Orthopädischeren	1
+Orthopädischste
+Orthopädischsten	1
+Orthopädist
+Orthopädisten	2
+Orthorexie
+Orthosilicat
+Orthosilicate	1
+Orthosilicaten	2
+Orthosilicats	1
+Orthoskop
+Orthoskope	1
+Orthoskopen	2
+Orthoskops	1
+Orthosprache
+Orthosprachen	1
+Orthosäure
+Orthosäuren	1
+Orthozentren	2um
+Orthozentrum
+Orthozentrums	1
+Ortleb
+Ortlosigkeit
+Ortlosigkeiten	2
+Ortolan
+Ortolane	1
+Ortolanen	2
+Ortolans	1
+Orts	1
+Ortsadverb
+Ortsadverbien	3
+Ortsadverbs	1
+Ortsamt
+Ortsamte	1
+Ortsamtes	2
+Ortsamts	1
+Ortsanfang
+Ortsanfanges	2
+Ortsanfangs	1
+Ortsanfänge	4ang
+Ortsanfängen	5ang
+Ortsangabe
+Ortsangaben	1
+Ortsansässige	13ortsansässig
+Ortsansässigem	1
+Ortsansässigen	1
+Ortsansässiger	1
+Ortsarme
+Ortsarmem	1
+Ortsarmen	1
+Ortsarmer	1
+Ortsausgang
+Ortsausgange	1
+Ortsausganges	2
+Ortsausgangs	1
+Ortsausgangsschild
+Ortsausgangsschilde	1
+Ortsausgangsschilder	2
+Ortsausgangsschildern	3
+Ortsausgangsschildes	2
+Ortsausgangsschilds	1
+Ortsausgangstafel
+Ortsausgangstafeln	1
+Ortsausgänge	4ang
+Ortsausgängen	5ang
+Ortsausschuss
+Ortsausschusses	2
+Ortsausschüsse	4uss
+Ortsausschüssen	5uss
+Ortsbeben
+Ortsbebens	1
+Ortsbefund
+Ortsbefunde	1
+Ortsbefunden	2
+Ortsbefundes	2
+Ortsbefunds	1
+Ortsbegehung
+Ortsbegehungen	2
+Ortsbehörde
+Ortsbehörden	1
+Ortsbeirat
+Ortsbeirates	2
+Ortsbeirats	1
+Ortsbeiräte	3at
+Ortsbeiräten	4at
+Ortsbenennung
+Ortsbenennungen	2
+Ortsbeschreibung
+Ortsbeschreibungen	2
+Ortsbesichtigung
+Ortsbesichtigungen	2
+Ortsbestimmung
+Ortsbestimmungen	2
+Ortsbevölkerung
+Ortsbevölkerungen	2
+Ortsbewegliche
+Ortsbeweglichen	1
+Ortsbewohner
+Ortsbewohnern	1
+Ortsbewohners	1
+Ortsbezeichnung
+Ortsbezeichnungen	2
+Ortsbild
+Ortsbilder	2
+Ortsbildern	3
+Ortsbildes	2
+Ortsbilds	1
+Ortsbrauch
+Ortsbrauches	2
+Ortsbrauchs	1
+Ortsbrief
+Ortsbriefe	1
+Ortsbriefen	2
+Ortsbriefes	2
+Ortsbriefs	1
+Ortsbräuche	5auch
+Ortsbräuchen	6auch
+Ortsbürgergemeinde
+Ortsbürgergemeinden	1
+Ortsbürgermeister
+Ortsbürgermeistern	1
+Ortsbürgermeisters	1
+Ortschaft
+Ortschaften	2
+Ortschaftsbürgermeister
+Ortschaftsbürgermeistern	1
+Ortschaftsbürgermeisters	1
+Ortschefin
+Ortschefinnen	3
+Ortscheit
+Ortscheite	1
+Ortscheiten	2
+Ortscheites	2
+Ortscheits	1
+Ortschronik
+Ortschroniken	2
+Ortsdialekt
+Ortsdialekte	1
+Ortsdialekten	2
+Ortsdialektes	2
+Ortsdialekts	1
+Ortsduell
+Ortsduelle	1
+Ortsduellen	2
+Ortsduells	1
+Ortsdurchfahrt
+Ortsdurchfahrten	2
+Ortseinfahrt
+Ortseinfahrten	2
+Ortseingang
+Ortseingange	1
+Ortseinganges	2
+Ortseingangs	1
+Ortseingangsschild
+Ortseingangsschilde	1
+Ortseingangsschilder	2
+Ortseingangsschildern	3
+Ortseingangsschildes	2
+Ortseingangsschilds	1
+Ortseingangstafel
+Ortseingangstafeln	1
+Ortseingänge	4ang
+Ortseingängen	5ang
+Ortseinwohner
+Ortseinwohnern	1
+Ortseinwohners	1
+Ortsfeste	9ortsfest
+Ortsfesten	1
+Ortsfeuerwehr
+Ortsfeuerwehren	2
+Ortsfremde
+Ortsfremdem	1
+Ortsfremden	1
+Ortsfremder	1
+Ortsfremdere
+Ortsfremderen	1
+Ortsfremdeste
+Ortsfremdesten	1
+Ortsgebundenheit
+Ortsgebundenheiten	2
+Ortsgedächtnis
+Ortsgedächtnisse	2
+Ortsgedächtnissen	3
+Ortsgedächtnisses	3
+Ortsgemeinde
+Ortsgemeinden	1
+Ortsgeschichte
+Ortsgeschichten	1
+Ortsgespräch
+Ortsgespräche	1
+Ortsgesprächen	2
+Ortsgespräches	2
+Ortsgesprächs	1
+Ortsgrammatik
+Ortsgrammatiken	2
+Ortsgrenze
+Ortsgrenzen	1
+Ortsgruppe
+Ortsgruppen	1
+Ortsgruppenleiter
+Ortsgruppenleiterin
+Ortsgruppenleiterinnen	3
+Ortsgruppenleitern	1
+Ortsgruppenleiters	1
+Ortsgründung
+Ortsgründungen	2
+Ortshinweisschild
+Ortshinweisschilder	2
+Ortshinweisschildern	3
+Ortshinweisschildes	2
+Ortshinweisschilds	1
+Ortshinweistafel
+Ortshinweistafeln	1
+Ortshistorie
+Ortshistorien	1
+Ortsinsasse
+Ortsinsassen	1
+Ortskaiserin
+Ortskaiserinnen	3
+Ortskenntnis
+Ortskenntnisse	2
+Ortskenntnissen	3
+Ortskern
+Ortskerne	1
+Ortskernen	2
+Ortskernes	2
+Ortskerns	1
+Ortskirche
+Ortskirchen	1
+Ortsklasse
+Ortsklassen	1
+Ortskommandant
+Ortskommandanten	2
+Ortskommandantur
+Ortskommandanturen	2
+Ortskraft
+Ortskrankenkasse
+Ortskrankenkassen	1
+Ortskräfte	4aft
+Ortskräften	5aft
+Ortskundige	0r
+Ortskundigem	1r
+Ortskundigen	1
+Ortskundiger
+Ortskundigere
+Ortskundigeren	1
+Ortskundigste
+Ortskundigsten	1
+Ortslage
+Ortslagen	1
+Ortsmarke
+Ortsmarken	1
+Ortsmitte
+Ortsmitten	1
+Ortsmundart
+Ortsmundarten	2
+Ortsnachbar
+Ortsnachbarn	1
+Ortsnachbars	1
+Ortsname
+Ortsnamen	1
+Ortsnamenforschung
+Ortsnamengrundwort
+Ortsnamengrundworts	1
+Ortsnamengrundwörter	5ort
+Ortsnamengrundwörtern	6ort
+Ortsnamenkunde
+Ortsnamens	2
+Ortsnamenwechsel
+Ortsnamenwechseln	1
+Ortsnamenwechsels	1
+Ortsnetz
+Ortsnetze	1
+Ortsnetzen	2
+Ortsnetzes	2
+Ortsnetzkennzahl
+Ortsnetzkennzahlen	2
+Ortsordinarien	2us
+Ortsordinarius
+Ortspfarrer
+Ortspfarrern	1
+Ortspfarrers	1
+Ortsplan
+Ortsplanes	2
+Ortsplans	1
+Ortspläne	3an
+Ortsplänen	4an
+Ortspolizei
+Ortspolizeien	2
+Ortspolizist
+Ortspolizisten	2
+Ortspräsident
+Ortspräsidenten	2
+Ortspräsidentin
+Ortspräsidentinnen	3
+Ortsrand
+Ortsrande	1
+Ortsrandes	2
+Ortsrands	1
+Ortsrecht
+Ortsrechte	1
+Ortsrechten	2
+Ortsrechtes	2
+Ortsrechts	1
+Ortsregister
+Ortsregistern	1
+Ortsregisters	1
+Ortsränder	5and
+Ortsrändern	6and
+Ortsschild
+Ortsschilde	1
+Ortsschilder	2
+Ortsschildern	3
+Ortsschildes	2
+Ortsschilds	1
+Ortssinn
+Ortssinnes	2
+Ortssinns	1
+Ortssprache
+Ortssprachen	1
+Ortssprecher
+Ortssprechern	1
+Ortssprechers	1
+Ortsstempel
+Ortsstempeln	1
+Ortsstempels	1
+Ortstafel
+Ortstafeln	1
+Ortstarif
+Ortstarife	1
+Ortstarifen	2
+Ortstarifes	2
+Ortstarifs	1
+Ortstaxe
+Ortstaxen	1
+Ortsteil
+Ortsteilbürgermeister
+Ortsteilbürgermeistern	1
+Ortsteilbürgermeisters	1
+Ortsteile	1
+Ortsteilen	2
+Ortsteiles	2
+Ortsteilfeuerwehr
+Ortsteilfeuerwehren	2
+Ortsteils	1
+Ortsteilwehr
+Ortsteilwehren	2
+Ortstein
+Ortsteine	1
+Ortsteinen	2
+Ortsteines	2
+Ortsteins	1
+Ortstermin
+Ortstermine	1
+Ortsterminen	2
+Ortstermines	2
+Ortstermins	1
+Ortsumgebung
+Ortsumgebungen	2
+Ortsumgehung
+Ortsumgehungen	2
+Ortsvektor
+Ortsvektoren	2
+Ortsvektors	1
+Ortsverband
+Ortsverbandes	2
+Ortsverbands	1
+Ortsverbandsvorsitzende
+Ortsverbandsvorsitzendem	1
+Ortsverbandsvorsitzenden	1
+Ortsverbandsvorsitzender	1
+Ortsverbände	4and
+Ortsverbänden	5and
+Ortsverein
+Ortsvereine	1
+Ortsvereinen	2
+Ortsvereines	2
+Ortsvereins	1
+Ortsvereinsvorsitzende
+Ortsvereinsvorsitzendem	1
+Ortsvereinsvorsitzenden	1
+Ortsvereinsvorsitzender	1
+Ortsverweisung
+Ortsverweisungen	2
+Ortsverzeichnis
+Ortsverzeichnisse	2
+Ortsverzeichnissen	3
+Ortsverzeichnisses	3
+Ortsveränderung
+Ortsveränderungen	2
+Ortsvorsteher
+Ortsvorsteherin
+Ortsvorsteherinnen	3
+Ortsvorstehern	1
+Ortsvorstehers	1
+Ortsvorwahl
+Ortsvorwahlen	2
+Ortswahl
+Ortswahlen	2
+Ortswechsel
+Ortswechseln	1
+Ortswechsels	1
+Ortswehr
+Ortswehren	2
+Ortswein
+Ortsweine	1
+Ortsweinen	2
+Ortsweines	2
+Ortsweins	1
+Ortszeit
+Ortszeiten	2
+Ortszentren	2um
+Ortszentrum
+Ortszentrums	1
+Ortszulage
+Ortszulagen	1
+Ortszuschlag
+Ortszuschlages	2
+Ortszuschlags	1
+Ortszuschläge	3ag
+Ortszuschlägen	4ag
+Ortsämter	5amt
+Ortsämtern	6amt
+Ortsübliche
+Ortsüblichen	1
+Ortsüblichkeit
+Ortsüblichkeiten	2
+Ortung
+Ortungen	2
+Ortungsfunktion
+Ortungsfunktionen	2
+Ortungsgerät
+Ortungsgeräte	1
+Ortungsgeräten	2
+Ortungsgerätes	2
+Ortungsgeräts	1
+Ortungsradar
+Ortungsradare	1
+Ortungsradaren	2
+Ortungsradars	1
+Ortwin
+Oryktognosie
+Oryxantilope
+Oryxantilopen	1
+Orël
+Os
+Osaka
+Osaka-Deklaration
+Osakas	1
+Oscar
+Oscar-Nominierung
+Oscar-Nominierungen	2
+Oscarnominierung
+Oscarnominierungen	2
+Oscarpreisträger
+Oscarpreisträgerin
+Oscarpreisträgerinnen	3
+Oscarpreisträgern	1
+Oscarpreisträgers	1
+Oscars	1
+Oschi
+Oschis	1
+Oser	2
+Osern	3
+Oshana
+Oshanas	1
+Oshogbo
+Osijek
+Osiris
+Oskar
+Oskars	1
+Oskulationskreis
+Oskulationskreise	1
+Oskulationskreisen	2
+Oskulationskreises	2
+Oslo
+Oslobodenje
+Osloer
+Osloerin
+Osloerinnen	3
+Osloern	1
+Osloers	1
+Oslos	1
+Osman
+Osmane
+Osmanen	1
+Osmanenherrschaft
+Osmanenreich
+Osmanenreiche	1
+Osmanenreiches	2
+Osmanenreichs	1
+Osmanin
+Osmaninnen	3
+Osmanische	10osmanisch
+Osmanischen	1
+Osmium
+Osmiums	1
+Osmose
+Osmosekraftwerk
+Osmosekraftwerke	1
+Osmosekraftwerken	2
+Osmosekraftwerkes	2
+Osmosekraftwerks	1
+Osmosen	1
+Osnabrück
+Osnabrücker
+Osnabrückern	1
+Osnabrückers	1
+Osnabrücks	1
+Osphresiologie
+Osramlampe
+Osramlampen	1
+Ossa	2
+Ossarien	2um
+Ossarium
+Ossariums	1
+Ossein
+Osseins	1
+Osservatore
+Ossi
+Ossietzky
+Ossis	1
+Ossobuci	1o
+Ossobuco
+Ossuarien	2um
+Ossuarium
+Ossuariums	1
+Ost
+Ost-Berlin
+Ost-Cdu
+Ost-Herzegowina
+Ost-Pen
+Ost-Spd
+Ost-Timor
+Ost-Timors	1
+Ost-Türkei
+Ost-West-Achse
+Ost-West-Achsen	1
+Ost-West-Angleichung
+Ost-West-Angleichungen	2
+Ost-West-Beziehung
+Ost-West-Beziehungen	2
+Ost-West-Dialog
+Ost-West-Dialoge	1
+Ost-West-Dialogen	2
+Ost-West-Dialoges	2
+Ost-West-Dialogs	1
+Ost-West-Gespräch
+Ost-West-Gespräche	1
+Ost-West-Gesprächen	2
+Ost-West-Gespräches	2
+Ost-West-Gesprächs	1
+Ost-West-Handel
+Ost-West-Handels	1
+Ost-West-Konflikt
+Ost-West-Konflikte	1
+Ost-West-Konflikten	2
+Ost-West-Konfliktes	2
+Ost-West-Konflikts	1
+Ost-West-Richtung
+Ost-West-Strasse
+Ost-West-Verhandlung
+Ost-West-Verhandlungen	2
+Ostabhang
+Ostabhanges	2
+Ostabhangs	1
+Ostabhänge	4ang
+Ostabhängen	5ang
+Ostafrika
+Ostafrikas	1
+Ostagent
+Ostagenten	2
+Ostalb
+Ostalbkreis
+Ostalbkreise	1
+Ostalbkreises	2
+Ostalgie
+Ostalgien	1
+Ostarbeiter
+Ostarbeiterin
+Ostarbeiterinnen	3
+Ostarbeitern	1
+Ostarbeiters	1
+Ostasien
+Ostasiens	1
+Ostausgang
+Ostausgange	1
+Ostausganges	2
+Ostausgangs	1
+Ostausgänge	4ang
+Ostausgängen	5ang
+Ostbahnhof
+Ostbahnhofs	1
+Ostbahnhöfe	3of
+Ostbahnhöfen	4of
+Ostbayern
+Ostberlin
+Ostberliner
+Ostberlinerin
+Ostberlinerinnen	3
+Ostberlinern	1
+Ostberliners	1
+Ostberlins	1
+Ostbetrieb
+Ostbetriebe	1
+Ostbetrieben	2
+Ostbetriebes	2
+Ostbetriebs	1
+Ostblock
+Ostblocks	1
+Ostbosnien
+Ostbrandenburg
+Ostbrandenburgs	1
+Ostbrise
+Ostbrisen	1
+Ostchina
+Ostchinas	1
+Ostderby
+Ostderbys	1
+Ostdeutsche	0r
+Ostdeutschem	1r
+Ostdeutschen	1
+Ostdeutscher
+Ostdeutschland
+Ostdeutschlands	1
+Ostduell
+Ostduelle	1
+Ostduellen	2
+Ostduells	1
+Oste	1
+Ostealgie
+Ostealgien	1
+Osteingang
+Osteingange	1
+Osteinganges	2
+Osteingangs	1
+Osteingänge	4ang
+Osteingängen	5ang
+Ostelbier
+Ostelbiern	1
+Ostelbiers	1
+Osten
+Ostend
+Ostends	1
+Ostens	1
+Ostentation
+Ostentationen	2
+Osteoarthritiden	3s
+Osteoarthritis
+Osteoblast
+Osteoblasten	2
+Osteoektomie
+Osteoektomien	1
+Osteoklast
+Osteoklasten	2
+Osteologe
+Osteologen	1
+Osteologie
+Osteologin
+Osteologinnen	3
+Osteopath
+Osteopathen	2
+Osteopathie
+Osteopathien	1
+Osteopathin
+Osteopathinnen	3
+Osteopenie
+Osteopenien	1
+Osteoplastik
+Osteoplastiken	2
+Osteoporose
+Osteoporosen	1
+Osteosarkom
+Osteosarkome	1
+Osteosarkomen	2
+Osteosarkoms	1
+Osteosynthese
+Osteosynthesen	1
+Osteotaxen	2is
+Osteotaxis
+Osteotomie
+Osteotomien	1
+Osterangebot
+Osterangebote	1
+Osterangeboten	2
+Osterangebotes	2
+Osterangebots	1
+Osterbeichte
+Osterbeichten	1
+Osterblume
+Osterblumen	1
+Osterbrauch
+Osterbrauche	1
+Osterbrauches	2
+Osterbrauchs	1
+Osterbrot
+Osterbrote	1
+Osterbroten	2
+Osterbrotes	2
+Osterbrots	1
+Osterbrunnen
+Osterbrunnens	1
+Osterbräuche	5auch
+Osterbräuchen	6auch
+Osterchoral
+Osterchorals	1
+Osterchoräle	3al
+Osterchorälen	4al
+Osterei
+Ostereier	2
+Ostereiern	3
+Ostereiersuchen
+Ostereiersuchens	1
+Ostereies	2
+Ostereis	1
+Osterfeier
+Osterfeiern	1
+Osterfeiertag
+Osterfeiertage	1
+Osterfeiertagen	2
+Osterfeiertages	2
+Osterfeiertags	1
+Osterferien
+Osterfest
+Osterfeste	1
+Osterfesten	2
+Osterfestes	2
+Osterfestkreis
+Osterfestkreise	1
+Osterfestkreisen	2
+Osterfestkreises	2
+Osterfests	1
+Osterfeuer
+Osterfeuern	1
+Osterfeuers	1
+Osterfladen
+Osterfladens	1
+Osterfrühstück
+Osterfrühstücke	1
+Osterfrühstücken	2
+Osterfrühstückes	2
+Osterfrühstücks	1
+Ostergebräuche
+Ostergebräuchen	1
+Ostergelächter
+Ostergelächtern	1
+Ostergelächters	1
+Ostergeschäft
+Ostergeschäfte	1
+Ostergeschäften	2
+Ostergeschäftes	2
+Ostergeschäfts	1
+Osterglocke
+Osterglocken	1
+Ostergras
+Ostergrases	2
+Ostergruß
+Ostergrußes	2
+Ostergrüße	3uß
+Ostergrüßen	4uß
+Osterhammel
+Osterhammeln	1
+Osterhammels	1
+Osterhase
+Osterhasen	1
+Osterhasenpädagogik
+Osterhämmel	5ammel
+Osterhämmeln	6ammel
+Osteria
+Osterias	1
+Osterien	2a
+Osterinsel
+Osterinseln	1
+Osterkerze
+Osterkerzen	1
+Osterkorb
+Osterkorbes	2
+Osterkorbs	1
+Osterkrapfen
+Osterkrapfens	1
+Osterkörbe	4orb
+Osterkörben	5orb
+Osterlachen
+Osterlachens	1
+Osterlamm
+Osterlamme	1
+Osterlammes	2
+Osterlamms	1
+Osterlilie
+Osterlilien	1
+Osterluzei
+Osterluzeien	2
+Osterlämmer	5amm
+Osterlämmern	6amm
+Osterländisch
+Osterländischs	1
+Ostermann
+Ostermarsch
+Ostermarschbewegung
+Ostermarschbewegungen	2
+Ostermarschierer
+Ostermarschiererin
+Ostermarschiererinnen	3
+Ostermarschierern	1
+Ostermarschierers	1
+Ostermarschs	1
+Ostermesse
+Ostermessen	1
+Ostermette
+Ostermetten	1
+Ostermonat
+Ostermonate	1
+Ostermonaten	2
+Ostermonates	2
+Ostermonats	1
+Ostermond
+Ostermonde	1
+Ostermonden	2
+Ostermondes	2
+Ostermonds	1
+Ostermontag
+Ostermontage	1
+Ostermontagen	2
+Ostermontages	2
+Ostermontags	1
+Ostermorgen
+Ostermorgens	1
+Ostermärsche	6arsch
+Ostermärschen	7arsch
+Ostern
+Osternacht
+Osternest
+Osterneste	1
+Osternester	2
+Osternestern	3
+Osternestes	2
+Osternests	1
+Osterns	1
+Osternächte	5acht
+Osternächten	6acht
+Osteroktav
+Osteroktaven	2
+Osterpinze
+Osterpinzen	1
+Osterpredigt
+Osterpredigten	2
+Osterputz
+Osterputzes	2
+Ostersamstag
+Ostersamstage	1
+Ostersamstagen	2
+Ostersamstages	2
+Ostersamstags	1
+Ostersonnabend
+Ostersonnabende	1
+Ostersonnabenden	2
+Ostersonnabends	1
+Ostersonntag
+Ostersonntage	1
+Ostersonntagen	2
+Ostersonntages	2
+Ostersonntags	1
+Osterspaziergang
+Osterspazierganges	2
+Osterspaziergangs	1
+Osterspaziergänge	4ang
+Osterspaziergängen	5ang
+Osterspektakel
+Osterspektakeln	1
+Osterspektakels	1
+Osterspiel
+Osterspiele	1
+Osterspielen	2
+Osterspieles	2
+Osterspiels	1
+Ostersymbol
+Ostersymbole	1
+Ostersymbolen	2
+Ostersymboles	2
+Ostersymbols	1
+Ostertag
+Ostertage	1
+Ostertagen	2
+Ostertages	2
+Ostertags	1
+Osterverkehr
+Osterverkehre	1
+Osterverkehres	2
+Osterverkehrs	1
+Osterweiterung
+Osterweiterungen	2
+Osterwetter
+Osterwetters	1
+Osterwoche
+Osterwochen	1
+Osterwochenende
+Osterwochenenden	1
+Osterwochenendes	1
+Osterzeit
+Osterzopf
+Osterzopfes	2
+Osterzopfs	1
+Osterzöpfe	4opf
+Osterzöpfen	5opf
+Ostes	2
+Osteuropa
+Osteuropaforschung
+Osteuropaforschungen	2
+Osteuropakunde
+Osteuropas	1
+Osteuropäer
+Osteuropäerin
+Osteuropäerinnen	3
+Osteuropäern	1
+Osteuropäers	1
+Osteuropäische	14osteuropäisch
+Osteuropäischen	1
+Ostfale
+Ostfalen	1
+Ostfernsehen
+Ostfernsehens	1
+Ostflanke
+Ostflanken	1
+Ostflüchtling
+Ostflüchtlinge	1
+Ostflüchtlingen	2
+Ostflüchtlings	1
+Ostflügel
+Ostflügeln	1
+Ostflügels	1
+Ostforschung
+Ostforschungen	2
+Ostfrankenreich
+Ostfrankenreiches	2
+Ostfrankenreichs	1
+Ostfrankreich
+Ostfrau
+Ostfrauen	2
+Ostfriese
+Ostfriesen	1
+Ostfriesenwitz
+Ostfriesenwitze	1
+Ostfriesenwitzen	2
+Ostfriesenwitzes	2
+Ostfriesin
+Ostfriesinnen	3
+Ostfriesland
+Ostfrieslands	1
+Ostfront
+Ostfronten	2
+Ostgebiet
+Ostgebiete	1
+Ostgebieten	2
+Ostgebietes	2
+Ostgebiets	1
+Ostgeld
+Ostgelde	1
+Ostgelder	2
+Ostgeldern	3
+Ostgeldes	2
+Ostgelds	1
+Ostgote
+Ostgoten	1
+Ostgotenkönig
+Ostgotenkönige	1
+Ostgotenkönigen	2
+Ostgotenköniges	2
+Ostgotenkönigs	1
+Ostgrenze
+Ostgrenzen	1
+Osthandel
+Osthandels	1
+Osthang
+Osthange	1
+Osthanges	2
+Osthangs	1
+Ostheim
+Ostheims	1
+Osthessen
+Osthälfte
+Osthälften	1
+Osthänge	4ang
+Osthängen	5ang
+Ostiarier
+Ostiariern	1
+Ostiariers	1
+Ostinati	1o
+Ostinato
+Ostinatos	1
+Ostjerusalem
+Ostjerusalems
+Ostjude
+Ostjuden	1
+Ostkirche
+Ostkirchen	1
+Ostkurs
+Ostkurse	1
+Ostkursen	2
+Ostkurses	2
+Ostkurve
+Ostkurven	1
+Ostküste
+Ostküsten	1
+Ostküstenzeit
+Ostland
+Ostlandes	2
+Ostlands	1
+Ostler
+Ostlerin
+Ostlerinnen	3
+Ostlern	1
+Ostlers	1
+Ostländer	5and
+Ostländern	6and
+Ostmann
+Ostmannes	2
+Ostmanns	1
+Ostmark
+Ostmedien
+Ostmensch
+Ostmenschen	2
+Ostmilliarde
+Ostmilliarden	1
+Ostmitteldeutsch
+Ostmitteldeutsche	17ostmitteldeutsch
+Ostmitteldeutschen	1
+Ostmitteldeutschs	1
+Ostmitteleuropa
+Ostmitteleuropas	1
+Ostmoderne
+Ostmänner	5ann
+Ostmännern	6ann
+Ostnordosten
+Ostnordostens	1
+Ostpolitik
+Ostpolitiken	2
+Ostpreussen
+Ostpreuße
+Ostpreußen	1
+Ostpreußens	1
+Ostpreußin
+Ostpreußinnen	3
+Ostprodukt
+Ostprodukte	1
+Ostprodukten	2
+Ostproduktes	2
+Ostprodukts	1
+Ostprovinz
+Ostprovinzen	2
+Ostpunkt
+Ostpunkte	1
+Ostpunkten	2
+Ostpunktes	2
+Ostpunkts	1
+Ostraka	1on
+Ostrakismos
+Ostrakon
+Ostrakons	1
+Ostrand
+Ostrande	1
+Ostrandes	2
+Ostrands	1
+Ostrazismus
+Ostrock
+Ostrocks	1
+Ostränder	5and
+Osträndern	6and
+Osts	1
+Ostschweiz
+Ostschweizer
+Ostschweizerin
+Ostschweizerinnen	3
+Ostschweizern	1
+Ostschweizers	1
+Ostsee
+Ostseebad
+Ostseebade	1
+Ostseebades	2
+Ostseebads	1
+Ostseebäder	4ad
+Ostseebädern	5ad
+Ostseeflotte
+Ostseeflotten	1
+Ostseefähre
+Ostseefähren	1
+Ostseehafen
+Ostseehafens	1
+Ostseeheilbad
+Ostseeheilbades	2
+Ostseeheilbads	1
+Ostseeheilbäder	4ad
+Ostseeheilbädern	5ad
+Ostseehäfen	4afen
+Ostseeinsel
+Ostseeinseln	1
+Ostseeküste
+Ostseeküsten	1
+Ostseeprovinz
+Ostseeprovinzen	2
+Ostseeraum
+Ostseeraume	1
+Ostseeraumes	2
+Ostseeraums	1
+Ostseestrand
+Ostseestrande	1
+Ostseestrandes	2
+Ostseestrands	1
+Ostseestrände	4and
+Ostseestränden	5and
+Ostseite
+Ostseiten	1
+Ostsiedlung
+Ostsiedlungen	2
+Ostslawe
+Ostslawen	1
+Ostslawonien
+Ostslawoniens	1
+Ostspitze
+Ostspitzen	1
+Oststadt
+Oststadts	1
+Oststädte	4adt
+Oststädten	5adt
+Ostsüdosten
+Ostsüdostens	1
+Osttangente
+Osttangenten	1
+Ostteil
+Ostteile	1
+Ostteilen	2
+Ostteiles	2
+Ostteils	1
+Osttimor
+Osttimors	1
+Osttrakt
+Osttrakte	1
+Osttrakten	2
+Osttraktes	2
+Osttrakts	1
+Osttürkei
+Ostufer
+Ostufern	1
+Ostufers	1
+Ostukraine
+Ostumgehung
+Ostumgehungen	2
+Ostung
+Ostvorstadt
+Ostvorstädte	4adt
+Ostvorstädten	5adt
+Ostwald
+Ostwand
+Ostwestfale
+Ostwestfalen	1
+Ostwind
+Ostwinde	1
+Ostwinden	2
+Ostwindes	2
+Ostwinds	1
+Ostwissenschaft
+Ostwissenschaften	2
+Ostwände	4and
+Ostwänden	5and
+Ostzeit
+Ostzeiten
+Ostzone
+Ostösterreich
+Ostösterreichs	1
+Oswald
+Osze
+Oszillation
+Oszillationen	2
+Oszillator
+Oszillatore	1
+Oszillatoren	2
+Oszillators	1
+Oszillieren
+Oszillierende
+Oszillierenden	1
+Oszillierens	1
+Oszillierte	11oszilliert
+Oszillierten	1
+Oszillograf
+Oszillografen	2
+Oszillogramm
+Oszillogramme	1
+Oszillogrammen	2
+Oszillogramms	1
+Oszillograph
+Oszillographen	2
+Oszillometrie
+Oszilloskop
+Oszilloskope	1
+Oszilloskopen	2
+Oszilloskops	1
+Ota
+Otaku
+Otakus	1
+Otalgie
+Otalgien	1
+Otas	1
+Otavit
+Otavite	1
+Otaviten	2
+Otavits	1
+Otelo
+Otfried
+Othello
+Othering
+Otherings	1
+Othämatom
+Othämatome	1
+Othämatomen	2
+Othämatoms	1
+Otitiden	3s
+Otitis
+Otmar
+Otodynie
+Otodynien	1
+Otologie
+Otophon
+Otophone	1
+Otophonen	2
+Otophons	1
+Otoplastik
+Otoplastiken	2
+Otorhinolaryngologie
+Otorrhagie
+Otorrhagien	1
+Otorrhöe
+Otorrhöen	1
+Otosklerose
+Otosklerosen	1
+Otoskop
+Otoskope	1
+Otoskopen	2
+Otoskopie
+Otoskopien	1
+Otoskops	1
+Ott
+Ottawa
+Otter
+Otterbalg
+Otterbalges	2
+Otterbalgs	1
+Otterbälge	4alg
+Otterbälgen	5alg
+Otterfell
+Otterfelle	1
+Otterfellen	2
+Otterfelles	2
+Otterfells	1
+Otterhund
+Otterhunde	1
+Otterhunden	2
+Otterhundes	2
+Otterhunds	1
+Ottern	1
+Otternbrut
+Otterngezücht
+Otterngezüchte	1
+Otterngezüchten	2
+Otterngezüchtes	2
+Otterngezüchts	1
+Otters	1
+Otterzivette
+Otterzivetten	1
+Otterzunge
+Otterzungen	1
+Ottifant
+Ottifanten	2
+Ottmar
+Otto
+Otto-Jörg
+Otto-Versand
+Ottocento
+Ottocentos	1
+Ottokraftstoff
+Ottokraftstoffe	1
+Ottokraftstoffen	2
+Ottokraftstoffes	2
+Ottokraftstoffs	1
+Ottoman
+Ottomane	1
+Ottomanen	1
+Ottomans	1
+Ottomar
+Ottomotor
+Ottomotore	1
+Ottomotoren	2
+Ottomotors	1
+Ottone
+Ottonen	1
+Ottonin
+Ottoninnen	3
+Ottonormalverbraucher
+Ottonormalverbrauchern	1
+Ottonormalverbrauchers	1
+Ottos	1
+Otway
+Ouargla
+Oublie
+Oublie-Moi
+Oukie
+Oukies	1
+Ould
+Out
+Outback
+Outbacks	1
+Outdoorbekleidung
+Outdoorbekleidungen	2
+Outen
+Outens	1
+Outfit
+Outfits	1
+Outgroup
+Outgroups	1
+Outing
+Outings	1
+Outlaw
+Outlaws	1
+Outlet
+Outlets	1
+Outperformer
+Outperformern	1
+Outperformers	1
+Outplacement
+Outplacements	1
+Output
+Outputs	1
+Outs	1
+Outsider
+Outsidern	1
+Outsiders	1
+Outsourcing
+Outsourcings	1
+Outtake
+Outtakes	1
+Outwachler
+Outwachlern	1
+Outwachlers	1
+Ouvertüre
+Ouvertüren	1
+Ouvrière
+Ouvrée
+Ouzo
+Ouzos	1
+Ova	1um
+Oval
+Ovalbumin
+Ovalbumine	1
+Ovalbuminen	2
+Ovalbumins	1
+Ovale	1
+Ovalen	2
+Ovals	1
+Ovalstempel
+Ovalstempeln	1
+Ovalstempels	1
+Ovalzirkel
+Ovalzirkeln	1
+Ovalzirkels	1
+Ovambo
+Ovar
+Ovare	1
+Ovaren	2
+Ovarialgravidität
+Ovarialgraviditäten	2
+Ovarialhormon
+Ovarialhormone	1
+Ovarialhormonen	2
+Ovarialhormons	1
+Ovariektomie
+Ovariektomien	1
+Ovarien	2um
+Ovariosalpingitiden	3s
+Ovariosalpingitis
+Ovariotomie
+Ovariotomien	1
+Ovarium
+Ovariums	1
+Ovars	1
+Ovation
+Ovationen	2
+Over-the-Counter-Market
+Over-the-Counter-Markets	1
+Overall
+Overalls	1
+Overdrive
+Overdrives	1
+Overflow
+Overflows	1
+Overhaus
+Overhead
+Overheadprojektor
+Overheadprojektoren	2
+Overheadprojektors	1
+Overheads	1
+Overkill
+Overknees
+Overstatement
+Overstatements	1
+Overtime
+Overtimes	1
+Overtourism
+Overtourisms	1
+Ovg
+Ovide
+Ovidukt
+Ovidukte	1
+Ovidukten	2
+Oviduktes	2
+Ovidukts	1
+Oviol
+Oviparie
+Oviparien	1
+Ovipositor
+Ovipositoren	2
+Ovipositors	1
+Ovizid
+Ovizide	1
+Oviziden	2
+Ovizides	2
+Ovizids	1
+Ovo-Lacto-Vegetarier
+Ovo-Lacto-Vegetarierin
+Ovo-Lacto-Vegetarierinnen	3
+Ovo-Lacto-Vegetariern	1
+Ovo-Lacto-Vegetariers	1
+Ovotestes	2is
+Ovotestis
+Ovoviviparie
+Ovoviviparien	1
+Ovula	1um
+Ovulation
+Ovulationen	2
+Ovulationshemmer
+Ovulationshemmern	1
+Ovulationshemmers	1
+Ovulationszyklen	2us
+Ovulationszyklus
+Ovulum
+Ovulums	1
+Ovum
+Ovums	1
+Owambo
+Owen
+Owens
+Owezahrer
+Owezahrern	1
+Owezahrers	1
+Owrag
+Owragi	1
+Owrags	1
+Oxalat
+Oxalate	1
+Oxalaten	2
+Oxalates	2
+Oxalats	1
+Oxalatstein
+Oxalatsteine	1
+Oxalatsteinen	2
+Oxalatsteines	2
+Oxalatsteins	1
+Oxalessigsäure
+Oxalis
+Oxalit
+Oxalite	1
+Oxaliten	2
+Oxalits	1
+Oxalsäure
+Oxalurie
+Oxalurien	1
+Oxer
+Oxern	1
+Oxers	1
+Oxford
+Oxfordbewegung
+Oxfordeinheit
+Oxfordeinheiten	2
+Oxfordien
+Oxfordiens	1
+Oxfords	1
+Oxid
+Oxidase
+Oxidasen	1
+Oxidation
+Oxidationen	2
+Oxidationsmittel
+Oxidationsmitteln	1
+Oxidationsmittels	1
+Oxidationsvermögen
+Oxidationsvermögens	1
+Oxidationszone
+Oxidationszonen	1
+Oxidator
+Oxidatoren	2
+Oxidators	1
+Oxide	1
+Oxiden	2
+Oxides	2
+Oxidfluorid
+Oxidfluoride	1
+Oxidfluoriden	2
+Oxidfluorids	1
+Oxidhalogenid
+Oxidhalogenide	1
+Oxidhalogeniden	2
+Oxidhalogenids	1
+Oxidieren
+Oxidierende
+Oxidierenden	1
+Oxidierens	1
+Oxidierte	9oxidiert
+Oxidierten	1
+Oxidierung
+Oxidierungen	2
+Oxidimeter
+Oxidimetern	1
+Oxidimeters	1
+Oxidimetrie
+Oxidion
+Oxidionen	2
+Oxidions	1
+Oxids	1
+Oxidul
+Oxidule	1
+Oxidulen	2
+Oxiduls	1
+Oxin
+Oxine	1
+Oxinen	2
+Oxins	1
+Oxohalogenid
+Oxohalogenide	1
+Oxohalogeniden	2
+Oxohalogenids	1
+Oxonium
+Oxoniumion
+Oxoniumionen	2
+Oxoniumions	1
+Oxoniums	1
+Oxtailsuppe
+Oxtailsuppen	1
+Oxybiose
+Oxyd
+Oxydase
+Oxydasen	1
+Oxydation
+Oxydationen	2
+Oxydationsvermögen
+Oxydationsvermögens	1
+Oxydationszone
+Oxydationszonen	1
+Oxydator
+Oxydatoren	2
+Oxydators	1
+Oxyde	1
+Oxyden	2
+Oxydes	2
+Oxydierung
+Oxydierungen	2
+Oxydimeter
+Oxydimetern	1
+Oxydimeters	1
+Oxydimetrie
+Oxyds	1
+Oxydul
+Oxydule	1
+Oxydulen	2
+Oxyduls	1
+Oxyessigsäure
+Oxygen
+Oxygenation
+Oxygenationen	2
+Oxygenierung
+Oxygenierungen	2
+Oxygenium
+Oxygeniums	1
+Oxygens	1
+Oxyhämoglobin
+Oxyhämoglobins	1
+Oxyliquit
+Oxyliquits	1
+Oxymora	1on
+Oxymoron
+Oxymorons	1
+Oxynitrid
+Oxynitride	1
+Oxynitriden	2
+Oxynitrids	1
+Oxypropionsäure
+Oxysäure
+Oxysäuren	1
+Oxytocin
+Oxytocine	1
+Oxytocinen	2
+Oxytocins	1
+Oxytona	1on
+Oxytonon
+Oxytonons	1
+Oxytozin
+Oxytozins	1
+Oxyure
+Oxyuren	1
+Oxyuriasen	2is
+Oxyuriases	2is
+Oxyuriasis
+Ozalid
+Ozalidpapier
+Ozalidpapiere	1
+Ozalidpapieren	2
+Ozalidpapiers	1
+Ozalids	1
+Ozean
+Ozeanarien	2um
+Ozeanarium
+Ozeanariums	1
+Ozeanaut
+Ozeanauten	2
+Ozeanautin
+Ozeanautinnen	3
+Ozeanbecken
+Ozeanbeckens	1
+Ozeanboden
+Ozeanbodens	1
+Ozeanböden	4oden
+Ozeandampfer
+Ozeandampfern	1
+Ozeandampfers	1
+Ozeane	1
+Ozeanen	2
+Ozeaner
+Ozeanern	1
+Ozeaners	1
+Ozeanes	2
+Ozeanfrachter
+Ozeanfrachtern	1
+Ozeanfrachters	1
+Ozeangigant
+Ozeangiganten	2
+Ozeanide
+Ozeaniden	1
+Ozeanien
+Ozeanienmeister
+Ozeanienmeistern	1
+Ozeanienmeisters	1
+Ozeanienmeisterschaft
+Ozeanienmeisterschaften	2
+Ozeaniens	1
+Ozeanist
+Ozeanisten	2
+Ozeanistik
+Ozeanistin
+Ozeanistinnen	3
+Ozeanität
+Ozeanograf
+Ozeanografen	2
+Ozeanografie
+Ozeanografin
+Ozeanografinnen	3
+Ozeanograph
+Ozeanographen	2
+Ozeanographie
+Ozeanographin
+Ozeanographinnen	3
+Ozeanologe
+Ozeanologen	1
+Ozeanologie
+Ozeanologin
+Ozeanologinnen	3
+Ozeanreise
+Ozeanreisen	1
+Ozeanriese
+Ozeanriesen	1
+Ozeans	1
+Ozeanversauerung
+Ozeanversauerungen	2
+Ozeanüberquerung
+Ozeanüberquerungen	2
+Ozelle
+Ozellen	1
+Ozelot
+Ozelote	1
+Ozeloten	2
+Ozelots	1
+Ozokerit
+Ozokerite	1
+Ozokeriten	2
+Ozokerits	1
+Ozon
+Ozonalarm
+Ozonalarme	1
+Ozonalarmen	2
+Ozonalarmes	2
+Ozonalarms	1
+Ozonator
+Ozonatoren	2
+Ozonators	1
+Ozonbelastung
+Ozonbelastungen	2
+Ozongehalt
+Ozongehalte	1
+Ozongehalten	2
+Ozongehaltes	2
+Ozongehalts	1
+Ozongenerator
+Ozongeneratoren	2
+Ozongenerators	1
+Ozongeruch
+Ozongeruches	2
+Ozongeruchs	1
+Ozongerüche	4uch
+Ozongerüchen	5uch
+Ozonid
+Ozonidanion
+Ozonidanione	1
+Ozonidanionen	2
+Ozonidanions	1
+Ozonide	1
+Ozoniden	2
+Ozonides	2
+Ozonids	1
+Ozonisieren
+Ozonisierende
+Ozonisierenden	1
+Ozonisierens	1
+Ozonisierte	11ozonisiert
+Ozonisierten	1
+Ozonkiller
+Ozonkillern	1
+Ozonkillers	1
+Ozonkonzentration
+Ozonkonzentrationen	2
+Ozonloch
+Ozonloche	1
+Ozonloches	2
+Ozonlochs	1
+Ozonlöcher	5och
+Ozonlöchern	6och
+Ozonmenge
+Ozonmengen	1
+Ozonmolekül
+Ozonmoleküle	1
+Ozonmolekülen	2
+Ozonmoleküls	1
+Ozonosphäre
+Ozonröhre
+Ozonröhren	1
+Ozons	1
+Ozonschicht
+Ozonschichten	2
+Ozonsmog
+Ozonsmogs	1
+Ozontherapie
+Ozontherapien	1
+Ozonwert
+Ozonwerte	1
+Ozonwerten	2
+Ozonwertes	2
+Ozonwerts	1
+Ozäna
+Ozänen	2a
+o
+o-Laut
+o-Laute	1
+o-Lauten	2
+o-Lautes	2
+o-Lauts	1
+o-beinig
+o-förmig
+ob
+obberührt
+obdachlos
+obdachlose	1
+obdachlosem	2
+obdachlosen	2
+obdachloser	2
+obdachloses	2
+obdiplostemon
+obdurier	0en
+obduriere	0n
+obdurieren
+obdurierend	1
+obdurierest	2n
+obdurieret	1n
+obdurierst	2en
+obduriert	1en
+obdurierte	2en
+obdurierten	3en
+obduriertest	4en
+obduriertet	3en
+obduzier	0en
+obduziere	0n
+obduzieren
+obduzierend	1
+obduzierende	1
+obduzierendem	2
+obduzierenden	2
+obduzierender	2
+obduzierendes	2
+obduzierest	2n
+obduzieret	1n
+obduzierst	2en
+obduziert
+obduzierte	2en
+obduziertem	2
+obduzierten	3en
+obduzierter	2
+obduziertes	2
+obduziertest	4en
+obduziertet	3en
+oben
+obenan
+obenauf
+obenaus
+obenbenannt
+obendrauf
+obendrein
+obendrüber
+obendurch
+obenein
+obenerwähnt
+obengenannt
+obenher
+obenherum
+obenhin
+obenhinaus
+obenrum
+obenstehend
+obenzitiert
+ober
+oberaffengeil
+oberbayerisch
+oberbayerischen	2
+obercool
+obercoolsten	4
+oberdeutsch
+obere	0r
+oberem	2
+oberen	2
+oberer	2
+oberere	3
+obererem	4
+obereren	4
+obererer	4
+obereres	4
+oberes	2
+oberfaul
+oberflau
+oberflächenaktiv
+oberflächennah
+oberflächenveredelt
+oberflächig
+oberflächige	1
+oberflächigem	2
+oberflächigen	2
+oberflächiger	2
+oberflächigere	3
+oberflächigerem	4
+oberflächigeren	4
+oberflächigerer	4
+oberflächigeres	4
+oberflächiges	2
+oberflächigste	3
+oberflächigstem	4
+oberflächigsten	4
+oberflächigster	4
+oberflächigstes	4
+oberflächlich
+oberflächliche	1
+oberflächlichem	2
+oberflächlichen	2
+oberflächlicher	2
+oberflächlichere	3
+oberflächlicherem	4
+oberflächlicheren	4
+oberflächlicherer	4
+oberflächlicheres	4
+oberflächliches	2
+oberflächlichste	3
+oberflächlichstem	4
+oberflächlichsten	4
+oberflächlichster	4
+oberflächlichstes	4
+oberfränkisch
+oberfränkischen	2
+obergeil
+obergeiler	2
+obergeilsten	4
+obergärig
+oberhalb
+oberherrlich
+oberirdisch
+oberirdische	1
+oberitalienisch
+oberkant
+oberkorrekt
+oberlastig
+oberlehrerhaft
+oberlehrerhaftem	2
+oberlehrerhaften	2
+oberlehrerhafter	2
+oberlehrerhaftere	3
+oberlehrerhafterem	4
+oberlehrerhafteren	4
+oberlehrerhafterer	4
+oberlehrerhafteres	4
+oberlehrerhaftes	2
+oberlehrerhaftestem	5
+oberlehrerhaftesten	5
+oberlehrerhaftester	5
+oberlehrerhaftestes	5
+oberligatauglich
+obermies
+oberpfälzisch
+oberpfälzischen	2
+oberschenkelamputiert
+oberschlau
+oberschlesisch
+oberschlesischen	2
+oberschlächtig
+oberschwäbisch
+oberschwäbischen	2
+oberseits
+oberste	3
+oberstem	4
+obersten	4
+oberster	4
+oberstes	4er
+oberständig
+oberwärts
+obfuskier	0en
+obfuskiere	0n
+obfuskieren
+obfuskierend	1
+obfuskierest	2n
+obfuskieret	1n
+obfuskierst	2en
+obfuskiert	1en
+obfuskierte	2en
+obfuskierten	3en
+obfuskiertest	4en
+obfuskiertet	3en
+obgedacht
+obgemeldet
+obgenannt
+obgleich
+obig
+obige	1
+obigem	2
+obigen	2
+obiger	2
+obiges	2
+objektbezogen
+objektiv
+objektive	1
+objektivem	2
+objektiven	2
+objektiver	2
+objektivere	3
+objektiverem	4
+objektiveren	4
+objektiverer	4
+objektiveres	4
+objektives	2
+objektivier	0en
+objektivierbar
+objektivierbaren	2
+objektiviere	0n
+objektivieren
+objektivierend	1
+objektivierende	1
+objektivierendem	2
+objektivierenden	2
+objektivierender	2
+objektivierendere	3
+objektivierenderem	4
+objektivierenderen	4
+objektivierenderer	4
+objektivierenderes	4
+objektivierendes	2
+objektivierendste	3
+objektivierendstem	4
+objektivierendsten	4
+objektivierendster	4
+objektivierendstes	4
+objektivierest	2n
+objektivieret	1n
+objektivierst	2en
+objektiviert
+objektivierte	2en
+objektiviertem	2
+objektivierten	3en
+objektivierter	2
+objektiviertere	3
+objektivierterem	4
+objektivierteren	4
+objektivierterer	4
+objektivierteres	4
+objektiviertes	2
+objektiviertest	4en
+objektiviertestem	5
+objektiviertesten	5
+objektiviertester	5
+objektiviertestes	5
+objektiviertet	3en
+objektivistisch
+objektivistische	1
+objektivistischem	2
+objektivistischen	2
+objektivistischer	2
+objektivistischere	3
+objektivistischerem	4
+objektivistischeren	4
+objektivistischerer	4
+objektivistischeres	4
+objektivistisches	2
+objektivistischste	3
+objektivistischstem	4
+objektivistischsten	4
+objektivistischster	4
+objektivistischstes	4
+objektivste	3
+objektivstem	4
+objektivsten	4
+objektivster	4
+objektivstes	4
+objektorientiert
+objektsprachlich
+objizier	0en
+objiziere	0n
+objizieren
+objizierest	2n
+objizieret	1n
+objizierst	2en
+objiziert	1en
+objizierte	2en
+objizierten	3en
+objiziertest	4en
+objiziertet	3en
+obkonisch
+oblegen	4iegen
+obliege	0n
+obliegen
+obliegend	1
+obliegt	1en
+obligat
+obligatem	2
+obligaten	2
+obligatorisch
+obligatorische	1
+obligatorischem	2
+obligatorischen	2
+obligatorischer	2
+obligatorischere	3
+obligatorischerem	4
+obligatorischeren	4
+obligatorischerer	4
+obligatorischeres	4
+obligatorisches	2
+obligatorischste	3
+obligatorischstem	4
+obligatorischsten	4
+obligatorischster	4
+obligatorischstes	4
+obligeant
+obligier	0en
+obligiere	0n
+obligieren
+obligierest	2n
+obligieret	1n
+obligierst	2en
+obligiert	1en
+obligierte	2en
+obligierten	3en
+obligiertest	4en
+obligiertet	3en
+oblique
+obliterier	0en
+obliteriere	0n
+obliterieren
+obliterierend	1
+obliterierest	2n
+obliterieret	1n
+obliterierst	2en
+obliteriert	1en
+obliterierte	2en
+obliterierten	3en
+obliteriertest	4en
+obliteriertet	3en
+oblong
+obrigkeitlich
+obrigkeitsgläubig
+obrigkeitshörig
+obrigkeitsstaatlich
+obrigkeitsstaatliche	1
+obrigkeitsstaatlichen	2
+obruier	0en
+obruiere	0n
+obruieren
+obruierend	1
+obruierest	2n
+obruieret	1n
+obruierst	2en
+obruiert	1en
+obruierte	2en
+obruierten	3en
+obruiertest	4en
+obruiertet	3en
+obs	0en
+obschon
+obse	0n
+obsekrier	0en
+obsekriere	0n
+obsekrieren
+obsekrierend	1
+obsekrierest	2n
+obsekrieret	1n
+obsekrierst	2en
+obsekriert	1en
+obsekrierte	2en
+obsekrierten	3en
+obsekriertest	4en
+obsekriertet	3en
+obsen
+obsend	1
+obsequent
+observant
+observier	0en
+observiere	0n
+observieren
+observierend	1
+observierest	2n
+observieret	1n
+observierst	2en
+observiert	1en
+observierte	2en
+observierten	3en
+observiertest	4en
+observiertet	3en
+obsessionieren
+obsessioniert	1en
+obsessiv
+obsessive	1
+obsessivem	2
+obsessiven	2
+obsessiver	2
+obsessives	2
+obsest	2n
+obset	1n
+obsiegen
+obsiegt
+obsignier	0en
+obsigniere	0n
+obsignieren
+obsignierest	2n
+obsignieret	1n
+obsignierst	2en
+obsigniert	1en
+obsignierte	2en
+obsignierten	3en
+obsigniertest	4en
+obsigniertet	3en
+obskur
+obskure	1
+obskuren	2
+obskurer	2
+obskursten	4
+obsoleszier	0en
+obsolesziere	0n
+obsoleszieren
+obsoleszierend	1
+obsoleszierest	2n
+obsoleszieret	1n
+obsoleszierst	2en
+obsolesziert	1en
+obsoleszierte	2en
+obsoleszierten	3en
+obsolesziertest	4en
+obsolesziertet	3en
+obsolet
+obsoleten	2
+obsoleter	2
+obsoletesten	5
+obst	1en
+obste	2en
+obsten	3en
+obstest	4en
+obstet	3en
+obstinat
+obstipier	0en
+obstipiere	0n
+obstipieren
+obstipierest	2n
+obstipieret	1n
+obstipierst	2en
+obstipiert	1en
+obstipierte	2en
+obstipierten	3en
+obstipiertest	4en
+obstipiertet	3en
+obstreich
+obstruier	0en
+obstruiere	0n
+obstruieren
+obstruierest	2n
+obstruieret	1n
+obstruierst	2en
+obstruiert	1en
+obstruierte	2en
+obstruierten	3en
+obstruiertest	4en
+obstruiertet	3en
+obstruktiv
+obszön
+obszöne	1
+obturier	0en
+obturiere	0n
+obturieren
+obturierest	2n
+obturieret	1n
+obturierst	2en
+obturiert	1en
+obturierte	2en
+obturierten	3en
+obturiertest	4en
+obturiertet	3en
+obwohl
+obzwar
+occasionsweise
+och
+ochsenhaft
+ochsig
+ocker
+ockerbraun
+ockerfarben
+ockerfarbene	1
+ockergelb
+ockerrot
+odaliskenhaft
+odele	1n
+odeln
+odelnd	1
+odelst	2n
+odelt	1n
+odelte	2n
+odelten	3n
+odeltest	4n
+odeltet	3n
+oder
+odios
+odiös
+odle	2eln
+odlest	4eln
+odlet	3eln
+odontogen
+odontologisch
+odontologische	1
+odontologischem	2
+odontologischen	2
+odontologischer	2
+odontologisches	2
+odorier	0en
+odoriere	0n
+odorieren
+odorierend	1
+odorierest	2n
+odorieret	1n
+odorierst	2en
+odoriert	1en
+odorierte	2en
+odorierten	3en
+odoriertest	4en
+odoriertet	3en
+odysseisch
+of
+ofenfertig
+ofenfrisch
+ofenfrische	1
+ofenfrischem	2
+ofenfrischen	2
+ofenfrischer	2
+ofenfrisches	2
+ofenwarm
+off
+off-label
+offbeat
+offen
+offenbar
+offenbare	0n
+offenbaren
+offenbarend	1
+offenbarende	1
+offenbarendem	2
+offenbarenden	2
+offenbarender	2
+offenbarendere	3
+offenbarenderem	4
+offenbarenderen	4
+offenbarenderer	4
+offenbarenderes	4
+offenbarendes	2
+offenbarendste	3
+offenbarendstem	4
+offenbarendsten	4
+offenbarendster	4
+offenbarendstes	4
+offenbarer	2
+offenbarest	2n
+offenbaret	1n
+offenbarst	2en
+offenbarsten	4
+offenbart	1en
+offenbarte	2en
+offenbartem	2
+offenbarten	3en
+offenbarter	2
+offenbartes	2
+offenbartest	4en
+offenbartet	3en
+offenbleibe	0n
+offenbleiben
+offenbleibend	1
+offenbleibende	1
+offenbleibendem	2
+offenbleibenden	2
+offenbleibender	2
+offenbleibendes	2
+offenbleibest	2n
+offenbleibet	1n
+offenbleibst	2en
+offenbleibt	1en
+offenblieb	3eiben
+offenbliebe	4eiben
+offenblieben	5eiben
+offenbliebest	6eiben
+offenbliebet	5eiben
+offenbliebst	5eiben
+offenbliebt	4eiben
+offene	1
+offenem	2
+offenen	2
+offener	2
+offenere	3
+offenerem	4
+offeneren	4
+offenerer	4
+offeneres	4
+offenes	2
+offengeblieben
+offengebliebene	1
+offengebliebenem	2
+offengebliebenen	2
+offengebliebener	2
+offengebliebenes	2
+offengehalten	8halten
+offengehaltene	1
+offengehaltenem	2
+offengehaltenen	2
+offengehaltener	2
+offengehaltenere	3
+offengehaltenerem	4
+offengehalteneren	4
+offengehaltenerer	4
+offengehalteneres	4
+offengehaltenes	2
+offengehaltenste	3
+offengehaltenstem	4
+offengehaltensten	4
+offengehaltenster	4
+offengehaltenstes	4
+offengelassen	8lassen
+offengelassene	1
+offengelassenem	2
+offengelassenen	2
+offengelassener	2
+offengelassenes	2
+offengelegt	6legen
+offengelegtem	2
+offengelegten	2
+offengelegter	2
+offengelegtes	2
+offengestanden	9stehen
+offenhalte	0n
+offenhalten
+offenhaltend	1
+offenhaltende	1
+offenhaltendem	2
+offenhaltenden	2
+offenhaltender	2
+offenhaltendere	3
+offenhaltenderem	4
+offenhaltenderen	4
+offenhaltenderer	4
+offenhaltenderes	4
+offenhaltendes	2
+offenhaltendste	3
+offenhaltendstem	4
+offenhaltendsten	4
+offenhaltendster	4
+offenhaltendstes	4
+offenhaltest	2n
+offenhaltet	1n
+offenherzig
+offenherzige	1
+offenherzigem	2
+offenherzigen	2
+offenherziger	2
+offenherzigere	3
+offenherzigerem	4
+offenherzigeren	4
+offenherzigerer	4
+offenherzigeres	4
+offenherziges	2
+offenherzigste	3
+offenherzigstem	4
+offenherzigsten	4
+offenherzigster	4
+offenherzigstes	4
+offenhielt	4alten
+offenhielte	5alten
+offenhielten	6alten
+offenhieltest	7alten
+offenhieltet	6alten
+offenhält	3alten
+offenhältst	5alten
+offenkundig
+offenkundige	1
+offenkundigem	2
+offenkundigen	2
+offenkundiger	2
+offenkundigere	3
+offenkundigerem	4
+offenkundigeren	4
+offenkundigerer	4
+offenkundigeres	4
+offenkundiges	2
+offenkundigste	3
+offenkundigstem	4
+offenkundigsten	4
+offenkundigster	4
+offenkundigstes	4
+offenlasse	0n
+offenlassen
+offenlassend	1
+offenlassende	1
+offenlassendem	2
+offenlassenden	2
+offenlassender	2
+offenlassendes	2
+offenlassest	2n
+offenlasset	1n
+offenlasst	1en
+offenlege	0n
+offenlegen
+offenlegend	1
+offenlegende	1
+offenlegendem	2
+offenlegenden	2
+offenlegender	2
+offenlegendes	2
+offenlegest	2n
+offenleget	1n
+offenlegst	2en
+offenlegt	1en
+offenlegte	2en
+offenlegten	3en
+offenlegtest	4en
+offenlegtet	3en
+offenliegend
+offenliegende	1
+offenliess	4assen
+offenliesse	5assen
+offenliessen	6assen
+offenliessest	7assen
+offenliesset	6assen
+offenliesst	5assen
+offenließ	3assen
+offenlässt	4assen
+offensichtlich
+offensichtliche	1
+offensichtlichem	2
+offensichtlichen	2
+offensichtlicher	2
+offensichtlichere	3
+offensichtlicherem	4
+offensichtlicheren	4
+offensichtlicherer	4
+offensichtlicheres	4
+offensichtliches	2
+offensichtlichste	3
+offensichtlichstem	4
+offensichtlichsten	4
+offensichtlichster	4
+offensichtlichstes	4
+offensichtsichlich
+offensiv
+offensive	1
+offensivem	2
+offensiven	2
+offensiver	2
+offensivere	3
+offensiverem	4
+offensiveren	4
+offensiverer	4
+offensiveres	4
+offensives	2
+offensivste	3
+offensivstem	4
+offensivsten	4
+offensivster	4
+offensivstes	4
+offenste	3
+offenstehe	0n
+offenstehen
+offenstem	4
+offensten	4
+offenster	4
+offenstes	4
+offenzubleiben	9bleiben
+offenzuhalten	8halten
+offenzulassen	8lassen
+offenzulegen	7legen
+offerier	0en
+offeriere	0n
+offerieren
+offerierend	1
+offerierende	1
+offerierendem	2
+offerierenden	2
+offerierender	2
+offerierendes	2
+offerierest	2n
+offerieret	1n
+offerierst	2en
+offeriert	1en
+offerierte	2en
+offeriertem	2
+offerierten	3en
+offerierter	2
+offeriertes	2
+offeriertest	4en
+offeriertet	3en
+offiziell
+offizielle	1
+offiziellem	2
+offiziellen	2
+offizieller	2
+offiziellere	3
+offiziellerem	4
+offizielleren	4
+offiziellerer	4
+offizielleres	4
+offiziellerseits
+offizielles	2
+offiziellste	3
+offiziellstem	4
+offiziellsten	4
+offiziellster	4
+offiziellstes	4
+offizinell
+offiziös
+offiziöse	1
+offlabel
+offline
+offner	3en
+offroad
+offshore
+offside
+offwhite
+oft
+oftmals
+ogival
+ogottogott
+ogygisch
+oh
+oha
+ohne
+ohnedem
+ohnedies
+ohneeinander
+ohnegleichen
+ohnehin
+ohnerachtet
+ohneweiters
+ohngeachtet
+ohngefähr
+ohnhin
+ohnlängst
+ohnmächtig
+ohnmächtige	1
+ohnmächtigem	2
+ohnmächtigen	2
+ohnmächtiger	2
+ohnmächtigere	3
+ohnmächtigerem	4
+ohnmächtigeren	4
+ohnmächtigerer	4
+ohnmächtigeres	4
+ohnmächtiges	2
+ohnmächtigste	3
+ohnmächtigstem	4
+ohnmächtigsten	4
+ohnmächtigster	4
+ohnmächtigstes	4
+oho
+ohrenbetäubend
+ohrenbetäubende	1
+ohrenbetäubendem	2
+ohrenbetäubenden	2
+ohrenbetäubender	2
+ohrenbetäubendere	3
+ohrenbetäubenderem	4
+ohrenbetäubenderen	4
+ohrenbetäubenderer	4
+ohrenbetäubenderes	4
+ohrenbetäubendes	2
+ohrenbetäubendste	3
+ohrenbetäubendstem	4
+ohrenbetäubendsten	4
+ohrenbetäubendster	4
+ohrenbetäubendstes	4
+ohrfeig	0en
+ohrfeige	0n
+ohrfeigen
+ohrfeigend	1
+ohrfeigende	1
+ohrfeigendem	2
+ohrfeigenden	2
+ohrfeigender	2
+ohrfeigendes	2
+ohrfeigest	2n
+ohrfeiget	1n
+ohrfeigst	2en
+ohrfeigt	1en
+ohrfeigte	2en
+ohrfeigten	3en
+ohrfeigtest	4en
+ohrfeigtet	3en
+oikotypisch
+oje
+ojemine
+ojerum
+okay
+okkasionell
+okkasionelle	1
+okkasionellem	2
+okkasionellen	2
+okkasioneller	2
+okkasionelles	2
+okkludier	0en
+okkludiere	0n
+okkludieren
+okkludierend	1
+okkludierende	1
+okkludierendem	2
+okkludierenden	2
+okkludierender	2
+okkludierendes	2
+okkludierest	2n
+okkludieret	1n
+okkludierst	2en
+okkludiert
+okkludierte	2en
+okkludiertem	2
+okkludierten	3en
+okkludierter	2
+okkludiertes	2
+okkludiertest	4en
+okkludiertet	3en
+okklusiv
+okklusive	1
+okklusivem	2
+okklusiven	2
+okklusiver	2
+okklusives	2
+okkult
+okkulte	1
+okkultem	2
+okkulten	2
+okkulter	2
+okkultes	2
+okkultistisch
+okkultistische	1
+okkultistischem	2
+okkultistischen	2
+okkultistischer	2
+okkultistisches	2
+okkupatorisch
+okkupier	0en
+okkupiere	0n
+okkupieren
+okkupierend	1
+okkupierende	1
+okkupierendem	2
+okkupierenden	2
+okkupierender	2
+okkupierendere	3
+okkupierenderem	4
+okkupierenderen	4
+okkupierenderer	4
+okkupierenderes	4
+okkupierendes	2
+okkupierendste	3
+okkupierendstem	4
+okkupierendsten	4
+okkupierendster	4
+okkupierendstes	4
+okkupierest	2n
+okkupieret	1n
+okkupierst	2en
+okkupiert
+okkupierte	2en
+okkupiertem	2
+okkupierten	3en
+okkupierter	2
+okkupiertere	3
+okkupierterem	4
+okkupierteren	4
+okkupierterer	4
+okkupierteres	4
+okkupiertes	2
+okkupiertest	4en
+okkupiertestem	5
+okkupiertesten	5
+okkupiertester	5
+okkupiertestes	5
+okkupiertet	3en
+oknophil
+oktaedrisch
+oktavier	0en
+oktaviere	0n
+oktavieren
+oktavierest	2n
+oktavieret	1n
+oktavierst	2en
+oktaviert	1en
+oktavierte	2en
+oktavierten	3en
+oktaviertest	4en
+oktaviertet	3en
+oktogonal
+oktoploid
+oktroyier	0en
+oktroyiere	0n
+oktroyieren
+oktroyierend	1
+oktroyierest	2n
+oktroyieret	1n
+oktroyierst	2en
+oktroyiert	1en
+oktroyierte	2en
+oktroyierten	3en
+oktroyiertest	4en
+oktroyiertet	3en
+okular
+okulare	1
+okularem	2
+okularen	2
+okularer	2
+okulares	2
+okulier	0en
+okuliere	0n
+okulieren
+okulierest	2n
+okulieret	1n
+okulierst	2en
+okuliert	1en
+okulierte	2en
+okulierten	3en
+okuliertest	4en
+okuliertet	3en
+okzidental
+okzidentalen	2
+okzidentalisch
+okzipital
+okzitanisch
+olala
+olau
+old-school
+oldschool
+olf
+olfaktorisch
+oligarchisch
+oligodynamisch
+oligophag
+oligopolistisch
+oligosemantisch
+oligotroph
+oliv
+olivenförmig
+oll
+olle	1
+ollem	2
+ollen	2
+oller	2
+ollere	3
+ollerem	4
+olleren	4
+ollerer	4
+olleres	4
+olles	2
+ollste	3
+ollstem	4
+ollsten	4
+ollster	4
+ollstes	4
+olympiareif
+olympiatauglich
+olympiaverdächtig
+olympisch
+olympische	1
+olympischem	2
+olympischen	2
+olympischer	2
+olympisches	2
+olé
+ombriert
+ombrophil
+ombrophob
+ominös
+ominöse	1
+ominösem	2
+ominösen	2
+ominöser	2
+ominösere	3
+ominöserem	4
+ominöseren	4
+ominöserer	4
+ominöseres	4
+ominöses	2
+ominöseste	4
+ominösestem	5
+ominösesten	5
+ominösester	5
+ominösestes	5
+omittier	0en
+omittiere	0n
+omittieren
+omittierend	1
+omittierende	1
+omittierendem	2
+omittierenden	2
+omittierender	2
+omittierendes	2
+omittierest	2n
+omittieret	1n
+omittierst	2en
+omittiert
+omittierte	2en
+omittiertem	2
+omittierten	3en
+omittierter	2
+omittiertes	2
+omittiertest	4en
+omittiertet	3en
+omnipotent
+omnipotentem	2
+omnipotenten	2
+omnipotenter	2
+omnipotentere	3
+omnipotenterem	4
+omnipotenteren	4
+omnipotenterer	4
+omnipotenteres	4
+omnipotentes	2
+omnipotentestem	5
+omnipotentesten	5
+omnipotentester	5
+omnipotentestes	5
+omnipräsent
+omnipräsentem	2
+omnipräsenten	2
+omnipräsenter	2
+omnipräsentes	2
+omnivor
+on
+on-web
+onanier	0en
+onaniere	0n
+onanieren
+onanierend	1
+onanierende	1
+onanierendem	2
+onanierenden	2
+onanierender	2
+onanierendes	2
+onanierest	2n
+onanieret	1n
+onanierst	2en
+onaniert
+onanierte	2en
+onaniertem	2
+onanierten	3en
+onanierter	2
+onaniertes	2
+onaniertest	4en
+onaniertet	3en
+onanistisch
+ondeggiando
+ondulier	0en
+onduliere	0n
+ondulieren
+ondulierend	1
+ondulierest	2n
+ondulieret	1n
+ondulierst	2en
+onduliert	1en
+ondulierte	2en
+ondulierten	3en
+onduliertest	4en
+onduliertet	3en
+onerier	0en
+oneriere	0n
+onerieren
+onerierest	2n
+onerieret	1n
+onerierst	2en
+oneriert	1en
+onerierte	2en
+onerierten	3en
+oneriertest	4en
+oneriertet	3en
+oneros
+onerös
+ongarese
+ongharese
+onkelhaft
+onkelhaftem	2
+onkelhaften	2
+onkelhafter	2
+onkelhaftere	3
+onkelhafterem	4
+onkelhafteren	4
+onkelhafterer	4
+onkelhafteres	4
+onkelhaftes	2
+onkelhaftestem	5
+onkelhaftesten	5
+onkelhaftester	5
+onkelhaftestes	5
+onkogen
+onkologisch
+onkologische	1
+onkologischem	2
+onkologischen	2
+onkologischer	2
+onkologisches	2
+onkolytisch
+online
+online-auktionen	16Online-Auktion
+online-broker	13Online-Broker
+online-shop	11Online-Shop
+online-shopping	15Online-Shopping
+onomasiologisch
+onomatopoetisch
+ontisch
+ontogenetisch
+ontologisch
+ontologische	1
+ontologischem	2
+ontologischen	2
+ontologischer	2
+ontologisches	2
+ontologisier	0en
+ontologisiere	0n
+ontologisieren
+ontologisierend	1
+ontologisierest	2n
+ontologisieret	1n
+ontologisierst	2en
+ontologisiert	1en
+ontologisierte	2en
+ontologisierten	3en
+ontologisiertest	4en
+ontologisiertet	3en
+oogenetisch
+oologisch
+oophorogen
+oops
+opak
+opalen
+opaleszent
+opaleszier	0en
+opalesziere	0n
+opaleszieren
+opaleszierend	1
+opaleszierest	2n
+opaleszieret	1n
+opaleszierst	2en
+opalesziert	1en
+opaleszierte	2en
+opaleszierten	3en
+opalesziertest	4en
+opalesziertet	3en
+opalisier	0en
+opalisiere	0n
+opalisieren
+opalisierest	2n
+opalisieret	1n
+opalisierst	2en
+opalisiert	1en
+opalisierte	2en
+opalisierten	3en
+opalisiertest	4en
+opalisiertet	3en
+open	4Open
+opera	5Opera
+operabel
+operable	2el
+operablem	3el
+operablen	3el
+operabler	3el
+operables	3el
+operant
+operational
+operationalisier	0en
+operationalisierbar
+operationalisiere	0n
+operationalisieren
+operationalisierest	2n
+operationalisieret	1n
+operationalisierst	2en
+operationalisiert	1en
+operationalisierte	2en
+operationalisierten	3en
+operationalisiertest	4en
+operationalisiertet	3en
+operationell
+operationelle	1
+operativ
+operative	1
+operativem	2
+operativen	2
+operativer	2
+operatives	2
+operettenhaft
+operier	0en
+operierbar
+operiere	0n
+operieren
+operierend	1
+operierende	1
+operierendem	2
+operierenden	2
+operierender	2
+operierendes	2
+operierest	2n
+operieret	1n
+operierst	2en
+operiert	1en
+operierte	2en
+operiertem	2
+operierten	3en
+operierter	2
+operiertes	2
+operiertest	4en
+operiertet	3en
+opernhaft
+operntypisch
+opfer	0n
+opferbereit
+opferbereitem	2
+opferbereiten	2
+opferbereiter	2
+opferbereitere	3
+opferbereiterem	4
+opferbereiteren	4
+opferbereiterer	4
+opferbereiteres	4
+opferbereites	2
+opferbereitestem	5
+opferbereitesten	5
+opferbereitester	5
+opferbereitestes	5
+opfere	1n
+opferest	3n
+opferet	2n
+opferfreudig
+opfern
+opfernd	1
+opfernde	1
+opferndem	2
+opfernden	2
+opfernder	2
+opferndes	2
+opferreich
+opferreiche	1
+opferst	2n
+opfert	1n
+opferte	2n
+opferten	3n
+opfertest	4n
+opfertet	3n
+opferwillig
+opferwillige	1
+opferwilligem	2
+opferwilligen	2
+opferwilliger	2
+opferwilligere	3
+opferwilligerem	4
+opferwilligeren	4
+opferwilligerer	4
+opferwilligeres	4
+opferwilliges	2
+opferwilligste	3
+opferwilligstem	4
+opferwilligsten	4
+opferwilligster	4
+opferwilligstes	4
+opfre	2ern
+ophthalmisch
+ophthalmoskopisch
+opisthographisch
+opiumsüchtig
+opponier	0en
+opponiere	0n
+opponieren
+opponierend	1
+opponierende	1
+opponierendem	2
+opponierenden	2
+opponierender	2
+opponierendere	3
+opponierenderem	4
+opponierenderen	4
+opponierenderer	4
+opponierenderes	4
+opponierendes	2
+opponierendste	3
+opponierendstem	4
+opponierendsten	4
+opponierendster	4
+opponierendstes	4
+opponierest	2n
+opponieret	1n
+opponierst	2en
+opponiert
+opponierte	2en
+opponiertem	2
+opponierten	3en
+opponierter	2
+opponiertere	3
+opponierterem	4
+opponierteren	4
+opponierterer	4
+opponierteres	4
+opponiertes	2
+opponiertest	4en
+opponiertestem	5
+opponiertesten	5
+opponiertester	5
+opponiertestes	5
+opponiertet	3en
+opportun
+opportune	1
+opportunem	2
+opportunen	2
+opportuner	2
+opportunes	2
+opportunistisch
+opportunistische	1
+opportunistischem	2
+opportunistischen	2
+opportunistischer	2
+opportunistischere	3
+opportunistischerem	4
+opportunistischeren	4
+opportunistischerer	4
+opportunistischeres	4
+opportunistisches	2
+opportunistischste	3
+opportunistischstem	4
+opportunistischsten	4
+opportunistischster	4
+opportunistischstes	4
+opportunsten	4
+oppositionell
+oppositionelle	1
+oppositionellem	2
+oppositionellen	2
+oppositioneller	2
+oppositionelles	2
+oppositionswillig
+oppositionswilliger	2
+oppositiv
+oppositär
+oppressiv
+opprimier	0en
+opprimiere	0n
+opprimieren
+opprimierend	1
+opprimierest	2n
+opprimieret	1n
+opprimierst	2en
+opprimiert	1en
+opprimierte	2en
+opprimierten	3en
+opprimiertest	4en
+opprimiertet	3en
+optativ
+optier	0en
+optiere	0n
+optieren
+optierest	2n
+optieret	1n
+optierst	2en
+optiert	1en
+optierte	2en
+optierten	3en
+optiertest	4en
+optiertet	3en
+optimal
+optimale	1
+optimalem	2
+optimalen	2
+optimaler	2
+optimales	2
+optimalisier	0en
+optimalisiere	0n
+optimalisieren
+optimalisierest	2n
+optimalisieret	1n
+optimalisierst	2en
+optimalisiert	1en
+optimalisierte	2en
+optimalisierten	3en
+optimalisiertest	4en
+optimalisiertet	3en
+optimalsten	4
+optime
+optimier	0en
+optimiere	0n
+optimieren
+optimierend	1
+optimierende	1
+optimierendem	2
+optimierenden	2
+optimierender	2
+optimierendere	3
+optimierenderem	4
+optimierenderen	4
+optimierenderer	4
+optimierenderes	4
+optimierendes	2
+optimierendste	3
+optimierendstem	4
+optimierendsten	4
+optimierendster	4
+optimierendstes	4
+optimierest	2n
+optimieret	1n
+optimierst	2en
+optimiert	1en
+optimierte	2en
+optimiertem	2
+optimierten	3en
+optimierter	2
+optimiertere	3
+optimierterem	4
+optimierteren	4
+optimierterer	4
+optimierteres	4
+optimiertes	2
+optimiertest	4en
+optimiertestem	5
+optimiertesten	5
+optimiertester	5
+optimiertestes	5
+optimiertet	3en
+optimistisch
+optimistische	1
+optimistischem	2
+optimistischen	2
+optimistischer	2
+optimistischere	3
+optimistischerem	4
+optimistischeren	4
+optimistischerer	4
+optimistischeres	4
+optimistisches	2
+optimistischste	3
+optimistischstem	4
+optimistischsten	4
+optimistischster	4
+optimistischstes	4
+optional
+optisch
+optische	1
+optischem	2
+optischen	2
+optischer	2
+optisches	2
+optoelektronisch
+opulent
+opulentem	2
+opulenten	2
+opulenter	2
+opulentere	3
+opulenterem	4
+opulenteren	4
+opulenterer	4
+opulenteres	4
+opulentes	2
+opulentestem	5
+opulentesten	5
+opulentester	5
+opulentestes	5
+oracle-chef	11Oracle-Chef
+orakele	1n
+orakelhaft
+orakeln
+orakelnd	1
+orakelst	2n
+orakelt	1n
+orakelte	2n
+orakelten	3n
+orakeltest	4n
+orakeltet	3n
+orakle	2eln
+oraklest	4eln
+oraklet	3eln
+oral
+oral-genital
+oraler	2
+orange	6Orange
+orange-rot
+orange-rote	1
+orangegelb
+orangen
+orangengelb
+orangerot
+oranienburger
+oratorisch
+oratorische	1
+oratorischem	2
+oratorischen	2
+oratorischer	2
+oratorisches	2
+orbikular
+orbital
+orbitale	1
+orbitalem	2
+orbitalen	2
+orbitaler	2
+orbitales	2
+orchestral
+orchestraler	2
+orchestrier	0en
+orchestriere	0n
+orchestrieren
+orchestrierend	1
+orchestrierest	2n
+orchestrieret	1n
+orchestrierst	2en
+orchestriert	1en
+orchestrierte	2en
+orchestrierten	3en
+orchestriertest	4en
+orchestriertet	3en
+ordenbehangen
+ordenbesternt
+ordengeschmückt
+ordensgeschmückt
+ordensgeschmückten	2
+ordentlich
+ordentliche	1
+ordentlichem	2
+ordentlichen	2
+ordentlicher	2
+ordentlichere	3
+ordentlicherem	4
+ordentlicheren	4
+ordentlicherer	4
+ordentlicheres	4
+ordentlicherweise
+ordentliches	2
+ordentlichste	3
+ordentlichstem	4
+ordentlichsten	4
+ordentlichster	4
+ordentlichstes	4
+order	0n
+ordere	1n
+orderest	3n
+orderet	2n
+ordern
+ordernd	1
+ordernde	1
+orderndem	2
+ordernden	2
+ordernder	2
+orderndere	3
+ordernderem	4
+ordernderen	4
+ordernderer	4
+ordernderes	4
+orderndes	2
+orderndste	3
+orderndstem	4
+orderndsten	4
+orderndster	4
+orderndstes	4
+orderst	2n
+ordert	1n
+orderte	2n
+orderten	3n
+ordertest	4n
+ordertet	3n
+ordinal
+ordinier	0en
+ordiniere	0n
+ordinieren
+ordinierend	1
+ordinierende	1
+ordinierendem	2
+ordinierenden	2
+ordinierender	2
+ordinierendes	2
+ordinierest	2n
+ordinieret	1n
+ordinierst	2en
+ordiniert
+ordinierte	2en
+ordiniertem	2
+ordinierten	3en
+ordinierter	2
+ordiniertes	2
+ordiniertest	4en
+ordiniertet	3en
+ordinär
+ordinäre	1
+ordinärem	2
+ordinären	2
+ordinärer	2
+ordinärere	3
+ordinärerem	4
+ordinäreren	4
+ordinärerer	4
+ordinäreres	4
+ordinäres	2
+ordinärste	3
+ordinärstem	4
+ordinärsten	4
+ordinärster	4
+ordinärstes	4
+ordn	0en
+ordne	0n
+ordnen
+ordnend	1
+ordnende	1
+ordnendem	2
+ordnenden	2
+ordnender	2
+ordnendes	2
+ordnest	2n
+ordnet	1n
+ordnete	2n
+ordneten	3n
+ordnetest	4n
+ordnetet	3n
+ordnt	1en
+ordnungsgemäss
+ordnungsgemässe	1
+ordnungsgemässem	2
+ordnungsgemässen	2
+ordnungsgemässer	2
+ordnungsgemässes	2
+ordnungsgemäß
+ordnungsgemäßem	2
+ordnungsgemäßen	2
+ordnungsgemäßer	2
+ordnungsgemäßes	2
+ordnungsgesetzlich
+ordnungsgesetzliche	1
+ordnungshalber
+ordnungsliebend
+ordnungsliebende	1
+ordnungsliebendem	2
+ordnungsliebenden	2
+ordnungsliebender	2
+ordnungsliebendere	3
+ordnungsliebenderem	4
+ordnungsliebenderen	4
+ordnungsliebenderer	4
+ordnungsliebenderes	4
+ordnungsliebendes	2
+ordnungsliebendste	3
+ordnungsliebendstem	4
+ordnungsliebendsten	4
+ordnungsliebendster	4
+ordnungsliebendstes	4
+ordnungsmässig	4ßig
+ordnungsmässige	5ßig
+ordnungsmässigem	6ßig
+ordnungsmässigen	6ßig
+ordnungsmässiger	6ßig
+ordnungsmässiges	6ßig
+ordnungsmäßig
+ordnungsmäßige	1
+ordnungsmäßigem	2
+ordnungsmäßigen	2
+ordnungsmäßiger	2
+ordnungsmäßiges	2
+ordnungspolitisch
+ordnungspolitischen	2
+ordnungspolitischer	2
+ordnungspolitisches	2
+ordnungsrechtlich
+ordnungstheoretisch
+ordnungswidrig
+ordnungswidrige	1
+ordnungswidrigem	2
+ordnungswidrigen	2
+ordnungswidriger	2
+ordnungswidrigere	3
+ordnungswidrigerem	4
+ordnungswidrigeren	4
+ordnungswidrigerer	4
+ordnungswidrigeres	4
+ordnungswidriges	2
+ordnungswidrigste	3
+ordnungswidrigstem	4
+ordnungswidrigsten	4
+ordnungswidrigster	4
+ordnungswidrigstes	4
+ordoliberal
+ordre	2ern
+oreal
+orektisch
+organal
+organisabel
+organisational
+organisationsbezogen
+organisationsfähig
+organisationsintern
+organisationspolitisch
+organisationspolitischen	2
+organisationsrechtlich
+organisationssoziologisch
+organisationstheoretisch
+organisatorisch
+organisatorische	1
+organisatorischem	2
+organisatorischen	2
+organisatorischer	2
+organisatorisches	2
+organisch
+organisch-biologisch
+organische	1
+organischem	2
+organischen	2
+organischer	2
+organisches	2
+organisier	0en
+organisierbar
+organisiere	0n
+organisieren
+organisierend	1
+organisierende	1
+organisierendem	2
+organisierenden	2
+organisierender	2
+organisierendes	2
+organisierest	2n
+organisieret	1n
+organisierst	2en
+organisiert	1en
+organisierte	2en
+organisiertem	2
+organisierten	3en
+organisierter	3en
+organisiertes	2
+organisiertest	4en
+organisiertesten	5
+organisiertet	3en
+organismisch
+organogen
+organoid
+organoleptisch
+organologisch
+organotrop
+orgastisch
+orgel	0n
+orgele	1n
+orgelest	3n
+orgelet	2n
+orgeln
+orgelnd	1
+orgelnde	1
+orgelndem	2
+orgelnden	2
+orgelnder	2
+orgelndes	2
+orgelst	2n
+orgelt	1n
+orgelte	2n
+orgelten	3n
+orgeltest	4n
+orgeltet	3n
+orgiastisch
+orgiastische	1
+orgle	2eln
+orglest	4eln
+orglet	3eln
+orientalisch
+orientalische	1
+orientalischem	2
+orientalischen	2
+orientalischer	2
+orientalischere	3
+orientalischerem	4
+orientalischeren	4
+orientalischerer	4
+orientalischeres	4
+orientalisches	2
+orientalischste	3
+orientalischstem	4
+orientalischsten	4
+orientalischster	4
+orientalischstes	4
+orientalisier	0en
+orientalisiere	0n
+orientalisieren
+orientalisierend	1
+orientalisierest	2n
+orientalisieret	1n
+orientalisierst	2en
+orientalisiert	1en
+orientalisierte	2en
+orientalisierten	3en
+orientalisiertest	4en
+orientalisiertet	3en
+orientalistisch
+orientier	0en
+orientiere	0n
+orientieren
+orientierend	1
+orientierende	1
+orientierendem	2
+orientierenden	2
+orientierender	2
+orientierendes	2
+orientierent
+orientierest	2n
+orientieret	1n
+orientierst	2en
+orientiert	1en
+orientierte	2en
+orientiertem	2
+orientierten	3en
+orientierter	2
+orientiertes	2
+orientiertest	4en
+orientiertet	3en
+orientierungslos
+orientierungsloser	2
+orientierungslosesten	5
+original
+originale	1
+originalem	2
+originalen	2
+originaler	2
+originales	2
+originalgetreu
+originell
+originelle	1
+originellem	2
+originellen	2
+origineller	2
+originellere	3
+originellerem	4
+originelleren	4
+originellerer	4
+originelleres	4
+originelles	2
+originellste	3
+originellstem	4
+originellsten	4
+originellster	4
+originellstes	4
+originär
+originäre	1
+originärem	2
+originären	2
+originärer	2
+originäres	2
+orkanartig
+ornamental
+ornamentale	1
+ornamentalem	2
+ornamentalen	2
+ornamentaler	2
+ornamentales	2
+ornamentartig
+ornamentier	0en
+ornamentiere	0n
+ornamentieren
+ornamentierest	2n
+ornamentieret	1n
+ornamentierst	2en
+ornamentiert	1en
+ornamentierte	2en
+ornamentierten	3en
+ornamentiertest	4en
+ornamentiertet	3en
+ornativ
+ornier	0en
+orniere	0n
+ornieren
+ornierest	2n
+ornieret	1n
+ornierst	2en
+orniert	1en
+ornierte	2en
+ornierten	3en
+orniertest	4en
+orniertet	3en
+ornithologisch
+ornithologische	1
+ornithologischem	2
+ornithologischen	2
+ornithologischer	2
+ornithologisches	2
+ornithophil
+orogen
+orografisch
+orographisch
+orphisch
+ort	0en
+orte	0n
+orten
+ortend	1
+ortende	1
+ortendem	2
+ortenden	2
+ortender	2
+ortendes	2
+ortest	2n
+ortet	1n
+ortete	2n
+orteten	3n
+ortetest	4n
+ortetet	3n
+ortho-Hydroxybenzoesäure
+orthodox
+orthodox-islamisch
+orthodox-islamischen	2
+orthodox-jüdisch
+orthodox-jüdische	1
+orthodoxe	1
+orthodoxem	2
+orthodoxen	2
+orthodoxer	2
+orthodoxes	2
+orthodromisch
+orthoepisch
+orthognath
+orthogonal
+orthogonale	1
+orthogonalem	2
+orthogonalen	2
+orthogonaler	2
+orthogonales	2
+orthografisch
+orthographisch
+orthographische	1
+orthographischem	2
+orthographischen	2
+orthographischer	2
+orthographisches	2
+orthonym
+orthopädisch
+orthopädische	1
+orthopädischem	2
+orthopädischen	2
+orthopädischer	2
+orthopädischere	3
+orthopädischerem	4
+orthopädischeren	4
+orthopädischerer	4
+orthopädischeres	4
+orthopädisches	2
+orthopädischste	3
+orthopädischstem	4
+orthopädischsten	4
+orthopädischster	4
+orthopädischstes	4
+orthoskopisch
+orthotrop
+orthozephal
+ortlos
+ortsansässig
+ortsansässige	1
+ortsansässigem	2
+ortsansässigen	2
+ortsansässiger	2
+ortsansässiges	2
+ortsauswärts
+ortsbeweglich
+ortsbewegliche	1
+ortsbeweglichem	2
+ortsbeweglichen	2
+ortsbeweglicher	2
+ortsbewegliches	2
+ortschaftlich
+ortseigen
+ortseingeboren
+ortseingesessen
+ortseinwärts
+ortsfest
+ortsfestem	2
+ortsfesten	2
+ortsfester	2
+ortsfestes	2
+ortsfremd
+ortsfremde	1
+ortsfremdem	2
+ortsfremden	2
+ortsfremder	2
+ortsfremdere	3
+ortsfremderem	4
+ortsfremderen	4
+ortsfremderer	4
+ortsfremderes	4
+ortsfremdes	2
+ortsfremdeste	4
+ortsfremdestem	5
+ortsfremdesten	5
+ortsfremdester	5
+ortsfremdestes	5
+ortsgebunden
+ortskundig
+ortskundige	1
+ortskundigem	2
+ortskundigen	2
+ortskundiger	2
+ortskundigere	3
+ortskundigerem	4
+ortskundigeren	4
+ortskundigerer	4
+ortskundigeres	4
+ortskundiges	2
+ortskundigste	3
+ortskundigstem	4
+ortskundigsten	4
+ortskundigster	4
+ortskundigstes	4
+ortsnah
+ortspolizeilich
+ortsspezifisch
+ortsständig
+ortstypisch
+ortsunabhängig
+ortsunkundig
+ortsüblich
+ortsübliche	1
+ortsüblichem	2
+ortsüblichen	2
+ortsüblicher	2
+ortsübliches	2
+ortt	1en
+os/2	4OS/2
+oscarverdächtig
+oskulier	0en
+oskuliere	0n
+oskulieren
+oskulierend	1
+oskulierest	2n
+oskulieret	1n
+oskulierst	2en
+oskuliert	1en
+oskulierte	2en
+oskulierten	3en
+oskuliertest	4en
+oskuliertet	3en
+osmanisch
+osmanische	1
+osmanischem	2
+osmanischen	2
+osmanischer	2
+osmanisches	2
+osmophil
+osmophor
+osmotisch
+ossal
+ossia
+ossifizier	0en
+ossifiziere	0n
+ossifizieren
+ossifizierest	2n
+ossifizieret	1n
+ossifizierst	2en
+ossifiziert	1en
+ossifizierte	2en
+ossifizierten	3en
+ossifiziertest	4en
+ossifiziertet	3en
+ossär
+ost
+ostafrikanisch
+ostafrikanischen	2
+ostafrikanischer	2
+ostalgerisch
+ostalgerischen	2
+ostasiatisch
+ostasiatischen	2
+ostbosnisch
+ostbosnischen	2
+ostchinesisch
+ostchinesischen	2
+ostdeutsch
+ostdeutsche	1
+ostdeutschem	2
+ostdeutschen	2
+ostdeutscher	2
+ostdeutsches	2
+ostdeutschesten	5
+oste	0n
+ostelbisch
+osten
+ostend	1
+ostensibel
+ostensiv
+ostentativ
+ostentative	1
+osteogen
+osteoid
+osteosynthetisch
+ostest	2n
+ostet	1n
+ostete	2n
+osteten	3n
+ostetest	4n
+ostetet	3n
+osteuropäisch
+osteuropäische	1
+osteuropäischem	2
+osteuropäischen	2
+osteuropäischer	2
+osteuropäisches	2
+ostfriesisch
+ostfriesische	1
+ostfränkisch
+ostgermanisch
+ostinat
+ostinato
+ostkaribisch
+ostlibanesisch
+ostlibanesischen	2
+ostmitteldeutsch
+ostmitteldeutsche	1
+ostmitteldeutschem	2
+ostmitteldeutschen	2
+ostmitteldeutscher	2
+ostmitteldeutsches	2
+ostpolitisch
+ostpreußisch
+ostromanisch
+ostseitig
+ostsächsisch
+ostsächsischen	2
+osttürkisch
+osttürkischen	2
+ostwestlich
+ostwissenschaftlich
+ostwissenschaftliche	1
+ostwärts
+ostzonal
+oszillatorisch
+oszillier	0en
+oszilliere	0n
+oszillieren
+oszillierend	1
+oszillierende	1
+oszillierendem	2
+oszillierenden	2
+oszillierender	2
+oszillierendes	2
+oszillierest	2n
+oszillieret	1n
+oszillierst	2en
+oszilliert
+oszillierte	2en
+oszilliertem	2
+oszillierten	3en
+oszillierter	2
+oszilliertes	2
+oszilliertest	4en
+oszilliertet	3en
+oszillographisch
+otogen
+ottava
+out
+outdoor
+oute	0n
+outen
+outend	1
+outest	2n
+outet	1n
+outete	2n
+outeten	3n
+outetest	4n
+outetet	3n
+outgesourct	8sourcen
+outrier	0en
+outriere	0n
+outrieren
+outrierest	2n
+outrieret	1n
+outrierst	2en
+outriert	1en
+outrierte	2en
+outrierten	3en
+outriertest	4en
+outriertet	3en
+outsourc	0en
+outsource	0n
+outsourcen
+outsourcend	1
+outsourcest	2n
+outsourcet	1n
+outsourcst	2en
+outsourct	1en
+outsourcte	2en
+outsourcten	3en
+outsourctest	4en
+outsourctet	3en
+outzusourcen	9sourcen
+ouvert
+oval
+ovalen	2
+ovalgeformt
+ovarial
+ovariell
+overdressed
+oversized
+overstyled
+ovipar
+ovoid
+ovoidisch
+ovovivipar
+own	0en
+owne	0n
+ownen
+ownend	1
+ownest	2n
+ownet	1n
+ownst	2en
+ownt	1en
+ownte	2en
+ownten	3en
+owntest	4en
+owntet	3en
+oxidativ
+oxidier	0en
+oxidiere	0n
+oxidieren
+oxidierend	1
+oxidierende	1
+oxidierendem	2
+oxidierenden	2
+oxidierender	2
+oxidierendes	2
+oxidierest	2n
+oxidieret	1n
+oxidierst	2en
+oxidiert
+oxidierte	2en
+oxidiertem	2
+oxidierten	3en
+oxidierter	2
+oxidiertes	2
+oxidiertest	4en
+oxidiertet	3en
+oxidisch
+oxydativ
+oxydier	0en
+oxydiere	0n
+oxydieren
+oxydierest	2n
+oxydieret	1n
+oxydierst	2en
+oxydiert	1en
+oxydierte	2en
+oxydierten	3en
+oxydiertest	4en
+oxydiertet	3en
+oxydisch
+oxyphil
+ozeanisch
+ozeanischen	2
+ozeanografisch
+ozeanographisch
+ozeanologisch
+ozonhaltig
+ozonisier	0en
+ozonisiere	0n
+ozonisieren
+ozonisierend	1
+ozonisierende	1
+ozonisierendem	2
+ozonisierenden	2
+ozonisierender	2
+ozonisierendes	2
+ozonisierest	2n
+ozonisieret	1n
+ozonisierst	2en
+ozonisiert
+ozonisierte	2en
+ozonisiertem	2
+ozonisierten	3en
+ozonisierter	2
+ozonisiertes	2
+ozonisiertest	4en
+ozonisiertet	3en
+ozonreich

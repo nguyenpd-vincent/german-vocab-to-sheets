@@ -1,0 +1,40 @@
+{
+  "manifest_version": 3,
+  "name": "Deutsch Lens — Đức Anh Việt",
+  "version": "3.2.1",
+  "description": "Tra nghĩa tiếng Anh và ví dụ Đức–Anh–Việt từ Faztaa; tự tìm từ gốc, động từ tách và tách từ ghép. Tùy chọn: Google Dịch khi Faztaa không có từ.",
+  "permissions": [
+    "storage"
+  ],
+  "host_permissions": [
+    "https://api.faztaa.com/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "options_page": "options.html",
+  "action": {
+    "default_title": "Cài đặt Deutsch Lens"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_idle",
+      "all_frames": true,
+      "match_about_blank": true,
+      "match_origin_as_fallback": true
+    }
+  ],
+  "optional_host_permissions": [
+    "https://script.google.com/*",
+    "https://script.googleusercontent.com/*",
+    "https://translate.googleapis.com/*"
+  ],
+  "minimum_chrome_version": "110"
+}

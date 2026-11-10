@@ -1,0 +1,8391 @@
+C-Dur
+C-Durs	1
+C-Falter
+C-Faltern	1
+C-Falters	1
+C-Flöte
+C-Flöten	1
+C-Jugend
+C-Jugenden	2
+C-Klarinette
+C-Klarinetten	1
+C-Kommando
+C-Kommandos	1
+C-Partei
+C-Parteien	2
+C-Schlüssel
+C-Schlüsseln	1
+C-Schlüssels	1
+C-Segment
+C-Segmente	1
+C-Segmenten	2
+C-Segmentes	2
+C-Segments	1
+C-Säule
+C-Säulen	1
+C-Waffe
+C-Waffen	1
+C-Ware
+C-Waren	1
+C0
+C0s	1
+C1
+C2
+C3
+C4
+CAF
+CB-Funk
+CB-Funke	1
+CB-Funker
+CB-Funkern	1
+CB-Funkers	1
+CB-Funkes	2
+CB-Funkgerät
+CB-Funkgeräte	1
+CB-Funkgeräten	2
+CB-Funkgerätes	2
+CB-Funkgeräts	1
+CB-Funks	1
+CBD
+CBDs	1
+CD
+CD-Brenner
+CD-Brennern	1
+CD-Brenners	1
+CD-Laufwerk
+CD-Laufwerke	1
+CD-Laufwerken	2
+CD-Laufwerkes	2
+CD-Laufwerks	1
+CD-Platte
+CD-Platten	1
+CD-Player
+CD-Playern	1
+CD-Players	1
+CD-R
+CD-ROM
+CD-ROM-Laufwerk
+CD-ROM-Laufwerke	1
+CD-ROM-Laufwerken	2
+CD-ROM-Laufwerks	1
+CD-ROMs	1
+CD-Rs	1
+CD-Spieler
+CD-Spielern	1
+CD-Spielers	1
+CD/CDR/CDRW/DVD-Laufwerk
+CDU
+CDU-Fraktionschef
+CDU-Fraktionschefs	1
+CDU-Mitglied
+CDU-Mitglieder	2
+CDU-Mitgliedern	3
+CDU-Mitgliedes	2
+CDU-Mitglieds	1
+CDU-Parteizentrale
+CDU-Parteizentralen	1
+CDU-Politiker
+CDU-Politikerin
+CDU-Politikerinnen	3
+CDU-Politikern	1
+CDU-Politikers	1
+CDU-Vorsitzende
+CDU-Vorsitzendem	1r
+CDU-Vorsitzenden	1r
+CDU-Vorsitzender
+CDs	1
+CEO
+CEOs	1
+CERT
+CERTs	1
+CFA-Franc
+CFA-Francs	1
+CGS-System
+CGS-Systems	1
+CIA
+CIA-Agent
+CIA-Agenten	2
+CIA-Analyst
+CIA-Analysten	2
+CIA-Beamte	0r
+CIA-Beamtem	1r
+CIA-Beamten	1r
+CIA-Beamter
+CIA-Büro
+CIA-Büros	1
+CIA-Chef
+CIA-Chefs	1
+CIA-Direktor
+CIA-Direktoren	2
+CIA-Direktors	1
+CIA-Leute	5Mann
+CIA-Leuten	1
+CIA-Mann
+CIA-Mannes	2
+CIA-Manns	1
+CIA-Mission
+CIA-Missionen	2
+CIA-Männer	5ann
+CIA-Männern	6ann
+CIA-Operation
+CIA-Operationen	2
+CIA-Pilot
+CIA-Piloten	2
+CIA-Spion
+CIA-Spione	1
+CIA-Spionen	2
+CIA-Spions	1
+CIA-Standort
+CIA-Standorte	1
+CIA-Standorten	2
+CIA-Standortes	2
+CIA-Standorts	1
+CIA-Stützpunkt
+CIA-Stützpunkte	1
+CIA-Stützpunkten	2
+CIA-Stützpunktes	2
+CIA-Stützpunkts	1
+CIA-Veteran
+CIA-Veteranen	2
+CIA-Zentrale
+CIA-Zentralen	1
+CNC
+CNC-Dreher
+CNC-Drehern	1
+CNC-Drehers	1
+CNC-Fräse
+CNC-Fräsen
+CNC-Fräsens	1
+CNC-Fräser
+CNC-Fräsern	1
+CNC-Fräsers	1
+CNC-Fräsmaschine
+CNC-Fräsmaschinen	1
+CNC-Maschine
+CNC-Maschinen	1
+CNC-Technik
+CNC-Techniken	2
+CNC-gesteuert
+CNN
+CO-EUR
+CO-Konzentration
+CO-Konzentrationen	2
+CO2	1₂
+CONCACAF
+CONMEBOL
+COVID
+COVID-19
+CO₂
+CO₂-Abscheidung
+CO₂-Abscheidungen	2
+CO₂-Ausstoß
+CO₂-Ausstoßes	2
+CO₂-Ausstöße	3oß
+CO₂-Ausstößen	4oß
+CO₂-Bepreisung
+CO₂-Bepreisungen	2
+CO₂-Bilanz
+CO₂-Bilanzen	2
+CO₂-Emission
+CO₂-Emissionen	2
+CO₂-Fußabdruck
+CO₂-Fußabdrucks	1
+CO₂-Fußabdrücke	4uck
+CO₂-Fußabdrücken	5uck
+CO₂-Neutralität
+CO₂-Preis
+CO₂-Preise	1
+CO₂-Preisen	2
+CO₂-Preises	2
+CO₂-Steuer
+CO₂-Steuern	1
+CO₂-Zertifikat
+CO₂-Zertifikate	1
+CO₂-Zertifikaten	2
+CO₂-Zertifikates	2
+CO₂-Zertifikats	1
+CO₂-neutral
+CPU
+CPUs	1
+CRPS
+CSU
+CSU-Mitglied
+CSU-Mitglieder	2
+CSU-Mitgliedern	3
+CSU-Mitgliedes	2
+CSU-Mitglieds	1
+CSU-Politiker
+CSU-Politikerin
+CSU-Politikerinnen	3
+CSU-Politikern	1
+CSU-Politikers	1
+CT
+CTs	1
+CV
+CVJM
+CVJMs	1
+CVP-Mitglied
+CVP-Mitglieder	2
+CVP-Mitgliedern	3
+CVP-Mitgliedes	2
+CVP-Mitglieds	1
+CVs	1
+Cab
+Cabaletta
+Cabalettas	1
+Cabaletten	2a
+Caballero
+Caballeros	1
+Caban
+Cabans	1
+Cabaret
+Cabarets	1
+Cabernet
+Cabernets	1
+Cable
+Cable-Transfer
+Cable-Transfers	1
+Cabletransfer
+Cabletransfers	1
+Cabletron
+Cabochon
+Cabretta
+Cabrio
+Cabriofahrer
+Cabriofahrern	1
+Cabriofahrers	1
+Cabriolet
+Cabriolets	1
+Cabriolimousine
+Cabriolimousinen	1
+Cabrios	1
+Cabs	1
+Cachaça
+Cache
+Cache-sexe
+Cachenez
+Cacher
+Cachern	1
+Cachers	1
+Caches	1
+Cachesexe
+Cachet
+Cachetage
+Cachetagen	1
+Cachetero
+Cacheteros	1
+Cachets	1
+Cachucha
+Caciocavallo
+Caciocavallos	1
+Cadaverin
+Cadaverine	1
+Cadaverinen	2
+Cadaverins	1
+Caddie
+Caddies	1
+Cadmium
+Cadmiumgehalt
+Cadmiumgehalte	1
+Cadmiumgehalten	2
+Cadmiumgehaltes	2
+Cadmiumgehalts	1
+Cadmiumion
+Cadmiumionen	2
+Cadmiumions	1
+Cadmiums	1
+Cadmiumselenid
+Cadmiumselenide	1
+Cadmiumseleniden	2
+Cadmiumselenids	1
+Cadmiumsulfid
+Cadmiumsulfids	1
+Cadmiumsulfit
+Cadmiumsulfite	1
+Cadmiumsulfiten	2
+Cadmiumsulfits	1
+Caduceus
+Caen
+Caesar
+Caesaren	2
+Caesarianer
+Caesarianern	1
+Caesarianers	1
+Caesarmörder
+Caesarmördern	1
+Caesarmörders	1
+Caesium
+Caesiums	1
+Cafe
+Cafes	1
+Cafete
+Cafeten	1
+Cafeteria
+Cafeterias	1
+Cafeterien	2a
+Cafetier
+Cafetiere
+Cafetiers	1
+Café
+Cafébar
+Cafébars	1
+Cafébesitzer
+Cafébesitzerin
+Cafébesitzerinnen	3
+Cafébesitzern	1
+Cafébesitzers	1
+Cafébesuch
+Cafébesuche	1
+Cafébesuchen	2
+Cafébesuches	2
+Cafébesuchs	1
+Cafébetreiber
+Cafébetreibern	1
+Cafébetreibers	1
+Cafégast
+Cafégastes	2
+Cafégasts	1
+Cafégäste	4ast
+Cafégästen	5ast
+Caféhaus
+Caféhauses	2
+Caféhaustisch
+Caféhaustische	1
+Caféhaustischen	2
+Caféhaustisches	2
+Caféhaustischs	1
+Caféhäuser	5aus
+Caféhäusern	6aus
+Cafékonzert
+Cafékonzerte	1
+Cafékonzerten	2
+Cafékonzertes	2
+Cafékonzerts	1
+Cafés	1
+Cafétier
+Cafétiers	1
+Cafétisch
+Cafétische	1
+Cafétischen	2
+Cafétisches	2
+Cafétischs	1
+Cage
+Cages	1
+Caipi
+Caipirinha
+Caipirinhas	1
+Caipis	1
+Cairns
+Caisson
+Caissonkrankheit
+Caissons	1
+Cake
+Cakeform
+Cakeformen	2
+Cakes	1
+Cakewalk
+Cakewalks	1
+Calabrese
+Calabresi
+Calais
+Calamares
+Calanque
+Calanques	1
+Calart
+Calcit
+Calcite	1
+Calciten	2
+Calcites	2
+Calcits	1
+Calcium
+Calciumarsenat
+Calciumarsenate	1
+Calciumarsenaten	2
+Calciumarsenats	1
+Calciumcarbonat
+Calciumcarbonate	1
+Calciumcarbonaten	2
+Calciumcarbonats	1
+Calciumcitrat
+Calciumcitrate	1
+Calciumcitraten	2
+Calciumcitrats	1
+Calciumfluorid
+Calciumfluoride	1
+Calciumfluoriden	2
+Calciumfluorids	1
+Calciumhydroxid
+Calciumhydroxids	1
+Calciummangel
+Calciummangels	1
+Calciummängel	5angel
+Calciummängeln	6angel
+Calciumnitrat
+Calciumnitrats	1
+Calciumoxid
+Calciumoxide	1
+Calciumoxiden	2
+Calciumoxids	1
+Calciumphosphat
+Calciumphosphate	1
+Calciumphosphaten	2
+Calciumphosphats	1
+Calciums	1
+Calciumsulfat
+Calciumsulfate	1
+Calciumsulfaten	2
+Calciumsulfats	1
+Calculi	1us
+Calculus
+Caldarien	2um
+Caldarium
+Caldariums	1
+Caldera
+Calderen	2a
+Caledonian
+Calembour
+Calembourg
+Calendae
+Calendaen	1
+Calendula
+Calgon
+Calgons	1
+California
+Californium
+Californiums	1
+Calisthenics
+Call
+Call-Center
+Call-Centern	1
+Call-Centers	1
+Call-Girl
+Call-back
+Call-backs	1
+Call-by-Call
+Call-by-Call-Verfahren
+Call-by-Call-Verfahrens	1
+Call-by-Calls	1
+Calla
+Callahan
+Callanetics
+Callas
+Callback
+Callbacks	1
+Callboy
+Callboys	1
+Callcenter
+Callcentern	1
+Callcenters	1
+Callgirl
+Callgirlring
+Callgirlringe	1
+Callgirlringen	2
+Callgirlringes	2
+Callgirlrings	1
+Callgirls	1
+Calling-Card
+Callingcard
+Callingcards	1
+Calls	1
+Calmbach
+Calmetteverfahren
+Calmetteverfahrens	1
+Calo
+Calor
+Calors	1
+Calumet
+Calumets	1
+Calutron
+Calvados
+Calvin
+Calvinismus
+Calvinist
+Calvinisten	2
+Calvinistin
+Calvinistinnen	3
+Calvino
+Calypso
+Calypsos	1
+Calzone
+Calzonen	1
+Cam-Girl
+Cam-Girls	1
+Camaieu
+Camaieuen	2
+Camaieumalerei
+Camarguepferd
+Camarguepferde	1
+Camarguepferden	2
+Camarguepferdes	2
+Camarguepferds	1
+Camarguerind
+Camarguerinder	2
+Camarguerindern	3
+Camarguerindes	2
+Camarguerinds	1
+Cambiata
+Cambio
+Cambridge
+Cambridges	1
+Camcorder
+Camcordern	1
+Camcorders	1
+Camdessus
+Camelot
+Camelots	1
+Camembert
+Camemberts	1
+Camenbert
+Camenberts	1
+Cameo
+Cameos	1
+Camerale
+Camerlengo
+Camerlengos	1
+Cameron
+Camgirl
+Camgirls	1
+Camilla
+Camion
+Camionnage
+Camionnagen	1
+Camionneur
+Camions	1
+Camorra
+Camouflage
+Camouflagen	1
+Camp
+Camp-David-Frieden
+Campagne
+Campanile
+Campanologie
+Campbell
+Campenhausen
+Camper
+Camperin
+Camperinnen	3
+Campern	1
+Campers	1
+Campesino
+Campher
+Camphers	1
+Campieren
+Campierende
+Campierenden	1
+Campierendere
+Campierenderen	1
+Campierendste
+Campierendsten	1
+Campierens	1
+Campierte	9campiert
+Campierten	1
+Campignien
+Camping
+Campinganhänger
+Campinganhängern	1
+Campinganhängers	1
+Campinganzug
+Campinganzuges	2
+Campinganzugs	1
+Campinganzüge	3ug
+Campinganzügen	4ug
+Campingartikel
+Campingartikeln	1
+Campingartikels	1
+Campingausrüstung
+Campingausrüstungen	2
+Campingausstellung
+Campingausstellungen	2
+Campingbett
+Campingbetten	2
+Campingbettes	2
+Campingbetts	1
+Campingbeutel
+Campingbeuteln	1
+Campingbeutels	1
+Campingbus
+Campingbusse	2
+Campingbussen	3
+Campingbusses	3
+Campingfahrt
+Campingfahrten	2
+Campingfreund
+Campingfreunde	1
+Campingfreunden	2
+Campingfreundes	2
+Campingfreunds	1
+Campingführer
+Campingführern	1
+Campingführers	1
+Campinggeschirr
+Campinggeschirre	1
+Campinggeschirren	2
+Campinggeschirres	2
+Campinggeschirrs	1
+Campinghemd
+Campinghemden	2
+Campinghemdes	2
+Campinghemds	1
+Campingkleidung
+Campingkleidungen	2
+Campingkocher
+Campingkochern	1
+Campingkochers	1
+Campingkoffer
+Campingkoffern	1
+Campingkoffers	1
+Campinglager
+Campinglagern	1
+Campinglagers	1
+Campingliege
+Campingliegen	1
+Campingmöbel
+Campingmöbeln	1
+Campingmöbels	1
+Campingplatz
+Campingplatzbesitzer
+Campingplatzbesitzern	1
+Campingplatzbesitzers	1
+Campingplatzbetreiber
+Campingplatzbetreibern	1
+Campingplatzbetreibers	1
+Campingplatze	1
+Campingplatzes	2
+Campingplätze	4atz
+Campingplätzen	5atz
+Campingreise
+Campingreisen	1
+Campings	1
+Campingschürze
+Campingschürzen	1
+Campingstuhl
+Campingstuhle	1
+Campingstuhles	2
+Campingstuhls	1
+Campingstühle	4uhl
+Campingstühlen	5uhl
+Campingtisch
+Campingtische	1
+Campingtischen	2
+Campingtisches	2
+Campingtischs	1
+Campingtourismus
+Campingurlaub
+Campingurlaube	1
+Campingurlauben	2
+Campingurlaubes	2
+Campingurlaubs	1
+Campingwagen
+Campingwagens	1
+Campingwohnwagen
+Campingzubehör
+Campral
+Camps	1
+Campus
+Campus-Verlag
+Campusgelände
+Campusgeländen	1
+Campusgeländes	1
+Campusmaut
+Campusmauten	2
+Campuspolizei
+Campuspolizeien	2
+Campusse	2
+Campussen	3
+Camus
+Canada
+Canadian
+Canadienne
+Canadier
+Canadiern	1
+Canadiers	1
+Canaille
+Canaillen	1
+Canal
+Canapé
+Canapés	1
+Canard
+Canaria
+Canasta
+Canastas	1
+Canaveral
+Canberra
+Cancan
+Cancans	1
+Cancel-Culture
+Cancelculture
+Cancelkultur
+Cancer
+Cancerogenität
+Cancionero
+Cancioneros	1
+Candela
+Candle-Light-Dinner
+Candle-Light-Dinnern	1
+Candle-Light-Dinners	1
+Candy
+Caner
+Canfieldit
+Canfieldite	1
+Canfielditen	2
+Canfieldits	1
+Cannabidiol
+Cannabidiole	1
+Cannabidiolen	2
+Cannabidiols	1
+Cannabinoid
+Cannabinoide	1
+Cannabinoiden	2
+Cannabinoides	2
+Cannabinoids	1
+Cannabis
+Cannabiskonsum
+Cannabiskonsums	1
+Cannabisplantage
+Cannabisplantagen	1
+Cannabisprodukt
+Cannabisprodukte	1
+Cannabisprodukten	2
+Cannabisproduktes	2
+Cannabisprodukts	1
+Cannabisverbot
+Cannabisverbote	1
+Cannabisverboten	2
+Cannabisverbotes	2
+Cannabisverbots	1
+Cannelloni
+Cannes
+Canon
+Canonicus
+Canons
+Canossagang
+Canossaganges	2
+Canossagänge	4ang
+Canossagängen	5ang
+Canotier
+Canotiers	1
+Cantate
+Cantaten	1
+Cantharidin
+Cantilena
+Cantus
+Canvassing
+Canvassings	1
+Canyon
+Canyoning
+Canyons	1
+Cao
+Cap
+Capa
+Capas	1
+Cape
+Capeador
+Capensis
+Capes	1
+Capitol
+Capitols	1
+Caplina
+Capodistria
+Capoeira
+Capp
+Cappuccino
+Cappuccinos	1
+Capra
+Capriccio
+Caprice
+Capricen	1
+Caprihose
+Caprihosen	1
+Caprinsäure
+Caprivi-Zipfel
+Caprivi-Zipfels	1
+Caprivizipfel
+Caprivizipfels	1
+Capronaldehyd
+Capronaldehyds	1
+Capronalkohol
+Capronalkohols	1
+Capronsäure
+Caprylaldehyd
+Caprylaldehyds	1
+Caprylsäure
+Caps	1
+Capsulitides	3s
+Capsulitis
+Captain
+Captains	1
+Captcha
+Captchas	1
+Capuccino
+Capuccinos	1
+Capuchon
+Capuchons	1
+Capucins
+Capybara
+Caquelon
+Caquelons	1
+Car
+Car-Sharing
+Carabiniere
+Caracalla
+Caracas
+Carambola
+Carambolas	1
+Caravan
+Caravaner
+Caravaning
+Caravanings	1
+Caravans	1
+Caravanstellplatz
+Caravanstellplatzes	2
+Caravanstellplätze	4atz
+Caravanstellplätzen	5atz
+Carbamazepin
+Carbamazepins	1
+Carbamidsäure
+Carbamidsäuren	1
+Carbaminsäure
+Carban
+Carbans	1
+Carben
+Carbene	1
+Carbenen	2
+Carbens	1
+Carbid
+Carbide
+Carbiden	2
+Carbids	1
+Carbonara
+Carbonat
+Carbonate	1
+Carbonaten	2
+Carbonatgestein
+Carbonatgesteine	1
+Carbonatgesteinen	2
+Carbonatgesteines	2
+Carbonats	1
+Carboneum
+Carboneums	1
+Carbonfaser
+Carbonfasern	1
+Carbonisieren
+Carbonisierende
+Carbonisierenden	1
+Carbonisierendere
+Carbonisierenderen	1
+Carbonisierens	1
+Carbonisierte	13carbonisiert
+Carbonisierten	1
+Carbonisiertere
+Carbonisierteren	1
+Carbonisierteste
+Carbonisiertesten	1
+Carbonrahmen
+Carbonrahmens	1
+Carbonsäure
+Carbonsäureamid
+Carbonsäureamide	1
+Carbonsäureamiden	2
+Carbonsäureamids	1
+Carbonsäurederivat
+Carbonsäurederivate	1
+Carbonsäurederivaten	2
+Carbonsäurederivates	2
+Carbonsäurederivats	1
+Carbonsäuren	1
+Carbonyl
+Carbonyle	1
+Carbonylkomplex
+Carbonylkomplexe	1
+Carbonylkomplexen	2
+Carbonylkomplexes	2
+Carbonyls	1
+Carboxy
+Carboxye	1
+Carboxyen	2
+Carboxygruppe
+Carboxygruppen	1
+Carboxys	1
+Carchauffeur
+Carchauffeure	1
+Carchauffeuren	2
+Carchauffeurs	1
+Card
+Cardigan
+Cardigans	1
+Cardillac
+Cardoso
+Care
+Care-Arbeit
+Care-Arbeiten	2
+Carearbeit
+Carearbeiten	2
+Carepaket
+Carepakete	1
+Carepaketen	2
+Carepaketes	2
+Cargo
+Cargo-Kult-Wissenschaft
+Cargohose
+Cargohosen	1
+Cargos	1
+Cargoversicherung
+Cargoversicherungen	2
+Caribbean
+Carignon
+Carillon
+Carin
+Carina
+Carinas	1
+Cariplo
+Caritas
+Cariñena
+Cariñenas	1
+Carjacker
+Carjackern	1
+Carjackers	1
+Carjacking
+Carl
+Carl-Edgar
+Carl-Ludwig
+Carla
+Carlistenkrieg
+Carlistenkriege	1
+Carlistenkriegen	2
+Carlistenkrieges	2
+Carlistenkriegs	1
+Carlos
+Carlos'	1
+Carls	1
+Carlsberg
+Carlsson
+Carlssons	1
+Carmagnole
+Carmagnolen	1
+Carmelitas
+Carmella
+Carmen
+Carmens	1
+Carmichael
+Carmine
+Carnac
+Carneiro
+Carnevale
+Carnitin
+Carnitins	1
+Carnival
+Carnivore
+Carnivoren	1
+Carnotzet
+Carnotzets	1
+Carol
+Carolco
+Carolina
+Caroline
+Caroll
+Carols	1
+Carolus
+Carolyn
+Carotinoid
+Carpaccio
+Carpaccios	1
+Carparkplatz
+Carparkplatzes	2
+Carparkplätze	4atz
+Carparkplätzen	5atz
+Carpio
+Carport
+Carports	1
+Carrageen
+Carrageens	1
+Carreise
+Carreisen	1
+Carrerabahn
+Carrerabahnen	2
+Carreras
+Carrier
+Carriern	1
+Carriers	1
+Carrillo
+Carrère
+Cars	1
+Carsharing
+Carsharings	1
+Carspotter
+Carspottern	1
+Carspotters	1
+Carsten
+Carstens
+Cartellieri
+Carter
+Carters	1
+Cartesianismus
+Carthamin
+Carthamins	1
+Cartoon
+Cartoonist
+Cartoonisten	2
+Cartoonistin
+Cartoonistinnen	3
+Cartoons	1
+Carvalhos
+Carver
+Carverin
+Carverinnen	3
+Carvern	1
+Carvers	1
+Carving
+Carving-Ski
+Carving-Skier	2
+Carving-Skiern	3
+Carving-Skis	1
+Carvings	1
+Carvingski
+Carvingskier	2
+Carvingskiern	3
+Carvingskis	1
+Casa
+Casablanca
+Casablancas	1
+Casanova
+Casanovas	1
+Casas
+Case-History
+Casehistory
+Casella
+Casellas	1
+Cash
+Cash-Cow
+Cash-Cows	1
+Cash-Flow
+Cash-and-carry-Klausel
+Cash-and-carry-Klauseln	1
+Cashcow
+Cashcows	1
+Cashew
+Cashewbaum
+Cashewbaumes	2
+Cashewbaums	1
+Cashewbäume	4aum
+Cashewbäumen	5aum
+Cashewkern
+Cashewkerne	1
+Cashewkernen	2
+Cashewkernes	2
+Cashewkerns	1
+Cashewnuss
+Cashewnüsse	4uss
+Cashewnüssen	5uss
+Cashews	1
+Cashflow
+Cashflows	1
+Cashs	1
+Casino
+Casinobetreiber
+Casinobetreibern	1
+Casinobetreibers	1
+Casinokapitalismus
+Casinoplatz
+Casinos	1
+Casinospiel
+Casinospiele	1
+Casinospielen	2
+Casinospieles	2
+Casinospiels	1
+Casio
+Caspar
+Cassa
+Cassapanca
+Cassavetes
+Casse-cou
+Cassel	6Kassel
+Cassette
+Cassetten	1
+Cassinet
+Cassiopeium
+Cassiopeiums	1
+Cassirer
+Cassirers	1
+Cassoulet
+Cassoulets	1
+Castellanos
+Castillo
+Casting
+Castingagentur
+Castingagenturen	2
+Castings	1
+Castingshow
+Castingshows	1
+Castor
+Castor-Behälter
+Castor-Behältern	1
+Castor-Behälters	1
+Castorbehälter
+Castorbehältern	1
+Castorbehälters	1
+Castoren	2
+Castoreum
+Castoreums	1
+Castorlager
+Castorlagern	1
+Castorlagers	1
+Castors	1
+Castortransport
+Castortransporte	1
+Castortransporten	2
+Castortransportes	2
+Castortransports	1
+Castro
+Castros	1
+Casus
+Catarina
+Catboot
+Catboote	1
+Catbooten	2
+Catbootes	2
+Catboots	1
+Catcalling
+Catcallings	1
+Catch-Visual
+Catch-Visuals	1
+Catch-as-catch-can
+Catchen
+Catchens	1
+Catcher
+Catchern	1
+Catchers	1
+Catechine
+Catechinen	1
+Catenaccio
+Catenaccios	1
+Catenhusen
+Caterair
+Caterer
+Caterern	1
+Caterers	1
+Catering
+Caterings	1
+Caterpillar
+Cathedra
+Catherine
+Cathinon
+Cathinone	1
+Cathinonen	2
+Cathinons	1
+Catlinit
+Catlinite	1
+Catliniten	2
+Catlinits	1
+Cats
+Catsuit
+Catsuits	1
+Catsville
+Cattleya
+Cattleyen	2a
+Catwalk
+Catwalks	1
+Caucus
+Caucuses	2
+Cauda
+Caudas	1
+Caudillo
+Caudillos	1
+Causa
+Causae	1
+Causerie
+Causerien	1
+Causeur
+Causeure	1
+Causeuren	2
+Causeurs	1
+Causeuse
+Causeusen	1
+Cava	1um
+Cavaco
+Cavalier
+Cavall
+Cavalls	1
+Cavas	1
+Cavum
+Cavums	1
+Cayennepfeffer
+Cayennepfeffers	1
+Cayes
+Cayman-Insel
+Cayman-Inseln	1
+Cays
+Cbos
+Cbs
+Cdf
+Cdu
+CeBIT
+Ceausescu
+Ceausescus	1
+Cebraios
+Cecidologie
+Cederna
+Cedille
+Cedillen	1
+Cedofeita
+Cedric
+Ceep
+Cego
+Cegos	1
+Ceilometer
+Ceiss
+Celanese
+Celebrity
+Celeron
+Celesta
+Celestas	1
+Celesten	2a
+Celibidache
+Celibidaches	1
+Cella
+Cellae	1
+Celle
+Celler
+Cellerar
+Cellerarius
+Cellerin
+Cellerinnen	3
+Cellern	1
+Cellers	1
+Celles	1
+Celli	1o
+Cellist
+Cellisten	2
+Cellistin
+Cellistinnen	3
+Cello
+Celloabend
+Celloabende	1
+Celloabenden	2
+Celloabends	1
+Cellobogen
+Cellobogens	1
+Cellobögen	4ogen
+Cellokonzert
+Cellokonzerte	1
+Cellokonzerten	2
+Cellokonzertes	2
+Cellokonzerts	1
+Cellophan
+Cellophanbeutel
+Cellophanbeuteln	1
+Cellophanbeutels	1
+Cellophans	1
+Cellos	1
+Cellosonate
+Cellosonaten	1
+Cellospieler
+Cellospielerin
+Cellospielerinnen	3
+Cellospielern	1
+Cellospielers	1
+Cellounterricht
+Cellounterrichtes	2
+Cellounterrichts	1
+Cellulite
+Celluliten	1
+Cellulitiden	3s
+Cellulitis
+Cellulose
+Cellulosen	1
+Celsius
+Celsiusskala
+Cem
+Cembali	1o
+Cembalist
+Cembalisten	2
+Cembalistin
+Cembalistinnen	3
+Cembalo
+Cembalokonzert
+Cembalokonzerte	1
+Cembalokonzerten	2
+Cembalokonzertes	2
+Cembalokonzerts	1
+Cembalos	1
+Cent
+Centbetrag
+Centbetrage	1
+Centbetrages	2
+Centbetrags	1
+Centbeträge	3ag
+Centbeträgen	4ag
+Center
+Center-Court
+Centern	1
+Centers	1
+Centmünze
+Centmünzen	1
+Central
+Centre
+Centre-Court
+Cents	1
+Centstück
+Centstücke	1
+Centstücken	2
+Centstückes	2
+Centstücks	1
+Century
+Centésimo
+Cephalisation
+Cephalisationen	2
+Cephalothoraces	3x
+Cephalothorax
+Cephalothoraxe	1
+Cephalothoraxen	2
+Cer
+Ceramtec
+Ceranfeld
+Ceranfelder	2
+Ceranfeldern	3
+Ceranfeldes	2
+Ceranfelds	1
+Cerankochfeld
+Cerankochfelder	2
+Cerankochfeldern	3
+Cerankochfeldes	2
+Cerankochfelds	1
+Cerberus
+Cerberusse	2
+Cerberussen	3
+Cerberusses	3
+Cerci	1us
+Cercle
+Cercles	1
+Cerclesitz
+Cerclesitze	1
+Cerclesitzen	2
+Cerclesitzes	2
+Cercus
+Cerealie
+Cerealien
+Cerebellum
+Cerebrum
+Cereisen
+Cereisens	1
+Ceresin
+Ceresine	1
+Ceresinen	2
+Ceresins	1
+Cermet
+Cermete	1
+Cermeten	2
+Cermets	1
+Ceronetti
+Cerotinsäure
+Ceroxid
+Ceroxide	1
+Ceroxiden	2
+Ceroxids	1
+Cerro
+Cers	1
+Certac
+Certificates
+Cerumen
+Cerumens	1
+Cervantes
+Cervelat
+Cervelats	1
+Cerylalkohol
+Cerylalkohols	1
+Ces
+Ces-Dur
+Ces-Durs	1
+Cesar
+Cesars	1
+Cespedes
+Cetaceum
+Cetanzahl
+Cetanzahlen	2
+Cetenyl
+Ceteris-paribus-Klausel
+Cetiner
+Cetinkaya
+Cetoleinsäure
+Cetylalkohol
+Cetylalkohols	1
+Cevapcici
+Cevennen
+Cevers
+Cevers-Siegerist-Allianz
+Ceviche
+Ceviches	1
+Ceylon
+Ceylons	1
+Ceylontee
+Ceylontees	1
+Cfdt
+Cgb
+Cgil
+Cgsb
+Cgt
+Cha
+Cha-Cha-Cha
+Cha-Cha-Chas	1
+Chablis
+Chabrol
+Chachacha
+Chachachas	1
+Chachapoya
+Chacheli
+Chachelis	1
+Chaconne
+Chaconnen	1
+Chaconnes	1
+Chadarim	6eder
+Chadrel
+Chagas-Krankheit
+Chagrin
+Chagrins	1
+Chai
+Chaim
+Chaine
+Chainen	1
+Chaintech
+Chaipravat
+Chair
+Chairleder
+Chairledern	1
+Chairleders	1
+Chairman
+Chairmen	2an
+Chairs	1
+Chais	1
+Chaise
+Chaiselongue
+Chaiselonguen	1
+Chaiselongues	1
+Chaisen	1
+Chakra
+Chakras	1
+Chakren	2a
+Chalazion
+Chalet
+Chalets	1
+Chalkanthit
+Chalkanthite	1
+Chalkanthiten	2
+Chalkanthits	1
+Chalkogen
+Chalkogene
+Chalkogenen	2
+Chalkogenid
+Chalkogenide	1
+Chalkogeniden	2
+Chalkogenidglas
+Chalkogenidglases	2
+Chalkogenidgläser	4as
+Chalkogenidgläsern	5as
+Chalkogenids	1
+Chalkogens	1
+Chalkolithikum
+Chalkolithikums	1
+Chalkopyrit
+Chalkopyrite	1
+Chalkopyriten	2
+Chalkopyrits	1
+Chalkose
+Chalkosen	1
+Chalkosin
+Chalkosine	1
+Chalkosinen	2
+Chalkosins	1
+Challenge
+Challenges	1
+Chalumeau
+Chalumeaus	1
+Chalzedon
+Chalzedone	1
+Chalzedonen	2
+Chalzedons	1
+Chamade
+Chamaden	1
+Chambourcin
+Chambourcins	1
+Chambriere
+Chamez
+Chamoispapier
+Chamoispapiere	1
+Chamoispapieren	2
+Chamoispapiers	1
+Chamosoria	1on
+Chamosorien	2on
+Chamosorion
+Chamosorions	1
+Champ
+Champagne
+Champagne-Ardenne
+Champagner
+Champagnerdusche
+Champagnerduschen	1
+Champagnerfarbe
+Champagnerfarben	1
+Champagnerflasche
+Champagnerflaschen	1
+Champagnerfrühstück
+Champagnerfrühstücke	1
+Champagnerfrühstücken	2
+Champagnerfrühstückes	2
+Champagnerfrühstücks	1
+Champagnerglas
+Champagnerglase	1
+Champagnerglases	2
+Champagnergläser	4as
+Champagnergläsern	5as
+Champagnerkorken
+Champagnerkorkens	1
+Champagnerkübel
+Champagnerkübeln	1
+Champagnerkübels	1
+Champagnerkühler
+Champagnerkühlern	1
+Champagnerkühlers	1
+Champagnern	1
+Champagnerpfropfen
+Champagnerpfropfens	1
+Champagners	1
+Champagnerwein
+Champagnerweine	1
+Champagnerweinen	2
+Champagnerweines	2
+Champagnerweins	1
+Champaqui
+Champignon
+Champignonkultur
+Champignonkulturen	2
+Champignonpfanne
+Champignonpfannen	1
+Champignons	1
+Champignonzucht
+Champignonzuchten	2
+Champion
+Championat
+Championate	1
+Championaten	2
+Championats	1
+Champions
+Champions-League
+Champions-League-Finale
+Champions-League-Finalen	1
+Champions-League-Finales	1
+Champions-League-Finali	1e
+Champions-League-Finals	1e
+Champions-Leagues	1
+Championship
+Championships	1
+Championsleague
+Champs	1
+Champs-Élysées
+Chamsin
+Chamsine	1
+Chamsinen	2
+Chamsins	1
+Chamula
+Chamäleon
+Chamäleons	1
+Chan
+Chance
+Chancen	1
+Chancenauswertung
+Chancenauswertungen	2
+Chancengerechtigkeit
+Chancengerechtigkeiten	2
+Chancengleichheit
+Chancenlosigkeit
+Chancenlosigkeiten	2
+Chancenplus
+Chancenplusses	3
+Chancentod
+Chancentode	1
+Chancentoden	2
+Chancentodes	2
+Chancentods	1
+Chancenungleichheit
+Chancenungleichheiten	2
+Chancenverwertung
+Chancenverwertungen	2
+Chancenvorteil
+Chancenvorteile	1
+Chancenvorteilen	2
+Chancenvorteils	1
+Chandrujew
+Chane	1
+Chanelkostüm
+Chanelkostüme	1
+Chanelkostümen	2
+Chanelkostüms	1
+Chanen	2
+Changanacherry
+Changchun
+Changeant
+Changeants	1
+Changement
+Changements	1
+Channel
+Channels	1
+Chans	1
+Chanson
+Chansonette
+Chansonetten	1
+Chansonier
+Chansoniers	1
+Chansoninterpret
+Chansoninterpreten	2
+Chansonnette
+Chansonnetten	1
+Chansonnier
+Chansonniers	1
+Chansonnière
+Chansons	1
+Chantage
+Chantal
+Chantarelle
+Chantarelles	1
+Chantillyspitze
+Chantillyspitzen	1
+Chanukka
+Chanukkaleuchter
+Chanukkaleuchtern	1
+Chanukkaleuchters	1
+Chanukkia
+Chanukkias	1
+Chanukkiot	2a
+Chaos
+Chaos'	1
+Chaosforschung
+Chaosforschungen	2
+Chaosphase
+Chaosphasen	1
+Chaostag
+Chaostage
+Chaostagen	1
+Chaostags	1
+Chaostheorie
+Chaostheorien	1
+Chaot
+Chaoten	2
+Chaotiker
+Chaotikern	1
+Chaotikers	1
+Chaotin
+Chaotinnen	3
+Chapati
+Chapatis	1
+Chapeau
+Chapeaus	1
+Chapel
+Chaperon
+Chapiteau
+Chapiteaux	1
+Chaplin
+Chaplinade
+Chaplins	1
+Chaptalisierung
+Char
+Charade
+Charaden	1
+Charakter
+Charakteranlage
+Charakteranlagen	1
+Charakterbild
+Charakterbilder	2
+Charakterbildern	3
+Charakterbildes	2
+Charakterbilds	1
+Charakterbildung
+Charakterbildungen	2
+Charaktercharge
+Charakterchargen	1
+Charakterdarsteller
+Charakterdarstellerin
+Charakterdarstellerinnen	3
+Charakterdarstellern	1
+Charakterdarstellers	1
+Charakterdrama
+Charakterdramas	1
+Charakterdramen	2a
+Charaktere	1
+Charaktereigenschaft
+Charaktereigenschaften	2
+Charakteren	2
+Charakterentwicklung
+Charakterentwicklungen	2
+Charakterfach
+Charakterfehler
+Charakterfehlern	1
+Charakterfehlers	1
+Charakterfestigkeit
+Charakterfestigkeiten	2
+Charakterfigur
+Charakterfiguren	2
+Charakterformung
+Charakterformungen	2
+Charakterfrage
+Charakterfragen	1
+Charaktergestalt
+Charaktergestalten	2
+Charakterhaltung
+Charakterhaltungen	2
+Charakterisieren
+Charakterisierende
+Charakterisierenden	1
+Charakterisierens	1
+Charakterisierte	16charakterisiert
+Charakterisierten	1
+Charakterisierung
+Charakterisierungen	2
+Charakteristik
+Charakteristika	1um
+Charakteristiken	2
+Charakteristikum
+Charakteristikums	1
+Charakteristische	17charakteristisch
+Charakteristischen	1
+Charakteristischere
+Charakteristischeren	1
+Charakterkomiker
+Charakterkomikern	1
+Charakterkomikers	1
+Charakterkomödie
+Charakterkomödien	1
+Charakterkopf
+Charakterkopfes	2
+Charakterkopfs	1
+Charakterkunde
+Charakterköpfe	4opf
+Charakterköpfen	5opf
+Charakterliche
+Charakterlichen	1
+Charakterlosigkeit
+Charakterlosigkeiten	2
+Charaktermaske
+Charaktermasken	1
+Charaktermerkmal
+Charaktermerkmale	1
+Charaktermerkmalen	2
+Charaktermerkmals	1
+Charaktern	1
+Charakterologe
+Charakterologen	1
+Charakterologie
+Charakterologien	1
+Charakterrolle
+Charakterrollen	1
+Charakters	1
+Charaktersache
+Charakterschauspieler
+Charakterschauspielerin
+Charakterschauspielerinnen	3
+Charakterschauspielern	1
+Charakterschauspielers	1
+Charakterschilderung
+Charakterschilderungen	2
+Charakterschwein
+Charakterschweine	1
+Charakterschweinen	2
+Charakterschweines	2
+Charakterschweins	1
+Charakterschwäche
+Charakterschwächen	1
+Charakterskizze
+Charakterskizzen	1
+Charakterspieler
+Charakterspielern	1
+Charakterspielers	1
+Charakterstruktur
+Charakterstrukturen	2
+Charakterstudie
+Charakterstudien	1
+Charakterstärke
+Charakterstärken	1
+Charakterstück
+Charakterstücke	1
+Charakterstücken	2
+Charakterstückes	2
+Charakterstücks	1
+Charaktertanz
+Charaktertanzes	2
+Charaktertest
+Charakterteste	1
+Charaktertesten	2
+Charaktertestes	2
+Charaktertests	1
+Charaktertragödie
+Charaktertragödien	1
+Charaktertyp
+Charaktertypen	2
+Charaktertyps	1
+Charaktertänze	4anz
+Charaktertänzen	5anz
+Charakterzeichnung
+Charakterzeichnungen	2
+Charakterzug
+Charakterzuge	1
+Charakterzuges	2
+Charakterzugs	1
+Charakterzüge	3ug
+Charakterzügen	4ug
+Charango
+Charangos	1
+Charcuterie
+Charcuterien	1
+Charcutier
+Charcutiers	1
+Chardonnay
+Chardonnays	1
+Chardonnetseide
+Chardschit
+Chardschiten	2
+Charedi
+Charedim	1
+Charette
+Charge
+Chargen	1
+Chargennummer
+Chargennummern	1
+Chargenspieler
+Chargenspielern	1
+Chargenspielers	1
+Chargierte
+Chargiertem	1
+Chargierten	1
+Chargierter	1
+Charima
+Charisma
+Charismas	1
+Charismata	2
+Charismatiker
+Charismatikern	1
+Charismatikers	1
+Charismen	2a
+Charité
+Charivari
+Charivaris	1
+Charlemagne
+Charles
+Charleston
+Charlestons	1
+Charlie
+Charlier
+Charlies	1
+Charlotte
+Charlotten	1
+Charlottenburg
+Charlottenburger
+Charlottenburgern	1
+Charlottenburgers	1
+Charlottenburgs	1
+Charlottes	1
+Charm
+Charmante
+Charmanten	1
+Charmantere
+Charmanteren	1
+Charmanteste
+Charmantesten	1
+Charmanz
+Charme
+Charmebolzen
+Charmebolzens	1
+Charmeoffensive
+Charmeoffensiven	1
+Charmes	1
+Charmeur
+Charmeure	1
+Charmeuren	2
+Charmeurs	1
+Charmeuse
+Charms	1
+Charoit
+Charoits	1
+Charolaisrind
+Charolaisrinder	2
+Charolaisrindern	3
+Charolaisrindes	2
+Charolaisrinds	1
+Charpie
+Chars	1
+Chart
+Charta
+Chartas	1
+Chartbreaker
+Charter
+Charter-Kolonie
+Charter-Kolonien	1
+Charterer
+Charterern	1
+Charterers	1
+Charterflieger
+Charterfliegern	1
+Charterfliegers	1
+Charterflug
+Charterfluges	2
+Charterflugs	1
+Charterflugzeug
+Charterflugzeuge	1
+Charterflugzeugen	2
+Charterflugzeuges	2
+Charterflugzeugs	1
+Charterflüge	3ug
+Charterflügen	4ug
+Chartergesellschaft
+Chartergesellschaften	2
+Charterkolonie
+Charterkolonien	1
+Chartermaschine
+Chartermaschinen	1
+Charters	1
+Charterung
+Charterungen	2
+Charterunternehmen
+Charterunternehmens	1
+Charterverkehr
+Chartier
+Chartismus
+Chartreuse
+Charts	1
+Chartular
+Chartularium
+Charybdis
+Chasar
+Chasaren	2
+Chasarin
+Chasarinnen	3
+Chascona
+Chase
+Chasma
+Chasmas	1
+Chasmogamie
+Chasmus
+Chasmusse	2
+Chasmussen	3
+Chasselas
+Chasseur
+Chasseure	1
+Chasseuren	2
+Chasseurs	1
+Chassid
+Chasside
+Chassiden	2
+Chassidim	2
+Chassidismus
+Chassids	1
+Chassis
+Chasuble
+Chat
+Chat-Fenster
+Chat-Fenstern	1
+Chat-Fensters	1
+Chat-Forum
+Chat-Group
+Chat-Groups	1
+Chat-Protokoll
+Chat-Protokolle	1
+Chat-Protokollen	2
+Chat-Protokolles	2
+Chat-Protokolls	1
+Chat-Raum
+ChatGPT
+ChatGPTs	1
+Chatbot
+Chatbots	1
+Chateau
+Chateaubriand
+Chateaubriands	1
+Chateaus	1
+Chateaux
+Chatelaine
+Chatfenster
+Chatfenstern	1
+Chatfensters	1
+Chatforum
+Chatgroup
+Chatgroups	1
+Chatkontrolle
+Chatkontrollen	1
+Chatonfassung
+Chatonfassungen	2
+Chatpartner
+Chatpartnern	1
+Chatpartners	1
+Chatprotokoll
+Chatprotokolle	1
+Chatprotokollen	2
+Chatprotokolles	2
+Chatprotokolls	1
+Chatraum
+Chatrollenspiel
+Chatrollenspiele	1
+Chatrollenspielen	2
+Chatrollenspieles	2
+Chatroom
+Chatrooms	1
+Chats	1
+Chatte
+Chatten	1
+Chatter
+Chatterin
+Chatterinnen	3
+Chattern	1
+Chatters	1
+Chaudeau
+Chaudeaus	1
+Chaudfroid
+Chauffeur
+Chauffeure	1
+Chauffeuren	2
+Chauffeurin
+Chauffeurinnen	3
+Chauffeurs	1
+Chauffeuse
+Chauffeusen	1
+Chaulmoograöl
+Chaulmoograöles	2
+Chaulmoograöls	1
+Chaumette
+Chaussee	4ßee
+Chausseebau
+Chausseebaum	8ßeebaum
+Chausseebaume	9ßeebaum
+Chausseebaumes	10ßeebaum
+Chausseebaums	9ßeebaum
+Chausseebäume	9ßeebaum
+Chausseebäumen	10ßeebaum
+Chausseefloh
+Chausseeflohes	2
+Chausseeflohs	1
+Chausseeflöhe	3oh
+Chausseeflöhen	4oh
+Chausseegeld
+Chausseegelder	2
+Chausseegeldern	3
+Chausseegeldes	2
+Chausseegelds	1
+Chausseegraben
+Chausseegrabens	1
+Chausseegräben	4aben
+Chausseehaus
+Chausseehauses	2
+Chausseehäuser	5aus
+Chausseehäusern	6aus
+Chausseen	5ßee
+Chausseerand
+Chausseerandes	2
+Chausseerands	1
+Chausseeränder	5and
+Chausseerändern	6and
+Chausseestein
+Chausseesteine	1
+Chausseesteinen	2
+Chausseesteines	2
+Chausseesteins	1
+Chausseewanze
+Chausseewanzen	1
+Chauvi
+Chauvinismen	2us
+Chauvinismus
+Chauvinist
+Chauvinisten	2
+Chauvinistische	15chauvinistisch
+Chauvinistischen	1
+Chauvinistischere
+Chauvinistischeren	1
+Chauvis	1
+Chaußee
+Chaußeebaum
+Chawan
+Chawans	1
+Chawer
+Chawern	1
+Chawers	1
+Cheat-Code
+Cheat-Codes	1
+Cheatcode
+Cheatcodes	1
+Cheater
+Cheatern	1
+Cheaters	1
+Cheating
+Cheatings	1
+Check
+Check-in
+Check-ins	1
+Check-out
+Check-up
+Check-ups	1
+Checkbox
+Checkboxen	2
+Checken
+Checkende
+Checkenden	1
+Checkens	1
+Checker
+Checkern	1
+Checkers	1
+Checking
+Checkkarte
+Checkkarten	1
+Checklist
+Checkliste
+Checklisten	1
+Checklists	1
+Checkpoint
+Checkpoints	1
+Checks	1
+Checkup
+Checkups	1
+Cheddar
+Cheddarkäse
+Cheddarkäsen	1
+Cheddarkäses	1
+Cheddars	1
+Cheder
+Chederschule
+Chederschulen	1
+Chee
+Cheerleader
+Cheerleaderin
+Cheerleaderinnen	3
+Cheerleadern	1
+Cheerleaders	1
+Cheeseburger
+Cheeseburgern	1
+Cheeseburgers	1
+Chef
+Chef-Ankläger
+Chef-Scout
+Chef-Scouts	1
+Chefanalyst
+Chefanalysten	2
+Chefankläger
+Chefanklägerin
+Chefanklägerinnen	3
+Chefanklägern	1
+Chefanklägers	1
+Chefarchitekt
+Chefarchitekten	2
+Chefarzt
+Chefarztes	2
+Chefarztpflicht
+Chefberater
+Chefberatern	1
+Chefberaters	1
+Chefbesprechung
+Chefbesprechungen	2
+Chefbüro
+Chefbüros	1
+Chefcoach
+Chefcoaches	2
+Chefcoachs	1
+Chefdelegierte
+Chefdelegiertem	1
+Chefdelegierten	1
+Chefdelegierter	1
+Chefdesigner
+Chefdesignern	1
+Chefdesigners	1
+Chefdiplomat
+Chefdiplomaten	2
+Chefdirigent
+Chefdirigenten	2
+Chefdisponent
+Chefdisponenten	2
+Chefdolmetscher
+Chefdolmetschern	1
+Chefdolmetschers	1
+Chefdramaturg
+Chefdramaturgen	2
+Chefetage
+Chefetagen	1
+Chefeuse
+Chefeusen	1
+Cheffahrer
+Cheffahrern	1
+Cheffahrers	1
+Chefideologe
+Chefideologen	1
+Chefin
+Chefingenieur
+Chefingenieure	1
+Chefingenieuren	2
+Chefingenieurs	1
+Chefinnen	3
+Chefinspektor
+Chefinspektoren	2
+Chefinspektors	1
+Chefität
+Chefitäten	2
+Chefjuror
+Chefjuroren	2
+Chefjurors	1
+Chefkoch
+Chefkoche	1
+Chefkoches	2
+Chefkochs	1
+Chefkommentator
+Chefkommentatoren	2
+Chefkommentators	1
+Chefkonstrukteur
+Chefkonstrukteure	1
+Chefkonstrukteuren	2
+Chefkonstrukteurs	1
+Chefkritiker
+Chefkritikern	1
+Chefkritikers	1
+Chefköche	4och
+Chefköchen	5och
+Chefköchin
+Chefköchinnen	3
+Cheflektor
+Cheflektoren	2
+Cheflektors	1
+Cheflobbyist
+Cheflobbyisten	2
+Chefmasche
+Chefmaschen	1
+Chefpilot
+Chefpiloten	2
+Chefposten
+Chefpostens	1
+Chefredakteur
+Chefredakteure	1
+Chefredakteuren	2
+Chefredakteurin
+Chefredakteurinnen	3
+Chefredakteurs	1
+Chefredaktion
+Chefredaktionen	2
+Chefredaktor
+Chefredaktoren	2
+Chefredaktorin
+Chefredaktorinnen	3
+Chefredaktors	1
+Chefs	1
+Chefsache
+Chefsachen	1
+Chefsalat
+Chefsalate	1
+Chefsalaten	2
+Chefsalates	2
+Chefsalats	1
+Chefscout
+Chefscouts	1
+Chefsekretär
+Chefsekretäre	1
+Chefsekretären	2
+Chefsekretärin
+Chefsekretärinnen	3
+Chefsekretärs	1
+Chefsessel
+Chefsesseln	1
+Chefsessels	1
+Chefsteward
+Chefstewards	1
+Chefstratege
+Chefstrategen	1
+Chefstuhl
+Chefstuhles	2
+Chefstuhls	1
+Chefstühle	4uhl
+Chefstühlen	5uhl
+Cheftrainer
+Cheftrainerin
+Cheftrainerinnen	3
+Cheftrainern	1
+Cheftrainers	1
+Chefunterhändler
+Chefunterhändlern	1
+Chefunterhändlers	1
+Chefverhandler
+Chefverhandlern	1
+Chefverhandlers	1
+Chefvisite
+Chefvisiten	1
+Chefwissenschaftler
+Chefwissenschaftlerin
+Chefwissenschaftlerinnen	3
+Chefwissenschaftlern	1
+Chefwissenschaftlers	1
+Chefärzte	5arzt
+Chefärzten	6arzt
+Chefärztin
+Chefärztinnen	3
+Chefökonom
+Chefökonomen	2
+Cheilitiden	3s
+Cheilitis
+Cheiloplastik
+Cheiloplastiken	2
+Cheiloschisen	2is
+Cheiloschisis
+Cheirologie
+Cheironomie
+Cheirospasmen	2us
+Cheirospasmus
+Cheirotonie
+Chek
+Chelat
+Chelatbildner
+Chelatbildnern	1
+Chelatbildners	1
+Chelate	1
+Chelaten	2
+Chelatkomplex
+Chelatkomplexe	1
+Chelatkomplexen	2
+Chelatkomplexes	2
+Chelats	1
+Chelidonium
+Chelseaporzellan
+Chelseaporzellans	1
+Chemical
+Chemie
+Chemieanlage
+Chemieanlagen	1
+Chemiearbeiter
+Chemiearbeitern	1
+Chemiearbeiters	1
+Chemiebetrieb
+Chemiebetriebe	1
+Chemiebetrieben	2
+Chemiebetriebes	2
+Chemiebetriebs	1
+Chemiebranche
+Chemiebranchen	1
+Chemiebuch
+Chemiebuche	1
+Chemiebuches	2
+Chemiebuchs	1
+Chemiebücher	5uch
+Chemiebüchern	6uch
+Chemiecocktail
+Chemiecocktails	1
+Chemieeinsatz
+Chemieeinsatzes	2
+Chemieeinsätze	4atz
+Chemieeinsätzen	5atz
+Chemieerzeugnis
+Chemieerzeugnisse	2
+Chemieerzeugnissen	3
+Chemieerzeugnisses	3
+Chemiefabrik
+Chemiefabriken	2
+Chemiefacharbeiter
+Chemiefacharbeitern	1
+Chemiefacharbeiters	1
+Chemiefaser
+Chemiefasergarn
+Chemiefasergarne	1
+Chemiefasergarnen	2
+Chemiefasergarnes	2
+Chemiefasergarns	1
+Chemiefasern	1
+Chemiefirma
+Chemiefirmen	2a
+Chemiegeruch
+Chemiegeruches	2
+Chemiegeruchs	1
+Chemiegerüche	4uch
+Chemiegerüchen	5uch
+Chemiegeschäft
+Chemiegeschäfte	1
+Chemiegeschäften	2
+Chemiegeschäftes	2
+Chemiegeschäfts	1
+Chemiegigant
+Chemiegiganten	2
+Chemiehafen
+Chemiehafens	1
+Chemiehäfen	4afen
+Chemieindustrie
+Chemieindustrien	1
+Chemieingenieur
+Chemieingenieure	1
+Chemieingenieuren	2
+Chemieingenieurs	1
+Chemieingenieurwesen
+Chemieingenieurwesens	1
+Chemiekatastrophe
+Chemiekatastrophen	1
+Chemiekeule
+Chemiekeulen	1
+Chemiekonzern
+Chemiekonzerne	1
+Chemiekonzernen	2
+Chemiekonzernes	2
+Chemiekonzerns	1
+Chemielabor
+Chemielaborant
+Chemielaboranten	2
+Chemielaborantin
+Chemielaborantinnen	3
+Chemielabore	1
+Chemielaboren	2
+Chemielabors	1
+Chemielehrer
+Chemielehrerin
+Chemielehrerinnen	3
+Chemielehrern	1
+Chemielehrers	1
+Chemiemüll
+Chemiemülles	2
+Chemiemülls	1
+Chemien	1
+Chemieprodukt
+Chemieprodukte	1
+Chemieprodukten	2
+Chemieproduktes	2
+Chemieproduktion
+Chemieprodukts	1
+Chemieprofessor
+Chemieprofessoren	2
+Chemieprofessorin
+Chemieprofessorinnen	3
+Chemieprofessors	1
+Chemieriese
+Chemieriesen	1
+Chemiesierung
+Chemiesierungen	2
+Chemiesparte
+Chemiesparten	1
+Chemiestudium
+Chemiestudiums	1
+Chemietoilette
+Chemietoiletten	1
+Chemieunfall
+Chemieunfalles	2
+Chemieunfalls	1
+Chemieunfälle	4all
+Chemieunfällen	5all
+Chemieunglück
+Chemieunglücke	1
+Chemieunglücken	2
+Chemieunglückes	2
+Chemieunglücks	1
+Chemieunternehmen
+Chemieunternehmens	1
+Chemieunterricht
+Chemieunterrichte	1
+Chemieunterrichten	2
+Chemieunterrichtes	2
+Chemieunterrichts	1
+Chemiewaffe
+Chemiewaffen	1
+Chemiewaffenangriff
+Chemiewaffenangriffe	1
+Chemiewaffenangriffen	2
+Chemiewaffenangriffes	2
+Chemiewaffenangriffs	1
+Chemiewaffeneinsatz
+Chemiewaffeneinsatzes	2
+Chemiewaffeneinsätze	4atz
+Chemiewaffeneinsätzen	5atz
+Chemiewaffenverbot
+Chemiewaffenverbote	1
+Chemiewaffenverboten	2
+Chemiewaffenverbotes	2
+Chemiewaffenverbots	1
+Chemiewerk
+Chemiewerke	1
+Chemiewerken	2
+Chemiewerker
+Chemiewerkern	1
+Chemiewerkers	1
+Chemiewerkes	2
+Chemiewert
+Chemiewerte	1
+Chemiewerten	2
+Chemiewertes	2
+Chemiewerts	1
+Chemigrafie
+Chemigraphie
+Chemikalie
+Chemikalien	1
+Chemikalienbehälter
+Chemikalienbehältern	1
+Chemikalienbehälters	1
+Chemikalienbeständigkeit
+Chemikalienbeständigkeiten	2
+Chemikalieneinsatz
+Chemikalieneinsatzes	2
+Chemikalieneinsätze	4atz
+Chemikalieneinsätzen	5atz
+Chemikaliengesetz
+Chemikaliengesetze	1
+Chemikaliengesetzen	2
+Chemikaliengesetzes	2
+Chemikant
+Chemikanten	2
+Chemikantin
+Chemikantinnen	3
+Chemiker
+Chemikerin
+Chemikerinnen	3
+Chemikerkittel
+Chemikerkitteln	1
+Chemikerkittels	1
+Chemikern	1
+Chemikers	1
+Chemilumineszenz
+Chemilumineszenzen	2
+Cheminée
+Cheminées	1
+Chemische	9chemisch
+Chemischen	1
+Chemisett
+Chemisette
+Chemisetten	2
+Chemisettes	2
+Chemisetts	1
+Chemisierung
+Chemisierungen	2
+Chemismus
+Chemnitz
+Chemnitzer
+Chemnitzerin
+Chemnitzerinnen	3
+Chemnitzern	1
+Chemnitzers	1
+Chemo
+Chemolumineszenz
+Chemolumineszenzen	2
+Chemonastie
+Chemoplast
+Chemoplaste	1
+Chemoplasten	2
+Chemoplastes	2
+Chemoplasts	1
+Chemoprophylaxe
+Chemoprophylaxen	1
+Chemoresistenz
+Chemoresistenzen	2
+Chemorezeptor
+Chemorezeptoren	2
+Chemorezeptors	1
+Chemos	1
+Chemosis
+Chemostat
+Chemostaten	2
+Chemostates	2
+Chemostats	1
+Chemosynthese
+Chemotaxen	2is
+Chemotaxis
+Chemotechnik
+Chemotechniker
+Chemotechnikern	1
+Chemotechnikers	1
+Chemotherapeutika	1um
+Chemotherapeutikum
+Chemotherapeutikums	1
+Chemotherapie
+Chemotherapien	1
+Chemotropismen	2us
+Chemotropismus
+Chemson-Gruppe
+Chemtrail
+Chemtrails	1
+Chemurgie
+Chen
+Cheney
+Chenille
+Chenillen	1
+Cheong
+Cheops-Pyramide
+Cheopspyramide
+Cher
+Chereau
+Chergui
+Cherimoya
+Cherimoyas	1
+Cherokee
+Cherry
+Cherry-Brandy
+Cherry-Brandys	1
+Cherrybrandy
+Cherrybrandys	1
+Cherrys	1
+Cherrytomate
+Cherrytomaten	1
+Chert
+Cherts	1
+Cherub
+Cherube	1
+Cheruben	2
+Cherubim	2
+Cherubinen	4
+Cherubs	1
+Cherusker
+Cheruskerin
+Cheruskerinnen	3
+Cheruskern	1
+Cheruskers	1
+Chesterfield
+Chesterkäse
+Chesterkäsen	1
+Chesterkäses	1
+Chevalier
+Chevaliers	1
+Chevauleger
+Chevaulegers	1
+Cheviot
+Cheviotkleid
+Cheviotkleider	2
+Cheviotkleidern	3
+Cheviotkleides	2
+Cheviotkleids	1
+Cheviotrock
+Cheviotrockes	2
+Cheviotrocks	1
+Cheviotröcke	4ock
+Cheviotröcken	5ock
+Cheviots	1
+Chevreau
+Chevreauleder
+Chevreauledern	1
+Chevreauleders	1
+Chevreaus	1
+Chevreauschuh
+Chevreauschuhe	1
+Chevreauschuhen	2
+Chevreauschuhes	2
+Chevreauschuhs	1
+Chevy-Chase-Strophe
+Chevy-Chase-Strophen	1
+Chevènement
+Chexbres
+Cheyenne
+Chi
+Chia-Samen
+Chia-Samens	1
+Chianti
+Chiantiflasche
+Chiantiflaschen	1
+Chiantis	1
+Chiapas
+Chiaroscuro
+Chiaroscuros	1
+Chiasamen
+Chiasamens	1
+Chiasma
+Chiasmas	1
+Chiasmata	2
+Chiasmen	2a
+Chiasmus
+Chic
+Chicago
+Chicago-Stil
+Chicago-Stiles	2
+Chicago-Stils	1
+Chicagos	1
+Chice	5chic
+Chicen	1
+Chicere
+Chiceren	1
+Chichi
+Chichis	1
+Chick
+Chickasaw
+Chickee
+Chickees	1
+Chicken-Nugget
+Chicken-Nuggets	1
+Chicken-Wing
+Chicken-Wings	1
+Chickennugget
+Chickennuggets	1
+Chickenwing
+Chickenwings	1
+Chicks	1
+Chiclayo
+Chiclegummi
+Chico
+Chicorée
+Chicorées	1
+Chics	1
+Chicste
+Chicsten	1
+Chief
+Chiemsee
+Chiemsees	1
+Chiffonade
+Chiffonkleid
+Chiffonkleide	1
+Chiffonkleider	2
+Chiffonkleidern	3
+Chiffonkleides	2
+Chiffonkleids	1
+Chiffonnier
+Chiffonniere
+Chiffonnieren	1
+Chiffonniers	1
+Chiffontuch
+Chiffontuche	1
+Chiffontuchen	2
+Chiffontuches	2
+Chiffontuchs	1
+Chiffontücher	5uch
+Chiffontüchern	6uch
+Chiffrat
+Chiffrate	1
+Chiffraten	2
+Chiffrates	2
+Chiffrats	1
+Chiffre
+Chiffren	1
+Chiffreschrift
+Chiffreschriften	2
+Chiffrierkunst
+Chiffriermaschine
+Chiffriermaschinen	1
+Chiffrierschlüssel
+Chiffrierschlüsseln	1
+Chiffrierschlüssels	1
+Chiffrierung
+Chiffrierungen	2
+Chiffrierverfahren
+Chiffrierverfahrens	1
+Chignon
+Chignons	1
+Chihuahua
+Chihuahuas	1
+Chikungunyafieber
+Chikungunyafiebers	1
+Chilbenen	4i
+Chilbi
+Chile
+Chile-Salpeter
+Chile-Salpeters	1
+Chilene
+Chilenen	1
+Chilenin
+Chileninnen	3
+Chiles	1
+Chilesalpeter
+Chilesalpetern	1
+Chilesalpeters	1
+Chili
+Chiliade
+Chiliasmus
+Chiliast
+Chiliasten	2
+Chiligeruch
+Chiligeruches	2
+Chiligeruchs	1
+Chiligerüche	4uch
+Chiligerüchen	5uch
+Chilipulver
+Chilipulvern	1
+Chilipulvers	1
+Chilis	1
+Chilisauce
+Chilisaucen	1
+Chilisoße
+Chilisoßen	1
+Chiller
+Chillern	1
+Chillers	1
+Chillies
+Chillon
+Chillout
+Chillouts	1
+Chimära
+Chimäre
+Chimären	1
+China
+Chinaapfel
+Chinaapfels	1
+Chinabesuch
+Chinabesuche	1
+Chinabesuchen	2
+Chinabesuches	2
+Chinabesuchs	1
+Chinabitter
+Chinabitters	1
+Chinabrokat
+Chinabrokate	1
+Chinabrokaten	2
+Chinabrokates	2
+Chinabrokats	1
+Chinaböller
+Chinaböllern	1
+Chinaböllers	1
+Chinacracker
+Chinacrackern	1
+Chinacrackers	1
+Chinacrêpe
+Chinaexpedition
+Chinaexpeditionen	2
+Chinaexperte
+Chinaexperten	1
+Chinageschäft
+Chinageschäfte	1
+Chinageschäften	2
+Chinageschäftes	2
+Chinageschäfts	1
+Chinagras
+Chinagrase	1
+Chinagrases	2
+Chinagräser	4as
+Chinagräsern	5as
+Chinahandel
+Chinahandels	1
+Chinakarpfen
+Chinakarpfens	1
+Chinakohl
+Chinakohle	1
+Chinakohlen	2
+Chinakohles	2
+Chinakohls	1
+Chinakracher
+Chinakrachern	1
+Chinakrachers	1
+Chinakrepp
+Chinakrepps	1
+Chinalokal
+Chinalokale	1
+Chinalokalen	2
+Chinalokals	1
+Chinamann
+Chinamannes	2
+Chinamanns	1
+Chinampas
+Chinamänner	5ann
+Chinamännern	6ann
+Chinapapier
+Chinapapiere	1
+Chinapapieren	2
+Chinapapiers	1
+Chinapfanne
+Chinapfannen	1
+Chinapolitik
+Chinapolitiken	2
+Chinareise
+Chinareisen	1
+Chinarestaurant
+Chinarestaurants	1
+Chinarinde
+Chinarindenbaum
+Chinarindenbaume	1
+Chinarindenbaumes	2
+Chinarindenbaums	1
+Chinarindenbäume	4aum
+Chinarindenbäumen	5aum
+Chinas
+Chinaschilf
+Chinaschilfe	1
+Chinaschilfes	2
+Chinaschilfs	1
+Chinaseide
+Chinaseiden	1
+Chinasilber
+Chinasilbers	1
+Chinastraße
+Chinasäure
+Chinateppich
+Chinateppiche	1
+Chinateppichen	2
+Chinateppichs	1
+Chinatinktur
+Chinatinkturen	2
+Chinatown
+Chinatowns	1
+Chinaware
+Chinawaren	1
+Chinawein
+Chinaweine	1
+Chinaweines	2
+Chinaweins	1
+Chinaäpfel	5apfel
+Chinaöl
+Chinaöles	2
+Chinaöls	1
+Chinchilla
+Chinchillafell
+Chinchillafelle	1
+Chinchillafellen	2
+Chinchillafelles	2
+Chinchillafells	1
+Chinchillas	1
+Chinese
+Chinesen	1
+Chinesin
+Chinesinnen	3
+Chinesisch
+Chinesische
+Chinesischen	1
+Chinesischs	1
+Chinesischunterricht
+Chinesischunterrichtes	2
+Chinesischunterrichts	1
+Chinin
+Chininpräparat
+Chininpräparate	1
+Chininpräparaten	2
+Chininpräparates	2
+Chininpräparats	1
+Chinins	1
+Chino
+Chinoiserie
+Chinoiserien	1
+Chinolin
+Chinolins	1
+Chinolon
+Chinolone	1
+Chinolonen	2
+Chinolons	1
+Chinos	1
+Chintz
+Chintze	1
+Chintzen	2
+Chintzes	2
+Chioggia
+Chionograf
+Chionograph
+Chios
+Chios’	1
+Chip
+Chip-Architektur
+Chip-Architekturen	2
+Chip-Fabrik
+Chip-Fabriken	2
+Chip-Hersteller
+Chip-Herstellern	1
+Chip-Herstellers	1
+Chip-Industrie
+Chip-Schmiede
+Chiparchitektur
+Chiparchitekturen	2
+Chipdesign
+Chipdesigns	1
+Chipfabrik
+Chipfabriken	2
+Chipfirma
+Chipfirmen	2a
+Chipgigant
+Chipgiganten	2
+Chiphersteller
+Chipherstellern	1
+Chipherstellers	1
+Chipindustrie
+Chipkarte
+Chipkarten	1
+Chipkartenleser
+Chipkartenlesern	1
+Chipkartenlesers	1
+Chipmunk
+Chipmunks	1
+Chippendale
+Chippendalestil
+Chippendalestiles	2
+Chippendalestils	1
+Chippewa
+Chippie
+Chippies	1
+Chips	1
+Chipsatz
+Chipsatz-Treiber
+Chipsatzes	2
+Chipschmiede
+Chipschmieden	1
+Chipshersteller
+Chipsherstellern	1
+Chipsherstellers	1
+Chipstüte
+Chipsätze	4atz
+Chipsätzen	5atz
+Chiptüte
+Chirac
+Chiracs	1
+Chiragra
+Chiralität
+Chirimoya
+Chirograf
+Chirografe	1
+Chirografen	2
+Chirografs	1
+Chirograph
+Chirographe	1
+Chirographen	2
+Chirographs	1
+Chirologie
+Chiromant
+Chiromanten	2
+Chiromantie
+Chiromantin
+Chiromantinnen	3
+Chironja
+Chironomie
+Chiropraktik
+Chiropraktiker
+Chiropraktikerin
+Chiropraktikerinnen	3
+Chiropraktikern	1
+Chiropraktikers	1
+Chiroptera
+Chiropterygia	1um
+Chiropterygien	2um
+Chiropterygium
+Chiropterygiums	1
+Chirospasmen	2us
+Chirospasmus
+Chirotherapie
+Chirotherapien	1
+Chirurg
+Chirurgen	2
+Chirurgie
+Chirurgien	1
+Chirurgin
+Chirurginnen	3
+Chirurgische	12chirurgisch
+Chirurgischen	1
+Chis	1
+Chisholm
+Chisinau
+Chitarrone
+Chitin
+Chitinpanzer
+Chitinpanzern	1
+Chitinpanzers	1
+Chitins	1
+Chiton
+Chitone	1
+Chitonen	2
+Chitons	1
+Chlamydie
+Chlamydien	1
+Chlaus
+Chlauses	2
+Chlausjagen
+Chloanthit
+Chloasma
+Chlor
+Chloralhydrat
+Chloralhydrats	1
+Chloralismus
+Chloralkan
+Chloralkane	1
+Chloralkanen	2
+Chloralkans	1
+Chloralken
+Chloralkene	1
+Chloralkenen	2
+Chloralkens	1
+Chloramin
+Chloramine	1
+Chloraminen	2
+Chloramins	1
+Chloramphenicol
+Chloramphenicole	1
+Chloramphenicolen	2
+Chloramphenicols	1
+Chlorargyrit
+Chlorargyrite	1
+Chlorargyriten	2
+Chlorargyrits	1
+Chloraromat
+Chloraromate	1
+Chloraromaten	2
+Chloraromats	1
+Chlorat
+Chlorate	1
+Chloraten	2
+Chloratom
+Chloratome	1
+Chloratomen	2
+Chloratoms	1
+Chlorats	1
+Chloratsprengstoff
+Chloratsprengstoffe	1
+Chloratsprengstoffen	2
+Chloratsprengstoffes	2
+Chloratsprengstoffs	1
+Chlorbombe
+Chlorbomben	1
+Chlordioxid
+Chlordioxyd
+Chlorella
+Chloressigsäure
+Chlorethansäure
+Chlorfluorkohlenwasserstoff
+Chlorfluorkohlenwasserstoffe	1
+Chlorfluorkohlenwasserstoffen	2
+Chlorfluorkohlenwasserstoffs	1
+Chlorgas
+Chlorgases	2
+Chlorgasunfall
+Chlorgasunfalles	2
+Chlorgasunfalls	1
+Chlorgasunfälle	4all
+Chlorgasunfällen	5all
+Chlorgaswolke
+Chlorgaswolken	1
+Chlorgehalt
+Chlorgehalte	1
+Chlorgehalten	2
+Chlorgehaltes	2
+Chlorgehalts	1
+Chlorgeruch
+Chlorgeruche	1
+Chlorgeruches	2
+Chlorgeruchs	1
+Chlorgerüche	4uch
+Chlorgerüchen	5uch
+Chlorhühnchen
+Chlorhühnchens	1
+Chlorid
+Chloride	1
+Chloriden	2
+Chlorides	2
+Chlorids	1
+Chlorierung
+Chlorierungen	2
+Chlorit
+Chlorite	1
+Chloriten	2
+Chlorits	1
+Chlorkalk
+Chlorkalkes	2
+Chlorkalks	1
+Chlorknallgas
+Chlorknallgase	1
+Chlorknallgasen	2
+Chlorknallgases	2
+Chloroform
+Chloroforms	1
+Chlorophyll
+Chlorophyllcreme
+Chlorophyllcremes	1
+Chlorophyllcrème
+Chlorophyllcrèmes	1
+Chlorophyllkrem
+Chlorophyllkreme
+Chlorophylls	1
+Chlorophytum
+Chloroplast
+Chloroplasten	2
+Chloropsie
+Chloroquin
+Chloroquins	1
+Chlororuthenat
+Chlororuthenate	1
+Chlororuthenaten	2
+Chlororuthenats	1
+Chlorosarkom
+Chlorosarkome	1
+Chlorosarkomen	2
+Chlorosarkoms	1
+Chlorose
+Chlorosen	1
+Chlorproduktion
+Chlorproduktionen	2
+Chlors	1
+Chlorstickstoff
+Chlorstickstoffes	2
+Chlorstickstoffs	1
+Chlorstrom
+Chlorstroms	1
+Chlorströme	3om
+Chlorströmen	4om
+Chlorsäure
+Chlorsäuren	1
+Chlorung
+Chlorungen	2
+Chlorverbindung
+Chlorverbindungen	2
+Chlorvergiftung
+Chlorvergiftungen	2
+Chlorwasser
+Chlorwasserstoff
+Chlorwasserstoffe	1
+Chlorwasserstoffen	2
+Chlorwasserstoffes	2
+Chlorwasserstoffmolekül
+Chlorwasserstoffmoleküle	1
+Chlorwasserstoffmolekülen	2
+Chlorwasserstoffmoleküls	1
+Chlorwasserstoffs	1
+Chlorwasserstoffsäure
+Chläuse	4aus
+Chläusen	5aus
+Chochemer
+Chochemers	1
+Chocolatier
+Chocolatiers	1
+Choctaw
+Choderlos
+Choekyi
+Chogm
+Choi
+Chok
+Choke
+Chokebohrung
+Chokebohrungen	2
+Chokes	1
+Cholagogum
+Cholangiom
+Cholangiopathie
+Cholangitis
+Cholekinetika	1um
+Cholekinetikum
+Cholekinetikums	1
+Cholelith
+Cholelithiasis
+Cholelithotripsie
+Cholelithotripsien	1
+Cholera
+Cholerabazillen	2us
+Cholerabazillus
+Choleraepidemie
+Choleraepidemien	1
+Choleraerreger
+Choleraerregern	1
+Choleraerregers	1
+Choleriker
+Cholerikerin
+Cholerikerinnen	3
+Cholerikern	1
+Cholerikers	1
+Cholestase
+Cholesterin
+Cholesteringehalt
+Cholesteringehalte	1
+Cholesteringehalten	2
+Cholesteringehaltes	2
+Cholesteringehalts	1
+Cholesterins	1
+Cholesterinsenker
+Cholesterinsenkern	1
+Cholesterinsenkers	1
+Cholesterinspiegel
+Cholesterinspiegeln	1
+Cholesterinspiegels	1
+Cholesterinwert
+Cholesterinwerte	1
+Cholesterinwerten	2
+Cholesterinwertes	2
+Cholesterinwerts	1
+Cholesterol
+Cholezystektomie
+Cholezystektomien	1
+Cholezystitiden	3s
+Cholezystitis
+Cholezystografie
+Cholezystografien	1
+Cholezystographie
+Cholezystographien	1
+Cholezystopathie
+Choliamben	2us
+Choliambus
+Cholin
+Choline	1
+Cholinen	2
+Cholins	1
+Cholostase
+Cholsäure
+Cholämie
+Chomeini
+Chomez
+Chondren
+Chondrin
+Chondrins	1
+Chondrit
+Chondrite	1
+Chondriten	2
+Chondritiden	3s
+Chondritis
+Chondrits	1
+Chondroblast
+Chondroblasten	2
+Chondroblastom
+Chondroblastome	1
+Chondroblastomen	2
+Chondroblastoms	1
+Chondrom
+Chondrome	1
+Chondromen	2
+Chondroms	1
+Chondrosarkom
+Chondrosarkome	1
+Chondrosarkomen	2
+Chondrosarkoms	1
+Chondrozyt
+Chondrozyten	2
+Chondrozyts	1
+Chondrulen
+Choong
+Choormog
+Choormogs	1
+Chopin
+Chopins	1
+Chopper
+Choppern	1
+Choppers	1
+Chopsuey
+Chopsueys	1
+Chor
+Choral
+Choralamt
+Choralamtes	2
+Choralamts	1
+Choralbearbeitung
+Choralbearbeitungen	2
+Choralbuch
+Choralbuches	2
+Choralbuchs	1
+Choralbücher	5uch
+Choralbüchern	6uch
+Choralcantate
+Choralkantate
+Choralkantaten	1
+Choralmelodie
+Choralmelodien	1
+Choralnotation
+Choralnotationen	2
+Chorals	1
+Choralsatz
+Choralsatzes	2
+Choralsätze	4atz
+Choralsätzen	5atz
+Choralvorspiel
+Choralvorspiele	1
+Choralvorspielen	2
+Choralvorspieles	2
+Choralvorspiels	1
+Choralämter	5amt
+Choralämtern	6amt
+Chorarbeit
+Chorarbeiten	2
+Chorcantate
+Chorda
+Chordat
+Chordata
+Chordaten
+Chordatier
+Chordatiere	1
+Chordatieren	2
+Chordatieres	2
+Chordatiers	1
+Chorden	2a
+Chordienst
+Chordienste	1
+Chordiensten	2
+Chordienstes	2
+Chordiensts	1
+Chordirigent
+Chordirigenten	2
+Chorditis
+Chordophon
+Chordophone	1
+Chordophonen	2
+Chordophons	1
+Chore	1
+Choreen	2us
+Chorege
+Choregen	1
+Choreinsatz
+Choreinsatzes	2
+Choreinsätze	4atz
+Choreinsätzen	5atz
+Choren	2
+Choreograf
+Choreografen	2
+Choreografie
+Choreografien	1
+Choreografin
+Choreografinnen	3
+Choreograph
+Choreographen	2
+Choreographie
+Choreographien	1
+Chores	2
+Choreus
+Choreutik
+Chorfamilie
+Chorfamilien	1
+Chorfenster
+Chorfenstern	1
+Chorfensters	1
+Chorformation
+Chorformationen	2
+Chorfuge
+Chorfugen	1
+Chorführer
+Chorführern	1
+Chorführers	1
+Chorgebet
+Chorgebete	1
+Chorgebeten	2
+Chorgebetes	2
+Chorgebets	1
+Chorgesang
+Chorgesanges	2
+Chorgesangs	1
+Chorgestühl
+Chorgestühle	1
+Chorgestühlen	2
+Chorgestühles	2
+Chorgestühls	1
+Chorgesänge	4ang
+Chorgesängen	5ang
+Chorgewand
+Chorgewandes	2
+Chorgewands	1
+Chorgewänder	5and
+Chorgewändern	6and
+Chorhaupt
+Chorhauptes	2
+Chorhaupts	1
+Chorhemd
+Chorhemden	2
+Chorhemdes	2
+Chorhemds	1
+Chorherr
+Chorherren	2
+Chorherrenorden
+Chorherrenordens	1
+Chorherrenstift
+Chorherrenstifte	1
+Chorherrenstiften	2
+Chorherrenstiftes	2
+Chorherrenstifts	1
+Chorherrn	1
+Chorhäupter	6aupt
+Chorhäuptern	7aupt
+Choriamben	2us
+Choriambus
+Chorionbiopsie
+Chorionbiopsien	1
+Chorisminsäure
+Chorist
+Choristen	2
+Choristin
+Choristinnen	3
+Chorizo
+Chorizos	1
+Chorkantate
+Chorkantaten	1
+Chorkapelle
+Chorkapellen	1
+Chorkind
+Chorkinder	2
+Chorkindern	3
+Chorkindes	2
+Chorkinds	1
+Chorknabe
+Chorknaben	1
+Chorkonzert
+Chorkonzerte	1
+Chorkonzerten	2
+Chorkonzertes	2
+Chorkonzerts	1
+Chorlandschaft
+Chorlandschaften	2
+Chorleiter
+Chorleiterin
+Chorleiterinnen	3
+Chorleitern	1
+Chorleiters	1
+Chormantel
+Chormantels	1
+Chormusik
+Chormusiken	2
+Chormäntel	5antel
+Chormänteln	6antel
+Chorologie
+Choronym
+Choronyme	1
+Choronymen	2
+Choronyms	1
+Chorpartie
+Chorpartien	1
+Chorprobe
+Chorproben	1
+Chorpult
+Chorpulte	1
+Chorpulten	2
+Chorpultes	2
+Chorpults	1
+Chorrat
+Chorrates	2
+Chorrats	1
+Chorraum
+Chorraums	1
+Chorregent
+Chorregenten	2
+Chorrock
+Chorrockes	2
+Chorrocks	1
+Chorräte	3at
+Chorräten	4at
+Chorräume	4aum
+Chorräumen	5aum
+Chorröcke	4ock
+Chorröcken	5ock
+Chors	1
+Chorsatz
+Chorsatzes	2
+Chorschaffen
+Chorschaffens	1
+Chorschranke
+Chorschranken	1
+Chorstimme
+Chorstimmen	1
+Chorstuhl
+Chorstuhles	2
+Chorstuhls	1
+Chorstühle	4uhl
+Chorstühlen	5uhl
+Chorsänger
+Chorsängerin
+Chorsängerinnen	3
+Chorsängern	1
+Chorsängers	1
+Chorsätze	4atz
+Chorsätzen	5atz
+Chorton
+Chortones	2
+Chortons	1
+Chorturm
+Chorturmes	2
+Chorturmkirche
+Chorturmkirchen	1
+Chorturms	1
+Chortöne	3on
+Chortönen	4on
+Chortürme	4urm
+Chortürmen	5urm
+Chorumgang
+Chorumgangs	1
+Chorumgänge	4ang
+Chorumgängen	5ang
+Chorus
+Chorusse	2
+Chorussen	3
+Chorwerk
+Chorwerke	1
+Chorwerken	2
+Chorwerkes	2
+Chorwerks	1
+Chorzyklen	2us
+Chorzyklus
+Choräle	3al
+Chorälen	4al
+Chose
+Chosen	1
+Chotěboř
+Choukri
+Chourouk
+Chow-Chow
+Chow-Chows	1
+Chp
+Chrea-Gebirge
+Chrea-Gebirges	1
+Chrestomathie
+Chrestomathien	1
+Chriesiwasser
+Chriesiwassers	1
+Chriesiwässer	5asser
+Chriesiwässern	6asser
+Chris
+Chrisma
+Chrismas	1
+Christ
+Christa
+Christabend
+Christabende	1
+Christabenden	2
+Christabends	1
+Christbaum
+Christbaume	1
+Christbaumes	2
+Christbaumkerze
+Christbaumkerzen	1
+Christbaumkugel
+Christbaumkugeln	1
+Christbaumplantage
+Christbaumplantagen	1
+Christbaums	1
+Christbaumschmuck
+Christbaumschmucke	1
+Christbaumschmucken	2
+Christbaumschmuckes	2
+Christbaumschmucks	1
+Christbaumverkauf
+Christbaumverkaufs	1
+Christbaumverkäufe	4auf
+Christbaumverkäufen	5auf
+Christbescherung
+Christbescherungen	2
+Christbäumchen
+Christbäumchens	1
+Christbäume	4aum
+Christbäumen	5aum
+Christdemokrat
+Christdemokraten	2
+Christdemokratie
+Christdemokratin
+Christdemokratinnen	3
+Christdorn
+Christdorne	1
+Christdornen	2
+Christdorns	1
+Christeeleison
+Christen	2
+Christenclub
+Christenclubs	1
+Christengemeinde
+Christengemeinden	1
+Christengemeinschaft
+Christengemeinschaften	2
+Christenglaube
+Christenglauben
+Christenheit
+Christenklub
+Christenklubs	1
+Christenlehre
+Christenmensch
+Christenmenschen	2
+Christenpflicht
+Christenpflichten	2
+Christenseele
+Christenseelen	1
+Christentum
+Christentums	1
+Christenverfolgung
+Christenverfolgungen	2
+Christfest
+Christfeste	1
+Christfesten	2
+Christfestes	2
+Christfests	1
+Christgeschenk
+Christgeschenke	1
+Christgeschenken	2
+Christgeschenkes	2
+Christgeschenks	1
+Christi
+Christian
+Christiane
+Christiania
+Christianisierung
+Christianisierungen	2
+Christianismus
+Christianitas
+Christians	1
+Christin
+Christina
+Christinas	1
+Christine
+Christines	1
+Christinnen	3
+Christkind
+Christkindchen
+Christkindchens	1
+Christkinde	1
+Christkindel
+Christkindes	2
+Christkindl
+Christkindle
+Christkindlein
+Christkindleins	1
+Christkindlesmarkt
+Christkindlesmarktes	2
+Christkindlesmarkts	1
+Christkindlesmärkte	5arkt
+Christkindlesmärkten	6arkt
+Christkindlmarkt
+Christkindlmarktes	2
+Christkindlmarkts	1
+Christkindlmärkte	5arkt
+Christkindlmärkten	6arkt
+Christkindln	1
+Christkindls	1
+Christkönigsfest
+Christkönigsfeste	1
+Christkönigsfesten	2
+Christkönigsfestes	2
+Christkönigsfests	1
+Christl
+Christliche	11christlich
+Christlichen	1
+Christlichere
+Christlicheren	1
+Christlichkeit
+Christlichkeiten	2
+Christlichste
+Christlichsten	1
+Christmarkt
+Christmarktes	2
+Christmarkts	1
+Christmas-Carol
+Christmesse
+Christmessen	1
+Christmette
+Christmetten	1
+Christmonat
+Christmonate	1
+Christmonaten	2
+Christmonates	2
+Christmonats	1
+Christmond
+Christmonde	1
+Christmonden	2
+Christmondes	2
+Christmonds	1
+Christmärkte	5arkt
+Christmärkten	6arkt
+Christnacht
+Christnächte	5acht
+Christnächten	6acht
+Christo
+Christof
+Christogramm
+Christogramme	1
+Christogrammen	2
+Christogramms	1
+Christolatrie
+Christologie
+Christologien	1
+Christoph
+Christophanie
+Christophanien	1
+Christophe
+Christopher
+Christophern	1
+Christophers	1
+Christophoruskirche
+Christophoruskirchen	1
+Christophs	1
+Christosophie
+Christozentrik
+Christrose
+Christrosen	1
+Christsein
+Christseins	1
+Christstolle
+Christstollen
+Christstollens	1
+Christtag
+Christtage	1
+Christtagen	2
+Christtages	2
+Christtags	1
+Christus
+Christusbart
+Christusbartes	2
+Christusbarts	1
+Christusbild
+Christusbilder	2
+Christusbildern	3
+Christusbildes	2
+Christusbilds	1
+Christusbraut
+Christusbräute	4aut
+Christusbräuten	5aut
+Christusbärte	4art
+Christusbärten	5art
+Christusdorn
+Christusgestalt
+Christusgestalten	2
+Christuskapelle
+Christuskapellen	1
+Christuskind
+Christuskinde	1
+Christuskindes	2
+Christuskinds	1
+Christuskirche
+Christuskirchen	1
+Christuskopf
+Christuskopfes	2
+Christuskopfs	1
+Christuskult
+Christuskultes	2
+Christuskults	1
+Christusköpfe	4opf
+Christusköpfen	5opf
+Christusmonogramm
+Christusmonogramme	1
+Christusmonogrammen	2
+Christusmonogrammes	2
+Christusmonogramms	1
+Christusorden
+Christvesper
+Christvespern	1
+Christvogel
+Christvogels	1
+Christvögel	4ogel
+Christvögeln	5ogel
+Christwein
+Christweine	1
+Christweinen	2
+Christweines	2
+Christweins	1
+Christwurz
+Chrom
+Chroma
+Chromas	1
+Chromat
+Chromate	1
+Chromaten	2
+Chromates	2
+Chromatid
+Chromatiden
+Chromatids	1
+Chromatik
+Chromatiken	2
+Chromatin
+Chromatins	1
+Chromatografie
+Chromatografien	1
+Chromatogramm
+Chromatographie
+Chromatographien	1
+Chromatographieverfahren
+Chromatographieverfahrens	1
+Chromatom
+Chromatome	1
+Chromatomen	2
+Chromatometer
+Chromatometern	1
+Chromatometers	1
+Chromatoms	1
+Chromatophor
+Chromatopsie
+Chromatose
+Chromatron
+Chrombeize
+Chrombeizen	1
+Chrombeschlag
+Chrombeschlages	2
+Chrombeschlags	1
+Chrombeschläge	3ag
+Chrombeschlägen	4ag
+Chromebook
+Chromebooks	1
+Chromeisenerz
+Chromeisenerze	1
+Chromeisenerzen	2
+Chromeisenerzes	2
+Chromeisenstein
+Chromeisensteine	1
+Chromeisensteinen	2
+Chromeisensteines	2
+Chromeisensteins	1
+Chromerz
+Chromerze	1
+Chromerzen	2
+Chromerzes	2
+Chromgelb
+Chromgelbs	1
+Chromit
+Chromite	1
+Chromiten	2
+Chromits	1
+Chromleder
+Chromledern	1
+Chromleders	1
+Chromlegierung
+Chromlegierungen	2
+Chromnickelstahl
+Chromnickelstahle	1
+Chromnickelstahlen	2
+Chromnickelstahles	2
+Chromnickelstahls	1
+Chromnickelstähle	4ahl
+Chromnickelstählen	5ahl
+Chromolith
+Chromonika
+Chromopapier
+Chromopapiere	1
+Chromopapieren	2
+Chromopapiers	1
+Chromophor
+Chromophore	1
+Chromophoren	2
+Chromophors	1
+Chromoplast
+Chromoplasten	2
+Chromoproteide
+Chromopsie
+Chromosom
+Chromosomen	2
+Chromosomenaberration
+Chromosomenaberrationen	2
+Chromosomenanomalie
+Chromosomenanomalien	1
+Chromosomendiagnostik
+Chromosomendiagnostiken	2
+Chromosomenmutation
+Chromosomenmutationen	2
+Chromosomenreduktion
+Chromosomenreduktionen	2
+Chromosomensatz
+Chromosomensatze	1
+Chromosomensatzes	2
+Chromosomensätze	4atz
+Chromosomensätzen	5atz
+Chromosomenzahl
+Chromosomenzahlen	2
+Chromosoms	1
+Chromosphäre
+Chromosphären	1
+Chromotypie
+Chromoxid
+Chromoxidgrün
+Chromoxidgrüns	1
+Chromoxyd
+Chromoxydgrün
+Chromoxydgrüns	1
+Chroms	1
+Chromstahl
+Chromstahle	1
+Chromstahlen	2
+Chromstahles	2
+Chromstahls	1
+Chromstähle	4ahl
+Chromstählen	5ahl
+Chromsäure
+Chromsäuren	1
+Chromverbindung
+Chromverbindungen	2
+Chronifizierung
+Chronifizierungen	2
+Chronik
+Chroniken	2
+Chronikenschreiber
+Chroniker
+Chronikern	1
+Chronikers	1
+Chronikform
+Chronikformen	2
+Chronikschreiber
+Chronische	10chronisch
+Chronischen	1
+Chronist
+Chronisten	2
+Chronistenpflicht
+Chronistenpflichten	2
+Chronistik
+Chronistin
+Chronistinnen	3
+Chronizität
+Chronobiologie
+Chronodistichen	2on
+Chronodistichon
+Chronodistichons	1
+Chronofotografie
+Chronograf
+Chronografen	2
+Chronografie
+Chronografien	1
+Chronogramm
+Chronogramme	1
+Chronogrammen	2
+Chronogramms	1
+Chronograph
+Chronographen	2
+Chronographie
+Chronographien	1
+Chronologie
+Chronologien	1
+Chronometer
+Chronometern	1
+Chronometers	1
+Chronometrie
+Chronometrien	1
+Chronopathologie
+Chronopharmakologie
+Chronophotographie
+Chronophysiologie
+Chronos
+Chronoskop
+Chronoskope	1
+Chronoskopen	2
+Chronoskops	1
+Chronostichen	2on
+Chronostichon
+Chronostichons	1
+Chronosystem
+Chronosysteme	1
+Chronosystemen	2
+Chronosystems	1
+Chronotron
+Chronotyp
+Chronotypen	2
+Chronotyps	1
+Chrysalide
+Chrysaliden	1
+Chrysalis
+Chrysantheme
+Chrysanthemen	1
+Chrysanthemum
+Chrysler
+Chrysoberyll
+Chrysoberylle	1
+Chrysoberyllen	2
+Chrysoberylles	2
+Chrysoberylls	1
+Chrysochalk
+Chrysoderma
+Chrysografie
+Chrysographie
+Chrysoidin
+Chrysoidins	1
+Chrysokalk
+Chrysolith
+Chrysopras
+Chrysose
+Chrysosis
+Chrysotil
+Chrétien
+Chrétiens	1
+Chthonismus
+Chuck
+Chucks	1
+Chumsi
+Chung
+Chunk
+Chunking
+Chunkings	1
+Chunks	1
+Chur
+Churchill
+Churs	1
+Chutney
+Chutneys	1
+Chuzpe
+Chuzpen	1
+Chylurie
+Chymiker
+Chymikern	1
+Chymikers	1
+Chymosin
+Chymosins	1
+Châlons-Sur-Marne
+Château
+Châteaus	1
+Châtelperronien
+Chöre	3or
+Chören	4or
+Chörlein
+Chörleins	1
+Cia
+Ciabatta
+Ciabattas	1
+Ciabatte	1a
+Ciba
+Cicciolina
+Cicero
+Cicerone
+Cicerones	1
+Ciceroni	1e
+Ciceronianer
+Ciceronianern	1
+Ciceronianers	1
+Ciceronianismus
+Cidre
+Cidres	1
+Ciena
+Cieskowsky
+Cieskowskys	1
+Ciguatera
+Ciller
+Cillers	1
+Cimi
+Cinch-Stecker
+Cinch-Steckern	1
+Cinch-Steckers	1
+Cinchkabel
+Cinchkabeln	1
+Cinchkabels	1
+Cinchona
+Cinchonin
+Cinchonins	1
+Cinchstecker
+Cinchsteckern	1
+Cinchsteckers	1
+Cinchsteckverbinder
+Cinchsteckverbindern	1
+Cinchsteckverbinders	1
+Cinchsteckverbindung
+Cinchsteckverbindungen	2
+Cincinnati
+Cinctorium
+Cinctus
+Cindy
+Cineas
+Cineast
+Cineasten	2
+Cineastik
+Cinema
+Cinemagic
+Cinemagramm
+Cinemagramme	1
+Cinemagrammen	2
+Cinemagramms	1
+Cinemas	1
+Cinemascope
+Cinemascopen	1
+Cinemascopes	1
+Cinephile
+Cinephilem	1
+Cinephilen	1
+Cinephiler	1
+Cinerama
+Cinerarium
+Cingula	1um
+Cingulum
+Cingulums	1
+Cinquecento
+Cinquecentos	1
+Cinvatbrücke
+Ciné-Clubs
+Cipiona
+Cipollata
+Cipollin
+Cipollino
+Cipollinos	1
+Cipollinosäule
+Cipollinosäulen	1
+Cipollins	1
+Cirage
+Ciragen	1
+Ciragenmalerei
+Ciragenmalereien	2
+Circaangabe
+Circaangaben	1
+Circarama
+Circe
+Circellus
+Circen	1
+Circuittraining
+Circuittrainings	1
+Circumposition
+Circumpositionen	2
+Circus
+Circusartist
+Circusartisten	2
+Circusbau
+Circusbaues	2
+Circusbaus	1
+Circusbauten	3
+Circusbesuch
+Circusbesuche	1
+Circusbesuchen	2
+Circusbesucher
+Circusbesuchern	1
+Circusbesuchers	1
+Circusbesuches	2
+Circusbesuchs	1
+Circusblut
+Circusblutes	2
+Circusbluts	1
+Circusclown
+Circusclowns	1
+Circusdirektor
+Circusdirektoren	2
+Circusdirektorin
+Circusdirektorinnen	3
+Circusdirektors	1
+Circuseffekt
+Circuseffekte	1
+Circuseffekten	2
+Circuseffektes	2
+Circuseffekts	1
+Circusfamilie
+Circusfamilien	1
+Circuskunst
+Circuskuppel
+Circuskuppeln	1
+Circuskünstler
+Circuskünstlern	1
+Circuskünstlers	1
+Circusleben
+Circuslebens	1
+Circusluft
+Circusmanege
+Circusmanegen	1
+Circusmitarbeiter
+Circusmitarbeitern	1
+Circusmitarbeiters	1
+Circusnummer
+Circusnummern	1
+Circuspferd
+Circuspferde	1
+Circuspferden	2
+Circuspferdes	2
+Circuspferds	1
+Circuspublikum
+Circusreiter
+Circusreiterin
+Circusreiterinnen	3
+Circusreitern	1
+Circusreiters	1
+Circusse	2
+Circussen	3
+Circusses	3
+Circusspektakel
+Circusspektakeln	1
+Circusspektakels	1
+Circusunternehmen
+Circusunternehmens	1
+Circusvorführung
+Circusvorführungen	2
+Circusvorstellung
+Circusvorstellungen	2
+Circuswagen
+Circuswelt
+Circuswelten	2
+Circuszelt
+Circuszelte	1
+Circuszelten	2
+Circuszeltes	2
+Circuszelts	1
+Cis
+Cis-Dur
+Cis-Durs	1
+Cisco
+Cisgender
+Cisgendern	1
+Cisgenders	1
+Cisjordanien
+Cisjordaniens	1
+Cisplatin
+Cisplatins	1
+Cister
+Cistern	1
+Citibank
+Citluk
+Citoyen
+Citoyenne
+Citoyennes	1
+Citoyens	1
+Citral
+Citrale	1
+Citralen	2
+Citrals	1
+Citrat
+Citrate	1
+Citraten	2
+Citrates	2
+Citrats	1
+Citrin
+Citrine	1
+Citrinen	2
+Citrins	1
+Citronensäure
+Citroën
+Citrusfrucht
+Citrusfrüchte	5ucht
+Citrusfrüchten	6ucht
+Cits
+City
+City-Roller
+City-Rollern	1
+City-Rollers	1
+City-Tax
+Citybike
+Citybikes	1
+Citybildung
+Citybildungen	2
+Citybus
+Citybusse	2
+Citybussen	3
+Citybusses	3
+Cityflitzer
+Cityflitzern	1
+Cityflitzers	1
+Citylage
+Citylagen	1
+Citymaut
+Citymauten	2
+Cityroller
+Cityrollern	1
+Cityrollers	1
+Citys	1
+Citytax
+Cité
+Civil
+Clactonien
+Cladogramm
+Cladogramme	1
+Cladogrammen	2
+Cladogramms	1
+Cladosporia	1um
+Cladosporien	2um
+Cladosporium
+Cladosporiums	1
+Claes
+Clafoutis
+Claim
+Claims	1
+Clair-obscur
+Claire
+Clairet
+Clairets	1
+Clairette
+Clairobscurschnitt
+Clairobscurschnitte	1
+Clairobscurschnitten	2
+Clairobscurschnittes	2
+Clairobscurschnitts	1
+Clairvoyance
+Clan
+Clanchef
+Clanchefs	1
+Clane	1
+Clanen	2
+Clanführer
+Clanführern	1
+Clanführers	1
+Clankriminalität
+Clanmitglied
+Clanmitglieder	2
+Clanmitgliedern	3
+Clanmitgliedes	2
+Clanmitglieds	1
+Clans	1
+Clapping
+Clapton
+Claque
+Claquen	1
+Claqueur
+Claqueure	1
+Claqueuren	2
+Claqueurs	1
+Clara
+Claras	1
+Claret
+Clarets	1
+Clariant
+Clarintrompete
+Clarintrompeten	1
+Clark
+Clarke
+Clasen-Cazja
+Clasen-Czaja
+Clash
+Clashs	1
+Classe
+Classes
+Classis
+Clathrat
+Clathrate	1
+Clathraten	2
+Clathrats	1
+Claude
+Claudel
+Claudette
+Claudia
+Claudias	1
+Claudio
+Claus
+Clause
+Clauses	1
+Clausthalit
+Clausthalite	1
+Clausthaliten	2
+Clausthalits	1
+Clavecinisten
+Clavicembali	1o
+Clavicembalo
+Clavicembalos	1
+Clavichord
+Clavichorde	1
+Clavichorden	2
+Clavichordes	2
+Clavichords	1
+Clavicula
+Claviculae	1
+Clavulansäure
+Clay
+Claymore
+Claymores	1
+Clear-Air-Turbulenz
+Clear-Air-Turbulenzen	2
+Clearing
+Clearingabkommen
+Clearingabkommens	1
+Clearings	1
+Clearingstelle
+Clearingstellen	1
+Clearingverkehr
+Cleaver
+Cleavern	1
+Cleavers	1
+Cleef
+Clemens
+Clemenskirche
+Clemenskirchen	1
+Clement
+Clemente
+Clementine
+Clementinen	1
+Clements	1
+Clenbuterol
+Clenbuterole	1
+Clenbuterolen	2
+Clenbuterols	1
+Clerihew
+Clerk
+Clerks	1
+Clermont-Ferrand
+Cleveit
+Cleveite	1
+Cleveiten	2
+Cleveites	2
+Cleverle
+Cleverness
+Clevner
+Clevnern	1
+Clevners	1
+Clianthus
+Clickbait
+Clickbaiting
+Clickbaitings	1
+Clickbaits	1
+Clickjacking
+Clickjackings	1
+Clickworker
+Clickworkern	1
+Clickworkers	1
+Client
+Client-Anwendung
+Client-Anwendungen	2
+Client-Server-Anwendung
+Client-Server-Anwendungen	2
+Client-Server-Modell
+Client-Server-Modelle	1
+Client-Server-Modellen	2
+Client-Server-Modells	1
+Clientanwendung
+Clientanwendungen	2
+Clients	1
+Cliffhanger
+Cliffhangern	1
+Cliffhangers	1
+Cliffhänger
+Cliffhängern	1
+Cliffhängers	1
+Clifton
+Clinch
+Clinches	2
+Clinchs	1
+Clinique
+Clinton
+Clintons	1
+Clip
+Clipmaschine
+Clipmaschinen	1
+Clipper
+Clippern	1
+Clippers	1
+Clips	1
+Clique
+Cliquen	1
+Cliquenbildung
+Cliquenbildungen	2
+Cliquenwesen
+Cliquenwesens	1
+Cliquenwirtschaft
+Cliquenwirtschaften	2
+Clivia
+Clivien	2a
+Clobs
+Clochard
+Clochards	1
+Cloche
+Cloches	1
+Clog
+Clogs	1
+Cloisonné
+Clonen
+Clonende
+Clonenden	1
+Clonendere
+Clonenderen	1
+Clonendste
+Clonendsten	1
+Clonens	1
+Cloning
+Clonings	1
+Cloppenburg
+Cloqué
+Cloqués	1
+Close-up
+Close-ups	1
+Clostridium
+Clotrimazol
+Clotrimazols	1
+Clou
+Cloud
+Cloud-Computing
+Cloud-Computings	1
+Cloud-Speicher
+Cloud-Speichern	1
+Cloud-Speichers	1
+Cloudcomputing
+Cloudcomputings	1
+Clouds	1
+Cloudspeicher
+Cloudspeichern	1
+Cloudspeichers	1
+Clous	1
+Clown
+Clowndoktor
+Clowndoktoren	2
+Clowndoktors	1
+Clownerie
+Clownerien	1
+Clownfisch
+Clownfische	1
+Clownfischen	2
+Clownfisches	2
+Clownfischs	1
+Clownin
+Clowninnen	3
+Clownismus
+Clownkostüm
+Clownmaske
+Clownnummer
+Clowns	1
+Clownskostüm
+Clownsmaske
+Clownsnummer
+Clowntherapeut
+Clowntherapeuten	2
+Club
+Clubabend
+Clubabende	1
+Clubabenden	2
+Clubabends	1
+Clubanlage
+Clubanlagen	1
+Clubbesitzer
+Clubbesitzern	1
+Clubbesitzers	1
+Clubbetreiber
+Clubbetreibern	1
+Clubbetreibers	1
+Clubbing
+Clubbings	1
+Clubboss
+Clubbosse	1
+Clubbossen	2
+Clubbosses	2
+Clubchef
+Clubchefs	1
+Clubfauteuil
+Clubfauteuils	1
+Clubfußball
+Clubfußballs	1
+Clubführung
+Clubführungen	2
+Clubgarnitur
+Clubgarnituren	2
+Clubgaststätte
+Clubgaststätten	1
+Clubgespräch
+Clubgespräche	1
+Clubgesprächen	2
+Clubgespräches	2
+Clubgesprächs	1
+Clubhaus
+Clubhause	1
+Clubhauses	2
+Clubhistorie
+Clubhistorien	1
+Clubhäuser	5aus
+Clubhäusern	6aus
+Clubjacke
+Clubjacken	1
+Clubkamerad
+Clubkameraden	2
+Clublandschaft
+Clublandschaften	2
+Clubleben
+Clublebens	1
+Clubmannschaft
+Clubmannschaften	2
+Clubmitglied
+Clubmitgliede	1
+Clubmitglieder	2
+Clubmitgliedern	3
+Clubmitgliedes	2
+Clubmitglieds	1
+Clubobfrau
+Clubobfrauen	2
+Clubobleute	5mann
+Clubobleuten	1
+Clubobmann
+Clubobmannes	2
+Clubobmanns	1
+Clubobmänner	5ann
+Clubobmännern	6ann
+Clubpräsident
+Clubpräsidenten	2
+Clubraum
+Clubraums	1
+Clubräume	4aum
+Clubräumen	5aum
+Clubs	1
+Clubsessel
+Clubsesseln	1
+Clubsessels	1
+Clubszene
+Clubszenen	1
+Cluburlaub
+Cluburlaube	1
+Cluburlauben	2
+Cluburlauber
+Cluburlaubern	1
+Cluburlaubers	1
+Cluburlaubes	2
+Cluburlaubs	1
+Clubvorstand
+Clubwear
+Clubweste
+Clubwesten	1
+Cluedless
+Clueless
+Clumberspaniel
+Clupanodonsäure
+Clusone
+Cluster
+Clusteranalyse
+Clusteranalysen	1
+Clusterfuck
+Clusterfucks	1
+Clustering
+Clusterings	1
+Clustern	1
+Clusters	1
+Clutch
+Clutches	2
+Clutchs	1
+Cnc
+Cnn
+Cnpf
+Co-Autor
+Co-Autoren	2
+Co-Autorin
+Co-Autorinnen	3
+Co-Autors	1
+Co-Pilot
+Co-Piloten	2
+Co-Pilotin
+Co-Pilotinnen	3
+Co-Produzent
+Co-Produzenten	2
+Co-Produzentin
+Co-Produzentinnen	3
+Co-Regisseur
+Co-Regisseure	1
+Co-Regisseuren	2
+Co-Regisseurin
+Co-Regisseurinnen	3
+Co-Regisseurs	1
+Co-Trainer
+Co-Trainerin
+Co-Trainerinnen	3
+Co-Trainern	1
+Co-Trainers	1
+Co-Vorsitzende
+Co-Vorsitzendem	1
+Co-Vorsitzenden	1
+Co-Vorsitzender	1
+Co-Working
+Co-Workings	1
+Coach
+Coachin
+Coaching
+Coachings	1
+Coachingzone
+Coachingzonen	1
+Coachinnen	3
+Coachs	1
+Coal
+Coalition
+Coast
+Coat
+Coating
+Coatings	1
+Coats	1
+Coautor
+Coautoren	2
+Coautorin
+Coautorinnen	3
+Coautors	1
+Cob
+Cobalt
+Cobaltit
+Cobaltite	1
+Cobaltiten	2
+Cobaltites	2
+Cobaltits	1
+Cobalts	1
+Cobbler
+Cobblers	1
+Cobigolf
+Cobla
+Coblas	1
+Cobot
+Cobots	1
+Cobra
+Cobra-Gruppe
+Cobs	1
+Coburg
+Coburgs	1
+Coca
+Coca-Cola
+Coca-Colas	1
+Cocain
+Cocaine	1
+Cocainen	2
+Cocainhandel
+Cocainhandels	1
+Cocains	1
+Cocas	1
+Cocastrauch
+Cocastrauche	1
+Cocastrauches	2
+Cocastrauchs	1
+Cocasträucher	6auch
+Cocasträuchern	7auch
+Cochenille
+Cochenillen	1
+Cochenillerot
+Cochenillerots	1
+Cochonnerie
+Cochonnerien	1
+Cockerspaniel
+Cockerspaniels	1
+Cockney
+Cockneys	1
+Cockpit
+Cockpitbesatzung
+Cockpitbesatzungen	2
+Cockpitpersonal
+Cockpitpersonals	1
+Cockpits	1
+Cockpittür
+Cockpittüren	2
+Cockring
+Cockringe	1
+Cockringen	2
+Cockringes	2
+Cockrings	1
+Cocktail
+Cocktail-Lounge
+Cocktail-Lounges	1
+Cocktail-Party
+Cocktail-Partys	1
+Cocktailabend
+Cocktailabende	1
+Cocktailabenden	2
+Cocktailabends	1
+Cocktailbar
+Cocktailbars	1
+Cocktailempfang
+Cocktailempfanges	2
+Cocktailempfangs	1
+Cocktailempfänge	4ang
+Cocktailempfängen	5ang
+Cocktailglas
+Cocktailglase	1
+Cocktailglases	2
+Cocktailgläser	4as
+Cocktailgläsern	5as
+Cocktailhappen
+Cocktailhappens	1
+Cocktailkarte
+Cocktailkarten	1
+Cocktailkirsche
+Cocktailkirschen	1
+Cocktailkleid
+Cocktailkleider	2
+Cocktailkleidern	3
+Cocktailkleides	2
+Cocktaillounge
+Cocktaillounges	1
+Cocktailmantel
+Cocktailmantels	1
+Cocktailmäntel	5antel
+Cocktailmänteln	6antel
+Cocktailparty
+Cocktails	1
+Cocktailsauce
+Cocktailsaucen	1
+Cocktailschürze
+Cocktailschürzen	1
+Cocktailsessel
+Cocktailsesseln	1
+Cocktailsessels	1
+Cocktailshaker
+Cocktailshakern	1
+Cocktailshakers	1
+Cocktailsoße
+Cocktailsoßen	1
+Cocktailstand
+Cocktailstandes	2
+Cocktailstands	1
+Cocktailstunde
+Cocktailstunden	1
+Cocktailstände	4and
+Cocktailständen	5and
+Cocktailtomate
+Cocktailtomaten	1
+Cocom-Liste
+Cocom-Listen	1
+Cocooning
+Cocoonings	1
+Coda
+Codas	1
+Code
+Code-Name
+Code-Namen	1
+Code-Switching
+Code-Switchings	1
+Code-Überdeckung
+Code-Überdeckungen	2
+Codebasis
+Codegenerator
+Codegeneratoren	2
+Codegenerators	1
+Codein
+Codeins	1
+Codeintropfen
+Codename
+Codenamen	1
+Codenamens	2
+Coder
+Codereview
+Codereviews	1
+Coderin
+Coderinnen	3
+Codern	1
+Coders	1
+Codes
+Codesa
+Codeswitching
+Codeswitchings	1
+Codeverbesserung
+Codeverbesserungen	2
+Codewort
+Codeworte	1
+Codewortes	2
+Codeworts	1
+Codewörter	5ort
+Codewörtern	6ort
+Codex
+Codeüberdeckung
+Codeüberdeckungen	2
+Codices	4ex
+Codieren
+Codierende
+Codierenden	1
+Codierens	1
+Codierte	8codiert
+Codierten	1
+Codierung
+Codierungen	2
+Codon
+Codone	1
+Codonen	2
+Codons	1
+Coelestin
+Coelestins	1
+Coelom
+Coelome	1
+Coelomen	2
+Coeloms	1
+Coemeterialkirche
+Coemeterialkirchen	1
+Coemeterien	2um
+Coemeterium
+Coemeteriums	1
+Coenzym
+Coenzyme	1
+Coenzymen	2
+Coenzyms	1
+Coesfeld
+Coesfelds	1
+Coeur
+Coeuracht
+Coeurdame
+Coeurdamen	1
+Coffeeshop
+Coffein
+Coffeins	1
+Cofferati
+Cofferdam
+Cofferdams	1
+Coffeynagel
+Coffeynagels	1
+Coffeynägel	4agel
+Coffeynägeln	5agel
+Coffinit
+Coffinite	1
+Coffiniten	2
+Coffinits	1
+Cofidur
+Cognac
+Cognacbohne
+Cognacbohnen	1
+Cognacbuddel
+Cognacbuddeln	1
+Cognacflasche
+Cognacflaschen	1
+Cognacglas
+Cognacglases	2
+Cognacgläser	4as
+Cognacgläsern	5as
+Cognackirsche
+Cognackirschen	1
+Cognacmarke
+Cognacmarken	1
+Cognacs	1
+Cognacschwenker
+Cognacschwenkern	1
+Cognacschwenkers	1
+Cognomen
+Cognomens	1
+Cognomina	3en
+Cohn
+Cohns	1
+Coiffeur
+Coiffeure	1
+Coiffeuren	2
+Coiffeurin
+Coiffeurinnen	3
+Coiffeurs	1
+Coiffeuse
+Coiffeusen	1
+Coiffure
+Coiffuren	1
+Coil
+Coils	1
+Coimbra
+Coimbras	1
+Coitus
+Coitusse	2
+Coitussen	3
+Coke
+Cokes	1
+Cola
+Coladose
+Coladosen	1
+Colaflasche
+Colaflaschen	1
+Colas	1
+Colascione
+Colchicin
+Colchicins	1
+Colchicum
+Coldcream
+Coldcreams	1
+Coldrubber
+Coldrubbers	1
+Coleman
+Colemans	1
+Coleopter
+Coleoptern	1
+Coleopters	1
+Colette
+Colin
+Colla
+Collage
+Collagen
+Collagene	1
+Collagenen	2
+Collagens	1
+College
+Collegemappe
+Collegemappen	1
+Colleges	1
+Collie
+Collier
+Colliers	1
+Collies	1
+Collor
+Collors	1
+Colmar
+Colmars	1
+Colmenares
+Cologne
+Colombey
+Colombey-Les-Deux-Eglises
+Colombo
+Colombos	1
+Colon
+Colone	1
+Colonen	2
+Colones	2
+Colonia
+Coloniakübel
+Coloniakübeln	1
+Coloniakübels	1
+Colons	1
+Colorado
+Colorados	1
+Colorfilm
+Colorfilme	1
+Colorfilmen	2
+Colorfilmes	2
+Colorfilms	1
+Colt
+Coltan
+Coltane	1
+Coltanen	2
+Coltans	1
+Colts	1
+Columbarien	2um
+Columbarium
+Columbariums	1
+Columbia
+Columbit
+Columbite	1
+Columbiten	2
+Columbits	1
+Columbium
+Columbiums	1
+Columbus
+Colère
+Colón
+Colóns	1
+Com-Point
+Comalco
+Comanche
+Comanchen	1
+Combine-Painting
+Combine-Paintings	1
+Combo
+Combo-Box
+Combo-Boxen	2
+Combobox
+Comboboxen	2
+Combos	1
+Comcast
+Comdex
+Comdirekt
+Come-back
+Come-back-Album
+Come-back-Tour
+Come-back-Touren	2
+Come-back-Versuch
+Come-back-Versuche	1
+Come-back-Versuchen	2
+Come-back-Versuches	2
+Come-back-Versuchs	1
+Come-backs	1
+Come-down
+Comeback
+Comeback-Album
+Comeback-Tour
+Comeback-Touren	2
+Comeback-Versuch
+Comeback-Versuche	1
+Comeback-Versuchen	2
+Comeback-Versuches	2
+Comeback-Versuchs	1
+Comebackalbum
+Comebacks	1
+Comebacktour
+Comebacktouren	2
+Comebackversuch
+Comebackversuche	1
+Comebackversuchen	2
+Comebackversuches	2
+Comebackversuchs	1
+Comedian
+Comedians	1
+Comedienne
+Comediennes	1
+Comedy
+Comedy-Serie
+Comedy-Serien	1
+Comedy-Show
+Comedy-Shows	1
+Comedy-Star
+Comedy-Stars	1
+Comedys	1
+Comedyserie
+Comedyserien	1
+Comedyshow
+Comedyshows	1
+Comedystar
+Comedystars	1
+Comes
+Comestibles
+Comic
+Comicfigur
+Comicfiguren	2
+Comicheft
+Comichefte	1
+Comicheften	2
+Comicheftes	2
+Comichefts	1
+Comicliteratur
+Comics	1
+Comicstil
+Comicstile	1
+Comicstilen	2
+Comicstiles	2
+Comicstils	1
+Comicstrip
+Comicstrips	1
+Comiczeichner
+Comiczeichnerin
+Comiczeichnerinnen	3
+Comiczeichnern	1
+Comiczeichners	1
+Coming-of-Age-Film
+Coming-of-Age-Filme	1
+Coming-of-Age-Filmen	2
+Coming-of-Age-Filmes	2
+Coming-of-Age-Films	1
+Coming-of-Age-Geschichte
+Coming-of-Age-Geschichten	1
+Coming-of-Age-Roman
+Coming-of-Age-Romane	1
+Coming-of-Age-Romanen	2
+Coming-of-Age-Romans	1
+Coming-out
+Coming-outs	1
+Comingout
+Comingouts	1
+Commerce
+Commercial
+Commercials	1
+Commerzbank
+Commerzbanken	2
+Commission
+Commissioner
+Commissionern	1
+Commissioners	1
+Commit
+Commitment
+Commitmentents	4
+Commitments	1
+Commits	1
+Committee
+Commonsense
+Commonwealth
+Commonwealth-Forschungsinstitut
+Communications
+Communiqué
+Communiqués	1
+Community
+Community-Maske
+Community-Masken	1
+Communitys	1
+Comodoro
+Compact-Disc-Recorder
+Compact-Disc-Recordern	1
+Compact-Disc-Recorders	1
+Compactdisc
+Compagnie
+Company
+Compaq
+Compi
+Compilation
+Compilations	1
+Compiler
+Compilern	1
+Compilers	1
+Completorien	2um
+Completorium
+Completoriums	1
+Complexo
+Compliance
+Composer
+Composern	1
+Composers	1
+Compositae
+Compoundkern
+Compoundkerne	1
+Compoundkernen	2
+Compoundkernes	2
+Compoundkerns	1
+Compoundmaschine
+Compoundmaschinen	1
+Compoundtriebwerk
+Compoundtriebwerke	1
+Compoundtriebwerken	2
+Compoundtriebwerkes	2
+Compoundtriebwerks	1
+Compoundöl
+Compoundöle	1
+Compoundölen	2
+Compoundöles	2
+Compoundöls	1
+Comptoir
+Comptoirs	1
+Computer
+Computer-Bild
+Computer-Branche
+Computer-Experte
+Computer-Experten	1
+Computer-Freak
+Computer-Freaks	1
+Computer-Hersteller
+Computer-Industrie
+Computer-Kriminalität
+Computer-Messe
+Computer-Nerd
+Computer-Nerds	1
+Computer-Spezialist
+Computer-Spezialisten	2
+Computer-Spiel
+Computer-Spiele	1
+Computer-System
+Computer-Systeme	1
+Computer-Technik
+Computerabsturz
+Computerabsturzes	2
+Computerabstürze	4urz
+Computerabstürzen	5urz
+Computeralgebra
+Computeralgebrasystem
+Computeralgebrasysteme	1
+Computeralgebrasystemen	2
+Computeralgebrasystems	1
+Computeralgebren	2a
+Computeranimation
+Computeranimationen	2
+Computeranlage
+Computeranlagen	1
+Computerausdruck
+Computerausdrucke	1
+Computerausdrucken	2
+Computerausdrucks	1
+Computerausrüstung
+Computerausrüstungen	2
+Computerausstattung
+Computerausstattungen	2
+Computerbesitzer
+Computerbesitzern	1
+Computerbesitzers	1
+Computerbetrug
+Computerbetruges	2
+Computerbetrugs	1
+Computerbild
+Computerbilder	2
+Computerbildern	3
+Computerbildes	2
+Computerbilds	1
+Computerbildschirm
+Computerbildschirme	1
+Computerbildschirmen	2
+Computerbildschirmes	2
+Computerbildschirms	1
+Computerbranche
+Computerbranchen	1
+Computerchaos
+Computerchip
+Computerchips	1
+Computerdiagnostik
+Computerdiagnostiken	2
+Computerdruck
+Computerdrucke	1
+Computerdrucken	2
+Computerdrucker
+Computerdruckern	1
+Computerdruckers	1
+Computerdruckes	2
+Computerdrucks	1
+Computerei
+Computereien	2
+Computereinsatz
+Computereinsatzes	2
+Computereinsätze	4atz
+Computereinsätzen	5atz
+Computerexperte
+Computerexperten	1
+Computerfachfrau
+Computerfachfrauen	2
+Computerfachleute	5mann
+Computerfachleuten	6mann
+Computerfachmann
+Computerfachmanne	1
+Computerfachmannes	2
+Computerfachmanns	1
+Computerfachmänner	5ann
+Computerfachmännern	6ann
+Computerfan
+Computerfans	1
+Computerfenster
+Computerfenstern	1
+Computerfensters	1
+Computerfirma
+Computerfirmen	2a
+Computerfreak
+Computerfreaks	1
+Computerführerschein
+Computerführerscheine	1
+Computerführerscheinen	2
+Computerführerscheines	2
+Computerführerscheins	1
+Computergegner
+Computergegnern	1
+Computergegners	1
+Computergeneration
+Computergenerationen	2
+Computergenie
+Computergenies	1
+Computergrafik
+Computergrafiken	2
+Computergraphik
+Computergraphiken	2
+Computerhandel
+Computerhandels	1
+Computerhardware
+Computerhardwares	1
+Computerhersteller
+Computerherstellern	1
+Computerherstellers	1
+Computerindustrie
+Computerindustrien	1
+Computerisierung
+Computerisierungen	2
+Computerjournalismus
+Computerkabinett
+Computerkabinette	1
+Computerkabinetten	2
+Computerkabinettes	2
+Computerkabinetts	1
+Computerkenntnis
+Computerkenntnisse	2
+Computerkomponente
+Computerkomponenten	1
+Computerkonzern
+Computerkonzerns	1
+Computerkriminalistik
+Computerkriminalität
+Computerkunst
+Computerkurs
+Computerkurse	1
+Computerkursen	2
+Computerkurses	2
+Computerkäufer
+Computerkäuferin
+Computerkäuferinnen	3
+Computerkäufern	1
+Computerkäufers	1
+Computerkünste	5unst
+Computerkünsten	6unst
+Computerlinguist
+Computerlinguisten	2
+Computerlinguistik
+Computerlinguistin
+Computerlinguistinnen	3
+Computermagazin
+Computermagazine	1
+Computermagazinen	2
+Computermagazins	1
+Computermaus
+Computermesse
+Computermessen	1
+Computermodell
+Computermodelle	1
+Computermodellen	2
+Computermodells	1
+Computermonitor
+Computermonitore	1
+Computermonitoren	2
+Computermonitors	1
+Computermäuse	4aus
+Computermäusen	5aus
+Computern	1
+Computernerd
+Computernerds	1
+Computernetz
+Computernetze	1
+Computernetzen	2
+Computernetzes	2
+Computernetzwerk
+Computernetzwerke	1
+Computernetzwerken	2
+Computernetzwerkes	2
+Computernetzwerks	1
+Computernutzer
+Computernutzern	1
+Computernutzers	1
+Computerpanne
+Computerpannen	1
+Computerpionier
+Computerpioniere	1
+Computerpionieren	2
+Computerpioniers	1
+Computerproblem
+Computerprobleme	1
+Computerproduktion
+Computerproduktionen	2
+Computerprofi
+Computerprofis	1
+Computerprogramm
+Computerprogramme	1
+Computerprogrammen	2
+Computerprogrammes	2
+Computerprogramms	1
+Computerraum
+Computerraumes	2
+Computerriese
+Computerriesen	1
+Computerräume	4aum
+Computerräumen	5aum
+Computers	1
+Computersatz
+Computersatzes	2
+Computersimulation
+Computersimulationen	2
+Computersoftware
+Computersparte
+Computersparten	1
+Computerspezialist
+Computerspezialisten	2
+Computerspiel
+Computerspiele	1
+Computerspielen	2
+Computerspieles	2
+Computerspiels	1
+Computerspielsucht
+Computerspielsüchte	5ucht
+Computerspielsüchten	6ucht
+Computersprache
+Computersprachen	1
+Computersucht
+Computersuchten	2
+Computersystem
+Computersysteme	1
+Computersystemen	2
+Computersystems	1
+Computersüchte	5ucht
+Computersüchten	6ucht
+Computertastatur
+Computertastaturen	2
+Computertechnik
+Computertechniken	2
+Computertechnologie
+Computertechnologien	1
+Computertisch
+Computertische	1
+Computertischen	2
+Computertisches	2
+Computertischs	1
+Computertomograf
+Computertomografen	2
+Computertomografie
+Computertomografien	1
+Computertomograph
+Computertomographen	2
+Computertomographie
+Computertomographien	1
+Computeruhr
+Computeruhren	2
+Computerunterricht
+Computerunterrichtes	2
+Computerunterrichts	1
+Computerverkäufer
+Computerverkäuferin
+Computerverkäuferinnen	3
+Computerverkäufern	1
+Computerverkäufers	1
+Computerviren	2us
+Computervirus
+Computerwelt
+Computerwelten	2
+Computerwissenschaft
+Computerwissenschaften	2
+Computerwissenschafter
+Computerwissenschafterin
+Computerwissenschafterinnen	3
+Computerwissenschaftern	1
+Computerwissenschafters	1
+Computerwissenschaftler
+Computerwissenschaftlerin
+Computerwissenschaftlerinnen	3
+Computerwissenschaftlern	1
+Computerwissenschaftlers	1
+Computerwortschatz
+Computerwortschatzes	2
+Computerwurm
+Computerwurms	1
+Computerwürmer	5urm
+Computerwürmern	6urm
+Computerzeitalter
+Computerzeitaltern	1
+Computerzeitalters	1
+Computerzeitschrift
+Computerzeitschriften	2
+Computex
+Computist
+Computisten	2
+Comte
+Comtes	1
+Comtesse
+Comtessen	1
+Concealer
+Concealern	1
+Concealers	1
+Concentus
+Concept-Art
+Conceptart
+Concertante
+Concertanten	1
+Concertina
+Concertinas	1
+Concertino
+Concertinos	1
+Concerto
+Concetti
+Concetto
+Concettos	1
+Concha
+Conchae	1
+Conche
+Conchen	1
+Concierge
+Conciergen	1
+Concierges	1
+Concorde
+Concordes	1
+Concordia
+Conde
+Condes
+Conditioner
+Conditionern	1
+Conditioners	1
+Condor
+Condottiere
+Condottieres	1
+Condottieri	1e
+Conductus
+Condurango
+Condurangos	1
+Condylus
+Conestoga
+Conestogas	1
+Confessio
+Confessor
+Confiserie
+Confiserien	1
+Confiseur
+Confiseure	1
+Confiseuren	2
+Confiseurs	1
+Confiteor
+Conférence
+Conférences	1
+Conférencier
+Conférenciers	1
+Conga
+Congas	1
+Congress
+Coni	1us
+Conjunctivitae	2is
+Conjunctivitis
+Conjunktivitiden	3s
+Conjunktivitis
+Connaisseur
+Connaisseurs	1
+Connecticut
+Connection
+Connections	1
+Connectix
+Connor
+Conrad
+Conradi
+Conrads
+Consolatio
+Consommé
+Consommés	1
+Consors
+Constable
+Constant
+Constantin
+Constantinopel
+Constantins	1
+Constanze
+Constanzes	1
+Constat
+Constituante
+Consultant
+Consultants
+Consulter
+Consulterin
+Consulterinnen	3
+Consultern	1
+Consulters	1
+Consulting
+Consultingbranche
+Consultingbranchen	1
+Consultingfirma
+Consultingfirmen	2a
+Consultingleistung
+Consultingleistungen	2
+Consultings	1
+Consultingunternehmen
+Consultingunternehmens	1
+Contadora-Gruppe
+Container
+Containerbahnhof
+Containerbahnhofes	2
+Containerbahnhofs	1
+Containerbahnhöfe	3of
+Containerbahnhöfen	4of
+Containerboden
+Containerbodens	1
+Containerbrücke
+Containerbrücken	1
+Containerburg
+Containerburgen	2
+Containerböden	4oden
+Containerdienst
+Containerdienste	1
+Containerdiensten	2
+Containerdienstes	2
+Containerdiensts	1
+Containerdorf
+Containerdorfe	1
+Containerdorfes	2
+Containerdorfs	1
+Containerdörfer	5orf
+Containerdörfern	6orf
+Containerfahrzeug
+Containerfahrzeuge	1
+Containerfahrzeugen	2
+Containerfahrzeuges	2
+Containerfahrzeugs	1
+Containerflotte
+Containerflotten	1
+Containerfracht
+Containerfrachten	2
+Containerfrachter
+Containerfrachtern	1
+Containerfrachters	1
+Containergebäude
+Containergebäuden	1
+Containergebäudes	1
+Containerhafen
+Containerhafens	1
+Containerhäfen	4afen
+Containerisierung
+Containerisierungen	2
+Containern	1
+Containerpflanze
+Containerpflanzen	1
+Containers	1
+Containerschiff
+Containerschiffe	1
+Containerschiffen	2
+Containerschiffes	2
+Containerschiffs	1
+Containersiedlung
+Containersiedlungen	2
+Containerstadt
+Containerstandort
+Containerstandorte	1
+Containerstandorten	2
+Containerstandortes	2
+Containerstandorts	1
+Containerstapel
+Containerstapeln	1
+Containerstapels	1
+Containerstellplatz
+Containerstellplatzes	2
+Containerstellplätze	4atz
+Containerstellplätzen	5atz
+Containerstädte	4adt
+Containerstädten	5adt
+Containerterminal
+Containerterminals	1
+Containertransport
+Containertransporte	1
+Containertransporten	2
+Containertransportes	2
+Containertransports	1
+Containerumschlag
+Containerumschlages	2
+Containerumschlags	1
+Containerumschläge	3ag
+Containerumschlägen	4ag
+Containerunterkunft
+Containerunterkünfte	5unft
+Containerunterkünften	6unft
+Containerverkehr
+Containerverkehre	1
+Containerverkehren	2
+Containerverkehres	2
+Containerverkehrs	1
+Containerwohnung
+Containerwohnungen	2
+Containment
+Containments	1
+Contango
+Contenance
+Content
+Content-Mafia
+Content-Management-System
+Content-Management-Systeme	1
+Content-Management-Systemen	2
+Content-Management-Systems	1
+Contents	1
+Contergan
+Contergankind
+Contergankinder	2
+Contergankindern	3
+Contergankindes	2
+Contergankinds	1
+Contergans	1
+Contessina
+Contest
+Contests	1
+Conti
+Continent
+Continental
+Continuo
+Continuos	1
+Contitech
+Contouche
+Contouches	1
+Contra
+Contrabassist
+Contrabassisten	2
+Contrafagott
+Contrafagotte	1
+Contrafagotten	2
+Contrafagottes	2
+Contrafagotts	1
+Contrapunkt
+Contrapunkte	1
+Contrapunkten	2
+Contrapunktes	2
+Contrapunkts	1
+Contras	1
+Contrasto
+Contratenor
+Contratenors	1
+Contratenöre	3or
+Contratenören	4or
+Contrecoup
+Contretanz
+Control
+Controletti
+Controlettis	1
+Controller
+Controllerbereich
+Controllerbereiche	1
+Controllerbereichen	2
+Controllerbereiches	2
+Controllerbereichs	1
+Controllerin
+Controllerinnen	3
+Controllern	1
+Controllers	1
+Controlletti
+Controllettis	1
+Controlling
+Controllinginstrument
+Controllinginstrumente	1
+Controllinginstrumenten	2
+Controllinginstrumentes	2
+Controllinginstruments	1
+Controllings	1
+Controllingsystem
+Controllingsysteme	1
+Controllingsystemen	2
+Controllingsystems	1
+Conubien	2um
+Conubium
+Conubiums	1
+Conurbation
+Conus
+Convenience
+Convenience-Food
+Convenience-Foods
+Convenience-Goods
+Convenience-Produkt
+Convenience-Produkte	1
+Convenience-Produkten	2
+Convenience-Produktes	2
+Convenience-Produkts	1
+Convenienceprodukt
+Convenienceprodukte	1
+Convenienceprodukten	2
+Convenienceproduktes	2
+Convenienceprodukts	1
+Conveniences	1
+Convention
+Conventions	1
+Convertible
+Convertibles	1
+Conveyer
+Cook
+Cookie
+Cookies	1
+Cookinseln
+Coole	5cool
+Coolen	1
+Coolere
+Cooleren	1
+Coolheit
+Coolheiten	2
+Coolness
+Coolste
+Coolsten	1
+Cooper
+Cooperative
+Cooperativen	1
+Cooperativere
+Cooperativeren	1
+Cooperativste
+Cooperativsten	1
+Coopers	1
+Cop
+Copernicium
+Coperniciums	1
+Copilot
+Copiloten	2
+Copilotin
+Copilotinnen	3
+Coping
+Copings	1
+Copley
+Coposu
+Coppola
+Coproduzent
+Coproduzenten	2
+Coproduzentin
+Coproduzentinnen	3
+Coprozessor
+Coprozessoren	2
+Coprozessors	1
+Cops	1
+Copy-Shop
+Copy-Shops	1
+Copy-and-Paste
+Copy-and-Pastes	1
+Copy-and-paste
+Copy-and-pastes	1
+Copyleft
+Copylefts	1
+Copyright
+Copyrights	1
+Copyshop
+Copyshops	1
+Copytest
+Copytesting
+Copytests	1
+Coquille
+Cor
+Corazon
+Corbusier
+Cord
+Cordanzug
+Cordanzuge	1
+Cordanzuges	2
+Cordanzugs	1
+Cordanzüge	3ug
+Cordanzügen	4ug
+Cordelier
+Cordeliers	1
+Cordhose
+Cordhosen	1
+Cordjacke
+Cordjacken	1
+Cordoba
+Cordoba-Sevilla
+Cords	1
+Cordsamt
+Core
+Coregisseur
+Coregisseure	1
+Coregisseuren	2
+Coregisseurin
+Coregisseurinnen	3
+Coregisseurs	1
+Corel
+Cores	1
+Corinna
+Corioliskraft
+Corioliskräfte	4aft
+Corioliskräften	5aft
+Cork
+Corks	1
+Corneau
+Corneaus	1
+Cornedbeef
+Cornedpork
+Corneille
+Cornelia
+Cornelias	1
+Corneliu
+Cornelius
+Cornemuse
+Cornemuses	1
+Corner
+Cornerback
+Cornerbacks	1
+Cornerball
+Cornerballe	1
+Cornerballes	2
+Cornerballs	1
+Cornerbälle	4all
+Cornerbällen	5all
+Cornerfahne
+Cornerfahnen	1
+Cornerflanke
+Cornerflanken	1
+Cornern	1
+Corners	1
+Cornerverhältnis
+Cornerverhältnisse	2
+Cornerverhältnissen	3
+Cornerverhältnisses	3
+Cornet
+Cornets	1
+Cornetto
+Cornflake
+Cornflakes
+Cornichon
+Cornichons	1
+Cornwallit
+Cornwallite	1
+Cornwalliten	2
+Cornwallits	1
+Corolle
+Corollen	1
+Corona
+Corona-Abitur
+Corona-Abiture	1
+Corona-Abituren	2
+Corona-Abiturs	1
+Corona-App
+Corona-Apps	1
+Corona-Bond
+Corona-Bonds	1
+Corona-Demo
+Corona-Demos	1
+Corona-Ferien
+Corona-Impfstoff
+Corona-Impfstoffe	1
+Corona-Impfstoffen	2
+Corona-Impfstoffs	1
+Corona-Kabinett
+Corona-Kabinette	1
+Corona-Kabinetten	2
+Corona-Kabinetts	1
+Corona-Krise
+Corona-Pandemie
+Corona-Pandemien	1
+Corona-Party
+Corona-Partys	1
+Corona-Patient
+Corona-Patienten	2
+Corona-Radweg
+Corona-Radwege	1
+Corona-Radwegen	2
+Corona-Radweges	2
+Corona-Radwegs	1
+Corona-Sünder
+Corona-Sünderin
+Corona-Sünderinnen	3
+Corona-Sündern	1
+Corona-Sünders	1
+Corona-Test
+Corona-Teste	1
+Corona-Testen	2
+Corona-Testes	2
+Corona-Tests	1
+Corona-Tracing-App
+Corona-Tracing-Apps	1
+Corona-Warn-App
+Corona-Warn-Apps	1
+Corona-Warnapp
+Corona-Warnapps	1
+Coronaabitur
+Coronaabiture	1
+Coronaabituren	2
+Coronaabiturs	1
+Coronaapp
+Coronaapps	1
+Coronaausbruch
+Coronaausbruches	2
+Coronaausbruchs	1
+Coronaausbrüche	4uch
+Coronaausbrüchen	5uch
+Coronabond
+Coronabonds	1
+Coronademo
+Coronademos	1
+Coronadiktatur
+Coronadiktaturen	2
+Coronaferien
+Coronaimpfstoff
+Coronaimpfstoffe	1
+Coronaimpfstoffen	2
+Coronaimpfstoffes	2
+Coronaimpfstoffs	1
+Coronakabinett
+Coronakabinette	1
+Coronakabinetten	2
+Coronakabinetts	1
+Coronakrise
+Coronakrisen	1
+Coronaleugner
+Coronaleugnern	1
+Coronaleugners	1
+Coronapandemie
+Coronapandemien	1
+Coronaparty
+Coronapartys	1
+Coronaradweg
+Coronaradwege	1
+Coronaradwegen	2
+Coronaradweges	2
+Coronaradwegs	1
+Coronas	1
+Coronaskeptiker
+Coronaskeptikern	1
+Coronaskeptikers	1
+Coronasünder
+Coronasünderin
+Coronasünderinnen	3
+Coronasündern	1
+Coronasünders	1
+Coronatest
+Coronatests	1
+Coronaviren	2us
+Coronaviridae
+Coronavirus
+Coronavirus'	1
+Coronavirus-Infektion
+Coronavirus-Infektionen	2
+Coronavirus-Meldepflichtverordnung
+Coronavirus-Meldepflichtverordnungen	2
+Coronavirus-Pandemie
+Coronavirus-Pandemien	1
+Coronaviruserkrankung
+Coronaviruserkrankungen	2
+Coronavirusfamilie
+Coronavirusfamilien	1
+Coronavirusimpfstoff
+Coronavirusimpfstoffe	1
+Coronavirusimpfstoffen	2
+Coronavirusimpfstoffes	2
+Coronavirusimpfstoffs	1
+Coronavirusinfektion
+Coronavirusinfektionen	2
+Coronaviruspandemie
+Coronaviruspandemien	1
+Coronawelle
+Coronawellen	1
+Corpora	3us
+Corporal
+Corporales	2
+Corporals	1
+Corporate
+Corporäle	3al
+Corporälen	4al
+Corps
+CorpsKorps	5
+Corpsbruder
+Corpsbursche
+Corpsburschen	1
+Corpsgeist
+Corpsgeistes	2
+Corpsgeists	1
+Corpsstudent
+Corpsstudenten	2
+Corpus
+Corpusbeleg
+Corpusculum
+Corpuslinguistik
+Corpustreffer
+Corrado
+Corregidor
+Corrida
+Corridas	1
+Corriere
+Corrigenda	1um
+Corrigendum
+Corrigendums	1
+Corsier
+Corsofahrt
+Cortenstahl
+Cortenstahles	2
+Cortenstahls	1
+Cortes
+Cortex
+Cortexe	1
+Cortexen	2
+Cortexes	2
+Cortices	4ex
+Corticosteroid
+Corticosteroide	1
+Corticosteroiden	2
+Corticosteroides	2
+Corticosteroids	1
+Cortiorgan
+Cortiorgane	1
+Cortiorganen	2
+Cortiorganes	2
+Cortiorgans	1
+Cortisol
+Cortisols	1
+Cortisolspiegel
+Cortisolspiegeln	1
+Cortisolspiegels	1
+Cortison
+Cortisons	1
+Corts
+Cosinus
+Cosinusse	2
+Cosinussen	3
+Cosmaten
+Cosmatenarbeit
+Cosmatenarbeiten	2
+Cosplay
+Cosplayer
+Cosplayerin
+Cosplayerinnen	3
+Cosplayern	1
+Cosplayers	1
+Cosplays	1
+Costa
+Costa-Ricaner
+Costa-Ricanerin
+Costa-Ricanerinnen	3
+Costa-Ricanern	1
+Costa-Ricaners	1
+Costner
+Costners	1
+Cotrainer
+Cotrainerin
+Cotrainerinnen	3
+Cotrainern	1
+Cotrainers	1
+Cott
+Cotta
+Cottage
+Cottages	1
+Cottagesystem
+Cottagesystems	1
+Cottbus
+Cottbuser
+Cottbuserin
+Cottbuserinnen	3
+Cottbusern	1
+Cottbusers	1
+Cottonbelt
+Cottonmaschine
+Cottonmaschinen	1
+Cottonwood
+Cottonöl
+Cottonöles	2
+Cottonöls	1
+Couch
+Couch-Kartoffel
+Couch-Kartoffeln	1
+Couch-Surfer
+Couch-Surfern	1
+Couch-Surfers	1
+Couch-Surfing
+Couchen	2
+Couches	2
+Couchgarnitur
+Couchgarnituren	2
+Couchkartoffel
+Couchkartoffeln	1
+Couchpotato
+Couchs	1
+Couchsurfer
+Couchsurfern	1
+Couchsurfers	1
+Couchsurfing
+Couchsurfings	1
+Couchtisch
+Couchtische	1
+Couchtischen	2
+Couchtisches	2
+Couchtischs	1
+Cougar
+Cougars	1
+Couleur
+Couleurband
+Couleurbandes	2
+Couleurbands	1
+Couleurbänder	5and
+Couleurbändern	6and
+Couleuren	2
+Couleurs	1
+Couloir
+Couloirs	1
+Coulomb
+Coulombs	1
+Council
+Count
+Count-down
+Countdown
+Countdowns	1
+Counter
+Countern	1
+Counterpart
+Counterparts	1
+Counters	1
+Countertenor
+Countertenors	1
+Countertenöre	3or
+Countertenören	4or
+Countess
+Countessen	2
+Countesses	2
+Country
+Countryfreund
+Countryfreunde	1
+Countryfreunden	2
+Countryfreundes	2
+Countryfreunds	1
+Countrymusic
+Countrymusik
+Countrys	1
+Countryside
+Countrysong
+Countrysongs	1
+Countrysänger
+Countrysängerin
+Countrysängerinnen	3
+Countrysängern	1
+Countrysängers	1
+Counts	1
+County
+Countys
+Coup
+Coupage
+Coupe
+Coupeau
+Coupeaus	1
+Coupen	1
+Couperose
+Coupes	1
+Couplet
+Couplets	1
+Coupletsänger
+Coupletsängerin
+Coupletsängerinnen	3
+Coupletsängern	1
+Coupletsängers	1
+Coupon
+Couponabschneider
+Couponabschneidern	1
+Couponabschneiders	1
+Coupons	1
+Couponschneider
+Couponschneidern	1
+Couponschneiders	1
+Couponzahlung
+Couponzahlungen	2
+Coups	1
+Coupé
+Coupéfenster
+Coupéfenstern	1
+Coupéfensters	1
+Coupés	1
+Cour
+Courage
+Courante
+Couranten	1
+Courbet
+Courbets	1
+Courfähigkeit
+Courier
+Couriers	1
+Courmacher
+Courmachern	1
+Courmachers	1
+Couronnes
+Course
+Courses	1
+Court
+Courtage
+Courtagen	1
+Courtier
+Courtiers	1
+Courtoisie
+Courtoisien	1
+Courts	1
+Couscous
+Couscousière
+Couscousières	1
+Cousin
+Cousine
+Cousinen	1
+Cousinenwirtschaft
+Cousinenwirtschaften	2
+Cousins	1
+Couture
+Couturier
+Couturiers	1
+Couvert
+Couverts	1
+Couverture
+Couveuse
+Couéismus
+Coventrieren
+Coventrierens	1
+Coventrierung
+Coventrierungen	2
+Coventrisieren
+Coventrisierens	1
+Coventrisierung
+Coventrisierungen	2
+Cover
+Cover-Album
+Cover-Version
+Cover-Versionen	2
+Coveralbum
+Coverband
+Coverboy
+Coverboys	1
+Covercoat
+Covercoats	1
+Covergestaltung
+Covergestaltungen	2
+Covergirl
+Covergirls	1
+Covern	1
+Coverrock
+Coverrocks	1
+Covers	1
+Coversong
+Coversongs	1
+Coverstory
+Coverstorys	1
+Coverversion
+Coverversionen	2
+Coverversions	1
+Covid
+Covid-19
+Covidiot
+Covidioten	2
+Covorsitzende
+Covorsitzendem	1
+Covorsitzenden	1
+Covorsitzender	1
+Cowboy
+Cowboyfilm
+Cowboyfilme	1
+Cowboyfilmen	2
+Cowboyfilmes	2
+Cowboyfilms	1
+Cowboyhut
+Cowboyhutes	2
+Cowboyhuts	1
+Cowboyhüte	3ut
+Cowboyhüten	4ut
+Cowboys	1
+Cowboystiefel
+Cowboystiefeln	1
+Cowboystiefels	1
+Cowgirl
+Cowgirls	1
+Coworking
+Coworkings	1
+Cox
+Coyote
+Coyoten	1
+Coyotenfell
+Coyotenfelle	1
+Coyotenfellen	2
+Coyotenfelles	2
+Coyotenfells	1
+Cp
+Cpm
+Cra
+Crack
+Cracker
+Crackern	1
+Crackers	1
+Cracks	1
+Craft-Beer
+Craft-Beers	1
+Craft-Bier
+Craft-Biere	1
+Craft-Bieren	2
+Craft-Bieres	2
+Craft-Biers	1
+Craftbeer
+Craftbeers	1
+Craftbier
+Craftbiere	1
+Craftbieren	2
+Craftbieres	2
+Craftbiers	1
+Craig
+Crambambuli
+Crambambulis	1
+Cramer
+Cranberry
+Cranberrys	1
+Crania	1um
+Cranien	2um
+Craniota
+Cranium
+Craniums	1
+Cranko
+Craquelure
+Craqueluren	1
+Craquelé
+Crary
+Crash
+Crash-Kurs
+Crash-Kurse	1
+Crash-Kursen	2
+Crash-Kurses	2
+Crash-Prophet
+Crash-Propheten	2
+Crashes	2
+Crashkid
+Crashkurs
+Crashkurse	1
+Crashkursen	2
+Crashkurses	2
+Crashprophet
+Crashpropheten	2
+Crashs	1
+Crashtest
+Crashteste	1
+Crashtestes	2
+Crashtests	1
+Craving
+Cravings	1
+Crawford
+Crawler
+Crawlern	1
+Crawlers	1
+Crawlschwimmen
+Crawlschwimmens	1
+Crawlschwimmer
+Crawlschwimmern	1
+Crawlschwimmers	1
+Crawlstil
+Crawlstiles	2
+Crawlstils	1
+Crayon
+Crayons	1
+Crazy
+Creative
+Creaton
+Credit
+Credits	1
+Credo
+Credomanie
+Credos	1
+Cree
+Cree-Sprache
+Creek
+Creeks	1
+Crema
+Creme
+Cremefülle
+Cremefüllen	1
+Cremefüllung
+Cremefüllungen	2
+Cremegebäck
+Cremegebäcke	1
+Cremegebäcken	2
+Cremegebäckes	2
+Cremegebäcks	1
+Crememaske
+Crememasken	1
+Cremen	1
+Cremende
+Cremenden	1
+Cremens	1
+Cremerolle
+Cremerollen	1
+Cremes	1
+Cremeschnitte
+Cremeschnitten	1
+Cremeschokolade
+Cremeschokoladen	1
+Cremesuppe
+Cremesuppen	1
+Cremetorte
+Cremetorten	1
+Cremetörtchen
+Cremetörtchens	1
+Cremona
+Creole
+Creolen	1
+Crepeline
+Crepon
+Crepons	1
+Crescendi	1o
+Crescendo
+Crescendos	1
+Cretici	1us
+Creticus
+Cretonne
+Cretonnes	1
+Creutz
+Creutze	1
+Creutzen	2
+Creutzes	2
+Creutzfeldt-Jakob-Krankheit
+Creutzwald
+Creuz
+Creuze	1
+Creuzen	2
+Creuzes	2
+Crevette
+Crevetten	1
+Crew
+Crews	1
+Cribbage
+Crichton
+Cricket
+Cricketball
+Crickets	1
+Cricketspieler
+Cricketspielern	1
+Cricketspielers	1
+Crimpung
+Crimpungen	2
+Cringe
+Cringes	1
+Criollismo
+Crispinaden
+Cristin
+Cristobal
+Cristobalit
+Criticism
+Critique
+Croc
+Crocs	1
+Crofter
+Crofters	1
+Croissant
+Croissants	1
+Croisé
+Croisés	1
+Croker-Poole
+Cromagnontypus
+Cromargan
+Cromme
+Cronenberg
+Cronenbergs	1
+Crookesglas
+Crookesglases	2
+Crookesgläser	4as
+Crookesgläsern	5as
+Crop-Top
+Crop-Tops	1
+Croptop
+Croptops	1
+Croquis
+Croquiss	1
+Cross
+Cross-Country
+Cross-Countrys	1
+Cross-Dresser
+Cross-Dresserin
+Cross-Dresserinnen	3
+Cross-Dressern	1
+Cross-Dressers	1
+Cross-Dressing
+Cross-Dressings	1
+Cross-Maschine
+Cross-Maschinen	1
+Cross-Rad
+Cross-Trainer
+Cross-Trainern	1
+Cross-Trainers	1
+Cross-over
+Cross-overs	1
+Crosscountry
+Crosscountrys	1
+Crossdresser
+Crossdresserin
+Crossdresserinnen	3
+Crossdressern	1
+Crossdressers	1
+Crossdressing
+Crossdressings	1
+Crosses	2
+Crossing-over
+Crossingover
+Crossingsymmetrie
+Crosslauf
+Crosslaufes	2
+Crosslaufs	1
+Crossläufe	4auf
+Crossläufen	5auf
+Crossläufer
+Crossläufern	1
+Crossläufers	1
+Crossmaschine
+Crossmaschinen	1
+Crossover
+Crossovers	1
+Crossposting
+Crosspostings	1
+Crossrad
+Crossrate
+Crosstalk
+Crosstrainer
+Crosstrainern	1
+Crosstrainers	1
+Croupade
+Croupaden	1
+Croupier
+Croupiers	1
+Croupière
+Croupièren	1
+Croupon
+Croupons	1
+Croustillant
+Crowd-Investing
+Crowd-Investings	1
+Crowdfunding
+Crowdfundings	1
+Crowding
+Crowdings	1
+Crowdinvesting
+Crowdinvestings	1
+Crowdsourcing
+Crowdsourcings	1
+Crowdsurfing
+Crowdsurfings	1
+Crowdworker
+Crowdworkern	1
+Crowdworkers	1
+Crowdworking
+Crowdworkings	1
+Croûton
+Croûtons	1
+Crs
+Cru
+Cruise
+Cruise-Missile
+Cruise-Missiles	1
+Cruisemissile
+Cruisemissiles	1
+Cruiser
+Cruisergewicht
+Cruisergewichte	1
+Cruisergewichten	2
+Cruisergewichtes	2
+Cruisergewichts	1
+Cruisern	1
+Cruisers	1
+Cruising
+Cruisings	1
+Crumblage
+Crunchtime
+Crunchtimes	1
+Crus	1
+Crux
+Cruz
+Crwth
+Crystal
+Crystals	1
+Crème
+Crèmefülle
+Crèmefüllen	1
+Crèmefüllung
+Crèmefüllungen	2
+Crèmegebäck
+Crèmegebäcke	1
+Crèmegebäcken	2
+Crèmegebäckes	2
+Crèmegebäcks	1
+Crèmemaske
+Crèmemasken	1
+Crèmen	1
+Crèmerolle
+Crèmerollen	1
+Crèmes	1
+Crèmeschnitte
+Crèmeschnitten	1
+Crèmeschokolade
+Crèmeschokoladen	1
+Crèmesuppe
+Crèmesuppen	1
+Crèmetorte
+Crèmetorten	1
+Crèmetörtchen
+Crèmetörtchens	1
+Crédit
+Crémant
+Crémants	1
+Crêpe
+Crêpekleid
+Crêpekleider	2
+Crêpekleidern	3
+Crêpekleides	2
+Crêpekleids	1
+Crêpes	1
+Crêpeschuh
+Crêpeschuhe	1
+Crêpeschuhen	2
+Crêpeschuhes	2
+Crêpeschuhs	1
+Crêpesohle
+Crêpesohlen	1
+Cs
+Csampai
+Csardas
+Csepel
+Csf
+Csfr
+Csg
+Cssr
+Csu
+Csárdás
+Ctp
+Cubanit
+Cubanite	1
+Cubaniten	2
+Cubanits	1
+Cubiculum
+Cucurbita
+Cuellar
+Cuiteseide
+Cuitseide
+Culemann
+Culemeyer
+Culotte
+Culotten	1
+Cultourica
+Cum-Ex-Geschäft
+Cum-Ex-Geschäfte	1
+Cum-Ex-Geschäften	2
+Cum-Ex-Geschäftes	2
+Cum-Ex-Geschäfts	1
+Cumberlandsauce
+Cumberlandsaucen	1
+Cumberlandsoße
+Cumberlandsoßen	1
+Cumin
+Cumins	1
+Cumuli	1us
+Cumulonimbus
+Cumulonimbusse	2
+Cumulonimbussen	3
+Cumulus
+Cunctator
+Cunctatoren	2
+Cunctators	1
+Cunhal
+Cunhals	1
+Cunnilingi	1us
+Cunnilingus
+Cup
+Cupalit
+Cupalite	1
+Cupaliten	2
+Cupalits	1
+Cupbewerb
+Cupbewerbe	1
+Cupbewerben	2
+Cupbewerbes	2
+Cupbewerbs	1
+Cupcake
+Cupcakes	1
+Cuperfolg
+Cuperfolge	1
+Cuperfolgen	2
+Cuperfolges	2
+Cuperfolgs	1
+Cupfinale
+Cupfinales	1
+Cupfinals	1e
+Cuppartie
+Cuppartien	1
+Cuprein
+Cupreins	1
+Cups	1
+Cupsieg
+Cupsiege	1
+Cupsiegen	2
+Cupsieger
+Cupsiegerin
+Cupsiegerinnen	3
+Cupsiegern	1
+Cupsiegers	1
+Cupsieges	2
+Cupsiegs	1
+Cupwettbewerb
+Cupwettbewerbe	1
+Cupwettbewerben	2
+Cupwettbewerbs	1
+Curandero
+Curanderos	1
+Curarin
+Curarins	1
+Curaçao
+Curaçaos	1
+Curcuma
+Curcumen	2a
+Curie
+Curiepunkt
+Curiepunkte	1
+Curiepunkten	2
+Curiepunkts	1
+Curium
+Curiums	1
+Curling
+Curlings	1
+Curricula	1um
+Curriculare	11curricular
+Curricularen	1
+Curriculum
+Curriculumforschung
+Curriculums	1
+Curriculumtheorie
+Curriculumtheorien	1
+Curry
+Curry-Klemme
+Curry-Klemmen	1
+Curryklemme
+Curryklemmen	1
+Currypulver
+Currypulvern	1
+Currypulvers	1
+Currys	1
+Currysauce
+Currysaucen	1
+Currysoße
+Currysoßen	1
+Currywurst
+Currywürste	5urst
+Currywürsten	6urst
+Cursor
+Cursorn	1
+Cursors	1
+Cursortaste
+Cursortasten	1
+Curtainwall
+Curtis
+Curuba
+Curubas	1
+Curvat
+Curé
+Curés	1
+Cushioning
+Cushionings	1
+Custer
+Custodian
+Customer-Relationship-Management
+Customer-Relationship-Managements	1
+Customizing
+Customizings	1
+Cut
+Cutaway
+Cutaways	1
+Cutback
+Cutbacks	1
+Cuts	1
+Cutter
+Cutterin
+Cutterinnen	3
+Cuttermesser
+Cuttermessern	1
+Cuttermessers	1
+Cuttern	1
+Cutters	1
+Cutthroat
+Cuvée
+Cuvées	1
+Cwb
+Cwm
+Cy
+Cyan
+Cyanat
+Cyanate	1
+Cyanaten	2
+Cyanats	1
+Cyane	1
+Cyanen	2
+Cyanid
+Cyanide	1
+Cyaniden	2
+Cyanids	1
+Cyankali
+Cyankalis	1
+Cyanobakterie
+Cyanobakterien	2um
+Cyanobakterium
+Cyanobakteriums	1
+Cyanogen
+Cyanogens	1
+Cyans	1
+Cyber-Angriff
+Cyber-Angriffe	1
+Cyber-Angriffen	2
+Cyber-Angriffes	2
+Cyber-Angriffs	1
+Cyber-Attacke
+Cyber-Attacken	1
+Cyber-Kriminalität
+Cyber-Kriminalitäten	2
+Cyber-Kriminelle
+Cyber-Kriminellem	1
+Cyber-Kriminellen	1
+Cyber-Krimineller	1
+Cyber-Monday
+Cyber-Mondays	1
+Cyber-Polizei
+Cyber-Strategie
+Cyber-Strategien	1
+Cyberabwehr
+Cyberabwehrzentren	2um
+Cyberabwehrzentrum
+Cyberabwehrzentrums	1
+Cyberangriff
+Cyberangriffe	1
+Cyberangriffen	2
+Cyberangriffes	2
+Cyberangriffs	1
+Cyberattacke
+Cyberattacken	1
+Cyberbullying
+Cyberbullyings	1
+Cybercafé
+Cybercafés	1
+Cybergrooming
+Cybergroomings	1
+Cyberkrieg
+Cyberkriege	1
+Cyberkriegen	2
+Cyberkrieges	2
+Cyberkriegs	1
+Cyberkriminalität
+Cyberkriminelle
+Cyberkriminellem	1
+Cyberkriminellen	1
+Cyberkrimineller	1
+Cybermobbing
+Cybermobbings	1
+Cybermonday
+Cybermondays	1
+Cyberpolizei
+Cyberpunk
+Cyberpunks	1
+Cyberraum
+Cyberraumes	2
+Cyberraums	1
+Cyberräume	4aum
+Cyberräumen	5aum
+Cybersex
+Cybersexes	2
+Cybersicherheit
+Cybersicherheitsstrategie
+Cybersicherheitsstrategien	1
+Cyberslang
+Cyberslangs	1
+Cyberspace
+Cyberspaces	1
+Cyberstalking
+Cyberstalkings	1
+Cyberstraftäter
+Cyberstraftätern	1
+Cyberstraftäters	1
+Cyberstrategie
+Cyberstrategien	1
+Cyberterror
+Cyberterrors	1
+Cyberversicherung
+Cyberversicherungen	2
+Cyberwaffe
+Cyberwaffen	1
+Cyberwar
+Cyberwährung
+Cyberwährungen	2
+Cyborg
+Cyborgs	1
+Cyclamat
+Cyclo
+Cycloalkan
+Cycloalkane	1
+Cycloalkanen	2
+Cycloalkans	1
+Cyclobutan
+Cyclobutans	1
+Cyclodextrin
+Cyclodextrine	1
+Cyclodextrinen	2
+Cyclodextrins	1
+Cycloheptan
+Cycloheptans	1
+Cyclohexan
+Cyclohexanol
+Cyclohexanols	1
+Cyclohexans	1
+Cyclone
+Cyclonium
+Cycloniums	1
+Cyclopentan
+Cyclopentans	1
+Cyclopropan
+Cyclopropans	1
+Cyclosa
+Cyclostomata
+Cymbal
+Cymbale	1
+Cymbalen	2
+Cymbals	1
+Cyrankiewicz
+Cyrankiewiczs	1
+Cyrano
+Cyrenaika
+Cyrix
+Cystein
+Cysteine	1
+Cysteinen	2
+Cysteins	1
+Cystin
+Cystine	1
+Cystinen	2
+Cystins	1
+Cytochrom
+Cytochrome	1
+Cytochromen	2
+Cytochroms	1
+Cytodiagnostik
+Cytodiagnostiken	2
+Cytologie
+Cytoplasma
+Cytoplasmas	1
+Cytoplasmen	2a
+Cytosin
+Cytosins	1
+Cytoskelett
+Cytoskelette	1
+Cytoskeletten	2
+Cytoskelettes	2
+Cytoskeletts	1
+Cytostatika	1um
+Cytostatikum
+Cytostatikums	1
+Cytotoxin
+Cytotoxine	1
+Cytotoxinen	2
+Cytotoxins	1
+Czapski
+Czysz
+Cäcilianismus
+Cäcuber
+Cäcubern	1
+Cäcubers	1
+Cäsar
+Cäsaren	2
+Cäsarenbüste
+Cäsarenbüsten	1
+Cäsarenherrschaft
+Cäsarentum
+Cäsarentumes	2
+Cäsarentums	1
+Cäsarenwahn
+Cäsarenwahnes	2
+Cäsarenwahns	1
+Cäsarenwahnsinn
+Cäsarenwahnsinnes	2
+Cäsarenwahnsinns	1
+Cäsarismus
+Cäsaropapismus
+Cäsars	1
+Cäsium
+Cäsiums	1
+Cérémonie
+Cöln
+Cölom
+Cölome	1
+Cölomen	2
+Cöloms	1
+Cölomtheorie
+Cölomtheorien	1
+Cömeterium
+Cüpli
+Cüplis	1
+Cœurdame
+Cœurdamen	1
+c-Moll
+c-Moll-Tonleiter
+c-Moll-Tonleitern	1
+c-Molls	1
+ca.
+cable	5Cable
+cabletron	9Cabletron
+cachier	0en
+cachiere	0n
+cachieren
+cachierest	2n
+cachieret	1n
+cachierst	2en
+cachiert	1en
+cachierte	2en
+cachierten	3en
+cachiertest	4en
+cachiertet	3en
+calando
+calcinier	0en
+calciniere	0n
+calcinieren
+calcinierest	2n
+calcinieret	1n
+calcinierst	2en
+calciniert	1en
+calcinierte	2en
+calcinierten	3en
+calciniertest	4en
+calciniertet	3en
+callahan	8Callahan
+calmato
+calorisier	0en
+calorisiere	0n
+calorisieren
+calorisierest	2n
+calorisieret	1n
+calorisierst	2en
+calorisiert	1en
+calorisierte	2en
+calorisierten	3en
+calorisiertest	4en
+calorisiertet	3en
+calvinisch
+calvinistisch
+cambier	0en
+cambiere	0n
+cambieren
+cambierest	2n
+cambieret	1n
+cambierst	2en
+cambiert	1en
+cambierte	2en
+cambierten	3en
+cambiertest	4en
+cambiertet	3en
+camouflier	0en
+camoufliere	0n
+camouflieren
+camouflierend	1
+camouflierest	2n
+camouflieret	1n
+camouflierst	2en
+camoufliert	1en
+camouflierte	2en
+camouflierten	3en
+camoufliertest	4en
+camoufliertet	3en
+camp	0en
+campagnemäßig
+campagnenmäßig
+campe	0n
+campen
+campend	1
+campest	2n
+campet	1n
+campier	0en
+campiere	0n
+campieren
+campierend
+campierende	1
+campierendem	2
+campierenden	2
+campierender	2
+campierendere	3
+campierenderem	4
+campierenderen	4
+campierenderer	4
+campierenderes	4
+campierendes	2
+campierendste	3
+campierendstem	4
+campierendsten	4
+campierendster	4
+campierendstes	4
+campierest	2n
+campieret	1n
+campierst	2en
+campiert
+campierte	2en
+campiertem	2
+campierten	3en
+campierter	2
+campiertes	2
+campiertest	4en
+campiertet	3en
+campst	2en
+campt	1en
+campte	2en
+campten	3en
+camptest	4en
+camptet	3en
+cancele	1n
+canceln
+cancelnd	1
+cancelst	2n
+cancelt	1n
+cancelte	2n
+cancelten	3n
+canceltest	4n
+canceltet	3n
+cancle	2eln
+canclest	4eln
+canclet	3eln
+canon	5Canon
+canons	6Canons
+cantabile
+cantando
+capito
+capriccioso
+caramba
+carbonisiere	0n
+carbonisieren
+carbonisierend
+carbonisierende	1
+carbonisierendem	2
+carbonisierenden	2
+carbonisierender	2
+carbonisierendere	3
+carbonisierenderem	4
+carbonisierenderen	4
+carbonisierenderer	4
+carbonisierenderes	4
+carbonisierendes	2
+carbonisierendste	3
+carbonisierendstem	4
+carbonisierendsten	4
+carbonisierendster	4
+carbonisierendstes	4
+carbonisierest	2n
+carbonisieret	1n
+carbonisierst	2en
+carbonisiert
+carbonisierte	2en
+carbonisiertem	2
+carbonisierten	3en
+carbonisierter	2
+carbonisiertere	3
+carbonisierterem	4
+carbonisierteren	4
+carbonisierterer	4
+carbonisierteres	4
+carbonisiertes	2
+carbonisiertest	4en
+carbonisiertestem	5
+carbonisiertesten	5
+carbonisiertester	5
+carbonisiertestes	5
+carbonisiertet	3en
+carezzando
+carezzevole
+carnivor
+cartesisch
+carv	0en
+carve	0n
+carven
+carvend	1
+carvest	2n
+carvet	1n
+carvst	2en
+carvt	1en
+carvte	2en
+carvten	3en
+carvtest	4en
+carvtet	3en
+cash
+casio	5Casio
+caste	0n
+casten
+castend	1
+castest	2n
+castet	1n
+castete	2n
+casteten	3n
+castetest	4n
+castetet	3n
+casual
+catch	0en
+catche	0n
+catchen
+catchend	1
+catchest	2n
+catchet	1n
+catchst	2en
+catcht	1en
+catchte	2en
+catchten	3en
+catchtest	4en
+catchtet	3en
+cd/cdr/cdrw/dvd-laufwerke	25CD/CDR/CDRW/DVD-Laufwerk
+cdu	3CDU
+cdu-nah
+cdu-nahe	1
+cdu-wählend
+cdu-wählenden	2
+cebit	5CeBIT
+celeron	7Celeron
+cellistisch
+cellophanier	0en
+cellophaniere	0n
+cellophanieren
+cellophanierend	1
+cellophanierest	2n
+cellophanieret	1n
+cellophanierst	2en
+cellophaniert	1en
+cellophanierte	2en
+cellophanierten	3en
+cellophaniertest	4en
+cellophaniertet	3en
+cembalistisch
+ceo	3CEO
+cerise
+ces-Moll
+ch-Laut
+ch-Laute	1
+ch-Lauten	2
+ch-Lautes	2
+ch-Lauts	1
+chagrinier	0en
+chagriniere	0n
+chagrinieren
+chagrinierend	1
+chagrinierest	2n
+chagrinieret	1n
+chagrinierst	2en
+chagriniert	1en
+chagrinierte	2en
+chagrinierten	3en
+chagriniertest	4en
+chagriniertet	3en
+chaintech	9Chaintech
+chalkogen
+chalkophil
+chambrier	0en
+chambriere	0n
+chambrieren
+chambrierend	1
+chambrierest	2n
+chambrieret	1n
+chambrierst	2en
+chambriert	1en
+chambrierte	2en
+chambrierten	3en
+chambriertest	4en
+chambriertet	3en
+chamois
+chamoisfarben
+champagner
+champagnerfarben
+champagnerfarbig
+chamäleonartig
+chamäleonartigen	2
+chancengleich
+chancengleicher	2
+chancengleichsten	4
+chancenlos
+chancenloser	2
+chancenlosesten	5
+chancenorientiert
+chancenorientierter	2
+chancenorientiertesten	5
+chancenreich
+chancenreicher	2
+chancenreichsten	4
+changeant
+changier	0en
+changiere	0n
+changieren
+changierend	1
+changierenden	2
+changierest	2n
+changieret	1n
+changierst	2en
+changiert	1en
+changierte	2en
+changierten	3en
+changiertest	4en
+changiertet	3en
+chaotisch
+chaotische	1
+chaotischen	2
+chaotischer	2
+chaotisches	2
+chaperonier	0en
+chaperoniere	0n
+chaperonieren
+chaperonierend	1
+chaperonierest	2n
+chaperonieret	1n
+chaperonierst	2en
+chaperoniert	1en
+chaperonierte	2en
+chaperonierten	3en
+chaperoniertest	4en
+chaperoniertet	3en
+chaplinesk
+chaptalisier	0en
+chaptalisiere	0n
+chaptalisieren
+chaptalisierest	2n
+chaptalisieret	1n
+chaptalisierst	2en
+chaptalisiert	1en
+chaptalisierte	2en
+chaptalisierten	3en
+chaptalisiertest	4en
+chaptalisiertet	3en
+charakterbildend
+charakterfest
+charakterisier	0en
+charakterisierbar
+charakterisiere	0n
+charakterisieren
+charakterisierend
+charakterisierende	1
+charakterisierendem	2
+charakterisierenden	2
+charakterisierender	2
+charakterisierendes	2
+charakterisierest	2n
+charakterisieret	1n
+charakterisierst	2en
+charakterisiert	1en
+charakterisierte	2en
+charakterisiertem	2
+charakterisierten	3en
+charakterisierter	2
+charakterisiertes	2
+charakterisiertest	4en
+charakterisiertet	3en
+charakteristisch
+charakteristische	1
+charakteristischem	2
+charakteristischen	2
+charakteristischer	2
+charakteristischere	3
+charakteristischerem	4
+charakteristischeren	4
+charakteristischerer	4
+charakteristischeres	4
+charakteristischerweise
+charakteristisches	2
+charakteristischste	3
+charakteristischstem	4
+charakteristischsten	4
+charakteristischster	4
+charakteristischstes	4
+charakterlich
+charakterliche	1
+charakterlichem	2
+charakterlichen	2
+charakterlicher	2
+charakterliches	2
+charakterlos
+charakterologisch
+charakterschwach
+charakterstark
+charaktervoll
+chargier	0en
+chargiere	0n
+chargieren
+chargierend	1
+chargierest	2n
+chargieret	1n
+chargierst	2en
+chargiert	1en
+chargierte	2en
+chargierten	3en
+chargiertest	4en
+chargiertet	3en
+charismatisch
+charismatischen	2
+charismatischer	2
+charismatischsten	4
+charmant
+charmant-natürlich
+charmantem	2
+charmanten	2
+charmanter	2
+charmantere	3
+charmanterem	4
+charmanteren	4
+charmanterer	4
+charmanteres	4
+charmantes	2
+charmantestem	5
+charmantesten	5
+charmantester	5
+charmantestes	5
+charmier	0en
+charmiere	0n
+charmieren
+charmierest	2n
+charmieret	1n
+charmierst	2en
+charmiert	1en
+charmierte	2en
+charmierten	3en
+charmiertest	4en
+charmiertet	3en
+charming
+chartere	1n
+chartern
+charternd	1
+charterst	2n
+chartert	1n
+charterte	2n
+charterten	3n
+chartertest	4n
+chartertet	3n
+chartre	2ern
+charttechnisch
+chassidisch
+chatt	0en
+chatte	0n
+chatten
+chattend	1
+chattest	2n
+chattet	1n
+chattete	2n
+chatteten	3n
+chattetest	4n
+chattetet	3n
+chattt	1en
+chauffier	0en
+chauffiere	0n
+chauffieren
+chauffierend	1
+chauffierest	2n
+chauffieret	1n
+chauffierst	2en
+chauffiert	1en
+chauffierte	2en
+chauffierten	3en
+chauffiertest	4en
+chauffiertet	3en
+chaussier	0en
+chaussiere	0n
+chaussieren
+chaussierend	1
+chaussierest	2n
+chaussieret	1n
+chaussierst	2en
+chaussiert	1en
+chaussierte	2en
+chaussierten	3en
+chaussiertest	4en
+chaussiertet	3en
+chauvinistisch
+chauvinistische	1
+chauvinistischem	2
+chauvinistischen	2
+chauvinistischer	2
+chauvinistischere	3
+chauvinistischerem	4
+chauvinistischeren	4
+chauvinistischerer	4
+chauvinistischeres	4
+chauvinistisches	2
+chauvinistischste	3
+chauvinistischstem	4
+chauvinistischsten	4
+chauvinistischster	4
+chauvinistischstes	4
+cheate	0n
+cheaten
+cheatend	1
+cheatest	2n
+cheatet	1n
+cheatete	2n
+cheateten	3n
+cheatetest	4n
+cheatetet	3n
+check	0en
+checke	0n
+checken
+checkend
+checkende	1
+checkendem	2
+checkenden	2
+checkender	2
+checkendes	2
+checkest	2n
+checket	1n
+checkst	2en
+checkt	1en
+checkte	2en
+checkten	3en
+checktest	4en
+checktet	3en
+cheerio
+cheers
+cheironomisch
+chemisch
+chemisch-physikalisch
+chemisch-technisch
+chemisch-technologisch
+chemische	1
+chemischem	2
+chemischen	2
+chemischer	2
+chemisches	2
+chemisier	0en
+chemisiere	0n
+chemisieren
+chemisierest	2n
+chemisieret	1n
+chemisierst	2en
+chemisiert	1en
+chemisierte	2en
+chemisierten	3en
+chemisiertest	4en
+chemisiertet	3en
+chemotechnisch
+chemotherapeutisch
+cherubinisch
+chevaleresk
+chevillier	0en
+chevilliere	0n
+chevillieren
+chevillierend	1
+chevillierest	2n
+chevillieret	1n
+chevillierst	2en
+chevilliert	1en
+chevillierte	2en
+chevillierten	3en
+chevilliertest	4en
+chevilliertet	3en
+chiastisch
+chic
+chice	1
+chicem	2
+chicen	2
+chicer	2
+chicere	3
+chicerem	4
+chiceren	4
+chicerer	4
+chiceres	4
+chices	2
+chicste	3
+chicstem	4
+chicsten	4
+chicster	4
+chicstes	4
+chiffrier	0en
+chiffriere	0n
+chiffrieren
+chiffrierend	1
+chiffrierest	2n
+chiffrieret	1n
+chiffrierst	2en
+chiffriert	1en
+chiffrierte	2en
+chiffrierten	3en
+chiffriertest	4en
+chiffriertet	3en
+chilenisch
+chilenische	1
+chilenischen	2
+chiliastisch
+chill	0en
+chille	0n
+chillen
+chillend	1
+chillest	2n
+chillet	1n
+chillig
+chilliger	2
+chilligsten	4
+chillst	2en
+chillt	1en
+chillte	2en
+chillten	3en
+chilltest	4en
+chilltet	3en
+chimärisch
+chin-chin
+chinesisch
+chinesisch-österreichisch
+chinesisch-österreichische	1
+chinesische	1
+chinesischem	2
+chinesischen	2
+chinesischer	2
+chinesisches	2
+chinesischsprachig
+chiniert
+chininhaltig
+chintzen
+chionophil
+chipsatz-treiber	16Chipsatz-Treiber
+chiral
+chiromantisch
+chironomisch
+chirurgisch
+chirurgische	1
+chirurgischem	2
+chirurgischen	2
+chirurgischer	2
+chirurgisches	2
+chitinig
+chitinös
+chlor	0en
+chlore	0n
+chloren
+chlorend	1
+chlorest	2n
+chloret	1n
+chlorfrei
+chlorhaltig
+chlorier	0en
+chloriere	0n
+chlorieren
+chlorierest	2n
+chlorieret	1n
+chlorierst	2en
+chloriert	1en
+chlorierte	2en
+chlorierten	3en
+chloriertest	4en
+chloriertet	3en
+chlorig
+chloritisier	0en
+chloritisiere	0n
+chloritisieren
+chloritisierest	2n
+chloritisieret	1n
+chloritisierst	2en
+chloritisiert	1en
+chloritisierte	2en
+chloritisierten	3en
+chloritisiertest	4en
+chloritisiertet	3en
+chloroformgetränkt
+chloroformier	0en
+chloroformiere	0n
+chloroformieren
+chloroformierend	1
+chloroformierest	2n
+chloroformieret	1n
+chloroformierst	2en
+chloroformiert	1en
+chloroformierte	2en
+chloroformierten	3en
+chloroformiertest	4en
+chloroformiertet	3en
+chlorst	2en
+chlort	1en
+chlorte	2en
+chlorten	3en
+chlortest	4en
+chlortet	3en
+cholerisch
+cholesterinsenkend
+cholinerg
+cholinergisch
+cholostatisch
+choreiform
+choreografier	0en
+choreografiere	0n
+choreografieren
+choreografierend	1
+choreografierest	2n
+choreografieret	1n
+choreografierst	2en
+choreografiert	1en
+choreografierte	2en
+choreografierten	3en
+choreografiertest	4en
+choreografiertet	3en
+choreografisch
+choreographieren
+choreographisch
+choreutisch
+chorisch
+christdemokratisch
+christdemokratische	1
+christdemokratischen	2
+christdemokratischer	2
+christdemokratischsten	4
+christianisier	0en
+christianisiere	0n
+christianisieren
+christianisierend	1
+christianisierest	2n
+christianisieret	1n
+christianisierst	2en
+christianisiert	1en
+christianisierte	2en
+christianisierten	3en
+christianisiertest	4en
+christianisiertet	3en
+christkatholisch
+christlich
+christlich-demokratisch
+christlich-demokratischer	2
+christlich-fundamentalistisch
+christlich-jüdisch
+christlich-jüdischen	2
+christlich-sozial
+christlich-soziale	1
+christliche	1
+christlichem	2
+christlichen	2
+christlicher	2
+christlichere	3
+christlicherem	4
+christlicheren	4
+christlicherer	4
+christlicheres	4
+christliches	2
+christlichsozial
+christlichste	3
+christlichstem	4
+christlichsten	4
+christlichster	4
+christlichstes	4
+christologisch
+christozentrisch
+christsozial
+chromaffin
+chromatisch
+chromatisier	0en
+chromatisiere	0n
+chromatisieren
+chromatisierend	1
+chromatisierest	2n
+chromatisieret	1n
+chromatisierst	2en
+chromatisiert	1en
+chromatisierte	2en
+chromatisierten	3en
+chromatisiertest	4en
+chromatisiertet	3en
+chromatographieren
+chromatographisch
+chromatophil
+chrombeschlagen
+chromblitzend
+chromier	0en
+chromiere	0n
+chromieren
+chromierest	2n
+chromieret	1n
+chromierst	2en
+chromiert	1en
+chromierte	2en
+chromierten	3en
+chromiertest	4en
+chromiertet	3en
+chromogen
+chromosomal
+chromosphärisch
+chronifizier	0en
+chronifiziere	0n
+chronifizieren
+chronifizierend	1
+chronifizierest	2n
+chronifizieret	1n
+chronifizierst	2en
+chronifiziert	1en
+chronifizierte	2en
+chronifizierten	3en
+chronifiziertest	4en
+chronifiziertet	3en
+chronikalisch
+chronisch
+chronische	1
+chronischem	2
+chronischen	2
+chronischer	2
+chronisches	2
+chronistisch
+chronologisch
+chronometrisch
+chryselephantin
+chthonisch
+chylös
+ciao
+ciceronianisch
+ciceronisch
+ciena	5Ciena
+cineastisch
+circa
+circusreif
+cis
+cis-13-Docosensäure
+cis-9-Octadecensäure
+cis-Butendisäure
+cis-Ethylendicarbonsäure
+cis-Moll
+cis-Moll-Tonleiter
+cis-Moll-Tonleitern	1
+cis-Molls	1
+cisco	5Cisco
+cisgender
+cisgeschlechtlich
+citissime
+cito
+citynah
+clean
+clever
+cleveren	2
+cleverer	2
+cleversten	4
+clevrer	3er
+clinch	0en
+clinche	0n
+clinchen
+clinchend	1
+clinchest	2n
+clinchet	1n
+clinchst	2en
+clincht	1en
+clinchte	2en
+clinchten	3en
+clinchtest	4en
+clinchtet	3en
+clone	0n
+clonen
+clonend
+clonende	1
+clonendem	2
+clonenden	2
+clonender	2
+clonendere	3
+clonenderem	4
+clonenderen	4
+clonenderer	4
+clonenderes	4
+clonendes	2
+clonendste	3
+clonendstem	4
+clonendsten	4
+clonendster	4
+clonendstes	4
+clonest	2n
+clonet	1n
+clonst	2en
+clont	1en
+clonte	2en
+clonten	3en
+clontest	4en
+clontet	3en
+clownesk
+clusterartig
+clusterartigen	2
+cm
+cnn	3CNN
+coach	0en
+coache	0n
+coachen
+coachend	1
+coachest	2n
+coachet	1n
+coachst	2en
+coacht	1en
+coachte	2en
+coachten	3en
+coachtest	4en
+coachtet	3en
+code	0n
+coden
+codend	1
+codest	2n
+codet	1n
+codete	2n
+codeten	3n
+codetest	4n
+codetet	3n
+codier	0en
+codiere	0n
+codieren
+codierend
+codierende	1
+codierendem	2
+codierenden	2
+codierender	2
+codierendes	2
+codierest	2n
+codieret	1n
+codierst	2en
+codiert
+codierte	2en
+codiertem	2
+codierten	3en
+codierter	2
+codiertes	2
+codiertest	4en
+codiertet	3en
+coffeinfrei
+cognac
+cognacfarben
+coll'arco
+collagier	0en
+collagiere	0n
+collagieren
+collagierend	1
+collagierest	2n
+collagieret	1n
+collagierst	2en
+collagiert	1en
+collagierte	2en
+collagierten	3en
+collagiertest	4en
+collagiertet	3en
+collegialiter
+collé
+colorier	0en
+coloriere	0n
+colorieren
+colorierend	1
+colorierest	2n
+colorieret	1n
+colorierst	2en
+coloriert	1en
+colorierte	2en
+colorierten	3en
+coloriertest	4en
+coloriertet	3en
+comcast	7Comcast
+committ	0en
+committe	0n
+committen
+committest	2n
+committet	1n
+committete	2n
+committeten	3n
+committetest	4n
+committetet	3n
+committette	3n
+commodo
+comodo
+company
+computeranimiert
+computerbasiert
+computere	1n
+computergeneriert
+computergenerierter	2
+computergerecht
+computergesteuert
+computergesteuerte
+computergestützt
+computergestützte
+computergrafisch
+computergraphisch
+computerisier	0en
+computerisiere	0n
+computerisieren
+computerisierest	2n
+computerisieret	1n
+computerisierst	2en
+computerisiert
+computerisierte	2en
+computerisierten	2
+computerisiertest	4en
+computerisiertet	3en
+computerlesbar
+computerlinguistisch
+computern
+computernd	1
+computerst	2n
+computert	1n
+computerte	2n
+computerten	3n
+computertest	4n
+computertet	3n
+computerunterstützt
+computervermittelt
+computervernetzt
+computervernetzten	2
+computex	8Computex
+computre	2ern
+concessionier	0en
+concessioniere	0n
+concessionieren
+concessionierend	1
+concessionierest	2n
+concessionieret	1n
+concessionierst	2en
+concessioniert	1en
+concessionierte	2en
+concessionierten	3en
+concessioniertest	4en
+concessioniertet	3en
+concitato
+confer
+conferier	0en
+conferiere	0n
+conferieren
+conferierend	1
+conferierest	2n
+conferieret	1n
+conferierst	2en
+conferiert	1en
+conferierte	2en
+conferierten	3en
+conferiertest	4en
+conferiertet	3en
+connectix	9Connectix
+containere	1n
+containerisier	0en
+containerisiere	0n
+containerisieren
+containerisierest	2n
+containerisieret	1n
+containerisierst	2en
+containerisiert	1en
+containerisierte	2en
+containerisierten	3en
+containerisiertest	4en
+containerisiertet	3en
+containern
+containernd	1
+containerst	2n
+containert	1n
+containerte	2n
+containerten	3n
+containertest	4n
+containertet	3n
+containre	2ern
+cool
+coole	1
+coolem	2
+coolen	2
+cooler	2
+coolere	3
+coolerem	4
+cooleren	4
+coolerer	4
+cooleres	4
+cooles	2
+coolste	3
+coolstem	4
+coolsten	4
+coolster	4
+coolstes	4
+cooperativ
+cooperative	1
+cooperativem	2
+cooperativen	2
+cooperativer	2
+cooperativere	3
+cooperativerem	4
+cooperativeren	4
+cooperativerer	4
+cooperativeres	4
+cooperatives	2
+cooperativste	3
+cooperativstem	4
+cooperativsten	4
+cooperativster	4
+cooperativstes	4
+coproduzieren
+coproduziert	1en
+corel	5Corel
+corksch
+corkschen	2
+coronabedingt
+coronafrei
+coronagerecht
+coronakonform
+coronaviral
+costaricanisch
+costaricanische	1
+country
+countryesk
+couragiert
+courfähig
+course
+coventrier	0en
+coventriere	0n
+coventrieren
+coventrierend	1
+coventrierest	2n
+coventrieret	1n
+coventrierst	2en
+coventriert	1en
+coventrierte	2en
+coventrierten	3en
+coventriertest	4en
+coventriertet	3en
+coventrisier	0en
+coventrisiere	0n
+coventrisieren
+coventrisierend	1
+coventrisierest	2n
+coventrisieret	1n
+coventrisierst	2en
+coventrisiert	1en
+coventrisierte	2en
+coventrisierten	3en
+coventrisiertest	4en
+coventrisiertet	3en
+covere	1n
+coverest	3n
+coveret	2n
+covern
+covernd	1
+coverst	2n
+covert	1n
+coverte	2n
+coverten	3n
+covertest	4n
+covertet	3n
+covre	2ern
+craig	5Craig
+crash	0en
+crashe	0n
+crashen
+crashend	1
+crashest	2n
+crashet	1n
+crashst	2en
+crasht	1en
+crashte	2en
+crashten	3en
+crashtest	4en
+crashtet	3en
+crazy
+creative	8Creative
+crem	0en
+creme	0n
+cremeartig
+cremefarben
+cremefarbig
+cremen
+cremend
+cremende	1
+cremendem	2
+cremenden	2
+cremender	2
+cremendes	2
+cremest	2n
+cremet	1n
+cremeweiß
+cremig
+cremiger	2
+cremigsten	4
+cremst	2en
+cremt	1en
+cremte	2en
+cremten	3en
+cremtest	4en
+cremtet	3en
+crescendo
+cring	0en
+cringen
+cringend	1
+cringest	2n
+cringet	1n
+cringst	2en
+cringt	1en
+cringte	2en
+cringten	3en
+cringtest	4en
+cringtet	3en
+cross
+crossmedial
+crouponier	0en
+crouponiere	0n
+crouponieren
+crouponierend	1
+crouponierest	2n
+crouponieret	1n
+crouponierst	2en
+crouponiert	1en
+crouponierte	2en
+crouponierten	3en
+crouponiertest	4en
+crouponiertet	3en
+cruis	0en
+cruise	0n
+cruisen
+cruisend	1
+cruisest	2n
+cruiset	1n
+cruist	1en
+cruiste	2en
+cruisten	3en
+cruistest	4en
+cruistet	3en
+crèm	0en
+crème	0n
+crèmeartig
+crèmefarben
+crèmefarbig
+crèmen
+crèmend	1
+crèmest	2n
+crèmet	1n
+crèmeweiß
+crèmst	2en
+crèmt	1en
+crèmte	2en
+crèmten	3en
+crèmtest	4en
+crèmtet	3en
+csu-nah
+csu-nahen	2
+curl	0en
+curle	0n
+curlen
+curlend	1
+curlest	2n
+curlet	1n
+curlst	2en
+curlt	1en
+curlte	2en
+curlten	3en
+curltest	4en
+curltet	3en
+currentis
+curricular
+curriculare	1
+curricularem	2
+curricularen	2
+curricularer	2
+curriculares	2
+customiz	0en
+customize	0n
+customizen
+customizend	1
+customizest	2n
+customizet	1n
+customizt	1en
+customizte	2en
+customizten	3en
+customiztest	4en
+customiztet	3en
+cuttere	1n
+cuttern
+cutternd	1
+cutterst	2n
+cuttert	1n
+cutterte	2n
+cutterten	3n
+cuttertest	4n
+cuttertet	3n
+cuttre	2ern
+cw-Wert
+cw-Werte	1
+cw-Werten	2
+cw-Wertes	2
+cw-Werts	1
+cyberkriminell
+cyberphysikalisch
+cyrix	5Cyrix
+cäsarisch

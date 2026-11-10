@@ -1,0 +1,10 @@
+Nguồn dữ liệu trong thư mục data/
+
+data/lex/*.txt — bảng dạng chia → từ gốc tiếng Đức (khoảng 1,1 triệu dạng, 334 nghìn từ gốc),
+trích từ simplemma 2.0.0 của Adrien Barbaresi (https://github.com/adbar/simplemma), giấy phép MIT.
+Định dạng mỗi dòng: "dạng" (nếu chính nó là từ gốc) hoặc "dạng<TAB><số ký tự bỏ ở cuối><phần thêm vào>".
+Ví dụ "skaliert<TAB>2en" = bỏ 2 ký tự cuối của skaliert, thêm "en" → skalieren.
+
+data/freq.txt — tần suất từ (gộp theo từ gốc), dựa trên FrequencyWords của Hermit Dave
+(https://github.com/hermitdave/FrequencyWords, dữ liệu OpenSubtitles 2018), giấy phép CC BY-SA 4.0.
+Chỉ dùng để chọn cách tách từ ghép hợp lý nhất.

@@ -1,0 +1,6661 @@
+J-Phone
+JDS
+JPEG
+JPEGs	1
+JScript
+JScripts	1
+JVA
+JVA-Beamte
+JVA-Beamtem	1
+JVA-Beamten	1
+JVA-Beamter	1
+JVA-Beamtin
+JVA-Beamtinnen	3
+JVA-Bedienstete
+JVA-Bedienstetem	1
+JVA-Bediensteten	1
+JVA-Bediensteter	1
+JVA-Chef
+JVA-Chefs	1
+JVA-Insasse
+JVA-Insassen	1
+JVA-Leiter
+JVA-Leiterin
+JVA-Leiterinnen	3
+JVA-Leitern	1
+JVA-Leiters	1
+JVA-Leitung
+JVA-Leitungen	2
+JVA-Mitarbeiter
+JVA-Mitarbeitern	1
+JVA-Mitarbeiters	1
+JVAen	2
+JVAs	1
+JWST
+Ja
+Ja-Nein-Frage
+Ja-Nein-Fragen	1
+Ja-Sager
+Ja-Sagern	1
+Ja-Sagers	1
+Ja-Stimme
+Ja-Stimmen	1
+Ja-Wort
+Ja-Worte	1
+Ja-Worten	2
+Ja-Wortes	2
+Ja-Worts	1
+Jaakow
+Jab
+Jabalia
+Jaballah
+Jaballahs	1
+Jabloko
+Jabloko-Block
+Jabloko-Blocks	1
+Jabo
+Jaborandiblatt
+Jaborandiblatte	1
+Jaborandiblattes	2
+Jaborandiblatts	1
+Jaborandiblätter	5att
+Jaborandiblättern	6att
+Jabos	1
+Jabot
+Jabots	1
+Jabs	1
+Jacarandas
+Jacek
+Jacht
+Jachtbesitzer
+Jachtbesitzern	1
+Jachtbesitzers	1
+Jachtclub
+Jachtclubs	1
+Jachten	2
+Jachthafen
+Jachthafens	1
+Jachthäfen	4afen
+Jachtklub
+Jachtklubs	1
+Jacinto
+Jack
+Jacke
+Jacken	1
+Jackenaufschlag
+Jackenaufschlages	2
+Jackenaufschlags	1
+Jackenaufschläge	3ag
+Jackenaufschlägen	4ag
+Jackenhemd
+Jackenhemden	2
+Jackenhemdes	2
+Jackenhemds	1
+Jackenkleid
+Jackenkleider	2
+Jackenkleidern	3
+Jackenkleides	2
+Jackenkleids	1
+Jackenknopf
+Jackenknopfe	1
+Jackenknopfes	2
+Jackenknopfs	1
+Jackenknöpfe	4opf
+Jackenknöpfen	5opf
+Jackenkragen
+Jackenkragens	1
+Jackentasche
+Jackentaschen	1
+Jackenärmel
+Jackenärmeln	1
+Jackenärmels	1
+Jacketkrone
+Jacketkronen	1
+Jackett
+Jackettanzug
+Jackettanzuges	2
+Jackettanzugs	1
+Jackettanzüge	3ug
+Jackettanzügen	4ug
+Jackettasche
+Jackettaschen	1
+Jackette	1
+Jacketts	1
+Jacketttasche
+Jacketttaschen	1
+Jackfrucht
+Jackfrüchte	5ucht
+Jackfrüchten	6ucht
+Jacko
+Jackpot
+Jackpots	1
+Jacks	1
+Jackson
+Jacksons
+Jackstag
+Jackstage	1
+Jackstagen	2
+Jackstages	2
+Jackstags	1
+Jacmel
+Jacob
+Jacobowsky
+Jacoby
+Jaconet
+Jaconets	1
+Jaconnet
+Jaconnets	1
+Jacquard
+Jacquardgewebe
+Jacquardgeweben	1
+Jacquardgewebes	1
+Jacquardmaschine
+Jacquardmaschinen	1
+Jacquardpullover
+Jacquardpullovern	1
+Jacquardpullovers	1
+Jacquards	1
+Jacqueline
+Jacquerie
+Jacques
+Jacques'	1
+Jacuzzi
+Jacuzzis	1
+Jade
+Jadebaum
+Jadebaume	1
+Jadebaumes	2
+Jadebaums	1
+Jadebusen
+Jadebusens	1
+Jadebäume	4aum
+Jadebäumen	5aum
+Jadeit
+Jadeite	1
+Jadeiten	2
+Jadeits	1
+Jaden	1
+Jades	1
+Jaffaapfelsine
+Jaffaapfelsinen	1
+Jaffna
+Jaffna-Halbinsel
+Jaffnas	1
+Jagal
+Jagd
+Jagdabenteuer
+Jagdabenteuern	1
+Jagdabenteuers	1
+Jagdanekdote
+Jagdanekdoten	1
+Jagdanzug
+Jagdanzuges	2
+Jagdanzugs	1
+Jagdanzüge	3ug
+Jagdanzügen	4ug
+Jagdaufseher
+Jagdaufseherin
+Jagdaufseherinnen	3
+Jagdaufsehern	1
+Jagdaufsehers	1
+Jagdausdruck
+Jagdausdruckes	2
+Jagdausdrucks	1
+Jagdausdrücke	4uck
+Jagdausdrücken	5uck
+Jagdausflug
+Jagdausfluge	1
+Jagdausfluges	2
+Jagdausflugs	1
+Jagdausflüge	3ug
+Jagdausflügen	4ug
+Jagdausrüstung
+Jagdausrüstungen	2
+Jagdbann
+Jagdbannes	2
+Jagdbanns	1
+Jagdbarkeit
+Jagdbarkeiten	2
+Jagdbegebenheit
+Jagdbegebenheiten	2
+Jagdberater
+Jagdberatern	1
+Jagdberaters	1
+Jagdberechtigte	15jagdberechtigt
+Jagdberechtigten	1
+Jagdberechtigung
+Jagdberechtigungen	2
+Jagdbeute
+Jagdbezirk
+Jagdbezirke	1
+Jagdbezirken	2
+Jagdbezirkes	2
+Jagdbezirks	1
+Jagdbogen
+Jagdbogens	1
+Jagdbomber
+Jagdbombern	1
+Jagdbomberpulk
+Jagdbomberpulke	1
+Jagdbomberpulken	2
+Jagdbomberpulks	1
+Jagdbombers	1
+Jagdbude
+Jagdbuden	1
+Jagdbögen	4ogen
+Jagdchaise
+Jagdchaisen	1
+Jagdeifer
+Jagdeifers	1
+Jagden	2
+Jagderfolg
+Jagderfolge	1
+Jagderfolgen	2
+Jagderfolges	2
+Jagderfolgs	1
+Jagderlaubnis
+Jagderlaubnisse	2
+Jagderlaubnissen	3
+Jagderlebnis
+Jagderlebnisse	2
+Jagderlebnissen	3
+Jagderlebnisses	3
+Jagdfalke
+Jagdfalken	1
+Jagdfasan
+Jagdfasane	1
+Jagdfasanen	2
+Jagdfasanes	2
+Jagdfasans	1
+Jagdfieber
+Jagdfiebers	1
+Jagdflieger
+Jagdfliegergeschwader
+Jagdfliegergeschwadern	1
+Jagdfliegergeschwaders	1
+Jagdfliegerin
+Jagdfliegerinnen	3
+Jagdfliegern	1
+Jagdfliegers	1
+Jagdflinte
+Jagdflinten	1
+Jagdflugzeug
+Jagdflugzeuge	1
+Jagdflugzeugen	2
+Jagdflugzeuges	2
+Jagdflugzeugs	1
+Jagdfreiheit
+Jagdfreiheiten	2
+Jagdfrevel
+Jagdfreveln	1
+Jagdfrevels	1
+Jagdfrevler
+Jagdfrevlerin
+Jagdfrevlerinnen	3
+Jagdfrevlern	1
+Jagdfrevlers	1
+Jagdfrühstück
+Jagdfrühstücke	1
+Jagdfrühstücken	2
+Jagdfrühstückes	2
+Jagdfrühstücks	1
+Jagdgast
+Jagdgaste	1
+Jagdgastes	2
+Jagdgasts	1
+Jagdgebiet
+Jagdgebiete	1
+Jagdgebieten	2
+Jagdgebietes	2
+Jagdgebiets	1
+Jagdgefolge
+Jagdgefolgen	1
+Jagdgefolges	1
+Jagdgegner
+Jagdgegnern	1
+Jagdgegners	1
+Jagdgehege
+Jagdgehegen	1
+Jagdgeheges	1
+Jagdgehilfe
+Jagdgehilfen	1
+Jagdgehilfin
+Jagdgehilfinnen	3
+Jagdgeleit
+Jagdgeleite	1
+Jagdgeleiten	2
+Jagdgeleites	2
+Jagdgeleits	1
+Jagdgenossenschaft
+Jagdgenossenschaften	2
+Jagdgerechtigkeit
+Jagdgerechtsame
+Jagdgerechtsamen	1
+Jagdgeschichte
+Jagdgeschichten	1
+Jagdgeschwader
+Jagdgeschwadern	1
+Jagdgeschwaders	1
+Jagdgesellschaft
+Jagdgesellschaften	2
+Jagdgesetz
+Jagdgesetze	1
+Jagdgesetzen	2
+Jagdgesetzes	2
+Jagdgewehr
+Jagdgewehre	1
+Jagdgewehren	2
+Jagdgewehres	2
+Jagdgewehrs	1
+Jagdgewohnheit
+Jagdgewohnheiten	2
+Jagdglück
+Jagdglücks	1
+Jagdgrenze
+Jagdgrenzen	1
+Jagdgrund
+Jagdgrunde	1
+Jagdgrundes	2
+Jagdgrunds	1
+Jagdgründe	4und
+Jagdgründen	5und
+Jagdgäste	4ast
+Jagdgästen	5ast
+Jagdhabit
+Jagdhaus
+Jagdhause	1
+Jagdhauses	2
+Jagdherr
+Jagdherren	2
+Jagdherrin
+Jagdherrinnen	3
+Jagdherrn	1
+Jagdhoheit
+Jagdhorn
+Jagdhorne	1
+Jagdhornes	2
+Jagdhorns	1
+Jagdhund
+Jagdhunde	1
+Jagdhunden	2
+Jagdhundes	2
+Jagdhunds	1
+Jagdhäuser	5aus
+Jagdhäusern	6aus
+Jagdhörner	5orn
+Jagdhörnern	6orn
+Jagdhütte
+Jagdhütten	1
+Jagdkalesche
+Jagdkaleschen	1
+Jagdkanzel
+Jagdkanzeln	1
+Jagdkapelle
+Jagdkapellen	1
+Jagdkarte
+Jagdkarten	1
+Jagdkleid
+Jagdkleider	2
+Jagdkleidern	3
+Jagdkleides	2
+Jagdkleids	1
+Jagdkleidung
+Jagdkleidungen	2
+Jagdkollektiv
+Jagdkunde
+Jagdleidenschaft
+Jagdleidenschaften	2
+Jagdleopard
+Jagdleoparden	2
+Jagdlied
+Jagdliede	1
+Jagdlieder	2
+Jagdliedern	3
+Jagdliedes	2
+Jagdlieds	1
+Jagdlust
+Jagdmesser
+Jagdmessern	1
+Jagdmessers	1
+Jagdmotiv
+Jagdmotive	1
+Jagdmotiven	2
+Jagdmotivs	1
+Jagdmusik
+Jagdmusiken	2
+Jagdmythologie
+Jagdmythologien	1
+Jagdnetz
+Jagdnetze	1
+Jagdnetzen	2
+Jagdnetzes	2
+Jagdordnung
+Jagdordnungen	2
+Jagdpanzer
+Jagdpanzern	1
+Jagdpanzers	1
+Jagdpartie
+Jagdpartien	1
+Jagdpatent
+Jagdpatente	1
+Jagdpatenten	2
+Jagdpatentes	2
+Jagdpatents	1
+Jagdpech
+Jagdpechs	1
+Jagdprüfung
+Jagdprüfungen	2
+Jagdpächter
+Jagdpächterin
+Jagdpächterinnen	3
+Jagdpächtern	1
+Jagdpächters	1
+Jagdrecht
+Jagdrechte	1
+Jagdrechten	2
+Jagdrechts	1
+Jagdregal
+Jagdregalien	3
+Jagdregals	1
+Jagdrennen
+Jagdrennens	1
+Jagdrevier
+Jagdreviere	1
+Jagdrevieren	2
+Jagdreviers	1
+Jagdross
+Jagdrosse	1
+Jagdrossen	2
+Jagdrosses	2
+Jagdrösser	5oss
+Jagdrössern	6oss
+Jagdschaden
+Jagdschadens	1
+Jagdschein
+Jagdscheine	1
+Jagdscheinen	2
+Jagdscheines	2
+Jagdscheins	1
+Jagdschloss
+Jagdschlosse	1
+Jagdschlosses	2
+Jagdschloß
+Jagdschlösser	5oss
+Jagdschlössern	6oss
+Jagdschutz
+Jagdschutzes	2
+Jagdschäden	4aden
+Jagdsignal
+Jagdsignale	1
+Jagdsignalen	2
+Jagdsignals	1
+Jagdsitz
+Jagdsitze	1
+Jagdsitzen	2
+Jagdsitzes	2
+Jagdspringen
+Jagdspringens	1
+Jagdstaffel
+Jagdstaffeln	1
+Jagdstock
+Jagdstockes	2
+Jagdstocks	1
+Jagdstrecke
+Jagdstrecken	1
+Jagdstöcke	4ock
+Jagdstöcken	5ock
+Jagdstück
+Jagdstücke	1
+Jagdstücken	2
+Jagdstückes	2
+Jagdstücks	1
+Jagdszene
+Jagdszenen	1
+Jagdtasche
+Jagdtaschen	1
+Jagdtechnik
+Jagdtechniken	2
+Jagdtourismus
+Jagdtrophäe
+Jagdtrophäen	1
+Jagdunfall
+Jagdunfalles	2
+Jagdunfalls	1
+Jagdunfälle	4all
+Jagdunfällen	5all
+Jagdverband
+Jagdverbande	1
+Jagdverbandes	2
+Jagdverbands	1
+Jagdverbot
+Jagdverbote	1
+Jagdverboten	2
+Jagdverbotes	2
+Jagdverbots	1
+Jagdverbände	4and
+Jagdverbänden	5and
+Jagdvergehen
+Jagdvergehens	1
+Jagdverwalter
+Jagdverwaltern	1
+Jagdverwalters	1
+Jagdwaffe
+Jagdwaffen	1
+Jagdwagen
+Jagdwesen
+Jagdwesens	1
+Jagdwilderei
+Jagdwurst
+Jagdwürste	5urst
+Jagdwürsten	6urst
+Jagdzauber
+Jagdzaubern	1
+Jagdzaubers	1
+Jagdzeit
+Jagdzeiten	2
+Jagdzeug
+Jagdzimmer
+Jagdzimmern	1
+Jagdzimmers	1
+Jagdzug
+Jagdzuges	2
+Jagdzugs	1
+Jagdzüge	3ug
+Jagdzügen	4ug
+Jagellone
+Jagellonen	1
+Jagellonin
+Jagelloninnen	3
+Jagen
+Jagende
+Jagenden	1
+Jagendere
+Jagenderen	1
+Jagendste
+Jagendsten	1
+Jagens	1
+Jagenstein
+Jagensteine	1
+Jagensteinen	2
+Jagensteines	2
+Jagensteins	1
+Jagerei
+Jagereien	2
+Jagertee
+Jagertees	1
+Jagger
+Jaghund
+Jaghunde	1
+Jaghunden	2
+Jaghundes	2
+Jaghunds	1
+Jagoda
+Jagst
+Jaguar
+Jaguare	1
+Jaguaren	2
+Jaguars	1
+Jaguarundi
+Jaguarundis	1
+Jahn
+Jahn-Reisen
+Jahnreisen
+Jahns	1
+Jahr
+Jahr-2000-Problem
+Jahr-2000-Probleme	1
+Jahr-2000-Problemen	2
+Jahr-2000-Problems	1
+Jahrbuch
+Jahrbuche	1
+Jahrbuches	2
+Jahrbuchs	1
+Jahrbücher	5uch
+Jahrbüchern	6uch
+Jahre	1
+Jahrelange	10jahrelang
+Jahrelangen	1
+Jahren	2
+Jahres	2
+Jahresablauf
+Jahresablaufes	2
+Jahresablaufs	1
+Jahresabläufe	4auf
+Jahresabläufen	5auf
+Jahresabo
+Jahresabonnement
+Jahresabonnemente	1
+Jahresabonnementen	2
+Jahresabonnements	1
+Jahresabos	1
+Jahresabrechnung
+Jahresabrechnungen	2
+Jahresabschluss	2ß
+Jahresabschlusses	2
+Jahresabschlussprüfung
+Jahresabschlussprüfungen	2
+Jahresabschluß
+Jahresabschlußprüfung
+Jahresabschlüsse	4uss
+Jahresabschlüssen	5uss
+Jahresabschnitt
+Jahresabschnitte	1
+Jahresabschnitten	2
+Jahresabschnittes	2
+Jahresabschnitts	1
+Jahresanfang
+Jahresanfange	1
+Jahresanfanges	2
+Jahresanfangs	1
+Jahresanfänge	4ang
+Jahresanfängen	5ang
+Jahresangabe
+Jahresangaben	1
+Jahresangebot
+Jahresangebote	1
+Jahresangeboten	2
+Jahresangebotes	2
+Jahresangebots	1
+Jahresarbeit
+Jahresarbeiten	2
+Jahresarbeitszeit
+Jahresarbeitszeiten	2
+Jahresaufkommen
+Jahresaufkommens	1
+Jahresauflage
+Jahresauflagen	1
+Jahresauftakt
+Jahresauftakte	1
+Jahresauftakten	2
+Jahresauftaktes	2
+Jahresauftakts	1
+Jahresausblick
+Jahresausblicke	1
+Jahresausblicken	2
+Jahresausblickes	2
+Jahresausblicks	1
+Jahresausgleich
+Jahresausgleiche	1
+Jahresausgleichen	2
+Jahresausgleiches	2
+Jahresausgleichs	1
+Jahresausklang
+Jahresausklanges	2
+Jahresausklangs	1
+Jahresausklänge	4ang
+Jahresausklängen	5ang
+Jahresausmaß
+Jahresausmaße	1
+Jahresausmaßen	2
+Jahresausmaßes	2
+Jahresausstellung
+Jahresausstellungen	2
+Jahresausstoß
+Jahresausstoße	1
+Jahresausstoßes	2
+Jahresausstöße	3oß
+Jahresausstößen	4oß
+Jahresbasis
+Jahresbedarf
+Jahresbedarfe	1
+Jahresbedarfen	2
+Jahresbedarfes	2
+Jahresbedarfs	1
+Jahresbeginn
+Jahresbeginne	1
+Jahresbeginnen	2
+Jahresbeginnes	2
+Jahresbeginns	1
+Jahresbeitrag
+Jahresbeitrage	1
+Jahresbeitrages	2
+Jahresbeitrags	1
+Jahresbeiträge	3ag
+Jahresbeiträgen	4ag
+Jahresbericht
+Jahresberichte	1
+Jahresberichten	2
+Jahresberichtes	2
+Jahresberichts	1
+Jahresbestleistung
+Jahresbestleistungen	2
+Jahresbestzeit
+Jahresbestzeiten	2
+Jahresbetrag
+Jahresbetrage	1
+Jahresbetrages	2
+Jahresbetrags	1
+Jahresbeträge	3ag
+Jahresbeträgen	4ag
+Jahresbezug
+Jahresbezuges	2
+Jahresbezugs	1
+Jahresbezüge	3ug
+Jahresbezügen	4ug
+Jahresbilanz
+Jahresbilanzen	2
+Jahresbudget
+Jahresbudgets	1
+Jahresdauer
+Jahresdauern	1
+Jahresdividende
+Jahresdividenden	1
+Jahresdurchschnitt
+Jahresdurchschnitte	1
+Jahresdurchschnitten	2
+Jahresdurchschnittes	2
+Jahresdurchschnitts	1
+Jahresdurchschnittstemperatur
+Jahresdurchschnittstemperaturen	2
+Jahreseinkommen
+Jahreseinkommens	1
+Jahreseinkunft
+Jahreseinkünfte	5unft
+Jahreseinkünften	6unft
+Jahreseinnahme
+Jahreseinnahmen	1
+Jahreseinschnitt
+Jahreseinschnitte	1
+Jahreseinschnitten	2
+Jahreseinschnittes	2
+Jahreseinschnitts	1
+Jahresendabrechnung
+Jahresendabrechnungen	2
+Jahresende
+Jahresenden	1
+Jahresendes	1
+Jahresendfigur
+Jahresendfiguren	2
+Jahresendflügelfigur
+Jahresendflügelfiguren	2
+Jahresendgeschäft
+Jahresendgeschäfte	1
+Jahresendgeschäften	2
+Jahresendgeschäftes	2
+Jahresendgeschäfts	1
+Jahresendprämie
+Jahresendprämien	1
+Jahresendrally
+Jahresendrallye
+Jahresendrallyes	1
+Jahresendrallys	1
+Jahresendspurt
+Jahresendspurte	1
+Jahresendspurten	2
+Jahresendspurtes	2
+Jahresendspurts	1
+Jahresendstand
+Jahresendstandes	2
+Jahresendstands	1
+Jahresendstände	4and
+Jahresendständen	5and
+Jahresengagement
+Jahresengagements	1
+Jahreserfolg
+Jahreserfolge	1
+Jahreserfolgen	2
+Jahreserfolges	2
+Jahreserfolgs	1
+Jahresergebnis
+Jahresergebnisse	2
+Jahresergebnissen	3
+Jahresergebnisses	3
+Jahresernte
+Jahresernten	1
+Jahresertrag
+Jahresertrages	2
+Jahresertrags	1
+Jahreserträge	3ag
+Jahreserträgen	4ag
+Jahreserträgnis
+Jahreserträgnisse	2
+Jahreserträgnissen	3
+Jahreserträgnisses	3
+Jahresetat
+Jahresetats	1
+Jahresfehlbetrag
+Jahresfehlbetrages	2
+Jahresfehlbetrags	1
+Jahresfehlbeträge	3ag
+Jahresfehlbeträgen	4ag
+Jahresfeier
+Jahresfeiern	1
+Jahresfolge
+Jahresfolgen	1
+Jahresfreikarte
+Jahresfreikarten	1
+Jahresfrist
+Jahresfristen	2
+Jahresgang
+Jahresgange	1
+Jahresganges	2
+Jahresgangs	1
+Jahresgebühr
+Jahresgebühren	2
+Jahresgehalt
+Jahresgehalte	1
+Jahresgehaltes	2
+Jahresgehalts	1
+Jahresgehälter	5alt
+Jahresgehältern	6alt
+Jahresgespräch
+Jahresgespräche	1
+Jahresgesprächen	2
+Jahresgespräches	2
+Jahresgesprächs	1
+Jahresgewinn
+Jahresgewinne	1
+Jahresgewinnen	2
+Jahresgewinnes	2
+Jahresgewinns	1
+Jahresgottesdienst
+Jahresgottesdienste	1
+Jahresgottesdiensten	2
+Jahresgottesdienstes	2
+Jahresgottesdiensts	1
+Jahresgrenze
+Jahresgrenzen	1
+Jahresgutachten
+Jahresgutachtens	1
+Jahresgänge	4ang
+Jahresgängen	5ang
+Jahreshauptversammlung
+Jahreshauptversammlungen	2
+Jahreshaushalt
+Jahreshaushalte	1
+Jahreshaushalten	2
+Jahreshaushaltes	2
+Jahreshaushalts	1
+Jahresheft
+Jahreshefte	1
+Jahresheften	2
+Jahresheftes	2
+Jahreshefts	1
+Jahreshoch
+Jahreshochs	1
+Jahreshoroskop
+Jahreshoroskope	1
+Jahreshoroskopen	2
+Jahreshoroskopes	2
+Jahreshoroskops	1
+Jahreshälfte
+Jahreshälften	1
+Jahreshöchst
+Jahreshöchstes	2
+Jahreshöchsts	1
+Jahreshöchststand
+Jahreshöchststandes	2
+Jahreshöchststands	1
+Jahreshöchststände	4and
+Jahreshöchstständen	5and
+Jahresinventur
+Jahresinventuren	2
+Jahreskapazität
+Jahreskapazitäten	2
+Jahreskarte
+Jahreskarten	1
+Jahreskartenbesitzer
+Jahreskartenbesitzern	1
+Jahreskartenbesitzers	1
+Jahresklasse
+Jahresklassen	1
+Jahreskonferenz
+Jahreskonferenzen	2
+Jahreskongress
+Jahreskongresse	1
+Jahreskongressen	2
+Jahreskongresses	2
+Jahreskongreß
+Jahreskontingent
+Jahreskontingente	1
+Jahreskontingenten	2
+Jahreskontingentes	2
+Jahreskontingents	1
+Jahreskreis
+Jahreskreise	1
+Jahreskreisen	2
+Jahreskreises	2
+Jahreslauf
+Jahresleistung
+Jahresleistungen	2
+Jahreslohn
+Jahreslohnes	2
+Jahreslohns	1
+Jahreslöhne	4ohn
+Jahreslöhnen	5ohn
+Jahresmaxima	1um
+Jahresmaximum
+Jahresmaximums	1
+Jahresmiete
+Jahresmieten	1
+Jahresminus
+Jahresminusses	3
+Jahresmitte
+Jahresmittel
+Jahresmitteln	1
+Jahresmittels	1
+Jahresmitten	1
+Jahresnetzkarte
+Jahresnetzkarten	1
+Jahrespensa	1um
+Jahrespensen	2um
+Jahrespensum
+Jahrespensums	1
+Jahresplan
+Jahresplane	1
+Jahresplanes	2
+Jahresplans	1
+Jahresplanung
+Jahresplanungen	2
+Jahresplus
+Jahresplusses	3
+Jahrespläne	3an
+Jahresplänen	4an
+Jahresproduktion
+Jahresproduktionen	2
+Jahresprognose
+Jahresprognosen	1
+Jahresprogramm
+Jahresprogramme	1
+Jahresprogrammen	2
+Jahresprogrammes	2
+Jahresprogramms	1
+Jahresprotokoll
+Jahresprotokolle	1
+Jahresprotokollen	2
+Jahresprotokolles	2
+Jahresprotokolls	1
+Jahresprämie
+Jahresprämien	1
+Jahresrate
+Jahresraten	1
+Jahresration
+Jahresrationen	2
+Jahresrechnung
+Jahresrechnungen	2
+Jahresrente
+Jahresrenten	1
+Jahresrhythmen	2us
+Jahresrhythmus
+Jahresring
+Jahresringe	1
+Jahresringen	2
+Jahresringes	2
+Jahresrings	1
+Jahresrückblick
+Jahresrückblicke	1
+Jahresrückblicken	2
+Jahresrückblickes	2
+Jahresrückblicks	1
+Jahresschluss
+Jahresschlussandacht
+Jahresschlussandachten	2
+Jahresschluß
+Jahresschrift
+Jahresschriften	2
+Jahressieg
+Jahressiege	1
+Jahressiegen	2
+Jahressieges	2
+Jahressiegs	1
+Jahressoll
+Jahressonderzahlung
+Jahressonderzahlungen	2
+Jahresspitze
+Jahresspitzen	1
+Jahresstart
+Jahresstarte	1
+Jahresstarten	2
+Jahresstartes	2
+Jahresstarts	1
+Jahresstatistik
+Jahresstatistiken	2
+Jahresstelle
+Jahresstellen	1
+Jahresstellung
+Jahresstellungen	2
+Jahressteuergesetz
+Jahressteuergesetze	1
+Jahressteuergesetzen	2
+Jahressteuergesetzes	2
+Jahresstromverbrauch
+Jahresstromverbrauche	1
+Jahresstromverbrauches	2
+Jahresstromverbrauchs	1
+Jahresstromverbräuche	5auch
+Jahresstromverbräuchen	6auch
+Jahrestag
+Jahrestage	1
+Jahrestagen	2
+Jahrestages	2
+Jahrestags	1
+Jahrestagung
+Jahrestagungen	2
+Jahrestemperatur
+Jahrestemperaturen	2
+Jahresteuerung
+Jahresteuerungen	2
+Jahresthema
+Jahresthemas	1
+Jahresthemen	2a
+Jahresthemenplan
+Jahresthemenplanes	2
+Jahresthemenplans	1
+Jahresthemenpläne	3an
+Jahresthemenplänen	4an
+Jahresticket
+Jahrestickets	1
+Jahrestief
+Jahrestiefs	1
+Jahrestiefst
+Jahrestonne
+Jahrestonnen
+Jahrestraining
+Jahrestrainings	1
+Jahrestreffen
+Jahrestreffens	1
+Jahresumsatz
+Jahresumsatze	1
+Jahresumsatzes	2
+Jahresumsätze	4atz
+Jahresumsätzen	5atz
+Jahresurlaub
+Jahresurlaube	1
+Jahresurlauben	2
+Jahresurlaubes	2
+Jahresurlaubs	1
+Jahresverbrauch
+Jahresverbrauche	1
+Jahresverbrauches	2
+Jahresverbrauchs	1
+Jahresverbrauchsabrechnung
+Jahresverbrauchsabrechnungen	2
+Jahresverbräuche	5auch
+Jahresverbräuchen	6auch
+Jahresverdienst
+Jahresverdienste	1
+Jahresverdiensten	2
+Jahresverdienstes	2
+Jahresverdiensts	1
+Jahresvergleich
+Jahresvergleiche	1
+Jahresvergleichen	2
+Jahresvergleiches	2
+Jahresvergleichs	1
+Jahresverlauf
+Jahresverlaufes	2
+Jahresverlaufs	1
+Jahresverlust
+Jahresverluste	1
+Jahresverlusten	2
+Jahresverlustes	2
+Jahresverlusts	1
+Jahresverläufe	4auf
+Jahresverläufen	5auf
+Jahresversammlung
+Jahresversammlungen	2
+Jahresvertrag
+Jahresvertrage	1
+Jahresvertrages	2
+Jahresvertrags	1
+Jahresverträge	3ag
+Jahresverträgen	4ag
+Jahresverzeichnis
+Jahresverzeichnisse	2
+Jahresverzeichnissen	3
+Jahresverzeichnisses	3
+Jahresvignette
+Jahresvignetten	1
+Jahresvogel
+Jahresvogels	1
+Jahresvorschau
+Jahresvorschauen	2
+Jahresvögel	4ogel
+Jahresvögeln	5ogel
+Jahreswagen
+Jahreswagens	1
+Jahreswechsel
+Jahreswechseln	1
+Jahreswechsels	1
+Jahresweiser
+Jahresweisern	1
+Jahresweisers	1
+Jahresweltbestleistung
+Jahresweltbestleistungen	2
+Jahresweltbestzeit
+Jahresweltbestzeiten	2
+Jahresweltverbrauch
+Jahresweltverbrauchs	1
+Jahresweltverbräuche	5auch
+Jahresweltverbräuchen	6auch
+Jahreswende
+Jahreswenden	1
+Jahreswirtschaftsbericht
+Jahreswirtschaftsberichte	1
+Jahreswirtschaftsberichten	2
+Jahreswirtschaftsberichtes	2
+Jahreswirtschaftsberichts	1
+Jahreswägen	4agen
+Jahreszahl
+Jahreszahlen	2
+Jahreszeit
+Jahreszeiten	2
+Jahreszeitliche	15jahreszeitlich
+Jahreszeitlichen	1
+Jahreszeugnis
+Jahreszeugnisse	2
+Jahreszeugnissen	3
+Jahreszeugnisses	3
+Jahresziel
+Jahresziele	1
+Jahreszielen	2
+Jahreszieles	2
+Jahresziels	1
+Jahreszins
+Jahreszinse	1
+Jahreszinsen	2
+Jahreszinses	2
+Jahreszyklen	2us
+Jahreszyklus
+Jahresüberschuss	2ß
+Jahresüberschusse	1
+Jahresüberschusses	2
+Jahresüberschuß
+Jahresüberschüsse	4uss
+Jahresüberschüssen	5uss
+Jahrfünft
+Jahrfünfte	1
+Jahrfünften	2
+Jahrfünftes	2
+Jahrfünfts	1
+Jahrgang
+Jahrgange	1
+Jahrganges	2
+Jahrgangs	1
+Jahrgangsbeste	0r
+Jahrgangsbestem	1r
+Jahrgangsbesten	1
+Jahrgangsbester
+Jahrgangschampagner
+Jahrgangschampagnern	1
+Jahrgangschampagners	1
+Jahrgangssekt
+Jahrgangssekte	1
+Jahrgangssekten	2
+Jahrgangssektes	2
+Jahrgangsstufe
+Jahrgangsstufen	1
+Jahrgangswein
+Jahrgangsweine	1
+Jahrgangsweinen	2
+Jahrgangsweines	2
+Jahrgangsweins	1
+Jahrgedächtnis
+Jahrgänge	4ang
+Jahrgängen	5ang
+Jahrgänger
+Jahrgängern	1
+Jahrgängers	1
+Jahrgängerverein
+Jahrgängervereine	1
+Jahrgängervereinen	2
+Jahrgängervereines	2
+Jahrgängervereins	1
+Jahrhundert
+Jahrhundertaufgabe
+Jahrhundertaufgaben	1
+Jahrhundertbau
+Jahrhundertbaues	2
+Jahrhundertbaus	1
+Jahrhundertbauten	3
+Jahrhunderte	1
+Jahrhundertealte	16jahrhundertealt
+Jahrhundertealten	1
+Jahrhundertelange
+Jahrhundertelangen	1
+Jahrhunderten	2
+Jahrhundertentdeckung
+Jahrhundertentdeckungen	2
+Jahrhundertfeier
+Jahrhundertfeiern	1
+Jahrhundertflut
+Jahrhundertfluten	2
+Jahrhunderthalle
+Jahrhunderthochwasser
+Jahrhunderthochwassern	1
+Jahrhunderthochwassers	1
+Jahrhunderthälfte
+Jahrhunderthälften	1
+Jahrhundertkatastrophe
+Jahrhundertkatastrophen	1
+Jahrhundertleistung
+Jahrhundertleistungen	2
+Jahrhundertmitte
+Jahrhundertmitten	1
+Jahrhundertprojekt
+Jahrhundertprojekte	1
+Jahrhundertprojekten	2
+Jahrhundertprojektes	2
+Jahrhundertprojekts	1
+Jahrhunderts	1
+Jahrhundertsommer
+Jahrhundertsommern	1
+Jahrhundertsommers	1
+Jahrhundertsturm
+Jahrhundertsturmes	2
+Jahrhundertsturms	1
+Jahrhundertstürme	4urm
+Jahrhundertstürmen	5urm
+Jahrhundertvertrag
+Jahrhundertvertrages	2
+Jahrhundertvertrags	1
+Jahrhundertverträge	3ag
+Jahrhundertverträgen	4ag
+Jahrhundertwein
+Jahrhundertweine	1
+Jahrhundertweinen	2
+Jahrhundertweines	2
+Jahrhundertweins	1
+Jahrhundertwende
+Jahrhundertwenden	1
+Jahrhundertwerk
+Jahrhundertwerke	1
+Jahrhundertwerken	2
+Jahrhundertwerkes	2
+Jahrhundertwerks	1
+Jahrmarkt
+Jahrmarkte	1
+Jahrmarktes	2
+Jahrmarktorgel
+Jahrmarkts	1
+Jahrmarktsbude
+Jahrmarktsbuden	1
+Jahrmarktsbühne
+Jahrmarktsbühnen	1
+Jahrmarktschreier
+Jahrmarktsorgel
+Jahrmarktsrummel
+Jahrmarktsrummeln	1
+Jahrmarktsrummels	1
+Jahrmarktsschreier
+Jahrmarktstreiben
+Jahrmarkttreiben
+Jahrmilliarde
+Jahrmilliarden	1
+Jahrmillion
+Jahrmillionen	2
+Jahrmärkte	5arkt
+Jahrmärkten	6arkt
+Jahrs	1
+Jahrtagsgottesdienst
+Jahrtagsgottesdienste	1
+Jahrtagsgottesdiensten	2
+Jahrtagsgottesdienstes	2
+Jahrtagsgottesdiensts	1
+Jahrtausend
+Jahrtausende	1
+Jahrtausenden	2
+Jahrtausendfeier
+Jahrtausendfeiern	1
+Jahrtausendflut
+Jahrtausendfluten	2
+Jahrtausendhochwasser
+Jahrtausendhochwassern	1
+Jahrtausendhochwassers	1
+Jahrtausendhochwässer	5asser
+Jahrtausendhochwässern	6asser
+Jahrtausends	1
+Jahrtausendwende
+Jahrtausendwenden	1
+Jahrzahl
+Jahrzahlen	2
+Jahrzehnt
+Jahrzehnte	1
+Jahrzehntelange	15jahrzehntelang
+Jahrzehntelangen	1
+Jahrzehnten	2
+Jahrzehntes	2
+Jahrzehnts	1
+Jahrzeit
+Jahrzeitbuch
+Jahrzeiten	2
+Jahve
+Jahvist
+Jahvisten	2
+Jahwe
+Jahwist
+Jahwisten	2
+Jaime
+Jaina
+Jainas	1
+Jajce
+Jak
+Jakarta
+Jakartas	1
+Jako
+Jakob
+Jakobi
+Jakobikirche
+Jakobikirchen	1
+Jakobiner
+Jakobinermütze
+Jakobinermützen	1
+Jakobinern	1
+Jakobiners	1
+Jakobinertum
+Jakobinertumes	2
+Jakobinertums	1
+Jakobit
+Jakobiten	2
+Jakobs	1
+Jakobsberg
+Jakobsberge	1
+Jakobsbergen	2
+Jakobsberges	2
+Jakobsbergs	1
+Jakobsbirne
+Jakobsbirnen	1
+Jakobsblume
+Jakobsblumen	1
+Jakobsbruder
+Jakobsbruders	1
+Jakobsbrüder	4uder
+Jakobsbrüdern	5uder
+Jakobsgreiskraut
+Jakobsgreiskrautes	2
+Jakobsgreiskrauts	1
+Jakobsgreiskräuter	5aut
+Jakobsgreiskräutern	6aut
+Jakobskirche
+Jakobskirchen	1
+Jakobskraut
+Jakobskrautes	2
+Jakobskrauts	1
+Jakobskreuzkraut
+Jakobskreuzkrautes	2
+Jakobskreuzkrauts	1
+Jakobslachs
+Jakobslachse	1
+Jakobslachsen	2
+Jakobslachses	2
+Jakobslauch
+Jakobslauches	2
+Jakobslauchs	1
+Jakobsleiter
+Jakobsleitern	1
+Jakobslilie
+Jakobslilien	1
+Jakobsmuschel
+Jakobsmuscheln	1
+Jakobsstab
+Jakobsstabes	2
+Jakobsstabs	1
+Jakobsstäbe	3ab
+Jakobsstäben	4ab
+Jakobstadt
+Jakobstadts	1
+Jakobstag
+Jakobstages	2
+Jakobstags	1
+Jakobstaler
+Jakobstalern	1
+Jakobstalers	1
+Jakobsweg
+Jakobswege	1
+Jakobswegen	2
+Jakobsweges	2
+Jakobswegs	1
+Jakobszwiebel
+Jakobszwiebeln	1
+Jakobusbrief
+Jakobusbriefe	1
+Jakobusbriefes	2
+Jakobusbriefs	1
+Jakonett
+Jakonetts	1
+Jakos	1
+Jaks	1
+Jaktation
+Jaktationen	2
+Jakute
+Jakuten	1
+Jalousette
+Jalousetten	1
+Jalousie
+Jalousien	1
+Jalousienen	3
+Jalousieschweller
+Jalousieschwellern	1
+Jalousieschwellers	1
+Jalowietzki
+Jalta
+Jam
+Jam-Session
+Jam-Sessions	1
+Jamaica
+Jamaika
+Jamaika-Aus
+Jamaika-Koalition
+Jamaika-Koalitionen	2
+Jamaika-Pfeffer
+Jamaika-Pfeffers	1
+Jamaikakoalition
+Jamaikakoalitionen	2
+Jamaikaner
+Jamaikanerin
+Jamaikanerinnen	3
+Jamaikanern	1
+Jamaikaners	1
+Jamaikapfeffer
+Jamaikapfeffers	1
+Jamaikarum
+Jamaikas	1
+Jamaiker
+Jamaikerin
+Jamaikerinnen	3
+Jamaikern	1
+Jamaikers	1
+Jamal
+Jambe
+Jamben	1
+Jambendichtung
+Jambiker
+Jambikern	1
+Jambikers	1
+Jamboree
+Jambus
+James
+James'	1
+Jammer	6jammern
+Jammerbild
+Jammerbilde	1
+Jammerbilder	2
+Jammerbildern	3
+Jammerbildes	2
+Jammerbilds	1
+Jammerblick
+Jammerblicke	1
+Jammerblicken	2
+Jammerblickes	2
+Jammerblicks	1
+Jammergeschrei
+Jammergeschreis	1
+Jammergestalt
+Jammergestalten	2
+Jammergestell
+Jammergestelle	1
+Jammergestellen	2
+Jammergestelles	2
+Jammergestells	1
+Jammergreis
+Jammergreise	1
+Jammergreisen	2
+Jammergreises	2
+Jammerin
+Jammerinnen	3
+Jammerkasten
+Jammerkastens	1
+Jammerkästen	5asten
+Jammerlappen
+Jammerlappens	1
+Jammerlaut
+Jammerlaute	1
+Jammerlauten	2
+Jammerlautes	2
+Jammerlauts	1
+Jammermiene
+Jammermienen	1
+Jammern	1
+Jammernde
+Jammernden	1
+Jammerndere
+Jammernderen	1
+Jammerndste
+Jammerndsten	1
+Jammerns	1
+Jammerossi
+Jammers	1
+Jammertag
+Jammertage	1
+Jammertagen	2
+Jammertages	2
+Jammertags	1
+Jammertal
+Jammertals	1
+Jammertäler	4al
+Jammertälern	5al
+Jammervolle
+Jammervollen	1
+Jammervollere
+Jammervolleren	1
+Jammervollste
+Jammervollsten	1
+Jams	1
+Jamsession
+Jamsessions	1
+Jamswurzel
+Jamswurzeln	1
+Jan
+Jana
+Janata
+Jandl
+Jandls
+Jane
+Janeiro
+Janes
+Janet
+Janhagel
+Janhagels	1
+Janitschar
+Janitscharen	2
+Janitscharenmusik
+Janitscharenmusiken	2
+Janitschars	1
+Janker
+Jankern	1
+Jankers	1
+Jannis
+Janowski
+Janowskis	1
+Jans	1
+Jansen
+Jansenismus
+Jansens	1
+Janssen
+Janssen-Kucz
+Janssen-Museum
+Janssen-Museums	1
+Januar
+Januarabend
+Januarabende	1
+Januarabenden	2
+Januarabends	1
+Januaraufstand
+Januaraufstandes	2
+Januaraufstands	1
+Januarausgabe
+Januarausgaben	1
+Januare	1
+Januaren	2
+Januarheft
+Januarhefte	1
+Januarheften	2
+Januarheftes	2
+Januarhefts	1
+Januarhälfte
+Januarhälften	1
+Januarloch
+Januarloches	2
+Januarlochs	1
+Januarlöcher	5och
+Januarlöchern	6och
+Januarmorgen
+Januarmorgens	1
+Januarnacht
+Januarnächte	5acht
+Januarnächten	6acht
+Januars	1
+Januarsitzung
+Januarsitzungen	2
+Januartag
+Januartage	1
+Januartagen	2
+Januartages	2
+Januartags	1
+Januarwoche
+Januarwochen	1
+Januarwochenende
+Januarwochenenden	1
+Januarwochenendes	1
+Janus
+Janusgesicht
+Janusgesichter	2
+Janusgesichtern	3
+Janusgesichtes	2
+Janusgesichts	1
+Januskopf
+Januskopfe	1
+Januskopfes	2
+Januskopfs	1
+Janusköpfe	4opf
+Janusköpfen	5opf
+Janusköpfigkeit
+Januswort
+Janusworte	1
+Januswortes	2
+Janusworts	1
+Januswörter	5ort
+Januswörtern	6ort
+Janácek
+Japan
+Japaner
+Japanerin
+Japanerinnen	3
+Japanern	1
+Japaners	1
+Japanisch
+Japanische	10japanisch
+Japanischen	1
+Japanischere
+Japanischeren	1
+Japanischs	1
+Japanischste
+Japanischsten	1
+Japanlack
+Japanlacke	1
+Japanlacken	2
+Japanlackes	2
+Japanlacks	1
+Japanmatte
+Japanmatten	1
+Japanmesser
+Japanmessern	1
+Japanmessers	1
+Japanologe
+Japanologen	1
+Japanologie
+Japanologin
+Japanologinnen	3
+Japanpapier
+Japanpapiere	1
+Japanpapieren	2
+Japanpapieres	2
+Japanpapiers	1
+Japanperle
+Japanperlen	1
+Japanreise
+Japanreisen	1
+Japans	1
+Japanseide
+Japanseiden	1
+Japansäge
+Japansägen	1
+Japanwachs
+Japanwachse	1
+Japanwachsen	2
+Japanwachses	2
+Japanzeder
+Japanzedern	1
+Japhetitologie
+Japonismus
+Japse
+Japsen	1
+Japsende
+Japsenden	1
+Japsendere
+Japsenderen	1
+Japsendste
+Japsendsten	1
+Japsens	1
+Japser
+Japsern	1
+Japsers	1
+Jaques
+Jaques-Dalcroze
+Jar
+Jara
+Jarchow
+Jardiniere
+Jare	1
+Jaren	2
+Jares	2
+Jargon
+Jargons	1
+Jarl
+Jarle	1
+Jarls	1
+Jarmulka	1e
+Jarmulke
+Jarmulkes	1
+Jarnjak
+Jarowisation
+Jaruzelski
+Jas	1
+Jasager
+Jasagerin
+Jasagerinnen	3
+Jasagern	1
+Jasagers	1
+Jaschke
+Jaschmak
+Jasione
+Jasionen	1
+Jaskiernia
+Jasmin
+Jasminbusch
+Jasminbusches	2
+Jasminbuschs	1
+Jasminbüsche	5usch
+Jasminbüschen	6usch
+Jasmine	1
+Jasminen	2
+Jasminreis
+Jasminreises	2
+Jasmins	1
+Jasperware
+Jasperwaren	1
+Jaspis
+Jaspisse	2
+Jaspissen	3
+Jaspisses	3
+Jaspé
+Jaspés	1
+Jass
+Jasses	2
+Jastik
+Jastiks	1
+Jastimme
+Jastimmen	1
+Jaszapathi
+Jauche
+Jauchefass
+Jauchefasse	1
+Jauchefasses	2
+Jauchefaß
+Jauchefässer	5ass
+Jauchefässern	6ass
+Jauchegrube
+Jauchegruben	1
+Jauchekübel
+Jauchen	1
+Jauchenfass
+Jauchenfasse	1
+Jauchenfasses	2
+Jauchenfaß
+Jauchenfässer	5ass
+Jauchenfässern	6ass
+Jauchengrube
+Jauchengruben	1
+Jauchenkübel
+Jauchenpumpe
+Jauchentümpel
+Jauchenwagen
+Jauchepumpe
+Jauchert
+Jauchetümpel
+Jauchewagen
+Jauchzen
+Jauchzende
+Jauchzenden	1
+Jauchzendere
+Jauchzenderen	1
+Jauchzendste
+Jauchzendsten	1
+Jauchzens	1
+Jauchzer
+Jauchzern	1
+Jauchzers	1
+Jaukerl
+Jaukerln	1
+Jaukerls	1
+Jaulen
+Jaulende
+Jaulenden	1
+Jaulens	1
+Jaunde
+Jaundes	1
+Jause
+Jausem
+Jausen	1
+Jausenbox
+Jausenboxen	2
+Jausenbrot
+Jausenbrote	1
+Jausenbroten	2
+Jausenbrotes	2
+Jausenbrots	1
+Jausengegner
+Jausengegnern	1
+Jausengegners	1
+Jausenstation
+Jausenstationen	2
+Jausenzeit
+Jausenzeiten	2
+Jaust
+Jauste	1
+Jaustes	2
+Jausts	1
+Java
+Java-basierten	14basieren
+JavaScript
+JavaScripts	1
+Javanisch
+Javanischs	1
+Javier
+Jawline
+Jawlines	1
+Jawlinski
+Jawlinskij
+Jawlinskis	1
+Jawort
+Jaworte	1
+Jaworten	2
+Jawortes	2
+Jaworts	1
+Jaxa
+Jazdi
+Jazz
+Jazz-Lounge
+Jazz-Lounges	1
+Jazzband
+Jazzbands	1
+Jazzbubi
+Jazzbubis	1
+Jazzbude
+Jazzbuden	1
+Jazzclub
+Jazzclubs	1
+Jazzdance
+Jazzer
+Jazzerin
+Jazzerinnen	3
+Jazzern	1
+Jazzers	1
+Jazzfan
+Jazzfans	1
+Jazzfest
+Jazzfeste	1
+Jazzfesten	2
+Jazzfestes	2
+Jazzfestival
+Jazzfestivals	1
+Jazzfests	1
+Jazzflöte
+Jazzflöten	1
+Jazzformation
+Jazzformationen	2
+Jazzgitarre
+Jazzgitarren	1
+Jazzgymnastik
+Jazzkapelle
+Jazzkapellen	1
+Jazzkeller
+Jazzkellern	1
+Jazzkellers	1
+Jazzklub
+Jazzklubs	1
+Jazzkonzert
+Jazzkonzerte	1
+Jazzkonzerten	2
+Jazzkonzertes	2
+Jazzkonzerts	1
+Jazzlounge
+Jazzlounges	1
+Jazzmusik
+Jazzmusiker
+Jazzmusikerin
+Jazzmusikerinnen	3
+Jazzmusikern	1
+Jazzmusikers	1
+Jazzpianist
+Jazzpianisten	2
+Jazzplatte
+Jazzplatten	1
+Jazzquartett
+Jazzquartette	1
+Jazzquartetten	2
+Jazzquartettes	2
+Jazzquartetts	1
+Jazzquintett
+Jazzquintette	1
+Jazzquintetten	2
+Jazzquintettes	2
+Jazzquintetts	1
+Jazzrock
+Jazzrocks	1
+Jazzschuppen
+Jazzschuppens	1
+Jazzszene
+Jazzszenen	1
+Jazztrio
+Jazztrios	1
+Jazztrompete
+Jazztrompeten	1
+Jazztrompeter
+Jazztrompetern	1
+Jazztrompeters	1
+Jazzzeitung
+Jazzzeitungen	2
+Jean
+Jean-Bertrand
+Jean-Christophe
+Jean-Claude
+Jean-Francois
+Jean-Jacques
+Jean-Louis
+Jean-Luc
+Jean-Marie
+Jean-Michel
+Jean-Pascal
+Jean-Paul
+Jean-Pierre
+Jean-Pol
+Jeanne
+Jeannes	1
+Jeans
+Jeans-Hose
+Jeans-Hosen	1
+Jeans-Jacke
+Jeans-Jacken	1
+Jeansanzug
+Jeansanzuges	2
+Jeansanzugs	1
+Jeansanzüge	3ug
+Jeansanzügen	4ug
+Jeansboy
+Jeansboys	1
+Jeanshemd
+Jeanshemden	2
+Jeanshemdes	2
+Jeanshemds	1
+Jeanshose
+Jeanshosen	1
+Jeansjacke
+Jeansjacken	1
+Jeansrock
+Jeansrockes	2
+Jeansrocks	1
+Jeansröcke	4ock
+Jeansröcken	5ock
+Jeansstoff
+Jeansstoffe	1
+Jeansstoffen	2
+Jeansstoffes	2
+Jeansstoffs	1
+Jeanstyp
+Jeanstypen	2
+Jeanstyps	1
+Jeck
+Jecke	5jeck
+Jecken	1
+Jeckere
+Jeckeren	1
+Jeckes	1
+Jeckin
+Jeckinnen	3
+Jecks	1
+Jeckste
+Jecksten	1
+Jede	4jeder
+Jedem	5jed
+Jeden	5jed
+Jeder	5jeder
+Jedermannsfreund
+Jedermannsfreunde	1
+Jedermannsfreunden	2
+Jedermannsfreundes	2
+Jedermannsfreunds	1
+Jedermannsrecht
+Jedermannsrechte	1
+Jedermannsrechten	2
+Jedermannsrechtes	2
+Jedermannsrechts	1
+Jedes	5jeder
+Jediot
+Jedrychowski
+Jedrychowskis	1
+Jedwede	7jedwed
+Jedwedem	8jedwed
+Jedweden	8jedwed
+Jedweder	8jedwed
+Jedwedes	8jedwed
+Jeep
+Jeeps	1
+Jeetze
+Jeetzel
+Jeff
+Jefferson
+Jeffrey
+Jeggings
+Jegliche	8jeglich
+Jeglichem	9jeglich
+Jeglichen	9jeglich
+Jeglicher	9jeglich
+Jegliches	9jeglich
+Jegor
+Jehova
+Jehovas	1
+Jein
+Jeins	1
+Jejunitis
+Jekaterinburg
+Jekaterinburgs	1
+Jellinek
+Jellineks	1
+Jelpke
+Jelzin
+Jelzins
+Jelängerjelieber
+Jelängerjeliebern	1
+Jelängerjeliebers	1
+Jem'Hadar
+Jem'Hadars	1
+Jemandem	8jemand
+Jemanden	8jemand
+Jemandes	8jemand
+Jemands	7jemand
+Jemen
+Jemenit
+Jemeniten	2
+Jemenitin
+Jemenitinnen	3
+Jemens	1
+Jen
+Jena
+Jenaer
+Jenaerin
+Jenaerinnen	3
+Jenaern	1
+Jenaers	1
+Jenas	1
+Jenenser
+Jenenserin
+Jenenserinnen	3
+Jenensern	1
+Jenensers	1
+Jenische	0r
+Jenischem	1r
+Jenischen	1
+Jenischer
+Jenissei
+Jenisseis	1
+Jenkins
+Jennie
+Jennifer
+Jennifers	1
+Jenoptik
+Jens
+Jenseitige
+Jenseitigkeit
+Jenseitigkeiten	2
+Jenseits
+Jenseitsglaube
+Jenseitsglauben
+Jenseitsvorstellung
+Jenseitsvorstellungen	2
+Jeremiade
+Jeremiaden	1
+Jeremy
+Jerez
+Jerezwein
+Jerezweine	1
+Jerezweinen	2
+Jerezweines	2
+Jerezweins	1
+Jericho
+Jerichorose
+Jerichorosen	1
+Jerichos	1
+Jerko
+Jeroen
+Jerry
+Jerrys	1
+Jersey
+Jerseys	1
+Jerusalem
+Jerusalemkreuz
+Jerusalemkreuze	1
+Jerusalemkreuzen	2
+Jerusalemkreuzes	2
+Jerusalems	1
+Jerzy
+Jesaja
+Jesajas	1
+Jeschiwa
+Jeschke
+Jeschken
+Jeschkens	1
+Jeside
+Jesiden	1
+Jesidin
+Jesidinnen	3
+Jesper
+Jessas
+Jesses
+Jesuit
+Jesuiten	2
+Jesuitendichtung
+Jesuitendrama
+Jesuitendramas	1
+Jesuitendramen	2a
+Jesuitengeneral
+Jesuitengenerale	1
+Jesuitengeneralen	2
+Jesuitengenerals	1
+Jesuitengeneräle	3al
+Jesuitengenerälen	4al
+Jesuitengymnasien	2um
+Jesuitengymnasium
+Jesuitengymnasiums	1
+Jesuitenhut
+Jesuitenhutes	2
+Jesuitenhuts	1
+Jesuitenhüte	3ut
+Jesuitenhüten	4ut
+Jesuitenkirche
+Jesuitenkirchen	1
+Jesuitenkolleg
+Jesuitenkollegien	3
+Jesuitenkollegs	1
+Jesuitenmoral
+Jesuitenorden
+Jesuitenordens	1
+Jesuitenpater
+Jesuitenpaters	1
+Jesuitenpatres	3er
+Jesuitenschule
+Jesuitenschulen	1
+Jesuitenschüler
+Jesuitenschülern	1
+Jesuitenschülers	1
+Jesuitenstil
+Jesuitenstils	1
+Jesuitentheater
+Jesuitentheatern	1
+Jesuitentheaters	1
+Jesuitentum
+Jesuitentumes	2
+Jesuitentums	1
+Jesuitenvater
+Jesuitenvaters	1
+Jesuitenväter	4ater
+Jesuitenvätern	5ater
+Jesuitenzögling
+Jesuitenzöglinge	1
+Jesuitenzöglingen	2
+Jesuitenzöglings	1
+Jesuitismus
+Jesus
+Jesus-People-Bewegung
+Jesusgebet
+Jesusgebete	1
+Jesusgebetes	2
+Jesusgebets	1
+Jesuskind
+Jesuskinds	1
+Jesuskirche
+Jesuskirchen	1
+Jesusknabe
+Jesusknaben	1
+Jesuslatschen
+Jesuslatschens	1
+Jet
+Jet-Boot
+Jet-Lag
+Jet-Lags	1
+Jet-Liner
+Jet-Linern	1
+Jet-Liners	1
+Jet-Pack
+Jet-Packs	1
+Jet-Set
+Jet-Sets	1
+Jet-Ski
+Jet-Skier	2
+Jet-Skiern	3
+Jet-Skis	1
+Jet-Stream
+Jetboot
+Jetboote	1
+Jetbooten	2
+Jetbootes	2
+Jetboots	1
+Jetflug
+Jetfluges	2
+Jetflugs	1
+Jetflüge	3ug
+Jetflügen	4ug
+Jethose
+Jethosen	1
+Jetlag
+Jetlags	1
+Jetliner
+Jetlinern	1
+Jetliners	1
+Jeton
+Jetons	1
+Jetpack
+Jetpacks	1
+Jetpilot
+Jetpiloten	2
+Jetpilotin
+Jetpilotinnen	3
+Jets	1
+Jetschwung
+Jetschwunges	2
+Jetschwungs	1
+Jetschwünge	4ung
+Jetschwüngen	5ung
+Jetset
+Jetsets	1
+Jetski
+Jetskier	2
+Jetskiern	3
+Jetskis	1
+Jetstream
+Jetstreams	1
+Jett
+Jettes	2
+Jettstein
+Jettsteine	1
+Jettsteinen	2
+Jettsteines	2
+Jettsteins	1
+Jetz
+Jetzige	7jetzig
+Jetzigen	1
+Jetzt	5jetzt
+Jetztmensch
+Jetztmenschen	2
+Jetztzeit
+Jeu
+Jeus	1
+Jever
+Jeweilige
+Jeweiligen	1
+Jewgeni
+Jewish
+Jiang
+Jiantang
+Jiaozhouwan
+Jiddisch
+Jiddischismus
+Jiddischist
+Jiddischisten	2
+Jiddischs	1
+Jiddismen	2us
+Jiddismus
+Jiddist
+Jiddisten	2
+Jiddistik
+Jieper
+Jiepers	1
+Jigal
+Jigger
+Jiggern	1
+Jiggers	1
+Jihad
+Jihadismus
+Jihadist
+Jihadisten	2
+Jihadistenmiliz
+Jihadistenmilizen	2
+Jim
+Jimmy
+Jims	1
+Jin
+Jina
+Jinas	1
+Jingle
+Jingles	1
+Jingo
+Jingoismen	2us
+Jingoismus
+Jingos	1
+Jinnah
+Jinnah-Flughafen
+Jinnah-Flughafens	1
+Jinnahs	1
+Jiohn	4ohn
+Jischuv
+Jischuw
+Jitter
+Jitterbug
+Jitterbugs	1
+Jittern	1
+Jitters	1
+Jiu-Jitsu
+Jive
+Jives	1
+Jlg
+Jo
+Jo-Jo
+Jo-Jo-Effekt
+Jo-Jo-Effekte	1
+Jo-Jo-Effekten	2
+Jo-Jo-Effektes	2
+Jo-Jo-Effekts	1
+Jo-Jos	1
+Joachim
+Joachims	1
+Joao
+Joaquin
+Job
+Job-Nomade
+Job-Nomaden	1
+Job-Shop
+Job-Shops	1
+Jobangebot
+Jobangebote	1
+Jobangeboten	2
+Jobangebotes	2
+Jobangebots	1
+Jobaussicht
+Jobaussichten	2
+Jobben
+Jobbende
+Jobbenden	1
+Jobbens	1
+Jobber
+Jobberin
+Jobberinnen	3
+Jobbern	1
+Jobbers	1
+Jobbörse
+Jobbörsen	1
+Jobcenter
+Jobcentern	1
+Jobcenters	1
+Jobeljahr
+Jobeljahre	1
+Jobeljahren	2
+Jobeljahres	2
+Jobeljahrs	1
+Jobgarantie
+Jobgarantien	1
+Jobhopper
+Jobhoppern	1
+Jobhoppers	1
+Jobhopping
+Jobhoppings	1
+Jobim
+Jobkiller
+Jobkillern	1
+Jobkillers	1
+Jobmaschine
+Jobmaschinen	1
+Jobmisere
+Jobmiseren	1
+Jobnomade
+Jobnomaden	1
+Jobnomadin
+Jobnomadinnen	3
+Jobperspektive
+Jobperspektiven	1
+Jobprofil
+Jobprofile	1
+Jobprofilen	2
+Jobprofiles	2
+Jobprofils	1
+Jobrotation
+Jobrotationen	2
+Jobs
+Jobsharing
+Jobsharings	1
+Jobst
+Jobsuche
+Jobsuchende
+Jobsuchendem	1
+Jobsuchenden	1
+Jobsuchender	1
+Jobticket
+Jobtickets	1
+Jobwechsel
+Jobwechseln	1
+Jobwechsels	1
+Jobwunder
+Jobwundern	1
+Jobwunders	1
+Joch
+Jochalge
+Jochalgen	1
+Jochbein
+Jochbeine	1
+Jochbeinen	2
+Jochbeines	2
+Jochbeins	1
+Jochbogen
+Jochbogens	1
+Jochbrücke
+Jochbrücken	1
+Jochbögen	4ogen
+Joche	1
+Jochelbeere
+Jochelbeeren	1
+Jochen	2
+Jochens	1
+Joches	2
+Jochs	1
+Jochträger
+Jochträgern	1
+Jochträgers	1
+Jochweite
+Jochweiten	1
+Jockeimütze
+Jockel
+Jockeln	1
+Jockels	1
+Jockette
+Jockey
+Jockeymütze
+Jockeymützen	1
+Jockeys	1
+Jod
+Jodat
+Jodate	1
+Jodaten	2
+Jodates	2
+Jodats	1
+Jodbad
+Jodbades	2
+Jodbads	1
+Jodbäder	4ad
+Jodbädern	5ad
+Joddampf
+Joddampfes	2
+Joddampfs	1
+Joddämpfe	5ampf
+Joddämpfen	6ampf
+Jode	1
+Jodeldiplom
+Jodeldiplome	1
+Jodeldiplomen	2
+Jodeldiploms	1
+Jodellied
+Jodellieder	2
+Jodelliedern	3
+Jodelliedes	2
+Jodellieds	1
+Jodeln
+Jodelnde
+Jodelnden	1
+Jodelndere
+Jodelnderen	1
+Jodelndste
+Jodelndsten	1
+Jodelns	1
+Jodes	2
+Jodgeruch
+Jodgeruches	2
+Jodgeruchs	1
+Jodgerüche	4uch
+Jodgerüchen	5uch
+Jodhpur
+Jodhpurhose
+Jodhpurhosen	1
+Jodhpurs	1
+Jodhpurschuh
+Jodhpurschuhe	1
+Jodhpurschuhen	2
+Jodhpurschuhes	2
+Jodhpurschuhs	1
+Jodhpurstiefel
+Jodhpurstiefeln	1
+Jodhpurstiefels	1
+Jodismus
+Jodkalium
+Jodkaliums	1
+Jodl
+Jodler
+Jodlerin
+Jodlerinnen	3
+Jodlern	1
+Jodlers	1
+Jodmangel
+Jodmangels	1
+Jodnatrium
+Jodnatriums	1
+Jodo
+Jodoform
+Jodoforms	1
+Jodometrie
+Jodpräparat
+Jodpräparate	1
+Jodpräparaten	2
+Jodpräparates	2
+Jodpräparats	1
+Jodquelle
+Jodquellen	1
+Jods	1
+Jodsalz
+Jodsalze	1
+Jodsalzen	2
+Jodsalzes	2
+Jodsäure
+Jodtablette
+Jodtabletten	1
+Jodtinktur
+Jodtinkturen	2
+Jodvergiftung
+Jodvergiftungen	2
+Jodwasserstoff
+Jodwasserstoffe	1
+Jodwasserstoffes	2
+Jodwasserstoffs	1
+Jodwasserstoffsäure
+Jodzahl
+Jodzahlen	2
+Joe
+Joel
+Joelle
+Joes	1
+Jofikator
+Jofikatoren	2
+Jofikators	1
+Jogamatte
+Jogaübung
+Jogger
+Joggerin
+Joggerinnen	3
+Joggern	1
+Joggers	1
+Jogging
+Jogginganzug
+Jogginganzuges	2
+Jogginganzugs	1
+Jogginganzüge	3ug
+Jogginganzügen	4ug
+Jogginghose
+Jogginghosen	1
+Joggings	1
+Joghurt
+Joghurtbecher
+Joghurtbechern	1
+Joghurtbechers	1
+Joghurts	1
+Jogi
+Jogin
+Jogins	1
+Jogis	1
+Jogurt
+Jogurtbecher
+Jogurtbechern	1
+Jogurtbechers	1
+Jogurts	1
+Johan
+Johann
+Johanna
+Johannaes	2
+Johannas	1
+Johannes
+Johannes'	1
+Johannesburg
+Johannesburgs	1
+Johannesevangelium
+Johannesevangeliums	1
+Johanneskirche
+Johanneskirchen	1
+Johannespassion
+Johannespassionen	2
+Johannesse	2
+Johannessen	3
+Johannis
+Johannisbeer	0e
+Johannisbeere
+Johannisbeeren	1
+Johannisbeergelee
+Johannisbeergelees	1
+Johannisbeermarmelade
+Johannisbeermarmeladen	1
+Johannisbeermost
+Johannisbeermoste	1
+Johannisbeermosten	2
+Johannisbeermostes	2
+Johannisbeermosts	1
+Johannisbeersaft
+Johannisbeersafte	1
+Johannisbeersaftes	2
+Johannisbeersafts	1
+Johannisbeerschorle
+Johannisbeerschorlen	1
+Johannisbeerstrauch
+Johannisbeerstrauches	2
+Johannisbeerstrauchs	1
+Johannisbeersträucher	6auch
+Johannisbeersträuchern	7auch
+Johannisbeersäfte	4aft
+Johannisbeersäften	5aft
+Johannisbeerwein
+Johannisbeerweine	1
+Johannisbeerweinen	2
+Johannisbeerweines	2
+Johannisbeerweins	1
+Johannisberger
+Johannisbergern	1
+Johannisbergers	1
+Johannisbrot
+Johannisbrotbaum
+Johannisbrotbaume	1
+Johannisbrotbaumes	2
+Johannisbrotbaums	1
+Johannisbrotbäume	4aum
+Johannisbrotbäumen	5aum
+Johannisbrotes	2
+Johannisbrotgewächs
+Johannisbrotgewächse	1
+Johannisbrotgewächsen	2
+Johannisbrotgewächses	2
+Johannisbrotkern
+Johannisbrotkerne	1
+Johannisbrotkernen	2
+Johannisbrotkernes	2
+Johannisbrotkernmehl
+Johannisbrotkernmehle	1
+Johannisbrotkernmehlen	2
+Johannisbrotkernmehles	2
+Johannisbrotkernmehls	1
+Johannisbrotkerns	1
+Johannisbrots	1
+Johannisfest
+Johannisfeste	1
+Johannisfesten	2
+Johannisfestes	2
+Johannisfests	1
+Johannisfeuer
+Johannisfeuern	1
+Johannisfeuers	1
+Johannisfünkchen
+Johannisfünkchens	1
+Johanniskraut
+Johanniskrautes	2
+Johanniskrauts	1
+Johanniskräuter	5aut
+Johanniskräutern	6aut
+Johanniskäfer
+Johanniskäfern	1
+Johanniskäfers	1
+Johannisnacht
+Johannisnächte	5acht
+Johannisnächten	6acht
+Johannistag
+Johannistage	1
+Johannistagen	2
+Johannistags	1
+Johannistrieb
+Johannistriebe	1
+Johannistrieben	2
+Johannistriebes	2
+Johannistriebs	1
+Johannisvögelchen
+Johannisvögelchens	1
+Johanniswürmchen
+Johanniswürmchens	1
+Johanniter
+Johanniterkreuz
+Johanniterkreuze	1
+Johanniterkreuzen	2
+Johanniterkreuzes	2
+Johannitern	1
+Johanniterorden
+Johanniterordens	1
+Johanniters	1
+Johanniterunfallhilfe
+Johanns	1
+Johanse
+Johansen
+Johansson
+Johlen
+Johlende
+Johlenden	1
+Johlendere
+Johlenderen	1
+Johlendste
+Johlendsten	1
+Johlens	1
+John
+Johnny
+Johnny-Mütze
+Johnny-Mützen	1
+Johnnys	1
+Johns	1
+Johns-Hopkins-Universität
+Johnson
+Johnsons	1
+Joint
+Joint-Venture
+Joint-Venture-Partner
+Joint-Venture-Partnern	1
+Joint-Venture-Partners	1
+Joint-venture
+Joints	1
+Jojo
+Jojo-Effekt
+Jojo-Effekte	1
+Jojo-Effekten	2
+Jojo-Effektes	2
+Jojo-Effekts	1
+Jojoba
+Jojobas	1
+Jojobaöl
+Jojoeffekt
+Jojos	1
+Joke
+Joker
+Jokerin
+Jokerinnen	3
+Jokern	1
+Jokerrolle
+Jokerrollen	1
+Jokers	1
+Jokertor
+Jokertore	1
+Jokertoren	2
+Jokertores	2
+Jokertors	1
+Jokes	1
+Jokulator
+Jokulatoren	2
+Jokulators	1
+Jokus
+Jokusse	2
+Jokussen	3
+Jolanta
+Jolle
+Jollen	1
+Jollenkreuzer
+Jollenkreuzern	1
+Jollenkreuzers	1
+Jom-Kippur-Krieg
+Jom-Kippur-Krieges	2
+Jom-Kippur-Kriegs	1
+Jon
+Jonathan
+Jones
+Jong
+Jonglage
+Jonglagen	1
+Jongleur
+Jongleurakt
+Jongleure	1
+Jongleuren	2
+Jongleures	2
+Jongleurin
+Jongleurinnen	3
+Jongleurs	1
+Jongleursakt
+Jonglierball
+Jonglierballe	1
+Jonglierballes	2
+Jonglierballs	1
+Jonglierbälle	4all
+Jonglierbällen	5all
+Jonglieren
+Jonglierens	1
+Jongliergewicht
+Jongliergewichte	1
+Jongliergewichten	2
+Jongliergewichtes	2
+Jongliergewichts	1
+Jonny
+Jonnys	1
+Jons	1
+Joppe
+Joppen	1
+Joras
+Jordan
+Jordanian
+Jordanien
+Jordaniens	1
+Jordanier
+Jordanierin
+Jordanierinnen	3
+Jordaniern	1
+Jordaniers	1
+Jordans	1
+Jorge
+Jorgos
+Jornada
+Joruri
+Joruris	1
+Joschka
+Joschkas	1
+Jose
+Josef
+Josefine
+Josefines	1
+Josefs	1
+Josefsehe
+Josefsehen	1
+Josefskraut
+Josefskrautes	2
+Josefskräuter	5aut
+Josefskräutern	6aut
+Josefstadt
+Joseph
+Josepha
+Josephinismus
+Josephs	1
+Josephsehe
+Josephsehen	1
+Josette
+Josiane
+Jospin
+Jossi
+Jostabeere
+Jostabeeren	1
+Jostedalsbre
+Jostedalsbres	1
+José
+Jot
+Jota
+Jotas	1
+Joule
+Joules	1
+Joulwan
+Jour
+Jourdan
+Jourdans	1
+Journaille
+Journal
+Journalauszug
+Journalauszuges	2
+Journalauszugs	1
+Journalauszüge	3ug
+Journalauszügen	4ug
+Journalbeamte
+Journalbeamtem	1
+Journalbeamten	1
+Journalbeamter	1
+Journaldienst
+Journaldienste	1
+Journaldiensten	2
+Journaldienstes	2
+Journaldiensts	1
+Journale	1
+Journalen	2
+Journalführer
+Journalführerin
+Journalführerinnen	3
+Journalführern	1
+Journalführers	1
+Journalismus
+Journalist
+Journalisten	2
+Journalistenarbeit
+Journalistenarbeiten	2
+Journalistenausweis
+Journalistenausweise	1
+Journalistenausweisen	2
+Journalistenausweises	2
+Journalistendeutsch
+Journalistenmeute
+Journalistenmeuten	1
+Journalistenpulk
+Journalistenpulke	1
+Journalistenpulken	2
+Journalistenpulks	1
+Journalistenschar
+Journalistenscharen	2
+Journalistenschule
+Journalistenschulen	1
+Journalistenverband
+Journalistenverbandes	2
+Journalistenverbands	1
+Journalistenverbände	4and
+Journalistenverbänden	5and
+Journalistik
+Journalistin
+Journalistinnen	3
+Journalnummer
+Journalnummern	1
+Journals	1
+Jours	1
+Jovan
+Jovialität
+Joystick
+Joysticks	1
+Jozef
+Ju
+Ju-Jutsu
+Ju-Jutsus	1
+JuLeiKa
+JuLeiKas	1
+Juan
+Juans	1
+Jubel
+Jubel-Perser
+Jubel-Persern	1
+Jubelablass
+Jubelablasses	2
+Jubelablaß
+Jubelablässe	4ass
+Jubelablässen	5ass
+Jubelbraut
+Jubelbräute	4aut
+Jubelbräuten	5aut
+Jubelbräutigam
+Jubelbräutigame	1
+Jubelbräutigamen	2
+Jubelbräutigams	1
+Jubeldaten	2um
+Jubeldatum
+Jubeldatums	1
+Jubelfeier
+Jubelfeiern	1
+Jubelfest
+Jubelfeste	1
+Jubelfesten	2
+Jubelfests	1
+Jubelgesang
+Jubelgesanges	2
+Jubelgesangs	1
+Jubelgeschrei
+Jubelgeschreies	2
+Jubelgeschreis	1
+Jubelgesänge	4ang
+Jubelgesängen	5ang
+Jubelgreis
+Jubelgreise	1
+Jubelgreisen	2
+Jubelgreises	2
+Jubelhochzeit
+Jubelhochzeiten	2
+Jubeljahr
+Jubeljahre	1
+Jubeljahren	2
+Jubeljahres	2
+Jubeln	1
+Jubelnde
+Jubelnden	1
+Jubelndere
+Jubelnderen	1
+Jubelndste
+Jubelndsten	1
+Jubelns	1
+Jubelpaar
+Jubelpaare	1
+Jubelpaaren	2
+Jubelpaares	2
+Jubelpaars	1
+Jubelperser
+Jubelpersern	1
+Jubelpersers	1
+Jubelrohr
+Jubelrohre	1
+Jubelrohren	2
+Jubelrohres	2
+Jubelrohrs	1
+Jubelruf
+Jubelrufe	1
+Jubelrufen	2
+Jubelrufes	2
+Jubelrufs	1
+Jubels	1
+Jubelschall
+Jubelschrei
+Jubelschreie	1
+Jubelschreien	2
+Jubelschreies	2
+Jubelschreis	1
+Jubelstimmung
+Jubelstimmungen	2
+Jubelsturm
+Jubelsturms	1
+Jubelstürme	4urm
+Jubelstürmen	5urm
+Jubeltraube
+Jubeltrauben	1
+Jubilar
+Jubilare	1
+Jubilaren	2
+Jubilarin
+Jubilarinnen	3
+Jubilars	1
+Jubilate
+Jubilatio
+Jubilation
+Jubilationen	2
+Jubilieren
+Jubilierende
+Jubilierenden	1
+Jubilierendere
+Jubilierenderen	1
+Jubilierendste
+Jubilierendsten	1
+Jubilierens	1
+Jubilierte	10jubiliert
+Jubilierten	1
+Jubiläen	2um
+Jubiläum
+Jubiläums	1
+Jubiläumsangebot
+Jubiläumsangebote	1
+Jubiläumsangeboten	2
+Jubiläumsangebotes	2
+Jubiläumsangebots	1
+Jubiläumsausgabe
+Jubiläumsausgaben	1
+Jubiläumsausstellung
+Jubiläumsausstellungen	2
+Jubiläumserfolg
+Jubiläumserfolge	1
+Jubiläumserfolgen	2
+Jubiläumserfolges	2
+Jubiläumserfolgs	1
+Jubiläumsfeier
+Jubiläumsfeiern	1
+Jubiläumsfeuerwerk
+Jubiläumsfeuerwerke	1
+Jubiläumsfeuerwerken	2
+Jubiläumsfeuerwerkes	2
+Jubiläumsfeuerwerks	1
+Jubiläumsgala
+Jubiläumsgalas	1
+Jubiläumsjahr
+Jubiläumsjahre	1
+Jubiläumsjahren	2
+Jubiläumsjahres	2
+Jubiläumsjahrs	1
+Jubiläumskerze
+Jubiläumskerzen	1
+Jubiläumskonzert
+Jubiläumskonzerte	1
+Jubiläumskonzerten	2
+Jubiläumskonzertes	2
+Jubiläumskonzerts	1
+Jubiläumsschrift
+Jubiläumsschriften	2
+Jubiläumssieg
+Jubiläumssiege	1
+Jubiläumssiegen	2
+Jubiläumssieges	2
+Jubiläumssiegs	1
+Jubiläumsspiel
+Jubiläumsspiele	1
+Jubiläumsspielen	2
+Jubiläumsspieles	2
+Jubiläumsspiels	1
+Jubiläumsveranstaltung
+Jubiläumsveranstaltungen	2
+Jubiläumswagen
+Jubiläumswagens	1
+Jubiläumswägen	4agen
+Juchee
+Juchees	1
+Juchhe
+Juchhes	1
+Juchten
+Juchtenkäfer
+Juchtenkäfern	1
+Juchtenkäfers	1
+Juchtenleder
+Juchtenleders	1
+Juchtens	1
+Juchtenstiefel
+Juchtenstiefeln	1
+Juchtenstiefels	1
+Juchzen
+Juchzende
+Juchzenden	1
+Juchzendere
+Juchzenderen	1
+Juchzendste
+Juchzendsten	1
+Juchzens	1
+Juchzer
+Juchzern	1
+Juchzers	1
+Jucken
+Juckens	1
+Juckepunkt
+Juckflechte
+Juckflechten	1
+Juckpulver
+Juckpulvern	1
+Juckpulvers	1
+Juckreiz
+Juckreize	1
+Juckreizen	2
+Juckreizes	2
+Juda
+Judaica
+Judaika
+Judaisierung
+Judaisierungen	2
+Judaismen	2us
+Judaismus
+Judaist
+Judaisten	2
+Judaistik
+Judaistin
+Judaistinnen	3
+Judasbaum
+Judasbaumes	2
+Judasbaums	1
+Judasbrief
+Judasbriefes	2
+Judasbriefs	1
+Judasbäume	4aum
+Judasbäumen	5aum
+Judasdienst
+Judasdienste	1
+Judasdiensten	2
+Judasdienstes	2
+Judasdiensts	1
+Judaskuss
+Judaskusses	2
+Judaskuß
+Judasküsse	4uss
+Judasküssen	5uss
+Judaslohn
+Judaslohne	1
+Judaslohnes	2
+Judaslohns	1
+Judaslöhne	4ohn
+Judaslöhnen	5ohn
+Judasohr
+Judasohren	2
+Judasohres	2
+Judasohrs	1
+Jude
+Juden	1
+Judenbad
+Judenbades	2
+Judenbads	1
+Judenbart
+Judenbartes	2
+Judenbarts	1
+Judenbäder	4ad
+Judenbädern	5ad
+Judenbärte	4art
+Judenbärten	5art
+Judenchrist
+Judenchristen	2
+Judenchristentum
+Judenchristentums	1
+Judendeportation
+Judendeportationen	2
+Judendeutsch
+Judendiskriminierung
+Judendiskriminierungen	2
+Judendorn
+Judenemanzipation
+Judenfeind
+Judenfeinde	1
+Judenfeinden	2
+Judenfeindes	2
+Judenfeindlichkeit
+Judenfeindlichkeiten	2
+Judenfeinds	1
+Judenfeindschaft
+Judenfeindschaften	2
+Judenfrage
+Judenfriedhof
+Judenfriedhofe	1
+Judenfriedhofes	2
+Judenfriedhofs	1
+Judenfriedhöfe	3of
+Judenfriedhöfen	4of
+Judengegner
+Judengegnern	1
+Judengegners	1
+Judengemeinde
+Judengemeinden	1
+Judengetto
+Judengettos	1
+Judenghetto
+Judenghettos	1
+Judenhass
+Judenhasses	2
+Judenhaß
+Judenheit
+Judenhetze
+Judenhetzen	1
+Judenkirsche
+Judenkirschen	1
+Judenmission
+Judenmord
+Judenmorde	1
+Judenmorden	2
+Judenmordes	2
+Judenmords	1
+Judenpogrom
+Judenpogrome	1
+Judenpogromen	2
+Judenpogroms	1
+Judenpolitik
+Judenrat
+Judenrate	1
+Judenrates	2
+Judenrats	1
+Judenräte	3at
+Judenräten	4at
+Judensau
+Judensauen	2
+Judenschaft
+Judenschaften	2
+Judenschwein
+Judenschweine	1
+Judenschweinen	2
+Judenschweines	2
+Judenschweins	1
+Judenstaat
+Judenstaate	1
+Judenstaates	2
+Judenstaats	1
+Judenstadt
+Judenstempel
+Judenstempeln	1
+Judenstempels	1
+Judenstern
+Judensterne	1
+Judensternen	2
+Judensternes	2
+Judensterns	1
+Judenstädte	4adt
+Judenstädten	5adt
+Judensäue	3au
+Judensäuen	4au
+Judentum
+Judentums	1
+Judenverfolgung
+Judenverfolgungen	2
+Judenvernichtung
+Judenvernichtungen	2
+Judenvertreibung
+Judenvertreibungen	2
+Judenviertel
+Judenvierteln	1
+Judenviertels	1
+Judenwitz
+Judenwitze	1
+Judenwitzen	2
+Judenwitzes	2
+Judika
+Judikat
+Judikate	1
+Judikaten	2
+Judikates	2
+Judikation
+Judikationen	2
+Judikative
+Judikats	1
+Judikatur
+Judikaturen	2
+Judith
+Judizium
+Judiziums	1
+Judo
+Judogi
+Judogriff
+Judogriffe	1
+Judogriffen	2
+Judogriffes	2
+Judogriffs	1
+Judoka
+Judokas	1
+Judos	1
+Judosport
+Judosportes	2
+Judosportler
+Judosportlern	1
+Judosportlers	1
+Judosports	1
+Judäa
+Juergen
+Jug
+Jugend
+Jugend-Notdienst
+Jugend-Redewettbewerb
+Jugend-Redewettbewerbe	1
+Jugend-Redewettbewerben	2
+Jugend-Redewettbewerbes	2
+Jugend-Redewettbewerbs	1
+Jugendabteilung
+Jugendabteilungen	2
+Jugendalkoholismus
+Jugendalter
+Jugendaltern	1
+Jugendalters	1
+Jugendamt
+Jugendamte	1
+Jugendamtes	2
+Jugendamts	1
+Jugendamtsmitarbeiter
+Jugendamtsmitarbeiterin
+Jugendamtsmitarbeiterinnen	3
+Jugendamtsmitarbeitern	1
+Jugendamtsmitarbeiters	1
+Jugendangebot
+Jugendangebote	1
+Jugendangeboten	2
+Jugendangebotes	2
+Jugendangebots	1
+Jugendanwaltschaft
+Jugendanwaltschaften	2
+Jugendarbeit
+Jugendarbeiten	2
+Jugendarbeitslosigkeit
+Jugendarbeitsschutz
+Jugendarbeitsschutzes	2
+Jugendarbeitsschutzgesetz
+Jugendarbeitsschutzgesetze	1
+Jugendarbeitsschutzgesetzen	2
+Jugendarbeitsschutzgesetzes	2
+Jugendarmut
+Jugendarrest
+Jugendarreste	1
+Jugendarresten	2
+Jugendarrests	1
+Jugendausschuss
+Jugendausschusses	2
+Jugendausschuß
+Jugendausschüsse	4uss
+Jugendausschüssen	5uss
+Jugendaustausch
+Jugendaustausche	1
+Jugendaustauschen	2
+Jugendaustausches	2
+Jugendaustauschs	1
+Jugendbande
+Jugendbanden	1
+Jugendbauhütte
+Jugendbauhütten	1
+Jugendbegegnung
+Jugendbegegnungen	2
+Jugendbegleiter
+Jugendbegleitern	1
+Jugendbegleiters	1
+Jugendbehörde
+Jugendbehörden	1
+Jugendbekanntschaft
+Jugendbekanntschaften	2
+Jugendberater
+Jugendberatern	1
+Jugendberaters	1
+Jugendbereich
+Jugendbereiche	1
+Jugendbereichen	2
+Jugendbereiches	2
+Jugendbereichs	1
+Jugendbericht
+Jugendberichte	1
+Jugendberichten	2
+Jugendberichtes	2
+Jugendberichts	1
+Jugendbetreuer
+Jugendbetreuern	1
+Jugendbetreuers	1
+Jugendbewegung
+Jugendbewegungen	2
+Jugendbibliothek
+Jugendbibliotheken	2
+Jugendbild
+Jugendbilder	2
+Jugendbildern	3
+Jugendbildes	2
+Jugendbildner
+Jugendbildnern	1
+Jugendbildners	1
+Jugendbildnis
+Jugendbildnisse	2
+Jugendbildnissen	3
+Jugendbildnisses	3
+Jugendbilds	1
+Jugendbildung
+Jugendbildungen	2
+Jugendblatt
+Jugendblatte	1
+Jugendblattes	2
+Jugendblatts	1
+Jugendblätter	5att
+Jugendblättern	6att
+Jugendblüte
+Jugendblüten	1
+Jugendbrigade
+Jugendbrigaden	1
+Jugendbrigadier
+Jugendbrigadiere	1
+Jugendbrigadieren	2
+Jugendbrigadiers	1
+Jugendbuch
+Jugendbuche	1
+Jugendbuches	2
+Jugendbuchpreisausschreiben
+Jugendbuchpreisausschreibens	1
+Jugendbuchreihe
+Jugendbuchreihen	1
+Jugendbuchs	1
+Jugendbund
+Jugendbunde	1
+Jugendbunden	2
+Jugendbundes	2
+Jugendbunds	1
+Jugendbücher	5uch
+Jugendbücherei
+Jugendbüchereien	2
+Jugendbüchern	6uch
+Jugendbünde	4und
+Jugendbünden	5und
+Jugendbüro
+Jugendbüros	1
+Jugendchor
+Jugendchores	2
+Jugendchöre	3or
+Jugendchören	4or
+Jugendclub
+Jugendclubheim
+Jugendclubheime	1
+Jugendclubheimen	2
+Jugendclubheimes	2
+Jugendclubheims	1
+Jugendclubs	1
+Jugenddichtung
+Jugenddichtungen	2
+Jugenddorf
+Jugenddorfes	2
+Jugenddorfs	1
+Jugenddrama
+Jugenddramas	1
+Jugenddramen	2a
+Jugenddörfer	5orf
+Jugenddörfern	6orf
+Jugendeindruck
+Jugendeindruckes	2
+Jugendeindrucks	1
+Jugendeindrücke	4uck
+Jugendeindrücken	5uck
+Jugendeinrichtung
+Jugendeinrichtungen	2
+Jugenderinnerung
+Jugenderinnerungen	2
+Jugenderlebnis
+Jugenderlebnisse	2
+Jugenderlebnissen	3
+Jugenderlebnisses	3
+Jugenderzieher
+Jugenderziehern	1
+Jugenderziehers	1
+Jugenderziehung
+Jugenderzählung
+Jugenderzählungen	2
+Jugendeselei
+Jugendeseleien	2
+Jugendfeier
+Jugendfeiern	1
+Jugendfeuer
+Jugendfeuers	1
+Jugendfeuerwehr
+Jugendfeuerwehren	2
+Jugendfeuerwehrwart
+Jugendfeuerwehrwarte	1
+Jugendfeuerwehrwarten	2
+Jugendfeuerwehrwartes	2
+Jugendfeuerwehrwarts	1
+Jugendfilm
+Jugendfilme	1
+Jugendfilmen	2
+Jugendfilmes	2
+Jugendfilms	1
+Jugendformation
+Jugendformationen	2
+Jugendforscher
+Jugendforschern	1
+Jugendforschers	1
+Jugendforschung
+Jugendforschungen	2
+Jugendforum
+Jugendfrage
+Jugendfragen	1
+Jugendfreie	11jugendfrei
+Jugendfreien	1
+Jugendfreiwilligendienst
+Jugendfreiwilligendienste	1
+Jugendfreiwilligendiensten	2
+Jugendfreiwilligendienstes	2
+Jugendfreiwilligendiensts	1
+Jugendfreizeitheim
+Jugendfreizeitheime	1
+Jugendfreizeitheimen	2
+Jugendfreizeitheimes	2
+Jugendfreizeitheims	1
+Jugendfreizeitzentren	2um
+Jugendfreizeitzentrum
+Jugendfreizeitzentrums	1
+Jugendfreund
+Jugendfreunde	1
+Jugendfreunden	2
+Jugendfreundes	2
+Jugendfreundin
+Jugendfreundinnen	3
+Jugendfreunds	1
+Jugendfreundschaft
+Jugendfreundschaften	2
+Jugendfrische
+Jugendfunk
+Jugendfunks	1
+Jugendfunktionär
+Jugendfunktionäre	1
+Jugendfunktionären	2
+Jugendfunktionärs	1
+Jugendförderung
+Jugendförderungen	2
+Jugendführer
+Jugendführern	1
+Jugendführers	1
+Jugendfürsorge
+Jugendfürsorger
+Jugendfürsorgerin
+Jugendfürsorgerinnen	3
+Jugendfürsorgern	1
+Jugendfürsorgers	1
+Jugendgang
+Jugendgangs	1
+Jugendgefährdende	17jugendgefährdend
+Jugendgefährdenden	1
+Jugendgefährdendere
+Jugendgefährdenderen	1
+Jugendgefährte
+Jugendgefährten	1
+Jugendgefängnis
+Jugendgefängnisse	2
+Jugendgefängnissen	3
+Jugendgefängnisses	3
+Jugendgeliebte
+Jugendgeliebtem	1
+Jugendgeliebten	1
+Jugendgeliebter	1
+Jugendgeneration
+Jugendgenerationen	2
+Jugendgericht
+Jugendgerichte	1
+Jugendgerichten	2
+Jugendgerichtes	2
+Jugendgerichts	1
+Jugendgerichtsakte
+Jugendgerichtsakten	1
+Jugendgerichtsbarkeit
+Jugendgerichtsbarkeiten	2
+Jugendgerichtsgesetz
+Jugendgerichtsgesetzes	2
+Jugendgerichtshilfe
+Jugendgerichtshilfen	1
+Jugendgeschichte
+Jugendgeschichten	1
+Jugendgespiele
+Jugendgespielen	1
+Jugendgesundheit
+Jugendgewalt
+Jugendglück
+Jugendglückes	2
+Jugendglücks	1
+Jugendgottesdienst
+Jugendgottesdienste	1
+Jugendgottesdiensten	2
+Jugendgottesdienstes	2
+Jugendgottesdiensts	1
+Jugendgruppe
+Jugendgruppen	1
+Jugendgruppenleiter
+Jugendgruppenleitern	1
+Jugendgruppenleiters	1
+Jugendgästehaus
+Jugendgästehauses	2
+Jugendgästehäuser	5aus
+Jugendgästehäusern	6aus
+Jugendhaus
+Jugendhauses	2
+Jugendheim
+Jugendheime	1
+Jugendheimen	2
+Jugendheimes	2
+Jugendheims	1
+Jugendhelfer
+Jugendhelferin
+Jugendhelferinnen	3
+Jugendhelfern	1
+Jugendhelfers	1
+Jugendherberge
+Jugendherbergen	1
+Jugendhilfe
+Jugendhilfegesetz
+Jugendhilfegesetze	1
+Jugendhilfegesetzen	2
+Jugendhilfegesetzes	2
+Jugendhilfen	1
+Jugendhilfeplanung
+Jugendhilfeplanungen	2
+Jugendhilfeträger
+Jugendhilfeträgern	1
+Jugendhilfeträgers	1
+Jugendhof
+Jugendhofes	2
+Jugendhofs	1
+Jugendhort
+Jugendhorte	1
+Jugendhorten	2
+Jugendhortes	2
+Jugendhorts	1
+Jugendhäuser	5aus
+Jugendhäusern	6aus
+Jugendhöfe	3of
+Jugendhöfen	4of
+Jugendideal
+Jugendideale	1
+Jugendidealen	2
+Jugendideals	1
+Jugendinformation
+Jugendinformationen	2
+Jugendinstitut
+Jugendinstitute	1
+Jugendinstituten	2
+Jugendinstitutes	2
+Jugendinstituts	1
+Jugendjahr
+Jugendjahre	1
+Jugendjahren	2
+Jugendjahres	2
+Jugendjahrs	1
+Jugendkalender
+Jugendkalendern	1
+Jugendkalenders	1
+Jugendkamerad
+Jugendkameraden	2
+Jugendkammer
+Jugendkammern	1
+Jugendkleid
+Jugendkleider	2
+Jugendkleidern	3
+Jugendkleides	2
+Jugendklub
+Jugendklubheim
+Jugendklubheime	1
+Jugendklubheimen	2
+Jugendklubheimes	2
+Jugendklubheims	1
+Jugendklubs	1
+Jugendkollektiv
+Jugendkollektive	1
+Jugendkollektiven	2
+Jugendkollektives	2
+Jugendkollektivs	1
+Jugendkomitee
+Jugendkomitees	1
+Jugendkommission
+Jugendkommissionen	2
+Jugendkonferenz
+Jugendkonferenzen	2
+Jugendkraft
+Jugendkrawall
+Jugendkrawalle	1
+Jugendkrawallen	2
+Jugendkrawalles	2
+Jugendkrawalls	1
+Jugendkriminalität
+Jugendkräfte	4aft
+Jugendkräften	5aft
+Jugendkultur
+Jugendkulturen	2
+Jugendkulturwerkstatt
+Jugendkulturwerkstätten	5att
+Jugendkulturzentren	2um
+Jugendkulturzentrum
+Jugendkulturzentrums	1
+Jugendkunde
+Jugendlager
+Jugendlagern	1
+Jugendlagers	1
+Jugendland
+Jugendlandes	2
+Jugendlands	1
+Jugendlaster
+Jugendlastern	1
+Jugendlasters	1
+Jugendleben
+Jugendlebens	1
+Jugendleiter
+Jugendleitercard
+Jugendleitercards	1
+Jugendleiterin
+Jugendleiterinnen	3
+Jugendleiterkarte
+Jugendleiterkarten	1
+Jugendleitern	1
+Jugendleiters	1
+Jugendliche	0r
+Jugendlichem	1r
+Jugendlichen	1
+Jugendlicher
+Jugendlichere
+Jugendlicheren	1
+Jugendlichkeit
+Jugendlichkeitswahn
+Jugendlichkeitswahnes	2
+Jugendlichkeitswahns	1
+Jugendlichste
+Jugendlichsten	1
+Jugendliebe
+Jugendlieben	1
+Jugendlied
+Jugendlieder	2
+Jugendliedern	3
+Jugendliedes	2
+Jugendlieds	1
+Jugendliteratur
+Jugendliteraturen	2
+Jugendliteraturpreis
+Jugendliteraturpreise	1
+Jugendliteraturpreisen	2
+Jugendliteraturpreises	2
+Jugendlohn
+Jugendlohnes	2
+Jugendlohns	1
+Jugendlyrik
+Jugendländer	5and
+Jugendländern	6and
+Jugendläufer
+Jugendläufern	1
+Jugendläufers	1
+Jugendlöhne	4ohn
+Jugendlöhnen	5ohn
+Jugendmagazin
+Jugendmagazine	1
+Jugendmagazinen	2
+Jugendmagazins	1
+Jugendmannschaft
+Jugendmannschaften	2
+Jugendmarkt
+Jugendmarktes	2
+Jugendmarkts	1
+Jugendmeister
+Jugendmeisterin
+Jugendmeisterinnen	3
+Jugendmeistern	1
+Jugendmeisters	1
+Jugendmeisterschaft
+Jugendmeisterschaften	2
+Jugendminister
+Jugendministerien	2um
+Jugendministerin
+Jugendministerinnen	3
+Jugendministerium
+Jugendministeriums	1
+Jugendministern	1
+Jugendministers	1
+Jugendmitarbeiter
+Jugendmitarbeiterin
+Jugendmitarbeiterinnen	3
+Jugendmitarbeitern	1
+Jugendmitarbeiters	1
+Jugendmode
+Jugendmoden	1
+Jugendmuseen	2um
+Jugendmuseum
+Jugendmuseums	1
+Jugendmusik
+Jugendmusikbewegung
+Jugendmusikbewegungen	2
+Jugendmusiken	2
+Jugendmusikschule
+Jugendmusikschulen	1
+Jugendmärkte	5arkt
+Jugendmärkten	6arkt
+Jugendnationalspielerin
+Jugendnationalspielerinnen	3
+Jugendnot
+Jugendnotdienst
+Jugendnotdienste	1
+Jugendnotdiensten	2
+Jugendnotdienstes	2
+Jugendnotdiensts	1
+Jugendnöte	3ot
+Jugendnöten	4ot
+Jugendobjekt
+Jugendobjekte	1
+Jugendobjekten	2
+Jugendobjektes	2
+Jugendobjekts	1
+Jugendoffizier
+Jugendoffiziere	1
+Jugendoffizieren	2
+Jugendoffiziers	1
+Jugendorchester
+Jugendorchestern	1
+Jugendorchesters	1
+Jugendorganisation
+Jugendorganisationen	2
+Jugendparlament
+Jugendparlamente	1
+Jugendparlamenten	2
+Jugendparlamentes	2
+Jugendparlaments	1
+Jugendperspektive
+Jugendperspektiven	1
+Jugendpfarrer
+Jugendpfarrern	1
+Jugendpfarrers	1
+Jugendpflege
+Jugendpfleger
+Jugendpflegerin
+Jugendpflegerinnen	3
+Jugendpflegern	1
+Jugendpflegers	1
+Jugendphase
+Jugendphasen	1
+Jugendpolitik
+Jugendpolitiken	2
+Jugendpornografie
+Jugendpornographie
+Jugendportal
+Jugendportale	1
+Jugendportalen	2
+Jugendportals	1
+Jugendpresse
+Jugendproblem
+Jugendprobleme	1
+Jugendproblemen	2
+Jugendproblems	1
+Jugendprogramm
+Jugendprogramme	1
+Jugendprogrammen	2
+Jugendprogrammes	2
+Jugendprogramms	1
+Jugendprojekt
+Jugendprojekte	1
+Jugendprojekten	2
+Jugendprojektes	2
+Jugendprojekts	1
+Jugendprotest
+Jugendproteste	1
+Jugendprotesten	2
+Jugendprotestes	2
+Jugendprotests	1
+Jugendpsychiater
+Jugendpsychiaterin
+Jugendpsychiaterinnen	3
+Jugendpsychiatern	1
+Jugendpsychiaters	1
+Jugendpsychiatrie
+Jugendpsychiatrien	1
+Jugendpsychologe
+Jugendpsychologen	1
+Jugendpsychologie
+Jugendradio
+Jugendradios	1
+Jugendrecht
+Jugendrechte	1
+Jugendrechten	2
+Jugendrechtes	2
+Jugendrechts	1
+Jugendredaktion
+Jugendredaktionen	2
+Jugendreise
+Jugendreisen	1
+Jugendreiz
+Jugendreize	1
+Jugendreizen	2
+Jugendreizes	2
+Jugendreligion
+Jugendreligionen	2
+Jugendrichter
+Jugendrichterin
+Jugendrichterinnen	3
+Jugendrichtern	1
+Jugendrichters	1
+Jugendring
+Jugendringe	1
+Jugendringen	2
+Jugendringes	2
+Jugendrings	1
+Jugendroman
+Jugendromane	1
+Jugendromanen	2
+Jugendromans	1
+Jugendschmelz
+Jugendschmelzes	2
+Jugendschrift
+Jugendschriften	2
+Jugendschriftsteller
+Jugendschriftstellern	1
+Jugendschriftstellers	1
+Jugendschutz
+Jugendschutzbestimmung
+Jugendschutzbestimmungen	2
+Jugendschutze	1
+Jugendschutzes	2
+Jugendschutzfilter
+Jugendschutzfiltern	1
+Jugendschutzfilters	1
+Jugendschutzgesetz
+Jugendschutzgesetze	1
+Jugendschutzgesetzen	2
+Jugendschutzgesetzes	2
+Jugendschwarm
+Jugendschwarmes	2
+Jugendschwarms	1
+Jugendschwärme	4arm
+Jugendschwärmen	5arm
+Jugendschöffe
+Jugendschöffen	1
+Jugendschöffengericht
+Jugendschöffengerichte	1
+Jugendschöffengerichten	2
+Jugendschöffengerichtes	2
+Jugendschöffengerichts	1
+Jugendschöffin
+Jugendschöffinnen	3
+Jugendseelsorge
+Jugendsendung
+Jugendsendungen	2
+Jugendsozialarbeit
+Jugendspielplatz
+Jugendspielplatzes	2
+Jugendspielplätze	4atz
+Jugendspielplätzen	5atz
+Jugendsportschule
+Jugendsportschulen	1
+Jugendsportwart
+Jugendsportwarte	1
+Jugendsportwarten	2
+Jugendsportwartes	2
+Jugendsportwarts	1
+Jugendsprache
+Jugendsprachen	1
+Jugendstaatsanwalt
+Jugendstaatsanwaltes	2
+Jugendstaatsanwalts	1
+Jugendstaatsanwaltschaft
+Jugendstaatsanwaltschaften	2
+Jugendstaatsanwälte	4alt
+Jugendstaatsanwälten	5alt
+Jugendstadtrat
+Jugendstadtrates	2
+Jugendstadtrats	1
+Jugendstadträte	3at
+Jugendstadträten	4at
+Jugendstil
+Jugendstile	1
+Jugendstiles	2
+Jugendstilfassade
+Jugendstilfassaden	1
+Jugendstilfenster
+Jugendstilfenstern	1
+Jugendstilfensters	1
+Jugendstilmuster
+Jugendstilmustern	1
+Jugendstilmusters	1
+Jugendstilornament
+Jugendstilornamente	1
+Jugendstilornamenten	2
+Jugendstilornamentes	2
+Jugendstilornaments	1
+Jugendstils	1
+Jugendstilvilla
+Jugendstilvillen	2a
+Jugendstrafanstalt
+Jugendstrafanstalten	2
+Jugendstrafe
+Jugendstrafen	1
+Jugendstrafrecht
+Jugendstrafrechte	1
+Jugendstrafrechtes	2
+Jugendstrafrechts	1
+Jugendstrafvollzug
+Jugendstrafvollzuges	2
+Jugendstrafvollzugs	1
+Jugendstreich
+Jugendstreiche	1
+Jugendstreichen	2
+Jugendstreiches	2
+Jugendstreichs	1
+Jugendstudie
+Jugendstudien	1
+Jugendstunde
+Jugendstunden	1
+Jugendszene
+Jugendszenen	1
+Jugendsünde
+Jugendsünden	1
+Jugendtag
+Jugendtage	1
+Jugendtagen	2
+Jugendtages	2
+Jugendtags	1
+Jugendtarif
+Jugendtarife	1
+Jugendtarifen	2
+Jugendtarifes	2
+Jugendtarifs	1
+Jugendtelefon
+Jugendtelefone	1
+Jugendtelefonen	2
+Jugendtelefones	2
+Jugendtelefons	1
+Jugendtelephon
+Jugendtheater
+Jugendtheatern	1
+Jugendtheaters	1
+Jugendticket
+Jugendtickets	1
+Jugendtorheit
+Jugendtorheiten	2
+Jugendtourismus
+Jugendtouristik
+Jugendtrainer
+Jugendtrainerin
+Jugendtrainerinnen	3
+Jugendtrainern	1
+Jugendtrainers	1
+Jugendtraum
+Jugendtraume	1
+Jugendtraumes	2
+Jugendtraums	1
+Jugendtreff
+Jugendtreffen
+Jugendtreffens	1
+Jugendtreffs	1
+Jugendträume	4aum
+Jugendträumen	5aum
+Jugendturnen
+Jugendturnens	1
+Jugendverband
+Jugendverbandes	2
+Jugendverbands	1
+Jugendverbot
+Jugendverbote	1
+Jugendverboten	2
+Jugendverbotes	2
+Jugendverbots	1
+Jugendverbände	4and
+Jugendverbänden	5and
+Jugendverein
+Jugendvereine	1
+Jugendvereinen	2
+Jugendvereines	2
+Jugendvereins	1
+Jugendversammlung
+Jugendversammlungen	2
+Jugendvertreter
+Jugendvertretern	1
+Jugendvertreters	1
+Jugendvorstellung
+Jugendvorstellungen	2
+Jugendwahn
+Jugendwahne	1
+Jugendwahnes	2
+Jugendwahns	1
+Jugendwart
+Jugendwarte	1
+Jugendwarten	2
+Jugendwartes	2
+Jugendwarts	1
+Jugendweihe
+Jugendweihen	1
+Jugendweiherede
+Jugendweihereden	1
+Jugendweihling
+Jugendweihlinge	1
+Jugendweihlingen	2
+Jugendweihlings	1
+Jugendwerk
+Jugendwerke	1
+Jugendwerken	2
+Jugendwerkes	2
+Jugendwerkhof
+Jugendwerkhofes	2
+Jugendwerkhofs	1
+Jugendwerkhöfe	3of
+Jugendwerkhöfen	4of
+Jugendwerks	1
+Jugendwohlfahrtsträger
+Jugendwohlfahrtsträgern	1
+Jugendwohlfahrtsträgers	1
+Jugendwohnheim
+Jugendwohnheime	1
+Jugendwohnheimen	2
+Jugendwohnheimes	2
+Jugendwohnheims	1
+Jugendwort
+Jugendworte	1
+Jugendwortes	2
+Jugendworts	1
+Jugendwörter	5ort
+Jugendwörtern	6ort
+Jugendzeit
+Jugendzeiten	2
+Jugendzeitschrift
+Jugendzeitschriften	2
+Jugendzeitung
+Jugendzeitungen	2
+Jugendzentrale
+Jugendzentralen	1
+Jugendzentren	2um
+Jugendzentrum
+Jugendzentrums	1
+Jugendzimmer
+Jugendzimmern	1
+Jugendzimmers	1
+Jugendämter	5amt
+Jugendämtern	6amt
+Jugo
+Jugos	1
+Jugoslawe
+Jugoslawen	1
+Jugoslawien
+Jugoslawienflüchtling
+Jugoslawienflüchtlinge	1
+Jugoslawienflüchtlingen	2
+Jugoslawienflüchtlings	1
+Jugoslawiens	1
+Jugoslawin
+Jugoslawinnen	3
+Jugoslawische	13jugoslawisch
+Jugoslawischen	1
+Jugs	1
+Juice
+Juicer
+Juicern	1
+Juicers	1
+Juices	1
+Jujutsu
+Jujutsus	1
+Jukebox
+Jukeboxen	2
+Jukeboxes	2
+Jul
+Julbock
+Julbockes	2
+Julbocks	1
+Julböcke	4ock
+Julböcken	5ock
+Jule
+Julei
+Juleica
+Juleicas	1
+Juleika
+Juleikas	1
+Juleis	1
+Jules
+Julfest
+Julfeste	1
+Julfesten	2
+Julfestes	2
+Julfests	1
+Juli
+Julia
+Juliabend
+Juliabende	1
+Juliabenden	2
+Juliabends	1
+Juliamenge
+Juliamengen	1
+Julian
+Julias	1
+Juliausgabe
+Juliausgaben	1
+Julie
+Julienne
+Julierpass
+Julierpasses	2
+Juliheft
+Julihefte	1
+Juliheften	2
+Juliheftes	2
+Julihefts	1
+Julihitze
+Julihälfte
+Julihälften	1
+Julikrise
+Julimonarchie
+Julimorgen
+Julimorgens	1
+Julinacht
+Julinächte	5acht
+Julinächten	6acht
+Juliputsch
+Juliputsches	2
+Juliputschs	1
+Julirevolution
+Julirevolutionen	2
+Julis	1
+Julisonne
+Julitag
+Julitage	1
+Julitagen	2
+Julitages	2
+Julitags	1
+Julius
+Juliusturm
+Juliusturmes	2
+Juliusturms	1
+Juliwoche
+Juliwochen	1
+Juliwochenende
+Juliwochenenden	1
+Juliwochenendes	1
+Julklapp
+Julklapps	1
+Julmonat
+Julmonate	1
+Julmonaten	2
+Julmonates	2
+Julmonats	1
+Julmond
+Julmonde	1
+Julmonden	2
+Julmondes	2
+Julmonds	1
+Julnacht
+Julnächte	5acht
+Julnächten	6acht
+Juls	1
+July
+Jumbo
+Jumbo-Jet
+Jumbo-Jets	1
+Jumbojet
+Jumbojets	1
+Jumbos	1
+Jumelage
+Jumelagen	1
+Jump
+Jumper
+Jumperkleid
+Jumperkleider	2
+Jumperkleidern	3
+Jumperkleides	2
+Jumperkleids	1
+Jumpern	1
+Jumpers	1
+Jumps	1
+Jumpseat
+Jumpseats	1
+Jumpstyle
+Jumpstyles	1
+Jumpsuit
+Jumpsuits	1
+Juncker
+Junckers	1
+June
+Jung
+Jung-Hyun
+Jungakademiker
+Jungakademikerin
+Jungakademikerinnen	3
+Jungakademikern	1
+Jungakademikers	1
+Jungaktie
+Jungaktien	1
+Jungarbeiter
+Jungarbeiterin
+Jungarbeiterinnen	3
+Jungarbeitern	1
+Jungarbeiters	1
+Jungbaum
+Jungbaumes	2
+Jungbaums	1
+Jungbier
+Jungbiere	1
+Jungbieren	2
+Jungbieres	2
+Jungbiers	1
+Jungborn
+Jungborne	1
+Jungbornen	2
+Jungbornes	2
+Jungborns	1
+Jungbrunnen
+Jungbrunnens	1
+Jungbunzlau
+Jungbäume	4aum
+Jungbäumen	5aum
+Jungbürger
+Jungbürgerfeier
+Jungbürgerfeiern	1
+Jungbürgern	1
+Jungbürgers	1
+Jungchen
+Jungchens	1
+Jungdachs
+Jungdachse	1
+Jungdachsen	2
+Jungdachses	2
+Jungdemokrat
+Jungdemokraten	2
+Jungdeutsche
+Jungdeutschem	1
+Jungdeutschen	1
+Jungdeutscher	1
+Junge	0s
+Jungem	1s
+Jungen	1s
+Jungenarbeit
+Jungenarbeiten	2
+Jungenart
+Jungenbande
+Jungenbanden	1
+Jungenbereich
+Jungenbereiche	1
+Jungenbereichen	2
+Jungenbereiches	2
+Jungenbereichs	1
+Jungenerzählung
+Jungenerzählungen	2
+Jungengesicht
+Jungengesichter	2
+Jungengesichtern	3
+Jungengesichtes	2
+Jungengesichts	1
+Jungengruppe
+Jungengruppen	1
+Jungenhafte	11jungenhaft
+Jungenhaften	1
+Jungenhaftere
+Jungenhafteren	1
+Jungenhafteste
+Jungenhaftesten	1
+Jungenhorde
+Jungenhorden	1
+Jungenjungschar
+Jungenjungscharen	2
+Jungenklasse
+Jungenklassen	1
+Jungenlachen
+Jungenlachens	1
+Jungenname
+Jungennamen	1
+Jungennamens	2
+Jungens	2
+Jungenschopf
+Jungenschopfes	2
+Jungenschopfs	1
+Jungenschule
+Jungenschulen	1
+Jungenschöpfe	4opf
+Jungenschöpfen	5opf
+Jungenstimme
+Jungenstimmen	1
+Jungenstreich
+Jungenstreiche	1
+Jungenstreichen	2
+Jungenstreiches	2
+Jungenstreichs	1
+Junger	1s
+Jungerhaltung
+Junges
+Jungfer
+Jungfern	1
+Jungfernboden
+Jungfernbodens	1
+Jungfernbraten
+Jungfernbratens	1
+Jungfernböden	4oden
+Jungfernfahrt
+Jungfernfahrten	2
+Jungfernflug
+Jungfernfluge	1
+Jungfernfluges	2
+Jungfernflugs	1
+Jungfernflüge	3ug
+Jungfernflügen	4ug
+Jungfernfrüchtigkeit
+Jungfernhering
+Jungfernheringe	1
+Jungfernheringen	2
+Jungfernherings	1
+Jungfernhäutchen
+Jungfernhäutchens	1
+Jungfernkranich
+Jungfernkraniche	1
+Jungfernkranichen	2
+Jungfernkranichs	1
+Jungfernkranz
+Jungfernkranzes	2
+Jungfernkränze	4anz
+Jungfernkränzen	5anz
+Jungfernrebe
+Jungfernreben	1
+Jungfernrede
+Jungfernreden	1
+Jungfernreise
+Jungfernreisen	1
+Jungfernschaft
+Jungfernschaften	2
+Jungfernstand
+Jungfernstandes	2
+Jungfernstands	1
+Jungfernstieg
+Jungfernstiege	1
+Jungfernstiegen	2
+Jungfernstieges	2
+Jungfernstiegs	1
+Jungfernwachs
+Jungfernwachse	1
+Jungfernwachsen	2
+Jungfernwachses	2
+Jungfernwein
+Jungfernweine	1
+Jungfernweinen	2
+Jungfernweines	2
+Jungfernweins	1
+Jungfernzeugung
+Jungfernzeugungen	2
+Jungfernzwinger
+Jungfernzwingern	1
+Jungfernzwingers	1
+Jungfilmer
+Jungfilmern	1
+Jungfilmers	1
+Jungfisch
+Jungfische	1
+Jungfischen	2
+Jungfisches	2
+Jungflug
+Jungfluges	2
+Jungflugs	1
+Jungflüge	3ug
+Jungflügen	4ug
+Jungfrau
+Jungfrauen	2
+Jungfrauengeburt
+Jungfrauengeburten	2
+Jungfräuliche	13jungfräulich
+Jungfräulichen	1
+Jungfräulichere
+Jungfräulicheren	1
+Jungfräulichkeit
+Jungfräulichste
+Jungfräulichsten	1
+Junggeselle
+Junggesellen	1
+Junggesellenabend
+Junggesellenabende	1
+Junggesellenabenden	2
+Junggesellenabends	1
+Junggesellenabschied
+Junggesellenabschiede	1
+Junggesellenabschieden	2
+Junggesellenabschiedes	2
+Junggesellenabschieds	1
+Junggesellenbude
+Junggesellenbuden	1
+Junggesellendasein
+Junggesellendaseins	1
+Junggesellengewohnheit
+Junggesellengewohnheiten	2
+Junggesellenleben
+Junggesellenlebens	1
+Junggesellensteuer
+Junggesellensteuern	1
+Junggesellenwirtschaft
+Junggesellenwohnung
+Junggesellenwohnungen	2
+Junggesellenzeit
+Junggesellenzeiten	2
+Junggesellin
+Junggesellinnen	3
+Junggesellinnenabschied
+Junggesellinnenabschiede	1
+Junggesellinnenabschieden	2
+Junggesellinnenabschiedes	2
+Junggesellinnenabschieds	1
+Junggrammatiker
+Junggrammatikern	1
+Junggrammatikers	1
+Junghahn
+Junghase
+Junghasen	1
+Junghegelianer
+Junghegelianern	1
+Junghegelianers	1
+Jungheinrich
+Junghengst
+Junghengste	1
+Junghengsten	2
+Junghengstes	2
+Junghengsts	1
+Junghenne
+Junghennen	1
+Junghering
+Jungheringe	1
+Jungheringen	2
+Jungherings	1
+Jungherr
+Jungherren	2
+Jungherrn	1
+Jungholz
+Jungholzes	2
+Junghölzer	5olz
+Junghölzern	6olz
+Jungingenieur
+Jungingenieure	1
+Jungingenieuren	2
+Jungingenieurs	1
+Jungkommunist
+Jungkommunisten	2
+Junglaub
+Junglaubes	2
+Junglaubs	1
+Junglehrer
+Junglehrerin
+Junglehrerinnen	3
+Junglehrern	1
+Junglehrers	1
+Junglestil
+Junglestiles	2
+Junglestils	1
+Jungleute
+Jungleuten	1
+Jungliberale
+Jungliberalem	1
+Jungliberalen	1
+Jungliberaler	1
+Jungmann
+Jungmannes	2
+Jungmanns	1
+Jungmannschaft
+Jungmannschaften	2
+Jungmädchen
+Jungmädchengesicht
+Jungmädchengesichter	2
+Jungmädchengesichtern	3
+Jungmädchengesichtes	2
+Jungmädchengesichts	1
+Jungmädchenkleid
+Jungmädchenkleider	2
+Jungmädchenkleidern	3
+Jungmädchenkleides	2
+Jungmädchenkleids	1
+Jungmädchens	1
+Jungmädchentraum
+Jungmädchentraumes	2
+Jungmädchentraums	1
+Jungmädchenträume	4aum
+Jungmädchenträumen	5aum
+Jungmädel
+Jungmädeln	1
+Jungmädels	1
+Jungmänner	5ann
+Jungmännern	6ann
+Jungnationalspieler
+Jungnationalspielerin
+Jungnationalspielerinnen	3
+Jungnationalspielern	1
+Jungnationalspielers	1
+Jungpaläolithikum
+Jungpaläolithikums	1
+Jungparlamentarier
+Jungparlamentariern	1
+Jungparlamentariers	1
+Jungpfadfinder
+Jungpfadfindern	1
+Jungpfadfinders	1
+Jungpflanze
+Jungpflanzen	1
+Jungpionier
+Jungpioniere	1
+Jungpionieren	2
+Jungpioniers	1
+Jungprofi
+Jungprofis	1
+Jungreh
+Jungrehe	1
+Jungrehen	2
+Jungrehes	2
+Jungrehs	1
+Jungrind
+Jungrinder	2
+Jungrindern	3
+Jungrindes	2
+Jungrinds	1
+Jungs	1e
+Jungschar
+Jungscharen	2
+Jungschauspieler
+Jungschauspielerin
+Jungschauspielerinnen	3
+Jungschauspielern	1
+Jungschauspielers	1
+Jungschwein
+Jungschweine	1
+Jungschweinen	2
+Jungschweines	2
+Jungschweins	1
+Jungsein
+Jungseins	1
+Jungsozialist
+Jungsozialisten	2
+Jungspund
+Jungspunde	1
+Jungspunden	2
+Jungspundes	2
+Jungspunds	1
+Jungstar
+Jungsteinzeit
+Jungsteinzeitliche
+Jungsteinzeitlichen	1
+Jungstier
+Jungstiere	1
+Jungstieren	2
+Jungstieres	2
+Jungstiers	1
+Jungtalent
+Jungtalente	1
+Jungtalenten	2
+Jungtalentes	2
+Jungtalents	1
+Jungtier
+Jungtiere	1
+Jungtieren	2
+Jungtieres	2
+Jungtierherde
+Jungtierherden	1
+Jungtiers	1
+Jungtrieb
+Jungtriebe	1
+Jungtrieben	2
+Jungtriebes	2
+Jungtriebs	1
+Jungtürke
+Jungtürken	1
+Jungunternehmen
+Jungunternehmens	1
+Jungunternehmer
+Jungunternehmerin
+Jungunternehmerinnen	3
+Jungunternehmern	1
+Jungunternehmers	1
+Jungverheiratete
+Jungverheiratetem	1
+Jungverheirateten	1
+Jungverheirateter	1
+Jungvermählte
+Jungvermähltem	1
+Jungvermählten	1
+Jungvermählter	1
+Jungviecher	4h
+Jungviechern	5h
+Jungvieh
+Jungviehaufzucht
+Jungviehes	2
+Jungviehs	1
+Jungvogel
+Jungvogels	1
+Jungvolk
+Jungvolke	1
+Jungvolkes	2
+Jungvolks	1
+Jungvögel	4ogel
+Jungvögeln	5ogel
+Jungvölker	5olk
+Jungvölkern	6olk
+Jungwald
+Jungwaldes	2
+Jungwein
+Jungweine	1
+Jungweinen	2
+Jungweines	2
+Jungweins	1
+Jungwild
+Jungwilde	1
+Jungwildes	2
+Jungwilds	1
+Jungwuchs
+Jungwähler
+Jungwählerin
+Jungwählerinnen	3
+Jungwählern	1
+Jungwählers	1
+Jungwälder	5ald
+Jungwäldern	6ald
+Juni
+Juniabend
+Juniabende	1
+Juniabenden	2
+Juniabends	1
+Juniausgabe
+Juniausgaben	1
+Juniheft
+Junihefte	1
+Juniheften	2
+Juniheftes	2
+Junihefts	1
+Junihälfte
+Junihälften	1
+Junikäfer
+Junikäfern	1
+Junikäfers	1
+Junimorgen
+Junimorgens	1
+Juninachmittag
+Juninachmittage	1
+Juninachmittagen	2
+Juninachmittages	2
+Juninachmittags	1
+Juninacht
+Juninächte	5acht
+Juninächten	6acht
+Junior
+Juniorat
+Juniorate	1
+Junioraten	2
+Juniorates	2
+Juniorats	1
+Juniorchef
+Juniorchefs	1
+Junioren	2
+Juniorenachter
+Juniorenachtern	1
+Juniorenachters	1
+Juniorenmannschaft
+Juniorenmannschaften	2
+Juniorenmeister
+Juniorenmeisterschaft
+Juniorenmeisterschaften	2
+Juniorenrennen
+Juniorenrennens	1
+Juniorenweltmeisterschaft
+Juniorenweltmeisterschaften	2
+Juniorin
+Juniorinhaber
+Juniorinhabern	1
+Juniorinhabers	1
+Juniorinnen	3
+Juniorpartner
+Juniorpartnerin
+Juniorpartnerinnen	3
+Juniorpartnern	1
+Juniorpartners	1
+Juniorpartnerschaft
+Juniorpartnerschaften	2
+Juniorprofessor
+Juniorprofessoren	2
+Juniorprofessorin
+Juniorprofessorinnen	3
+Juniorprofessors	1
+Juniorprofessur
+Juniorprofessuren	2
+Juniors	1
+Juniperus
+Junis
+Junitag
+Junitage	1
+Junitagen	2
+Junitages	2
+Junitags	1
+Juniwoche
+Juniwochen	1
+Junk
+Junk-Art
+Junker
+Junkerherrschaft
+Junkerkaste
+Junkerkasten	1
+Junkern	1
+Junkers	1
+Junkertum
+Junkertumes	2
+Junkertums	1
+Junkfood
+Junkfoods	1
+Junkie
+Junkies	1
+Junkker	4cker
+Junkmail
+Junkmails	1
+Junks	1
+Junktim
+Junktims	1
+Junktimsvorlage
+Junktimsvorlagen	1
+Junktion
+Junktionen	2
+Junktiv
+Junktive	1
+Junktiven	2
+Junktivs	1
+Junktor
+Junktoren	2
+Junktors	1
+Junktur
+Junkturen	2
+Juno
+Junos	1
+Junta
+Juntas	1
+Junten	2a
+Jupiter
+Jupiterlampe
+Jupiterlampen	1
+Jupitermond
+Jupitermonde	1
+Jupitermonden	2
+Jupitermondes	2
+Jupitermonds	1
+Jupiters	1
+Juppi
+Juppis	1
+Juppé
+Juppés	1
+Jura
+Jurafakultät
+Jurafakultäten	2
+Juralandschaft
+Juralandschaften	2
+Jurament
+Juraprofessor
+Juraprofessoren	2
+Juraprofessorin
+Juraprofessorinnen	3
+Juraprofessors	1
+Juras	1
+Jurassic
+Jurastudent
+Jurastudenten	2
+Jurastudentin
+Jurastudentinnen	3
+Jurastudien	2um
+Jurastudium
+Jurastudiums	1
+Juridica	1um
+Juridicum
+Juridicums	1
+Jurieren
+Jurierende
+Jurierenden	1
+Jurierens	1
+Jurierte	8juriert
+Jurierten	1
+Jurij
+Juris
+Jurisdiktion
+Jurisdiktionen	2
+Jurisprudenz
+Jurist
+Juristen	2
+Juristenausbildung
+Juristenausbildungen	2
+Juristendeutsch
+Juristendeutschs	1
+Juristenfakultät
+Juristenfakultäten	2
+Juristenkommission
+Juristenkommissionen	2
+Juristenlatein
+Juristenlateins	1
+Juristentag
+Juristentage	1
+Juristentagen	2
+Juristentages	2
+Juristentags	1
+Juristenzeitung
+Juristenzeitungen	2
+Juristerei
+Juristik
+Juristin
+Juristinnen	3
+Juristische	11juristisch
+Juristischen	1
+Jurke
+Jurken	1
+Juror
+Jurore	1
+Juroren	2
+Jurorin
+Jurorinnen	3
+Jurors	1
+Jurte
+Jurten	1
+Jury
+Jurymitglied
+Jurymitgliede	1
+Jurymitglieder	2
+Jurymitgliedern	3
+Jurymitgliedes	2
+Jurymitglieds	1
+Jurys	1
+Jurysprecher
+Jurysprechern	1
+Jurysprechers	1
+Jus
+Juso
+Jusos	1
+Jusprofessor
+Jusprofessoren	2
+Jusprofessorin
+Jusprofessorinnen	3
+Jusprofessors	1
+Jussiv
+Jussive	1
+Jussiven	2
+Jussivs	1
+Jusstudent
+Jusstudenten	2
+Jusstudien	2um
+Jusstudium
+Jusstudiums	1
+Jussuf
+Just
+Just-in-time-Compiler
+Just-in-time-Compilern	1
+Just-in-time-Compilers	1
+Just-in-time-Produktion
+Just-in-time-Produktionen	2
+Justage
+Justagen	1
+Justaucorps
+Justemilieu
+Justemilieus	1
+Justen
+Justice
+Justieren
+Justierende
+Justierenden	1
+Justierens	1
+Justierer
+Justierern	1
+Justierers	1
+Justierte	9justiert
+Justierten	1
+Justiertere
+Justierteren	1
+Justierteste
+Justiertesten	1
+Justierung
+Justierungen	2
+Justifikation
+Justifikationen	2
+Justifikatur
+Justifikaturen	2
+Justifizieren
+Justifizierende
+Justifizierenden	1
+Justifizierens	1
+Justifizierte	13justifiziert
+Justifizierten	1
+Justitia
+Justitiar
+Justitiare	1
+Justitiaren	2
+Justitiariat
+Justitiariate	1
+Justitiariaten	2
+Justitiariates	2
+Justitiariats	1
+Justitiarin
+Justitiarinnen	3
+Justitiars	1
+Justitien	2um
+Justitium
+Justitiums	1
+Justiz
+Justizangestellte
+Justizangestelltem	1
+Justizangestellten	1
+Justizangestellter	1
+Justizanstalt
+Justizanstalten	2
+Justizapparat
+Justizapparate	1
+Justizapparaten	2
+Justizapparates	2
+Justizapparats	1
+Justizassessor
+Justizassessoren	2
+Justizassessors	1
+Justizausschuss
+Justizausschusses	2
+Justizausschuß
+Justizausschüsse	4uss
+Justizausschüssen	5uss
+Justizbeamte	0r
+Justizbeamtem	1r
+Justizbeamten	1r
+Justizbeamter
+Justizbedienstete
+Justizbedienstetem	1
+Justizbediensteten	1
+Justizbediensteter	1
+Justizbehörde
+Justizbehörden	1
+Justizdienst
+Justizdienste	1
+Justizdiensten	2
+Justizdienstes	2
+Justizfachangestellte
+Justizfachangestelltem	1
+Justizfachangestellten	1
+Justizfachangestellter	1
+Justizfehler
+Justizfehlern	1
+Justizfehlers	1
+Justizgebäude
+Justizgebäuden	1
+Justizgebäudes	1
+Justizgeschichte
+Justizgeschichten	1
+Justizhoheit
+Justiziar
+Justiziare	1
+Justiziaren	2
+Justiziariat
+Justiziariate	1
+Justiziariaten	2
+Justiziariates	2
+Justiziariats	1
+Justiziarin
+Justiziarinnen	3
+Justiziars	1
+Justizien	2um
+Justizirrtum
+Justizirrtums	1
+Justizirrtümer	4um
+Justizirrtümern	5um
+Justizium
+Justiziums	1
+Justizkommissar
+Justizkommissare	1
+Justizkommissaren	2
+Justizkommissarin
+Justizkommissarinnen	3
+Justizkommissars	1
+Justizkommission
+Justizkommissionen	2
+Justizkreis
+Justizkreise	1
+Justizkreisen	2
+Justizkreises	2
+Justizminister
+Justizministerien	2um
+Justizministerin
+Justizministerinnen	3
+Justizministerium
+Justizministeriums	1
+Justizministern	1
+Justizministers	1
+Justizmitarbeiter
+Justizmitarbeitern	1
+Justizmitarbeiters	1
+Justizmord
+Justizmorde	1
+Justizmorden	2
+Justizmordes	2
+Justizmords	1
+Justizopfer
+Justizopfern	1
+Justizopfers	1
+Justizorgan
+Justizorgane	1
+Justizorganen	2
+Justizorgans	1
+Justizpalast
+Justizpalaste	1
+Justizpalastes	2
+Justizpalasts	1
+Justizpaläste	4ast
+Justizpalästen	5ast
+Justizpanne
+Justizpannen	1
+Justizpersonal
+Justizpersonals	1
+Justizpolitik
+Justizposse
+Justizpossen	1
+Justizrat
+Justizrates	2
+Justizrats	1
+Justizreform
+Justizreformen	2
+Justizressort
+Justizressorts	1
+Justizräte	3at
+Justizräten	4at
+Justizsenator
+Justizsenatoren	2
+Justizsenatorin
+Justizsenatorinnen	3
+Justizsenators	1
+Justizskandal
+Justizskandale	1
+Justizskandalen	2
+Justizskandales	2
+Justizskandals	1
+Justizspektakel
+Justizspektakeln	1
+Justizspektakels	1
+Justizsystem
+Justizsysteme	1
+Justizsystemen	2
+Justizsystems	1
+Justizthriller
+Justizthrillern	1
+Justizthrillers	1
+Justizverbrechen
+Justizverbrechens	1
+Justizverfahren
+Justizverfahrens	1
+Justizverwaltung
+Justizverwaltungen	2
+Justizvollzug
+Justizvollzuges	2
+Justizvollzugs	1
+Justizvollzugsanstalt
+Justizvollzugsanstalten	2
+Justizvollzugsbedienstete
+Justizvollzugsbedienstetem	1
+Justizvollzugsbediensteten	1
+Justizvollzugsbediensteter	1
+Justizwache
+Justizwachen	1
+Justizwachtmeister
+Justizwachtmeisterin
+Justizwachtmeisterinnen	3
+Justizwachtmeistern	1
+Justizwachtmeisters	1
+Justizwesen
+Justizwesens	1
+Justizzentren	2um
+Justizzentrum
+Justizzentrums	1
+Jute
+Jutebeutel
+Jutebeuteln	1
+Jutebeutels	1
+Jutefaser
+Jutefasern	1
+Jutegarn
+Jutegarne	1
+Jutegarnen	2
+Jutegarnes	2
+Jutegarns	1
+Juten	1
+Jutesack
+Jutesacke	1
+Jutesackes	2
+Jutesacks	1
+Jutespinnerei
+Jutespinnereien	2
+Jutesäcke	4ack
+Jutesäcken	5ack
+Jutetasche
+Jutetaschen	1
+Juteweberei
+Jutewebereien	2
+Jutta
+Juttas	1
+Juvenat
+Juvenate	1
+Juvenaten	2
+Juvenates	2
+Juvenats	1
+Juvenilismus
+Juvenilität
+Juventa-Verlag
+Juwel
+Juwele	1
+Juwelen	2
+Juwelendieb
+Juwelendiebe	1
+Juwelendieben	2
+Juwelendiebes	2
+Juwelendiebs	1
+Juwelendiebstahl
+Juwelendiebstahles	2
+Juwelendiebstahls	1
+Juwelendiebstähle	4ahl
+Juwelendiebstählen	5ahl
+Juwelenhändler
+Juwelenhändlern	1
+Juwelenhändlers	1
+Juwelenraub
+Juwelenraube	1
+Juwelenrauben	2
+Juwelenraubes	2
+Juwelenraubs	1
+Juwelenräuber
+Juwelenräubern	1
+Juwelenräubers	1
+Juwelenschmuck
+Juwelenschmucke	1
+Juwelenschmucken	2
+Juwelenschmuckes	2
+Juwelenschmucks	1
+Juwelier
+Juweliere	1
+Juwelieren	2
+Juweliergeschäft
+Juweliergeschäfte	1
+Juweliergeschäften	2
+Juweliergeschäftes	2
+Juweliergeschäfts	1
+Juwelierin
+Juwelierinnen	3
+Juwelierladen
+Juwelierladens	1
+Juwelierläden	4aden
+Juweliers	1
+Juwelierware
+Juwelierwaren
+Juwels	1
+Jux
+Juxe	1
+Juxen	2
+Juxes	2
+Juxta
+Juxtaposition
+Juxtapositionen	2
+Juxtapositum
+Juxten	2a
+Jvsv
+JÜL-Klasse
+JÜL-Klassen	1
+János
+Jäckchen
+Jäckchens	1
+Jäckel
+Jäckeln	1
+Jäckels	1
+Jägemann
+Jäger
+Jägerart
+Jägerball
+Jägerballe	1
+Jägerballes	2
+Jägerballs	1
+Jägerbataillon
+Jägerbataillone	1
+Jägerbataillonen	2
+Jägerbataillons	1
+Jägerbursche
+Jägerburschen	1
+Jägerehre
+Jägerei
+Jägerfleisch
+Jägerfleisches	2
+Jägerfleischs	1
+Jägerglaube
+Jägerglauben
+Jägerhaus
+Jägerhauses	2
+Jägerherz
+Jägerherzen	2
+Jägerherzens	3
+Jägerhut
+Jägerhutes	2
+Jägerhuts	1
+Jägerhäuser	5aus
+Jägerhäusern	6aus
+Jägerhüte	3ut
+Jägerhüten	4ut
+Jägerin
+Jägerinnen	3
+Jägerkompanie
+Jägerkompanien	1
+Jägerkultur
+Jägerkulturen	2
+Jägerlatein
+Jägerlateins	1
+Jägerlied
+Jägerlieder	2
+Jägerliedern	3
+Jägerliedes	2
+Jägerlieds	1
+Jägermeister
+Jägermeistern	1
+Jägermeisters	1
+Jägern	1
+Jägerndorf
+Jägerndorfs	1
+Jägerndörfer	5orf
+Jägerndörfern	6orf
+Jägerpech
+Jägerpeches	2
+Jägerpechs	1
+Jägerprüfung
+Jägerprüfungen	2
+Jägerrecht
+Jägerrock
+Jägerrockes	2
+Jägerrocks	1
+Jägerröcke	4ock
+Jägerröcken	5ock
+Jägers	1
+Jägerschaft
+Jägerschaften	2
+Jägerschnitzel
+Jägerschnitzeln	1
+Jägerschnitzels	1
+Jägersleute	5mann
+Jägersleuten	6mann
+Jägersmann
+Jägersmanne	1
+Jägersmannes	2
+Jägersmanns	1
+Jägersprache
+Jägerstamm
+Jägerstammes	2
+Jägerstamms	1
+Jägerstämme	4amm
+Jägerstämmen	5amm
+Jägertracht
+Jägertrachten	2
+Jägertrompete
+Jägertrompeten	1
+Jägervolk
+Jägervolkes	2
+Jägervolks	1
+Jägervölker	5olk
+Jägervölkern	6olk
+Jägerzaun
+Jägerzaune	1
+Jägerzaunes	2
+Jägerzauns	1
+Jägerzäune	4aun
+Jägerzäunen	5aun
+Jäggi
+Jähe
+Jähen	1
+Jähheit
+Jähnig
+Jähnigs	1
+Jährchen
+Jährchens	1
+Jährige
+Jährigen	1
+Jährigkeit
+Jährigkeiten	2
+Jährliche
+Jährlichen	1
+Jährlichkeit
+Jährlichkeiten	2
+Jährling
+Jährlinge	1
+Jährlingen	2
+Jährlings	1
+Jährlingsauktion
+Jährlingsauktionen	2
+Jährlingswolle
+Jähzorn
+Jähzornes	2
+Jähzornige	10jähzornig
+Jähzornigen	1
+Jähzornigere
+Jähzornigeren	1
+Jähzornigste
+Jähzornigsten	1
+Jähzorns	1
+Jämmerliche	11jämmerlich
+Jämmerlichen	1
+Jämmerlichere
+Jämmerlicheren	1
+Jämmerlichkeit
+Jämmerlichkeiten	2
+Jämmerlichste
+Jämmerlichsten	1
+Jämmerling
+Jämmerlinge	1
+Jämmerlingen	2
+Jämmerlings	1
+Jänner
+Jännerabend
+Jännerabende	1
+Jännerabenden	2
+Jännerabends	1
+Jännerkälte
+Jännerloch
+Jännerloches	2
+Jännerlochs	1
+Jännerlöcher	5och
+Jännerlöchern	6och
+Jännern	1
+Jännernacht
+Jännernächte	5acht
+Jännernächten	6acht
+Jänners	1
+Jännertag
+Jännertage	1
+Jännertagen	2
+Jännertages	2
+Jännertags	1
+Jänschwalde
+Jätehacke
+Jätehacken	1
+Jäten
+Jätende
+Jätenden	1
+Jätens	1
+Jäuster	6aust
+Jäustern	7aust
+Jö-Effekt
+Jö-Effekte	1
+Jö-Effekten	2
+Jö-Effektes	2
+Jö-Effekts	1
+Jöh-Effekt
+Jöh-Effekte	1
+Jöh-Effekten	2
+Jöh-Effektes	2
+Jöh-Effekts	1
+Jörg
+Jörgs	1
+Jörn
+Jörns
+Jöö-Effekt
+Jöö-Effekte	1
+Jöö-Effekten	2
+Jöö-Effektes	2
+Jöö-Effekts	1
+JüL-Klasse
+JüL-Klassen	1
+Jüdin
+Jüdinnen	3
+Jüdische	8jüdisch
+Jüdischen	1
+Jüdischkeit
+Jügesheim
+Jügesheims	1
+Jülchen
+Jüngelchen
+Jüngelchens	1
+Jünger
+Jüngere
+Jüngerem	1
+Jüngeren	1
+Jüngerer	1
+Jüngerin
+Jüngerinnen	3
+Jüngern	1
+Jüngers	1
+Jüngerschaft
+Jüngerschaften	2
+Jüngferliche
+Jüngferlichen	1
+Jüngferlichere
+Jüngferlicheren	1
+Jüngferlichste
+Jüngferlichsten	1
+Jüngling
+Jünglinge	1
+Jünglingen	2
+Jünglinges	2
+Jünglings	1
+Jünglingsalter
+Jünglingsalters	1
+Jünglingsantlitz
+Jünglingsantlitze	1
+Jünglingsantlitzen	2
+Jünglingsantlitzes	2
+Jünglingsbild
+Jünglingsbilder	2
+Jünglingsbildern	3
+Jünglingsbildes	2
+Jünglingsbilds	1
+Jünglingsherz
+Jünglingsherzen	2
+Jünglingsherzens	3
+Jünglingsjahr
+Jünglingsjahre
+Jünglingsjahres	2
+Jünglingszeit
+Jünglingszeiten	2
+Jüngste	7jung
+Jüngstem	1
+Jüngsten	1
+Jüngstenrecht
+Jüngstenrechte	1
+Jüngstenrechten	2
+Jüngstenrechts	1
+Jüngster	1
+Jüpchen
+Jüpchens	1
+Jürgen
+Jürgens	1
+Jürük
+Jürüks	1
+Jüte
+Jüten	1
+Jütländer
+Jütländerin
+Jütländerinnen	3
+Jütländern	1
+Jütländers	1
+ja
+jach
+jachtere	1n
+jachtern
+jachternd	1
+jachterst	2n
+jachtert	1n
+jachterte	2n
+jachterten	3n
+jachtertest	4n
+jachtertet	3n
+jachtre	2ern
+jade
+jadegrün
+jag	0en
+jagdbar
+jagdberechtigt
+jagdberechtigtem	2
+jagdberechtigten	2
+jagdberechtigter	2
+jagdberechtigtes	2
+jagdgerecht
+jagdkundig
+jagdlich
+jage	0n
+jagen
+jagend	1
+jagende	1
+jagendem	2
+jagenden	2
+jagender	2
+jagendere	3
+jagenderem	4
+jagenderen	4
+jagenderer	4
+jagenderes	4
+jagendes	2
+jagendste	3
+jagendstem	4
+jagendsten	4
+jagendster	4
+jagendstes	4
+jagest	2n
+jaget	1n
+jagst	2en
+jagt	1en
+jagte	2en
+jagten	3en
+jagtest	4en
+jagtet	3en
+jaha
+jahraus
+jahrein
+jahrelang
+jahrelange	1
+jahrelangem	2
+jahrelangen	2
+jahrelanger	2
+jahrelanges	2
+jahresdurchschnittlich
+jahreszeitlich
+jahreszeitliche	1
+jahreszeitlichem	2
+jahreszeitlichen	2
+jahreszeitlicher	2
+jahreszeitliches	2
+jahrgangsoffen
+jahrgangsweise
+jahrhundertealt
+jahrhundertealtem	2
+jahrhundertealten	2
+jahrhundertealter	2
+jahrhundertealtes	2
+jahrhundertelang
+jahrhundertelange	1
+jahrhundertelangem	2
+jahrhundertelangen	2
+jahrhundertelanger	2
+jahrhundertelanges	2
+jahrtausendealt
+jahrtausendelang
+jahrzehntealt
+jahrzehntelang
+jahrzehntelange	1
+jahrzehntelangem	2
+jahrzehntelangen	2
+jahrzehntelanger	2
+jahrzehntelanges	2
+jaja
+jakobinisch
+jambisch
+jammer	0n
+jammere	1n
+jammerest	3n
+jammeret	2n
+jammern
+jammernd	1
+jammernde	1
+jammerndem	2
+jammernden	2
+jammernder	2
+jammerndere	3
+jammernderem	4
+jammernderen	4
+jammernderer	4
+jammernderes	4
+jammerndes	2
+jammerndste	3
+jammerndstem	4
+jammerndsten	4
+jammerndster	4
+jammerndstes	4
+jammerschade
+jammerst	2n
+jammert	1n
+jammerte	2n
+jammerten	3n
+jammertest	4n
+jammertet	3n
+jammervoll
+jammervolle	1
+jammervollem	2
+jammervollen	2
+jammervoller	2
+jammervollere	3
+jammervollerem	4
+jammervolleren	4
+jammervollerer	4
+jammervolleres	4
+jammervolles	2
+jammervollste	3
+jammervollstem	4
+jammervollsten	4
+jammervollster	4
+jammervollstes	4
+jammre	2ern
+janusköpfig
+jap.	1anisch
+japanisch
+japanische	1
+japanischem	2
+japanischen	2
+japanischer	2
+japanischere	3
+japanischerem	4
+japanischeren	4
+japanischerer	4
+japanischeres	4
+japanisches	2
+japanischste	3
+japanischstem	4
+japanischsten	4
+japanischster	4
+japanischstes	4
+japans	6Japans
+japp	0en
+jappe	0n
+jappen
+jappend	1
+jappest	2n
+jappet	1n
+jappst	2en
+jappt	1en
+jappte	2en
+jappten	3en
+japptest	4en
+japptet	3en
+japs	0en
+japse	0n
+japsen
+japsend	1
+japsende	1
+japsendem	2
+japsenden	2
+japsender	2
+japsendere	3
+japsenderem	4
+japsenderen	4
+japsenderer	4
+japsenderes	4
+japsendes	2
+japsendste	3
+japsendstem	4
+japsendsten	4
+japsendster	4
+japsendstes	4
+japsest	2n
+japset	1n
+japsst	2en
+japst	1en
+japste	2en
+japsten	3en
+japstest	4en
+japstet	3en
+jarowisier	0en
+jarowisiere	0n
+jarowisieren
+jarowisierest	2n
+jarowisieret	1n
+jarowisierst	2en
+jarowisiert	1en
+jarowisierte	2en
+jarowisierten	3en
+jarowisiertest	4en
+jarowisiertet	3en
+jaspier	0en
+jaspiere	0n
+jaspieren
+jaspierest	2n
+jaspieret	1n
+jaspierst	2en
+jaspiert	1en
+jaspierte	2en
+jaspierten	3en
+jaspiertest	4en
+jaspiertet	3en
+jass	0en
+jasse	0n
+jassen
+jassend	1
+jassest	2n
+jasset	1n
+jasst	1en
+jasste	2en
+jassten	3en
+jasstest	4en
+jasstet	3en
+jauch	0en
+jauche	0n
+jauchen
+jauchend	1
+jauchest	2n
+jauchet	1n
+jauchig
+jauchst	2en
+jaucht	1en
+jauchte	2en
+jauchten	3en
+jauchtest	4en
+jauchtet	3en
+jauchz	0en
+jauchze	0n
+jauchzen
+jauchzend	1
+jauchzende	1
+jauchzendem	2
+jauchzenden	2
+jauchzender	2
+jauchzendere	3
+jauchzenderem	4
+jauchzenderen	4
+jauchzenderer	4
+jauchzenderes	4
+jauchzendes	2
+jauchzendste	3
+jauchzendstem	4
+jauchzendsten	4
+jauchzendster	4
+jauchzendstes	4
+jauchzest	2n
+jauchzet	1n
+jauchzt	1en
+jauchzte	2en
+jauchzten	3en
+jauchztest	4en
+jauchztet	3en
+jaul	0en
+jaule	0n
+jaulen
+jaulend	1
+jaulende	1
+jaulendem	2
+jaulenden	2
+jaulender	2
+jaulendes	2
+jaulest	2n
+jaulet	1n
+jaulst	2en
+jault	1en
+jaulte	2en
+jaulten	3en
+jaultest	4en
+jaultet	3en
+jaus	0en
+jause	0n
+jausen
+jausend	1
+jausest	2n
+jauset	1n
+jausne	0n
+jausnen
+jausnend	1
+jausnest	2n
+jausnet	1n
+jausnete	2n
+jausneten	3n
+jausnetest	4n
+jausnetet	3n
+jaust	1en
+jauste	2en
+jausten	3en
+jaustest	4en
+jaustet	3en
+javanisch
+jawohl
+jawoll
+jazz	0en
+jazze	0n
+jazzen
+jazzend	1
+jazzest	2n
+jazzet	1n
+jazzig
+jazzoid
+jazzt	1en
+jazzte	2en
+jazzten	3en
+jazztest	4en
+jazztet	3en
+jds	3JDS
+je
+jeansfarben
+jeck
+jecke	1
+jeckem	2
+jecken	2
+jecker	2
+jeckere	3
+jeckerem	4
+jeckeren	4
+jeckerer	4
+jeckeres	4
+jeckes	2
+jeckste	3
+jeckstem	4
+jecksten	4
+jeckster	4
+jeckstes	4
+jed
+jede	0r
+jedem	1r
+jeden	1r
+jedenfalls
+jedennoch
+jeder
+jederart
+jederfrau
+jederlei
+jedermann
+jedermanns	1
+jederzeit
+jederzeitig
+jedes	1r
+jedesmal
+jedesmalig
+jedmöglich
+jedoch
+jedwed
+jedwede	0r
+jedwedem	1r
+jedweden	1r
+jedweder
+jedwedes	1r
+jeglich
+jegliche	0r
+jeglichem	1r
+jeglichen	1r
+jeglicher
+jegliches	2
+jehen
+jeher
+jeht	1en
+jein
+jemals
+jemand
+jemandem	2
+jemanden	2
+jemandes	2
+jemands	1
+jemenitisch
+jemenitische	1
+jemine
+jene	0r
+jenem	1r
+jenen	1r
+jener
+jenes	1r
+jenisch
+jenseitig
+jenseitigen	2
+jenseits
+jerum
+jesuanisch
+jesuitisch
+jesusmäßig
+jesusmäßiger	2
+jesusmäßigsten	4
+jett	0en
+jette	0n
+jetten
+jettend	1
+jettest	2n
+jettet	1n
+jettete	2n
+jetteten	3n
+jettetest	4n
+jettetet	3n
+jettschwarz
+jettt	1en
+jetzig
+jetzige	1
+jetzigem	2
+jetzigen	2
+jetziger	2
+jetziges	2
+jetzo
+jetzt
+jetzund
+jeu	0en
+jeue	0n
+jeuen
+jeuend	1
+jeuest	2n
+jeuet	1n
+jeust	2en
+jeut	1en
+jeute	2en
+jeuten	3en
+jeutest	4en
+jeutet	3en
+jeweilen
+jeweilgen	3ig
+jeweilig
+jeweilige	1
+jeweiligem	2
+jeweiligen	2
+jeweiliger	2
+jeweiliges	2
+jeweils
+jezuweilen
+jiddeln
+jiddelnd	1
+jiddelt	1n
+jiddisch
+jiddle	2eln
+jiepere	1n
+jiepern
+jiepernd	1
+jieperst	2n
+jiepert	1n
+jieperte	2n
+jieperten	3n
+jiepertest	4n
+jiepertet	3n
+jiepre	2ern
+jihadistisch
+jippie
+jobb	0en
+jobbe	0n
+jobben
+jobbend	1
+jobbende	1
+jobbendem	2
+jobbenden	2
+jobbender	2
+jobbendes	2
+jobbere	1n
+jobbern
+jobbernd	1
+jobberst	2n
+jobbert	1n
+jobberte	2n
+jobberten	3n
+jobbertest	4n
+jobbertet	3n
+jobbest	2n
+jobbet	1n
+jobbre	2ern
+jobbst	2en
+jobbt	1en
+jobbte	2en
+jobbten	3en
+jobbtest	4en
+jobbtet	3en
+joblos
+joch	0en
+joche	0n
+jochen	6Jochen
+jochend	1
+jochest	2n
+jochet	1n
+jochst	2en
+jocht	1en
+jochte	2en
+jochten	3en
+jochtest	4en
+jochtet	3en
+jockele	1n
+jockeln
+jockelnd	1
+jockelst	2n
+jockelt	1n
+jockelte	2n
+jockelten	3n
+jockeltest	4n
+jockeltet	3n
+jockle	2eln
+jocklest	4eln
+jocklet	3eln
+jodele	1n
+jodelest	3n
+jodelet	2n
+jodeln
+jodelnd	1
+jodelnde	1
+jodelndem	2
+jodelnden	2
+jodelnder	2
+jodelndere	3
+jodelnderem	4
+jodelnderen	4
+jodelnderer	4
+jodelnderes	4
+jodelndes	2
+jodelndste	3
+jodelndstem	4
+jodelndsten	4
+jodelndster	4
+jodelndstes	4
+jodelst	2n
+jodelt	1n
+jodelte	2n
+jodelten	3n
+jodeltest	4n
+jodeltet	3n
+jodhaltig
+jodier	0en
+jodiere	0n
+jodieren
+jodierest	2n
+jodieret	1n
+jodierst	2en
+jodiert	1en
+jodierte	2en
+jodierten	3en
+jodiertest	4en
+jodiertet	3en
+jodle	2eln
+jodlest	4eln
+jodlet	3eln
+joel	4Joel
+jogge	0n
+joggen
+joggst	2en
+joggt	1en
+johl	0en
+johle	0n
+johlen
+johlend	1
+johlende	1
+johlendem	2
+johlenden	2
+johlender	2
+johlendere	3
+johlenderem	4
+johlenderen	4
+johlenderer	4
+johlenderes	4
+johlendes	2
+johlendste	3
+johlendstem	4
+johlendsten	4
+johlendster	4
+johlendstes	4
+johlest	2n
+johlet	1n
+johlst	2en
+johlt	1en
+johlte	2en
+johlten	3en
+johltest	4en
+johltet	3en
+jokos
+jonglier	0en
+jongliere	0n
+jonglieren
+jonglierend	1
+jonglierest	2n
+jonglieret	1n
+jonglierst	2en
+jongliert	1en
+jonglierte	2en
+jonglierten	3en
+jongliertest	4en
+jongliertet	3en
+jordanisch
+jordanische	1
+jordanischen	2
+jordanisches	2
+jotwede
+journalistisch
+journalistische	1
+jovial
+jovialer	2
+jovianisch
+jubel	0n
+jubele	1n
+jubelest	3n
+jubelet	2n
+jubeln
+jubelnd	1
+jubelnde	1
+jubelndem	2
+jubelnden	2
+jubelnder	2
+jubelndere	3
+jubelnderem	4
+jubelnderen	4
+jubelnderer	4
+jubelnderes	4
+jubelndes	2
+jubelndste	3
+jubelndstem	4
+jubelndsten	4
+jubelndster	4
+jubelndstes	4
+jubelst	2n
+jubelt	1n
+jubelte	2n
+jubelten	3n
+jubeltest	4n
+jubeltet	3n
+jubilier	0en
+jubiliere	0n
+jubilieren
+jubilierend	1
+jubilierende	1
+jubilierendem	2
+jubilierenden	2
+jubilierender	2
+jubilierendere	3
+jubilierenderem	4
+jubilierenderen	4
+jubilierenderer	4
+jubilierenderes	4
+jubilierendes	2
+jubilierendste	3
+jubilierendstem	4
+jubilierendsten	4
+jubilierendster	4
+jubilierendstes	4
+jubilierest	2n
+jubilieret	1n
+jubilierst	2en
+jubiliert
+jubilierte	2en
+jubiliertem	2
+jubilierten	3en
+jubilierter	2
+jubiliertes	2
+jubiliertest	4en
+jubiliertet	3en
+juble	2eln
+jublest	4eln
+jublet	3eln
+juch
+juchhe
+juchhei
+juchheirassa
+juchheirassassa
+juchheisa
+juchheißa
+juchhu
+juchten
+juchz	0en
+juchze	0n
+juchzen
+juchzend	1
+juchzende	1
+juchzendem	2
+juchzenden	2
+juchzender	2
+juchzendere	3
+juchzenderem	4
+juchzenderen	4
+juchzenderer	4
+juchzenderes	4
+juchzendes	2
+juchzendste	3
+juchzendstem	4
+juchzendsten	4
+juchzendster	4
+juchzendstes	4
+juchzest	2n
+juchzet	1n
+juchzt	1en
+juchzte	2en
+juchzten	3en
+juchztest	4en
+juchztet	3en
+juck	0en
+jucke	0n
+juckele	1n
+juckeln
+juckelnd	1
+juckelst	2n
+juckelt	1n
+juckelte	2n
+juckelten	3n
+juckeltest	4n
+juckeltet	3n
+jucken
+juckend	1
+juckern
+juckest	2n
+jucket	1n
+juckle	2eln
+jucklest	4eln
+jucklet	3eln
+juckst	2en
+juckt	1en
+juckte	2en
+juckten	3en
+jucktest	4en
+jucktet	3en
+judaisier	0en
+judaisiere	0n
+judaisieren
+judaisierend	1
+judaisierest	2n
+judaisieret	1n
+judaisierst	2en
+judaisiert	1en
+judaisierte	2en
+judaisierten	3en
+judaisiertest	4en
+judaisiertet	3en
+judaistisch
+judenchristlich
+judenfeindlich
+judikatorisch
+judiziell
+judizier	0en
+judiziere	0n
+judizieren
+judizierend	1
+judizierest	2n
+judizieret	1n
+judizierst	2en
+judiziert	1en
+judizierte	2en
+judizierten	3en
+judiziertest	4en
+judiziertet	3en
+jugendbewegt
+jugendfrei
+jugendfreie	1
+jugendfreiem	2
+jugendfreien	2
+jugendfreier	2
+jugendfreies	2
+jugendfreundlich
+jugendfreundlicher	2
+jugendfreundlichsten	4
+jugendfrisch
+jugendfördernd
+jugendgefährdend
+jugendgefährdende	1
+jugendgefährdendem	2
+jugendgefährdenden	2
+jugendgefährdender	2
+jugendgefährdendere	3
+jugendgefährdenderem	4
+jugendgefährdenderen	4
+jugendgefährdenderer	4
+jugendgefährdenderes	4
+jugendgefährdendes	2
+jugendgefährdendste	3
+jugendgefährdendstem	4
+jugendgefährdendsten	4
+jugendgefährdendster	4
+jugendgefährdendstes	4
+jugendgemäß
+jugendgerecht
+jugendhaft
+jugendhafter	2
+jugendhaftesten	5
+jugendkulturell
+jugendlich
+jugendlich-dramatisch
+jugendlich-dramatische	1
+jugendliche	1
+jugendlichem	2
+jugendlichen	2
+jugendlicher	2
+jugendlichere	3
+jugendlicherem	4
+jugendlicheren	4
+jugendlicherer	4
+jugendlicheres	4
+jugendliches	2
+jugendlichste	3
+jugendlichstem	4
+jugendlichsten	4
+jugendlichster	4
+jugendlichstes	4
+jugendpolitisch
+jugendpolitischen	2
+jugendpsychiatrisch
+jugendpsychologisch
+jugendspezifisch
+jugendsprachlich
+jugoslawisch
+jugoslawische	1
+jugoslawischem	2
+jugoslawischen	2
+jugoslawischer	2
+jugoslawisches	2
+juhu
+julianisch
+jump	0en
+jumpe	0n
+jumpen
+jumpend	1
+jumpest	2n
+jumpet	1n
+jumpst	2en
+jumpt	1en
+jumpte	2en
+jumpten	3en
+jumptest	4en
+jumptet	3en
+jung
+jungbelaubt
+jungdeutsch
+junge	1
+jungem	2
+jungen	2
+jungend	1
+jungenhaft
+jungenhaftem	2
+jungenhaften	2
+jungenhafter	2
+jungenhaftere	3
+jungenhafterem	4
+jungenhafteren	4
+jungenhafterer	4
+jungenhafteres	4
+jungenhaftes	2
+jungenhaftestem	5
+jungenhaftesten	5
+jungenhaftester	5
+jungenhaftestes	5
+junger	2
+junges	2
+jungest	2n
+junget	1n
+jungferhaft
+jungfernhaft
+jungfräulich
+jungfräuliche	1
+jungfräulichem	2
+jungfräulichen	2
+jungfräulicher	2
+jungfräulichere	3
+jungfräulicherem	4
+jungfräulicheren	4
+jungfräulicherer	4
+jungfräulicheres	4
+jungfräuliches	2
+jungfräulichste	3
+jungfräulichstem	4
+jungfräulichsten	4
+jungfräulichster	4
+jungfräulichstes	4
+jungier	0en
+jungiere	0n
+jungieren
+jungierend	1
+jungierest	2n
+jungieret	1n
+jungierst	2en
+jungiert	1en
+jungierte	2en
+jungierten	3en
+jungiertest	4en
+jungiertet	3en
+jungsch
+jungst	2en
+jungsteinzeitlich
+jungsteinzeitliche	1
+jungsteinzeitlichem	2
+jungsteinzeitlichen	2
+jungsteinzeitlicher	2
+jungsteinzeitliches	2
+jungt	1en
+jungte	2en
+jungten	3en
+jungtest	4en
+jungtet	3en
+jungverheiratet
+jungvermählt
+junkerhaft
+junkerlich
+junktimier	0en
+junktimiere	0n
+junktimieren
+junktimierend	1
+junktimierest	2n
+junktimieret	1n
+junktimierst	2en
+junktimiert	1en
+junktimierte	2en
+junktimierten	3en
+junktimiertest	4en
+junktimiertet	3en
+junonisch
+jurassisch
+juridisch
+jurier	0en
+juriere	0n
+jurieren
+jurierend	1
+jurierende	1
+jurierendem	2
+jurierenden	2
+jurierender	2
+jurierendes	2
+jurierest	2n
+jurieret	1n
+jurierst	2en
+juriert
+jurierte	2en
+juriertem	2
+jurierten	3en
+jurierter	2
+juriertes	2
+juriertest	4en
+juriertet	3en
+juristisch
+juristische	1
+juristischem	2
+juristischen	2
+juristischer	2
+juristisches	2
+juryfrei
+just
+justament
+justement
+justier	0en
+justiere	0n
+justieren
+justierend	1
+justierende	1
+justierendem	2
+justierenden	2
+justierender	2
+justierendes	2
+justierest	2n
+justieret	1n
+justierst	2en
+justiert
+justierte	2en
+justiertem	2
+justierten	3en
+justierter	2
+justiertere	3
+justierterem	4
+justierteren	4
+justierterer	4
+justierteres	4
+justiertes	2
+justiertest	4en
+justiertestem	5
+justiertesten	5
+justiertester	5
+justiertestes	5
+justiertet	3en
+justifizier	0en
+justifiziere	0n
+justifizieren
+justifizierend	1
+justifizierende	1
+justifizierendem	2
+justifizierenden	2
+justifizierender	2
+justifizierendes	2
+justifizierest	2n
+justifizieret	1n
+justifizierst	2en
+justifiziert
+justifizierte	2en
+justifiziertem	2
+justifizierten	3en
+justifizierter	2
+justifiziertes	2
+justifiziertest	4en
+justifiziertet	3en
+justitiabel
+justitiell
+justiziabel
+justiziell
+juvenalisch
+juvenalisier	0en
+juvenalisiere	0n
+juvenalisieren
+juvenalisierend	1
+juvenalisierest	2n
+juvenalisieret	1n
+juvenalisierst	2en
+juvenalisiert	1en
+juvenalisierte	2en
+juvenalisierten	3en
+juvenalisiertest	4en
+juvenalisiertet	3en
+juvenil
+juvivallera
+jux	0en
+juxe	0n
+juxen
+juxend	1
+juxest	2n
+juxet	1n
+juxig
+juxt	1en
+juxte	2en
+juxten	3en
+juxtest	4en
+juxtet	3en
+jwd
+jwd.
+jägerisch
+jäh
+jähe	1
+jähem	2
+jähen	2
+jäher	2
+jähes	2
+jählings
+jähr	0en
+jähre	0n
+jähren
+jährend	1
+jährest	2n
+jähret	1n
+jährig
+jährige	1
+jährigem	2
+jährigen
+jähriger	2
+jähriges	2
+jährlich
+jährliche	1
+jährlichem	2
+jährlichen	2
+jährlicher	2
+jährliches	2
+jährst	2en
+jährt	1en
+jährte	2en
+jährten	3en
+jährtest	4en
+jährtet	3en
+jähzornig
+jähzornige	1
+jähzornigem	2
+jähzornigen	2
+jähzorniger	2
+jähzornigere	3
+jähzornigerem	4
+jähzornigeren	4
+jähzornigerer	4
+jähzornigeres	4
+jähzorniges	2
+jähzornigste	3
+jähzornigstem	4
+jähzornigsten	4
+jähzornigster	4
+jähzornigstes	4
+jämmerlich
+jämmerliche	1
+jämmerlichem	2
+jämmerlichen	2
+jämmerlicher	2
+jämmerlichere	3
+jämmerlicherem	4
+jämmerlicheren	4
+jämmerlicherer	4
+jämmerlicheres	4
+jämmerliches	2
+jämmerlichste	3
+jämmerlichstem	4
+jämmerlichsten	4
+jämmerlichster	4
+jämmerlichstes	4
+jät	0en
+jäte	0n
+jäten
+jätend	1
+jätende	1
+jätendem	2
+jätenden	2
+jätender	2
+jätendes	2
+jätest	2n
+jätet	1n
+jätete	2n
+jäteten	3n
+jätetest	4n
+jätetet	3n
+jätt	1en
+jö
+jüdeln
+jüdelnd	1
+jüdelt	1n
+jüdisch
+jüdisch-arabisch
+jüdisch-arabische	1
+jüdisch-christlich
+jüdisch-christlichen	2
+jüdisch-extremistisch
+jüdisch-extremistischen	2
+jüdische	1
+jüdischem	2
+jüdischen	2
+jüdischer	2
+jüdisches	2
+jüdle	2eln
+jünger	5ung
+jüngere	6ung
+jüngerem	7ung
+jüngeren	7ung
+jüngerer	7ung
+jüngeres	7ung
+jüngferlich
+jüngferliche	1
+jüngferlichem	2
+jüngferlichen	2
+jüngferlicher	2
+jüngferlichere	3
+jüngferlicherem	4
+jüngferlicheren	4
+jüngferlicherer	4
+jüngferlicheres	4
+jüngferliches	2
+jüngferlichste	3
+jüngferlichstem	4
+jüngferlichsten	4
+jüngferlichster	4
+jüngferlichstes	4
+jünglingshaft
+jüngst
+jüngste	6ung
+jüngstem	7ung
+jüngsten	7ung
+jüngstens
+jüngster	7ung
+jüngstes	7ung
+jüngsthin
+jüngstvergangen

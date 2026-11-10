@@ -1,0 +1,705 @@
+'nauf
+'naus
+'nein
+'nunter
+'nüber
+'s	2es
+-Software
+0,18-µ-Prozess	2ß
+0,18-µ-Prozeß
+1-Benzolethansäure
+1-Butanol
+1-Butanols	1
+1-Cent-Münze
+1-Cent-Münzen	1
+1-Cent-Stück
+1-Cent-Stücke	1
+1-Cent-Stücken	2
+1-Cent-Stückes	2
+1-Cent-Stücks	1
+1-Dodecanol
+1-Dodecanols	1
+1-Dollar-Note
+1-Dollar-Noten	1
+1-Euro-Job
+1-Euro-Jobber
+1-Euro-Jobbern	1
+1-Euro-Jobbers	1
+1-Euro-Jobs	1
+1-Euro-Laden
+1-Euro-Münze
+1-Euro-Münzen	1
+1-Euro-Shop
+1-Euro-Shops	1
+1-Euro-Stück
+1-Euro-Stücke	1
+1-Euro-Stücken	2
+1-Euro-Stückes	2
+1-Euro-Stücks	1
+1-Hexanol
+1-Hexanols	1
+1-Pentanol
+1-Pentanols	1
+1-Pfennig-Stück
+1-Pfennig-Stücke	1
+1-Pfennig-Stücken	2
+1-Pfennig-Stückes	2
+1-Pfennig-Stücks	1
+1-Raum-Wohnung
+1-Raum-Wohnungen	2
+1-Zeiler
+1-Zeilern	1
+1-Zeilers	1
+1-Zimmer-Wohnung
+1-Zimmer-Wohnungen	2
+1-jährig
+1-zeilig
+10-Cent-Münze
+10-Cent-Münzen	1
+10-Cent-Stück
+10-Cent-Stücke	1
+10-Cent-Stücken	2
+10-Cent-Stückes	2
+10-Cent-Stücks	1
+10-Euro-Schein
+10-Euro-Scheine	1
+10-Euro-Scheinen	2
+10-Euro-Scheines	2
+10-Euro-Scheins	1
+10-Franken-Note
+10-Franken-Noten	1
+10-Franken-Schein
+10-Franken-Scheine	1
+10-Franken-Scheinen	2
+10-Franken-Scheines	2
+10-Franken-Scheins	1
+10-Mark-Schein
+10-Mark-Scheine	1
+10-Mark-Scheinen	2
+10-Mark-Scheines	2
+10-Mark-Scheins	1
+10-Pfennig-Stück
+10-Pfennig-Stücke	1
+10-Pfennig-Stücken	2
+10-Pfennig-Stückes	2
+10-Pfennig-Stücks	1
+10-Tonner
+10-Tonnern	1
+10-Tonners	1
+10-Uhr-Vorstellung
+10-Uhr-Vorstellungen	2
+10-Uhr-Zug
+10-Uhr-Zuge	1
+10-Uhr-Zuges	2
+10-Uhr-Zugs	1
+10-Uhr-Züge	3ug
+10-Uhr-Zügen	4ug
+10-jährig
+10-malig
+10-pfündig
+10-prozentig
+10-stellig
+100-Euro-Schein
+100-Euro-Scheine	1
+100-Euro-Scheinen	2
+100-Euro-Scheines	2
+100-Euro-Scheins	1
+100-Franken-Note
+100-Franken-Noten	1
+100-Franken-Schein
+100-Franken-Scheine	1
+100-Franken-Scheinen	2
+100-Franken-Scheines	2
+100-Franken-Scheins	1
+100-Jahr-Feier
+100-Jahr-Feiern	1
+100-Kilometer-Tempo
+100-Kilometer-Tempos	1
+100-Mark-Schein
+100-Mark-Scheine	1
+100-Mark-Scheinen	2
+100-Mark-Scheines	2
+100-Mark-Scheins	1
+100-Meter-Lauf
+100-Meter-Laufs	1
+100-Meter-Läufe	4auf
+100-Meter-Läufen	5auf
+100-fach
+100-jährig
+100-m-Lauf
+100-m-Laufs	1
+100-m-Läufe	4auf
+100-m-Läufen	5auf
+100-prozentig
+1000-Franken-Note
+1000-Franken-Noten	1
+1000-Franken-Schein
+1000-Franken-Scheine	1
+1000-Franken-Scheinen	2
+1000-Franken-Scheines	2
+1000-Franken-Scheins	1
+1000-Kontakt-Preis
+1000-Kontakt-Preise	1
+1000-Kontakt-Preisen	2
+1000-Kontakt-Preises	2
+1000-Mark-Schein
+1000-Mark-Scheine	1
+1000-Mark-Scheinen	2
+1000-Mark-Scheines	2
+1000-Mark-Scheins	1
+1000-jährig
+100fach
+102-Jährige	0r
+102-Jährigem	1r
+102-Jährigen	1
+102-Jähriger
+10er-Jahre
+10er-Jahren	1
+11-jährig
+12-Meilen-Zone
+12-Meilen-Zonen	1
+12-jährig
+13-jährig
+14-dien-19-carbonsäure	22Abieta-7
+14-jährig
+15-jährig
+150-prozentig
+16-Meter-Linie
+16-Meter-Linien	1
+16-jährig
+17C3
+17c3	2C3
+18-jährig
+19-jährig
+2-Acetoxybenzoesäure
+2-Achser
+2-Achsern	1
+2-Achsers	1
+2-Amino-3-methylbutansäure
+2-Aminobutandisäure
+2-Aminoisovaleriansäure
+2-Butanon
+2-Butanons	1
+2-Butin
+2-Butins	1
+2-Cent-Münze
+2-Cent-Münzen	1
+2-Cent-Stück
+2-Cent-Stücke	1
+2-Cent-Stücken	2
+2-Cent-Stückes	2
+2-Cent-Stücks	1
+2-Euro-Münze
+2-Euro-Münzen	1
+2-Euro-Stück
+2-Euro-Stücke	1
+2-Euro-Stücken	2
+2-Euro-Stückes	2
+2-Euro-Stücks	1
+2-G-Regel
+2-G-Regeln	1
+2-G-Regelung
+2-G-Regelungen	2
+2-Hexanol
+2-Hexanols	1
+2-Hydroxybenzoesäure
+2-Hydroxypropansäure
+2-Mark-Schein
+2-Mark-Scheine	1
+2-Mark-Scheinen	2
+2-Mark-Scheines	2
+2-Mark-Scheins	1
+2-Meter-Mann
+2-Meter-Manns	1
+2-Meter-Männer	5ann
+2-Meter-Männern	6ann
+2-Methyl-1-propanol
+2-Methyl-1-propanols	1
+2-Methyl-2-propanol
+2-Methyl-2-propanols	1
+2-Minuten-Strafe
+2-Minuten-Strafen	1
+2-Oxopropansäure
+2-Pfünder
+2-Pfündern	1
+2-Pfünders	1
+2-Propanol
+2-Propanols	1
+2-Propen-1-ol
+2-Propen-1-ols	1
+2-Propenal
+2-Propenals	1
+2-Propenol
+2-Propenols	1
+2-Raum-Wohnung
+2-Raum-Wohnungen	2
+2-Zeiler
+2-Zeilern	1
+2-Zeilers	1
+2-Zimmer-Wohnung
+2-Zimmer-Wohnungen	2
+2-jährig
+2-mal
+2-stellig
+2-strahlig
+2-stündig
+2-zimmerig
+2-zimmrig
+2-zylindrig
+20-Cent-Münze
+20-Cent-Münzen	1
+20-Cent-Stück
+20-Cent-Stücke	1
+20-Cent-Stücken	2
+20-Cent-Stückes	2
+20-Cent-Stücks	1
+20-Euro-Schein
+20-Euro-Scheine	1
+20-Euro-Scheinen	2
+20-Euro-Scheines	2
+20-Euro-Scheins	1
+20-Franken-Note
+20-Franken-Noten	1
+20-Franken-Schein
+20-Franken-Scheine	1
+20-Franken-Scheinen	2
+20-Franken-Scheines	2
+20-Franken-Scheins	1
+20-Mark-Schein
+20-Mark-Scheine	1
+20-Mark-Scheinen	2
+20-Mark-Scheines	2
+20-Mark-Scheins	1
+20-Minuten-Takt
+20-Minuten-Takte	1
+20-Minuten-Takten	2
+20-Minuten-Taktes	2
+20-Minuten-Takts	1
+20-jährig
+200-Euro-Schein
+200-Euro-Scheine	1
+200-Euro-Scheinen	2
+200-Euro-Scheines	2
+200-Euro-Scheins	1
+200-Franken-Note
+200-Franken-Noten	1
+200-Franken-Schein
+200-Franken-Scheine	1
+200-Franken-Scheinen	2
+200-Franken-Scheines	2
+200-Franken-Scheins	1
+200-Mark-Schein
+200-Mark-Scheine	1
+200-Mark-Scheinen	2
+200-Mark-Scheines	2
+200-Mark-Scheins	1
+200-prozentig
+2000-fähig
+2000-jährig
+20er-Jahre
+20er-Jahren	1
+24-Stunden-Rennen
+24-Stunden-Rennens	1
+24-Stunden-Tankstelle
+24-Stunden-Tankstellen	1
+2G-Regel
+2G-Regeln	1
+2G-Regelung
+2G-Regelungen	2
+3-Achser
+3-Achsern	1
+3-Achsers	1
+3-D
+3-D-Aufnahme
+3-D-Aufnahmen	1
+3-D-Brille
+3-D-Brillen	1
+3-D-Drucker
+3-D-Druckern	1
+3-D-Druckers	1
+3-D-Effekt
+3-D-Effekte	1
+3-D-Effekten	2
+3-D-Effektes	2
+3-D-Effekts	1
+3-D-Film
+3-D-Filme	1
+3-D-Filmen	2
+3-D-Filmes	2
+3-D-Films	1
+3-D-Kamera
+3-D-Kameras	1
+3-D-Kino
+3-D-Kinos	1
+3-G-Regel
+3-G-Regeln	1
+3-G-Regelung
+3-G-Regelungen	2
+3-Hexanol
+3-Hexanols	1
+3-Meilen-Zone
+3-Meilen-Zonen	1
+3-Phenylacrylsäure
+3-Punkte-Linie
+3-Punkte-Linien	1
+3-Raum-Wohnung
+3-Raum-Wohnungen	2
+3-Sekunden-Regel
+3-Sekunden-Regeln	1
+3-Sterne-Hotel
+3-Sterne-Hotels	1
+3-Säulen-System
+3-Säulen-Systeme	1
+3-Säulen-Systemen	2
+3-Säulen-Systems	1
+3-Tage-Woche
+3-Tage-Wochen	1
+3-Tonner
+3-Tonnern	1
+3-Tonners	1
+3-Uhr-Vorstellung
+3-Uhr-Vorstellungen	2
+3-Uhr-Zug
+3-Uhr-Zuge	1
+3-Uhr-Zuges	2
+3-Uhr-Zugs	1
+3-Uhr-Züge	3ug
+3-Uhr-Zügen	4ug
+3-Zeiler
+3-Zeilern	1
+3-Zeilers	1
+3-Zimmer-Wohnung
+3-Zimmer-Wohnungen	2
+3-geschossig
+3-jährig
+3-mal
+3-monatig
+3-monatlich
+3-stellig
+3-strahlig
+3-wöchig
+3-zinkig
+30-jährig
+30er-Jahre
+30er-Jahren	1
+35-Stunden-Woche
+35-Stunden-Wochen	1
+3Com
+3D	1-D
+3D-Aufnahme
+3D-Aufnahmen	1
+3D-Brille
+3D-Brillen	1
+3D-Drucker
+3D-Druckern	1
+3D-Druckers	1
+3D-Effekt
+3D-Effekte	1
+3D-Effekten	2
+3D-Effektes	2
+3D-Effekts	1
+3D-Film
+3D-Filme	1
+3D-Filmen	2
+3D-Filmes	2
+3D-Films	1
+3D-Kamera
+3D-Kameras	1
+3D-Kino
+3D-Kinos	1
+3DMark
+3G-Regel
+3G-Regeln	1
+3G-Regelung
+3G-Regelungen	2
+3com	3Com
+3d	1D
+3dmark	5DMark
+4-2-4-System
+4-2-4-Systems	1
+4-3-3-System
+4-3-3-Systems	1
+4-Achser
+4-Achsern	1
+4-Achsers	1
+4-Amino-1-benzolsulfonsäure
+4-Aminobutansäure
+4-Augen-Gespräch
+4-Augen-Gespräche	1
+4-Augen-Gesprächen	2
+4-Augen-Gespräches	2
+4-Augen-Gesprächs	1
+4-Hydroxybutansäure
+4-Jahr-Plan
+4-Jahres-Plan
+4-Raum-Wohnung
+4-Raum-Wohnungen	2
+4-Schanzen-Tournee
+4-Schanzen-Tourneen	1
+4-Sterne-Hotel
+4-Sterne-Hotels	1
+4-Tage-Woche
+4-Tages-Woche
+4-Zeiler
+4-Zeilern	1
+4-Zeilers	1
+4-Zimmer-Wohnung
+4-Zimmer-Wohnungen	2
+4-diol	6Butan-1
+4-diols	7Butan-1
+4-fach
+4-jährig
+4-mal
+4-stellig
+4-stimmig
+4-strahlig
+4-stöckig
+40-Stunden-Woche
+40-Stunden-Wochen	1
+40-jährig
+400-Euro-Job
+400-Euro-Jobber
+400-Euro-Jobbern	1
+400-Euro-Jobbers	1
+400-Euro-Jobs	1
+40er
+40er-Jahre
+40er-Jahren	1
+40ern	1
+40ers	1
+450-Euro-Job
+450-Euro-Jobs	1
+46-Jährige	0r
+46-Jährigem	1r
+46-Jährigen	1r
+46-Jähriger
+48er
+48ern	1
+48ers	1
+49-Euro-Ticket
+49-Euro-Tickets	1
+4G
+4Gs	1
+4fach
+5-Cent-Münze
+5-Cent-Münzen	1
+5-Cent-Stück
+5-Cent-Stücke	1
+5-Cent-Stücken	2
+5-Cent-Stückes	2
+5-Cent-Stücks	1
+5-Euro-Schein
+5-Euro-Scheine	1
+5-Euro-Scheinen	2
+5-Euro-Scheines	2
+5-Euro-Scheins	1
+5-Jahr-Plan
+5-Jahres-Plan
+5-Mark-Schein
+5-Mark-Scheine	1
+5-Mark-Scheinen	2
+5-Mark-Scheines	2
+5-Mark-Scheins	1
+5-Meter-Raum
+5-Meter-Raums	1
+5-Meter-Räume	4aum
+5-Meter-Räumen	5aum
+5-Minuten-Takt
+5-Minuten-Taktes	2
+5-Minuten-Takts	1
+5-Pfennig-Stück
+5-Pfennig-Stücke	1
+5-Pfennig-Stücken	2
+5-Pfennig-Stückes	2
+5-Pfennig-Stücks	1
+5-Prozent-Hürde
+5-Prozent-Hürden	1
+5-Prozent-Klausel
+5-Prozent-Klauseln	1
+5-Raum-Wohnung
+5-Raum-Wohnungen	2
+5-Sterne-Hotel
+5-Sterne-Hotels	1
+5-Tage-Woche
+5-Tages-Woche
+5-Tonner
+5-Tonnern	1
+5-Tonners	1
+5-Uhr-Vorstellung
+5-Uhr-Vorstellungen	2
+5-Uhr-Zug
+5-Uhr-Zuge	1
+5-Uhr-Zuges	2
+5-Uhr-Zugs	1
+5-Uhr-Züge	3ug
+5-Uhr-Zügen	4ug
+5-Zimmer-Wohnung
+5-Zimmer-Wohnungen	2
+5-jährig
+5-mal
+5-minütig
+5-prozentig
+5-stellig
+5-stündig
+50-Cent-Münze
+50-Cent-Münzen	1
+50-Cent-Stück
+50-Cent-Stücke	1
+50-Cent-Stücken	2
+50-Cent-Stückes	2
+50-Cent-Stücks	1
+50-Euro-Schein
+50-Euro-Scheine	1
+50-Euro-Scheinen	2
+50-Euro-Scheines	2
+50-Euro-Scheins	1
+50-Franken-Note
+50-Franken-Noten	1
+50-Franken-Schein
+50-Franken-Scheine	1
+50-Franken-Scheinen	2
+50-Franken-Scheines	2
+50-Franken-Scheins	1
+50-Mark-Schein
+50-Mark-Scheine	1
+50-Mark-Scheinen	2
+50-Mark-Scheines	2
+50-Mark-Scheins	1
+50-jährig
+500-Euro-Schein
+500-Euro-Scheine	1
+500-Euro-Scheinen	2
+500-Euro-Scheines	2
+500-Euro-Scheins	1
+500-Mark-Schein
+500-Mark-Scheine	1
+500-Mark-Scheinen	2
+500-Mark-Scheines	2
+500-Mark-Scheins	1
+50er
+50er-Jahre
+50er-Jahren	1
+50ern	1
+50ers	1
+59-Jährige	0r
+59-Jährigem	1r
+59-Jährigen	1r
+59-Jähriger
+5G
+5Gs	1
+6-Punkte-Spiel
+6-Punkte-Spiele	1
+6-Punkte-Spielen	2
+6-Punkte-Spieles	2
+6-Punkte-Spiels	1
+6-Tage-Woche
+6-Tages-Woche
+6-Uhr-Vorstellung
+6-Uhr-Vorstellungen	2
+6-Uhr-Zug
+6-Uhr-Zuge	1
+6-Uhr-Zuges	2
+6-Uhr-Zugs	1
+6-Uhr-Züge	3ug
+6-Uhr-Zügen	4ug
+6-jährig
+6-stellig
+6-strahlig
+6-tägig
+6-zeilig
+6-zylindrig
+60-Sekunden-Takt
+60-Sekunden-Taktes	2
+60-Sekunden-Takts	1
+60-jährig
+60er-Jahre
+60er-Jahren	1
+68er
+68erin
+68erinnen	3
+68ern	1
+68ers	1
+7-Tage-Inzidenz
+7-Tage-Inzidenzen	2
+7-Uhr-Vorstellung
+7-Uhr-Vorstellungen	2
+7-Uhr-Zug
+7-Uhr-Zuge	1
+7-Uhr-Zuges	2
+7-Uhr-Zugs	1
+7-Uhr-Züge	3ug
+7-Uhr-Zügen	4ug
+7-jährig
+7-stellig
+70-jährig
+70er-Jahre
+70er-Jahren	1
+8-Stunden-Tag
+8-Stunden-Tage	1
+8-Stunden-Tagen	2
+8-Stunden-Tages	2
+8-Stunden-Tags	1
+8-Tonner
+8-Tonnern	1
+8-Tonners	1
+8-Uhr-Vorstellung
+8-Uhr-Vorstellungen	2
+8-Uhr-Zug
+8-Uhr-Zuge	1
+8-Uhr-Zuges	2
+8-Uhr-Zugs	1
+8-Uhr-Züge	3ug
+8-Uhr-Zügen	4ug
+8-fach
+8-jährig
+8-stellig
+8-zylindrig
+80-jährig
+80er-Jahre
+80er-Jahren	1
+8fach
+9-jährig
+9-stellig
+90-Minüter
+90-Minütern	1
+90-Minüters	1
+90-jährig
+90er-Jahre
+90er-Jahren	1
+À-la-carte-Restaurant
+À-la-carte-Restaurants	1
+Ålandinseln
+Ålandsee
+Åländer
+Åländern	1
+Åländers	1
+Ångström
+Ångströms	1
+Ås
+Åsar	2
+Élysée-Palast
+Élysée-Palastes	2
+Élysée-Palasts	1
+Étalonsprache
+Étalonsprachen	1
+Île-de-France
+à
+étouffé
+Ćevapčići
+ČSSR
+Œuvre
+Œuvres	1
+α-Tolylsäure
+α-Zerfall
+α-Zerfalle	1
+α-Zerfalles	2
+α-Zerfalls	1
+α-Zerfälle	4all
+α-Zerfällen	5all
+β-Hydroxyaldehyd
+β-Hydroxyaldehyde	1
+β-Hydroxyaldehyden	2
+β-Hydroxyaldehyds	1
+β-Ketobuttersäure
+β-Ketobuttersäuren	1
+γ-Aminobuttersäure
