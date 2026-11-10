@@ -65,6 +65,11 @@ Các tab đã mở trước khi cài cần **tải lại (F5)** thì extension m
 2. Bấm nút **Tra Faztaa** hiện cạnh vùng chọn.
 3. Popup hiện ở **giữa màn hình** (lệch lên/xuống nếu cần để không che từ bạn đang tra).
 
+<p align="center">
+  <img src="img_1.png" alt="Popup Deutsch Lens khi tra từ “passenden”" width="560">
+  <br><em>Bôi đen “passenden” → extension nhận ra từ gốc “passend” (✓ = Faztaa có đúng từ này) và hiện nghĩa tiếng Anh, phiên âm, từ loại, từ đồng nghĩa, từ liên quan, nút lưu vào Sheets và câu ví dụ Đức – Anh – Việt.</em>
+</p>
+
 **Phím tắt và thao tác nhanh**
 
 | Thao tác | Tác dụng |
@@ -89,6 +94,13 @@ Các tab đã mở trước khi cài cần **tải lại (F5)** thì extension m
 ---
 
 ## 3. Các tùy chọn trong trang Cài đặt
+
+Mở trang Cài đặt bằng cách bấm biểu tượng Deutsch Lens trên thanh công cụ, hoặc bấm nút ⚙ trên popup.
+
+<p align="center">
+  <img src="img_2.png" alt="Trang Cài đặt của Deutsch Lens" width="560">
+  <br><em>Phần “Cách tra và popup”, “Dự phòng: Google Dịch” và “Lưu từ vựng vào Google Sheets” trong trang Cài đặt.</em>
+</p>
 
 | Tùy chọn | Ý nghĩa |
 |---|---|
