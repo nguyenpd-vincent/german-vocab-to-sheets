@@ -5,6 +5,7 @@ const path = require('path');
 const fs = require('fs');
 const os = require('os');
 const { chromium } = require('playwright');
+const { md5 } = require('../md5.js');
 
 const EXT = path.resolve(__dirname, '..');
 const HEADLESS = process.env.HEADED ? false : true;
@@ -32,6 +33,11 @@ const entry = (w, d) => ({ word: w, pronounce: { de: '/' + w.toLowerCase() + '/'
 const DELAY = { langsam: 1500 }; // từ "langsam" trả lời chậm để thử tranh chấp giữa hai lần tra
 const requests = [];
 const gtRequests = []; // các yêu cầu tới Google Dịch (giả lập)
+// File phát âm giả của Faztaa: chỉ có cho các từ này (md5 của từ, không mạo từ). Còn lại 404.
+const AUDIO_WORDS = ['anrufen', 'Haus', 'Wert'];
+const AUDIO_FILES = Object.fromEntries(AUDIO_WORDS.map(w => [md5(w), w]));
+const audioRequests = []; // từ (hoặc md5 lạ) mà trang ẩn đã xin file
+const BEEP = fs.readFileSync(path.join(__dirname, 'beep.mp3'));
 function faztaa(url) {
   const u = new URL(url);
   requests.push(decodeURIComponent(u.pathname));
@@ -69,6 +75,9 @@ const PAGES = {
   '/iframe.html': `<!doctype html><meta charset=utf-8><body style="margin:40px"><p>Seite mit Rahmen</p>
     <iframe id="f" src="/inner.html" style="width:300px;height:150px;border:1px solid #888"></iframe></body>`,
   '/inner.html': `<!doctype html><meta charset=utf-8><body style="font:18px serif"><p id="ip">Ich rufe dich morgen an.</p></body>`,
+  // Trang có CSP chặn mọi âm thanh/media: phát âm vẫn phải chạy (phát trong trang ẩn của extension).
+  '/csp.html': `<!doctype html><meta charset=utf-8><body style="font:20px serif;margin:40px">
+    <p id="c1">Ich rufe dich morgen an.</p></body>`,
   '/stopper.html': `<!doctype html><meta charset=utf-8><body style="font:20px serif;margin:40px">
     <div id="banner" style="position:fixed;bottom:0;left:0;right:0;background:#eee;padding:20px">Wir verwenden Cookies auf unserer Website.</div>
     <script>document.getElementById('banner').addEventListener('mouseup', e => e.stopPropagation());</script></body>`
@@ -165,17 +174,24 @@ const byText = `return [...root.querySelectorAll('button,a')].find(b => b.textCo
   const userData = fs.mkdtempSync(path.join(os.tmpdir(), 'dl-ui-'));
   const ctx = await chromium.launchPersistentContext(userData, {
     channel: 'chromium', headless: HEADLESS, viewport: { width: 1100, height: 800 },
-    args: [`--disable-extensions-except=${EXT}`, `--load-extension=${EXT}`]
+    args: [`--disable-extensions-except=${EXT}`, `--load-extension=${EXT}`, '--autoplay-policy=no-user-gesture-required']
   });
   const consoleErrors = [];
   await ctx.route('http://test.local/**', r => {
     const p = new URL(r.request().url()).pathname;
-    r.fulfill(PAGES[p] ? { status: 200, contentType: 'text/html; charset=utf-8', body: PAGES[p] } : { status: 404, body: '' });
+    const headers = p === '/csp.html' ? { 'content-security-policy': "default-src 'self'; media-src 'none'; connect-src 'none'" } : {};
+    r.fulfill(PAGES[p] ? { status: 200, contentType: 'text/html; charset=utf-8', headers, body: PAGES[p] } : { status: 404, body: '' });
   });
   await ctx.route('https://api.faztaa.com/**', async r => {
     const { status = 200, body, delay = 0 } = faztaa(r.request().url());
     if (delay) await new Promise(res => setTimeout(res, delay));
     await r.fulfill({ status, contentType: 'application/json', body: JSON.stringify(body) }).catch(() => {});
+  });
+  await ctx.route('https://data.faztaa.com/**', r => {
+    const m = new URL(r.request().url()).pathname.match(/^\/audios\/1103\/([0-9a-f]{32})\.mp3$/);
+    const word = m && AUDIO_FILES[m[1]];
+    audioRequests.push(word || (m ? m[1] : r.request().url()));
+    r.fulfill(word ? { status: 200, contentType: 'audio/mpeg', body: BEEP } : { status: 404, contentType: 'text/html', body: 'Not found' });
   });
   await ctx.route('https://translate.googleapis.com/**', r => {
     const u = new URL(r.request().url());
@@ -512,6 +528,135 @@ const byText = `return [...root.querySelectorAll('button,a')].find(b => b.textCo
       if (!/nonsense word/.test(st.text) || !/Faztaa chưa có mục từ này/.test(st.text) || !/Thêm vào từ vựng/.test(st.text)) throw Error(st.text);
     } finally { await setStore({ googleFallback: false }); }
   });
+
+  // ---------- Phát âm ----------
+  // Thay chrome.tts trong service worker bằng bản giả: ghi lại chữ được đọc và giọng; autoEnd=false để giả lập đang đọc dở.
+  const fakeTts = (voices, autoEnd = true) => sw.evaluate(({ voices, autoEnd }) => {
+    globalThis.__tts = { calls: [], stops: 0, voices, autoEnd, pending: null };
+    const finish = type => { const f = __tts.pending; __tts.pending = null; if (f) f({ type }); };
+    Object.defineProperty(chrome, 'tts', { configurable: true, value: {
+      getVoices: async () => __tts.voices,
+      speak: (text, opts, cb) => { __tts.calls.push({ text, voice: opts.voiceName, lang: opts.lang }); __tts.pending = opts.onEvent; if (__tts.autoEnd) setTimeout(() => finish('end'), 50); cb && cb(); },
+      stop: () => { __tts.stops++; finish('interrupted'); }
+    } });
+  }, { voices, autoEnd });
+  const ttsState = () => sw.evaluate(() => globalThis.__tts);
+  // Playwright không chặn được yêu cầu mạng của trang ẩn (offscreen document) thật. Vì vậy trong test, mở chính
+  // offscreen.html trong một tab thường (yêu cầu mạng của tab thì chặn được) và báo service worker rằng trang ẩn đã có.
+  // Mã phát (offscreen.js, md5, chuỗi dự phòng) vẫn là mã thật; chỉ khác loại trang chứa.
+  const audioTab = await ctx.newPage();
+  await audioTab.goto(`chrome-extension://${extId}/offscreen.html`);
+  await sw.evaluate(() => { globalThis.hasOffscreen = async () => true; });
+  const LOCAL_DE = { voiceName: 'Anna', lang: 'de-DE', remote: false };
+  const REMOTE_DE = { voiceName: 'Google Deutsch', lang: 'de-DE', remote: true };
+  const until = async (fn, what, ms = 5000) => {
+    const end = Date.now() + ms;
+    while (Date.now() < end) { const v = await fn(); if (v) return v; await new Promise(r => setTimeout(r, 100)); }
+    throw Error('Hết giờ chờ: ' + what);
+  };
+  const speakState = page => inPopup(page, root => ({
+    playing: [...root.querySelectorAll('.speak.playing')].length,
+    msg: [...root.querySelectorAll('.speak-msg')].map(p => p.textContent).join(' | ')
+  }));
+  const h2Speak = `return root.querySelector('h2 .speak')`;
+
+  await t('Phát âm: mục từ Faztaa → phát file ghi âm của Faztaa (md5 đúng từ, không mạo từ)', async page => {
+    await fakeTts([LOCAL_DE]);
+    await open(page, '/basic.html');
+    await selectWord(page, '#p1', 'rufe', { alt: true });
+    await waitPopup(page, s => /to call/.test(s.text));
+    audioRequests.length = 0;
+    await clickInPopup(page, h2Speak);
+    await until(() => audioRequests.includes('anrufen'), 'yêu cầu file anrufen');
+    await until(async () => !(await speakState(page)).playing, 'phát xong');
+    const st = await speakState(page), tts = await ttsState();
+    if (st.msg || tts.calls.length) throw Error('không nên dùng giọng máy: ' + JSON.stringify({ st, tts }));
+    // Danh từ có mạo từ: tiêu đề "das Haus" nhưng file theo "Haus"; nút trong bảng (Từ vựng) cũng phát được.
+    await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
+    await selectWord(page, '#bottom', 'Haus', { alt: true });
+    await waitPopup(page, s => /house/.test(s.text));
+    audioRequests.length = 0;
+    await clickInPopup(page, `return root.querySelector('td .speak')`);
+    await until(() => audioRequests.includes('Haus'), 'yêu cầu file Haus');
+    if (audioRequests.some(w => w !== 'Haus')) throw Error('xin sai file: ' + audioRequests.join(', '));
+  });
+
+  await t('Phát âm: Faztaa không có file (từ ghép tự tách) → giọng tiếng Đức của máy', async page => {
+    await fakeTts([{ voiceName: 'Samantha', lang: 'en-US', remote: false }, REMOTE_DE, LOCAL_DE]);
+    await open(page, '/basic.html');
+    await selectWord(page, '#p5', 'selbstüberwachtes', { alt: true });
+    await waitPopup(page, s => /selbst \+ überwachen/.test(s.text));
+    audioRequests.length = 0;
+    await clickInPopup(page, h2Speak);
+    const tts = await until(async () => { const x = await ttsState(); return x.calls.length && x; }, 'giọng máy');
+    if (audioRequests[0] !== md5('selbstüberwachtes')) throw Error('không thử file Faztaa trước: ' + audioRequests.join(', '));
+    if (tts.calls[0].text !== 'selbstüberwachtes' || tts.calls[0].voice !== 'Anna') throw Error(JSON.stringify(tts.calls));
+  });
+
+  await t('Phát âm câu ví dụ: đọc bằng giọng máy, không xin file Faztaa', async page => {
+    await fakeTts([LOCAL_DE]);
+    await open(page, '/basic.html');
+    await selectWord(page, '#p1', 'rufe', { alt: true });
+    await waitPopup(page, s => /anrufen Satz 1\.0/.test(s.text));
+    audioRequests.length = 0;
+    await clickInPopup(page, `return root.querySelector('article .speak')`);
+    const tts = await until(async () => { const x = await ttsState(); return x.calls.length && x; }, 'đọc câu');
+    if (tts.calls[0].text !== 'anrufen Satz 1.0' || audioRequests.length) throw Error(JSON.stringify({ calls: tts.calls, audioRequests }));
+  });
+
+  await t('Phát âm: máy chỉ có giọng online → báo cài giọng; bật Google Dịch thì dùng giọng online', async page => {
+    await fakeTts([REMOTE_DE, { voiceName: 'Samantha', lang: 'en-US', remote: false }]);
+    await open(page, '/basic.html');
+    await selectWord(page, '#p5', 'selbstüberwachtes', { alt: true });
+    await waitPopup(page, s => /selbst \+ überwachen/.test(s.text));
+    await clickInPopup(page, h2Speak);
+    const st = await until(async () => { const x = await speakState(page); return x.msg && x; }, 'thông báo');
+    if (!/chưa có giọng đọc tiếng Đức/.test(st.msg) || (await ttsState()).calls.length) throw Error(JSON.stringify(st));
+    await setStore({ googleFallback: true });
+    try {
+      await selectWord(page, '#p5', 'selbstüberwachtes', { alt: true });
+      await waitPopup(page, s => /google dịch/i.test(s.text));
+      await clickInPopup(page, h2Speak);
+      const tts = await until(async () => { const x = await ttsState(); return x.calls.length && x; }, 'giọng online');
+      if (tts.calls[0].voice !== 'Google Deutsch') throw Error(JSON.stringify(tts.calls));
+    } finally { await setStore({ googleFallback: false }); }
+  });
+
+  await t('Phát âm: bấm lần nữa để dừng; Esc / tra từ mới cũng dừng', async page => {
+    await fakeTts([LOCAL_DE], false); // giọng máy "đọc mãi" cho tới khi bị dừng
+    await open(page, '/basic.html');
+    await selectWord(page, '#p1', 'rufe', { alt: true });
+    await waitPopup(page, s => /anrufen Satz 1\.0/.test(s.text));
+    const ex = `return root.querySelector('article .speak')`;
+    await clickInPopup(page, ex);
+    await until(async () => (await speakState(page)).playing === 1, 'đang phát');
+    await clickInPopup(page, ex);
+    await until(async () => (await speakState(page)).playing === 0, 'dừng khi bấm lại');
+    if (!(await ttsState()).stops) throw Error('không gọi tts.stop');
+    // Đang đọc thì bấm nút khác: chỉ một nút sáng
+    await clickInPopup(page, ex);
+    await clickInPopup(page, `return root.querySelectorAll('article .speak')[1]`);
+    await page.waitForTimeout(300);
+    if ((await speakState(page)).playing !== 1) throw Error('hai nút cùng phát');
+    const stops = (await ttsState()).stops;
+    await page.keyboard.press('Escape');
+    await until(async () => (await ttsState()).stops > stops, 'Esc dừng phát');
+  });
+
+  await t('Phát âm trên trang có CSP chặn media vẫn chạy (phát trong trang ẩn)', async page => {
+    await fakeTts([LOCAL_DE]);
+    await open(page, '/csp.html');
+    await selectWord(page, '#c1', 'rufe', { alt: true });
+    await waitPopup(page, s => /to call/.test(s.text));
+    audioRequests.length = 0;
+    await clickInPopup(page, h2Speak);
+    await until(() => audioRequests.includes('anrufen'), 'file anrufen');
+    await until(async () => !(await speakState(page)).playing, 'phát xong');
+    const st = await speakState(page), tts = await ttsState();
+    if (st.msg || tts.calls.length) throw Error('file Faztaa không phát được: ' + JSON.stringify({ st, calls: tts.calls }));
+  });
+
+  await audioTab.close();
 
   await t('Faztaa chỉ nhận từ/ứng viên, không nhận câu', async () => {
     const bad = requests.filter(p => /\s/.test(p.replace(/^\/api\/search\/(en\/devi|list\/example\/en)\//, '')) && /morgen|Berlin/.test(p));

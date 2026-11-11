@@ -38,6 +38,10 @@
     .box b{color:#11493a}
     .box.mt{background:#fff8e6;border-color:#f0d9a0}
     .box.mt .src{font-size:11px;color:#8a5a00;text-transform:uppercase;letter-spacing:.03em}
+    .speak{border:0;background:transparent;padding:0 4px;margin-left:4px;font-size:16px;line-height:1;vertical-align:middle;border-radius:6px;color:#185845}
+    .speak:hover{background:#e6f1eb}
+    .speak.playing{background:#f3c64d}
+    .speak:disabled{opacity:.5;cursor:default}
     .part{display:flex;gap:8px;align-items:baseline;margin:4px 0}
     .part .chip{flex:none}
     .ok{color:#1d7a4f;font-weight:600}
@@ -112,7 +116,7 @@
   }
 
   // ---------- Mở / đóng / vị trí ----------
-  function close() { panel.hidden = true; trigger.hidden = true; seq++; history.length = 0; current = null; }
+  function close() { stopSpeaking(); panel.hidden = true; trigger.hidden = true; seq++; history.length = 0; current = null; }
   function setPinned(v) { pinned = v; if (v) manual = true; pinBtn.setAttribute('aria-pressed', String(v)); }
   $('close').onclick = close;
   pinBtn.onclick = () => setPinned(!pinned);
@@ -341,6 +345,7 @@
   // sel: { text, context, contextOffset, range?, rect? }; extras: các từ ghép thêm bằng Alt+click.
   async function startLookup(sel, { extras = [], keepPosition = false } = {}) {
     attachHost();
+    stopSpeaking();
     const id = ++seq;
     const query = [sel.text, ...extras].join(' ');
     if (current) { history.push(current); if (history.length > 20) history.shift(); }
@@ -376,7 +381,7 @@
   // Đảm bảo phản hồi luôn đủ trường, để giao diện không bao giờ đọc phải undefined.
   const normEntry = e => {
     const o = e && typeof e === 'object' ? e : {};
-    return { synthetic: !!o.synthetic, word: str(o.word), ipa: str(o.ipa), meaning: str(o.meaning), pos: str(o.pos),
+    return { synthetic: !!o.synthetic, word: str(o.word), headword: str(o.headword), ipa: str(o.ipa), meaning: str(o.meaning), pos: str(o.pos),
       forms: str(o.forms), synonyms: str(o.synonyms), family: str(o.family) };
   };
   const normExample = x => ({ id: str(x?.id), de: str(x?.de), en: str(x?.en), vi: str(x?.vi) });
@@ -443,13 +448,53 @@
   }
 
   // ---------- Hiển thị ----------
+  // ---------- Phát âm ----------
+  // Nút 🔊: bấm để nghe, bấm lần nữa (khi đang phát) để dừng. Chỉ một âm thanh phát tại một thời điểm.
+  // Service worker thử file ghi âm của Faztaa trước (cần headword), không có thì dùng giọng đọc tiếng Đức của máy.
+  let speaking = null; // { btn } của nút đang phát
+  function stopSpeaking() {
+    if (!speaking) return;
+    speaking.btn.classList.remove('playing');
+    speaking = null;
+    send({ type: 'stopAudio' }).catch(() => {});
+  }
+  function speakButton(target, what) {
+    const b = el('button', '🔊', 'speak');
+    b.type = 'button';
+    b.title = 'Nghe phát âm ' + what;
+    b.setAttribute('aria-label', b.title);
+    b.onclick = async e => {
+      e.preventDefault(); e.stopPropagation();
+      if (speaking?.btn === b) { stopSpeaking(); return; }
+      if (speaking) speaking.btn.classList.remove('playing'); // lệnh mới sẽ tự dừng âm cũ
+      const me = speaking = { btn: b };
+      b.classList.add('playing');
+      const t = typeof target === 'function' ? target() : target;
+      let error = '';
+      try {
+        const r = await send({ type: 'speak', text: t.text, headword: t.headword || '' });
+        if (r?.error) error = r.error;
+        else if (r?.disabled) error = 'Trang này không được bật tra từ.';
+      } catch (err) { error = err.message; }
+      if (speaking === me) speaking = null;
+      b.classList.remove('playing');
+      // Báo lỗi ngay dưới khối chứa nút; lần bấm sau xóa báo cũ.
+      const block = b.closest('h2, td, article, .box') || b.parentElement;
+      block.nextElementSibling?.classList.contains('speak-msg') && block.nextElementSibling.remove();
+      if (error && b.isConnected) { const p = el('p', error, 'warn speak-msg'); block.after(p); }
+    };
+    return b;
+  }
+
   function rows(entry) {
     const table = el('table');
     const fields = [['Từ vựng', entry.word], ['Phiên âm', entry.ipa], ['English meaning', entry.meaning], ['Wortart', entry.pos],
       ['Dạng từ / biến cách', entry.forms], ['Từ đồng nghĩa / gần nghĩa', entry.synonyms], ['Wortfamilie / từ liên quan', entry.family]];
     for (const [k, v] of fields) {
       if (entry.synthetic && !v) continue;
-      const tr = el('tr'); tr.append(el('th', k), el('td', v || 'Chưa có dữ liệu từ Faztaa')); table.append(tr);
+      const td = el('td', v || 'Chưa có dữ liệu từ Faztaa');
+      if (k === 'Từ vựng' && entry.word) td.append(speakButton({ text: entry.word, headword: entry.headword }, '“' + entry.word + '”'));
+      const tr = el('tr'); tr.append(el('th', k), td); table.append(tr);
     }
     return table;
   }
@@ -462,7 +507,12 @@
       : (r.exact && r.entries[0]?.word) || cand.word) || r.query);
     const same = title.toLowerCase().endsWith(r.query.toLowerCase()) || cand.word === r.query;
     $('title').textContent = r.query + (same ? '' : ' → ' + cand.word);
-    const out = [el('h2', title)];
+    // Từ ở tiêu đề: mục từ Faztaa khớp → dùng đúng từ của Faztaa (có file ghi âm); còn lại (từ ghép tự tách,
+    // chỉ có Google Dịch, không tìm thấy) → vẫn thử file Faztaa theo từ không mạo từ rồi tới giọng đọc của máy.
+    const titleEntry = r.exact && r.entries[0] && !r.entries[0].synthetic && r.entries[0].word === title ? r.entries[0] : null;
+    const h2 = el('h2', title);
+    h2.append(speakButton({ text: title, headword: titleEntry?.headword || title.replace(/^(der|die|das)\s+/i, '') }, '“' + title + '”'));
+    const out = [h2];
 
     // Phân tích: động từ tách + các ứng viên từ gốc
     if (r.separable) {
@@ -597,7 +647,7 @@
     const addExamples = list => {
       for (const ex of list) {
         const key = ex.id || ex.de; if (seen.has(key)) continue; seen.add(key);
-        const a = el('article'); a.append(el('b', ex.de), el('div', 'EN: ' + (ex.en || 'Chưa có bản dịch')), el('div', 'VN: ' + (ex.vi || 'Chưa có bản dịch')));
+        const a = el('article'); a.append(el('b', ex.de), speakButton({ text: ex.de }, 'câu ví dụ'), el('div', 'EN: ' + (ex.en || 'Chưa có bản dịch')), el('div', 'VN: ' + (ex.vi || 'Chưa có bản dịch')));
         box.append(a);
       }
     };

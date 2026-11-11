@@ -1,10 +1,12 @@
 {
   "manifest_version": 3,
   "name": "Deutsch Lens — Đức Anh Việt",
-  "version": "3.2.1",
-  "description": "Tra nghĩa tiếng Anh và ví dụ Đức–Anh–Việt từ Faztaa; tự tìm từ gốc, động từ tách và tách từ ghép. Tùy chọn: Google Dịch khi Faztaa không có từ.",
+  "version": "3.3.0",
+  "description": "Tra nghĩa tiếng Anh, phát âm và ví dụ Đức–Anh–Việt từ Faztaa; tự tìm từ gốc, động từ tách và tách từ ghép. Tùy chọn: Google Dịch khi Faztaa không có từ.",
   "permissions": [
-    "storage"
+    "storage",
+    "offscreen",
+    "tts"
   ],
   "host_permissions": [
     "https://api.faztaa.com/*"

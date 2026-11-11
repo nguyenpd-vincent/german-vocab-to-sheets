@@ -1,6 +1,6 @@
-# Deutsch Lens 3.2 — tra từ tiếng Đức bằng Faztaa
+# Deutsch Lens 3.3 — tra từ tiếng Đức bằng Faztaa
 
-Tiện ích (extension) cho Chrome và Edge: bôi đen một từ tiếng Đức trên bất kỳ trang web nào để xem nghĩa tiếng Anh, phiên âm, từ loại, mạo từ, dạng từ, từ đồng nghĩa và câu ví dụ Đức – Anh – Việt từ từ điển **Faztaa**.
+Tiện ích (extension) cho Chrome và Edge: bôi đen một từ tiếng Đức trên bất kỳ trang web nào để xem nghĩa tiếng Anh, phiên âm, **nghe phát âm 🔊**, từ loại, mạo từ, dạng từ, từ đồng nghĩa và câu ví dụ Đức – Anh – Việt từ từ điển **Faztaa**.
 
 Trước khi tra, extension tự phân tích từ ngay trên máy của bạn:
 
@@ -66,7 +66,7 @@ Các tab đã mở trước khi cài cần **tải lại (F5)** thì extension m
 3. Popup hiện ở **giữa màn hình** (lệch lên/xuống nếu cần để không che từ bạn đang tra).
 
 <p align="center">
-  <img src="img_1.png" alt="Popup Deutsch Lens khi tra từ “passenden”" width="560">
+  <img src="images/img_1.png" alt="Popup Deutsch Lens khi tra từ “passenden”" width="560">
   <br><em>Bôi đen “passenden” → extension nhận ra từ gốc “passend” (✓ = Faztaa có đúng từ này) và hiện nghĩa tiếng Anh, phiên âm, từ loại, từ đồng nghĩa, từ liên quan, nút lưu vào Sheets và câu ví dụ Đức – Anh – Việt.</em>
 </p>
 
@@ -88,8 +88,36 @@ Các tab đã mở trước khi cài cần **tải lại (F5)** thì extension m
 - **Tra theo:** các dạng extension đã thử (ví dụ *rufe → anrufen, rufen*). Dấu ✓ nghĩa là Faztaa có đúng từ đó. Nếu máy đoán sai, bấm một dạng khác để tra lại.
 - **Từ ghép:** khi Faztaa không có nguyên từ, extension tách từ và tra từng phần. Mục này ghi rõ "ghép từ nghĩa từng phần" vì nó không phải mục từ của Faztaa. Bấm từng phần để xem nghĩa riêng.
 - **Động từ + giới từ:** khoảng 150 động từ thường gặp (ví dụ *warten auf + Akk*). Có ✓ nếu giới từ đó xuất hiện trong câu.
+- **🔊 Nghe phát âm:** xem mục "Phát âm" ngay bên dưới.
 - **Xem thêm ví dụ:** tải thêm câu ví dụ mà không làm mất phần nghĩa.
 - **＋ Thêm vào từ vựng:** lưu từ vào Google Sheets (xem mục 4).
+
+### Phát âm 🔊
+
+Nút 🔊 có ở ba chỗ:
+- cạnh **từ ở tiêu đề** popup;
+- trong ô **Từ vựng** của bảng nghĩa (đi theo mục từ bạn chọn trong danh sách);
+- cạnh **mỗi câu ví dụ**.
+
+Bấm 🔊 để nghe. Khi nút đang phát, nó sáng màu vàng; bấm lần nữa để dừng. Mỗi lúc chỉ phát một âm. Âm thanh cũng dừng khi bạn đóng popup (✕, Esc) hoặc tra từ khác.
+
+Extension chọn nguồn âm thanh theo thứ tự, giống faztaa.com:
+
+| Trường hợp | Nguồn âm thanh |
+|---|---|
+| Từ có trong từ điển Faztaa (passend, gehen, das Haus…) | **File ghi âm của Faztaa**: giọng người thật, giống khi bấm nghe trên faztaa.com |
+| Faztaa không có file: từ ghép tự tách (Blogbeitrag), từ chỉ có Google Dịch (selbstüberwachtes), cụm từ | **Giọng đọc tiếng Đức cài trên máy** |
+| Câu ví dụ | **Giọng đọc tiếng Đức cài trên máy** (Faztaa không có file cho câu) |
+
+**Nếu máy chưa có giọng đọc tiếng Đức**, popup sẽ báo và hướng dẫn cài thêm:
+- **macOS:** Cài đặt hệ thống → Trợ năng → Nội dung được đọc → Giọng hệ thống → Quản lý giọng → chọn một giọng tiếng Đức (vd Anna).
+- **Windows:** Cài đặt → Thời gian và ngôn ngữ → Giọng nói → Thêm giọng → Deutsch (Deutschland).
+
+Sau khi cài, khởi động lại trình duyệt.
+
+**Giọng "online"** (vd *Google Deutsch* trong Chrome hay *Microsoft … Online* trong Edge) gửi chữ lên máy chủ của Google/Microsoft. Vì vậy extension chỉ dùng loại giọng này khi bạn đã bật **Google Dịch dự phòng**, tức là bạn đã đồng ý gửi từ ra ngoài Faztaa. Giọng cài trên máy luôn được ưu tiên.
+
+Âm thanh phát trong một trang ẩn của extension, không phát trên trang web. Vì thế trang web có chặn âm thanh (CSP) cũng không ảnh hưởng.
 
 ---
 
@@ -98,7 +126,7 @@ Các tab đã mở trước khi cài cần **tải lại (F5)** thì extension m
 Mở trang Cài đặt bằng cách bấm biểu tượng Deutsch Lens trên thanh công cụ, hoặc bấm nút ⚙ trên popup.
 
 <p align="center">
-  <img src="img_2.png" alt="Trang Cài đặt của Deutsch Lens" width="560">
+  <img src="images/img_2.png" alt="Trang Cài đặt của Deutsch Lens" width="560">
   <br><em>Phần “Cách tra và popup”, “Dự phòng: Google Dịch” và “Lưu từ vựng vào Google Sheets” trong trang Cài đặt.</em>
 </p>
 
@@ -175,6 +203,8 @@ Nếu bạn gỡ extension rồi cài lại (Load unpacked), bạn phải nhập
 | "Chưa tìm thấy mục từ…" | Bấm một dạng khác ở hàng **Tra theo**, hoặc bật Google Dịch dự phòng |
 | "Tra cứu quá nhanh. Hãy thử lại sau." (lỗi 429) | Chờ một lúc rồi thử lại |
 | Popup quá nhỏ hoặc quá to | Kéo cạnh/góc để chỉnh, hoặc double-click vào cạnh để về cỡ tự động |
+| Bấm 🔊 thấy "…máy chưa có giọng đọc tiếng Đức" | Cài giọng tiếng Đức (xem mục **Phát âm** ở trên), rồi khởi động lại trình duyệt |
+| Bấm 🔊 không nghe gì | Kiểm tra âm lượng máy và tab không bị tắt tiếng. Bấm lại 🔊. |
 | Lưu vào Sheets bị lỗi | Bấm **Kiểm tra sheet / tên tab**. Xem phần "Lưu ý" trong HUONG_DAN_GOOGLE_SHEETS.md. |
 
 **Những nơi extension không chạy:**
@@ -189,6 +219,7 @@ Extension không tự nhận diện tiếng Đức. Bạn cần chọn đúng t�
 ## 7. Quyền riêng tư và dữ liệu
 
 - **Faztaa:** `api.faztaa.com` chỉ nhận từ bạn chọn và các dạng gốc của từ đó, gửi sau khi bạn bấm tra.
+- **Phát âm:** chỉ khi bạn bấm 🔊, extension tải file ghi âm từ `data.faztaa.com`. Tên file là mã MD5 của từ, giống cách faztaa.com làm. Giọng đọc của máy chạy ngay trên máy, không gửi gì đi. Riêng giọng online chỉ được dùng khi bạn đã bật Google Dịch.
 - **Google Dịch:** chỉ được dùng khi bạn tự bật, và cũng chỉ nhận đúng từ.
 - **Google Sheets:** chỉ nhận 5 ô của từ bạn bấm lưu.
 - **Câu xung quanh** chỉ dùng để phân tích trong máy, không bao giờ gửi đi.
@@ -214,9 +245,12 @@ Extension không tự nhận diện tiếng Đức. Bạn cần chọn đúng t�
 | `german.js` | Bộ phân tích tiếng Đức: từ gốc, động từ tách, từ ghép, tách câu |
 | `adapter.js` | Chuyển dữ liệu thô của Faztaa sang dạng gọn |
 | `content.js` | Nút "Tra Faztaa" và popup (Shadow DOM đóng) trên trang web |
+| `offscreen.html`, `offscreen.js` | Trang ẩn phát file ghi âm của Faztaa |
+| `md5.js` | Tính MD5 của từ để tìm file ghi âm |
 | `options.html`, `options.js`, `options.css` | Trang Cài đặt |
 | `data/` | Dữ liệu từ gốc và tần suất |
 | `Code.gs`, `HUONG_DAN_GOOGLE_SHEETS.md` | Phần Google Sheets |
+| `images/` | Ảnh minh họa cho README |
 | `test/` | Kiểm thử (có thể bỏ khi đóng gói) |
 
 **API Faztaa** (header `authorization: <token>`):
@@ -226,19 +260,34 @@ GET https://api.faztaa.com/api/search/list/example/en/{word}?page={n}&limit=10
 ```
 Loại tra là `devi` và ngôn ngữ là `en` đúng như API thật trả về. **Không đổi thành `word`/`deen`.**
 
+**File phát âm** (không cần token): `https://data.faztaa.com/audios/1103/<md5(từ)>.mp3`. Từ ở đây là trường `word` của mục từ, không có mạo từ (vd `Haus`, không phải `das Haus`). Không có file thì máy chủ trả 404.
+
 **Chạy kiểm thử**
 ```bash
 # Bộ phân tích tiếng Đức (Node, 37 trường hợp)
 node test/german.test.js
 
-# Giao diện (Playwright nạp extension, giả lập api.faztaa.com, không cần token thật; 25 trường hợp)
+# Giao diện (Playwright nạp extension, giả lập api.faztaa.com và data.faztaa.com, không cần token thật; 31 trường hợp)
 PW_EXPERIMENTAL_SERVICE_WORKER_NETWORK_EVENTS=1 NODE_PATH=<thư mục node_modules có playwright> node test/ui.test.js
 ```
 Đặt thêm `HEADED=1` để xem trình duyệt chạy.
 
+Playwright không chặn được yêu cầu mạng của trang ẩn (offscreen document). Vì vậy test phát âm mở `offscreen.html` trong một tab thường và thay `chrome.tts` bằng bản giả để ghi lại chữ được đọc. Bản Chromium của Playwright cũng không thấy giọng đọc của hệ điều hành, nên giọng thật chỉ kiểm tra được trên Chrome/Edge thật.
+
 ---
 
 ## 9. Lịch sử thay đổi
+
+### 3.3.0 — Phát âm
+- Nút 🔊 cạnh từ ở tiêu đề, trong ô **Từ vựng** và cạnh mỗi câu ví dụ.
+- Nguồn âm thanh:
+  - Ưu tiên file ghi âm của Faztaa (`data.faztaa.com`, theo MD5 của từ).
+  - Không có file thì dùng giọng tiếng Đức cài trên máy.
+  - Giọng online chỉ dùng khi đã bật Google Dịch.
+  - Bỏ bước dùng dict.youdao.com mà faztaa.com có dùng, để từ không bị gửi cho dịch vụ khác.
+- Phát trong trang ẩn của extension (quyền `offscreen`), nên CSP của trang web không chặn được. Giọng đọc dùng quyền `tts`. Cả hai quyền đều không hiện cảnh báo khi cài.
+- Bấm lại để dừng; đóng popup hoặc tra từ mới cũng dừng; mỗi lúc chỉ phát một âm.
+- Ảnh minh họa chuyển vào thư mục `images/`.
 
 ### 3.2.1
 - Popup **căn giữa màn hình theo chiều ngang** và nằm giữa theo chiều dọc. Nó chỉ lệch lên hoặc xuống khi đặt giữa sẽ che mất từ đang tra.

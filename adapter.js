@@ -14,7 +14,7 @@ function strings(v) {
 }
 const arr = v => Array.isArray(v) ? v : [];
 
-// Một mục từ thô → { word, ipa, meaning, pos, forms, synonyms, family }. Trường thiếu → chuỗi rỗng, không ném lỗi.
+// Một mục từ thô → { word, headword, ipa, meaning, pos, forms, synonyms, family }. Trường thiếu → chuỗi rỗng, không ném lỗi.
 function normalizeEntry(x) {
   x = x && typeof x === 'object' ? x : {};
   const content = arr(x.content).filter(c => c && typeof c === 'object');
@@ -34,6 +34,7 @@ function normalizeEntry(x) {
     });
   return {
     word: [clean(conjugation.gt?.w), clean(x.word)].filter(Boolean).join(' '),
+    headword: clean(x.word), // từ đúng như Faztaa ghi, không mạo từ — dùng để tìm file phát âm
     ipa: clean(x.pronounce?.de),
     meaning: [...new Set(defs)].join('\n'),
     pos: kinds.join(' / '),

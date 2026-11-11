@@ -1,6 +1,6 @@
 // Deutsch Lens — service worker.
 // Mọi lần gọi Faztaa đều ở đây (token không bao giờ tới content script).
-importScripts('adapter.js', 'german.js');
+importScripts('adapter.js', 'german.js', 'md5.js');
 
 const German = createGerman({ text: path => fetch(chrome.runtime.getURL(path)).then(r => r.ok ? r.text() : '') });
 const API = 'https://api.faztaa.com/';
@@ -184,6 +184,7 @@ async function analyzeLookup(m, s) {
         const synthetic = {
           synthetic: true,
           word: (article ? article + ' ' : '') + split.word,
+          headword: split.word,
           ipa: '',
           meaning: parts.map(p => p.lemma + ': ' + (firstMeaning(p.entry) || 'chưa có trên Faztaa')).join('\n'),
           pos: head.entry?.pos || '',
@@ -263,10 +264,93 @@ async function googleTranslate(word) {
   return { source: 'Google Dịch', word, en: same(E.text) ? '' : E.text, vi: same(V.text) ? '' : V.text, dict: E.dict };
 }
 
+// ---------- Phát âm ----------
+// Thứ tự giống faztaa.com:
+//   1. File ghi âm của Faztaa: https://data.faztaa.com/audios/1103/<md5(từ)>.mp3 (có cho hầu hết mục từ).
+//   2. Không có file (404, từ ghép tự tách, câu ví dụ) → giọng đọc tiếng Đức CÀI TRÊN MÁY (chrome.tts).
+// faztaa.com còn dùng dict.youdao.com ở giữa; extension bỏ bước đó để không gửi từ cho dịch vụ khác.
+// Giọng "online" (vd Google Deutsch, Microsoft … Online) gửi chữ lên máy chủ của hãng → chỉ dùng khi
+// người dùng đã bật Google Dịch dự phòng (tức đã đồng ý gửi từ ra ngoài Faztaa).
+const AUDIO_BASE = 'https://data.faztaa.com/audios/1103/';
+const NO_VOICE = 'Faztaa không có file phát âm cho từ này và máy chưa có giọng đọc tiếng Đức. '
+  + 'Cài thêm giọng Deutsch: macOS → Cài đặt hệ thống → Trợ năng → Nội dung được đọc → Giọng hệ thống → Quản lý giọng; '
+  + 'Windows → Cài đặt → Thời gian và ngôn ngữ → Giọng nói → Thêm giọng. Sau đó khởi động lại trình duyệt.';
+let speakSeq = 0;          // mỗi lần phát / dừng tăng lên, để lần phát cũ biết mình đã bị thay
+let offscreenCreating = null;
+
+async function hasOffscreen() {
+  if (chrome.runtime.getContexts) {
+    const ctx = await chrome.runtime.getContexts({ contextTypes: ['OFFSCREEN_DOCUMENT'] });
+    return ctx.length > 0;
+  }
+  return chrome.offscreen.hasDocument ? chrome.offscreen.hasDocument() : false;
+}
+async function ensureOffscreen() {
+  if (await hasOffscreen()) return;
+  // Hai lần bấm gần nhau chỉ tạo một trang ẩn.
+  offscreenCreating ??= chrome.offscreen.createDocument({
+    url: 'offscreen.html', reasons: ['AUDIO_PLAYBACK'], justification: 'Phát âm từ tiếng Đức của Faztaa'
+  }).catch(e => { if (!/single offscreen/i.test(e?.message || '')) throw e; })
+    .finally(() => { offscreenCreating = null; });
+  await offscreenCreating;
+}
+async function playFaztaa(headword) {
+  await ensureOffscreen();
+  return chrome.runtime.sendMessage({ target: 'offscreen', type: 'play', url: AUDIO_BASE + md5(headword) + '.mp3' });
+}
+
+// Chọn giọng tiếng Đức: ưu tiên giọng cài trên máy, de-DE trước de-AT/de-CH.
+async function germanVoice(allowRemote) {
+  const voices = (await chrome.tts.getVoices()).filter(v => /^de(-|_|$)/i.test(v.lang || ''));
+  const rank = v => (v.remote ? 2 : 0) + (/^de[-_]DE$/i.test(v.lang) ? 0 : 1);
+  const usable = voices.filter(v => allowRemote || !v.remote).sort((a, b) => rank(a) - rank(b));
+  return usable[0] || null;
+}
+function ttsSpeak(text, voice) {
+  return new Promise((resolve, reject) => {
+    chrome.tts.speak(text, {
+      voiceName: voice.voiceName, lang: voice.lang || 'de-DE', rate: 0.85, enqueue: false,
+      onEvent: e => {
+        if (e.type === 'end') resolve({ ok: true });
+        else if (e.type === 'interrupted' || e.type === 'cancelled') resolve({ ok: true, stopped: true });
+        else if (e.type === 'error') reject(Error('Giọng đọc lỗi: ' + (e.errorMessage || 'không rõ')));
+      }
+    }, () => { if (chrome.runtime.lastError) reject(Error(chrome.runtime.lastError.message)); });
+  });
+}
+
+async function stopSpeaking() {
+  speakSeq++;
+  chrome.tts.stop();
+  if (await hasOffscreen().catch(() => false)) await chrome.runtime.sendMessage({ target: 'offscreen', type: 'stop' }).catch(() => {});
+}
+
+// m.text: chữ để đọc (từ có mạo từ, cụm từ, câu ví dụ). m.headword: từ đúng như Faztaa ghi (không mạo từ) → thử file ghi âm.
+async function speak(m, s) {
+  await stopSpeaking();
+  const id = speakSeq;
+  if (m.headword) {
+    try {
+      const r = await playFaztaa(m.headword);
+      if (r?.ok) return { ok: true, source: 'faztaa' };
+      if (r?.stopped || id !== speakSeq) return { ok: true, stopped: true };
+    } catch (e) {
+      console.warn('[Deutsch Lens] Không phát được file Faztaa:', e?.message || e);
+    }
+    if (id !== speakSeq) return { ok: true, stopped: true };
+  }
+  const voice = await germanVoice(!!s.googleFallback);
+  if (!voice) return { error: NO_VOICE, noVoice: true };
+  if (id !== speakSeq) return { ok: true, stopped: true };
+  const r = await ttsSpeak(m.text, voice);
+  return { ...r, source: 'tts', voice: voice.voiceName };
+}
+
 const clampNum = (v, lo, hi) => Math.max(lo, Math.min(v, hi));
 const PREF_DEFAULTS = { lookupMode: 'button', closeOnOutside: false };
 
 chrome.runtime.onMessage.addListener((m, sender, reply) => {
+  if (m && m.target === 'offscreen') return false; // tin dành cho trang ẩn phát âm
   (async () => {
     if (!m || typeof m.type !== 'string') return { error: 'Yêu cầu không hợp lệ.' };
     const s = await chrome.storage.local.get(['token', 'scope', 'scopeUrl', 'lookupMode', 'closeOnOutside', 'popupSize', 'googleFallback']);
@@ -298,6 +382,13 @@ chrome.runtime.onMessage.addListener((m, sender, reply) => {
       await chrome.tabs.sendMessage(sender.tab.id, { type: 'dl-show', sel: m.sel }, { frameId: 0 });
       return { ok: true };
     }
+    if (m.type === 'speak') {
+      if (!ok) return { disabled: true };
+      if (typeof m.text !== 'string' || !m.text.trim() || m.text.length > 600) return { error: 'Không có chữ để đọc.' };
+      if (m.headword != null && (typeof m.headword !== 'string' || m.headword.length > 120)) return { error: 'Từ không hợp lệ.' };
+      return speak({ text: m.text.trim(), headword: m.headword?.trim() || '' }, s);
+    }
+    if (m.type === 'stopAudio') { await stopSpeaking(); return { ok: true }; }
     if (m.type !== 'lookup' && m.type !== 'analyze') return { error: 'Yêu cầu không hợp lệ.' };
     if (!ok) return { disabled: true };
     if (typeof m.word !== 'string' || !m.word.trim() || m.word.length > 120) return { error: 'Chọn từ/cụm từ tối đa 120 ký tự.' };
